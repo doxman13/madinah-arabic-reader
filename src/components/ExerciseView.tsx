@@ -18,6 +18,7 @@ import {
   ListOrdered
 } from 'lucide-react';
 import { removeTashkeel } from '../utils/arabic';
+import { getSyncKey, pushProgressToCloud } from '../utils/cloudSync';
 
 interface ExerciseViewProps {
   bookId?: number;
@@ -162,6 +163,10 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
     setProgress(newProgress);
     try {
       localStorage.setItem(progressKey, JSON.stringify(newProgress));
+      const syncKey = getSyncKey();
+      if (syncKey) {
+        pushProgressToCloud(syncKey).catch(() => {});
+      }
     } catch (e) {
       console.error(e);
     }

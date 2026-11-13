@@ -10,6 +10,8 @@ import { VocabView } from './components/VocabView';
 import { VerbsView } from './components/VerbsView';
 import { GrammarView } from './components/GrammarView';
 import { FlashcardModal } from './components/FlashcardModal';
+import { SyncModal } from './components/SyncModal';
+import { getSyncKey } from './utils/cloudSync';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 export function App() {
@@ -35,6 +37,8 @@ export function App() {
   });
   const [arabicSize, setArabicSize] = useState<number>(32);
   const [isFlashcardOpen, setIsFlashcardOpen] = useState<boolean>(false);
+  const [isSyncOpen, setIsSyncOpen] = useState<boolean>(false);
+  const [syncKey, setSyncKey] = useState<string | null>(() => getSyncKey());
 
   // Audio Hook hooked to current active book
   const audio = useAudio(currentBookId);
@@ -157,6 +161,8 @@ export function App() {
           hasGrammar={currentGrammar.length > 0}
           hasDualVoice={bookData.meta.hasDualVoice}
           onOpenFlashcards={() => setIsFlashcardOpen(true)}
+          onOpenSync={() => setIsSyncOpen(true)}
+          syncKey={syncKey}
         />
 
         {/* Tab View */}
@@ -260,6 +266,13 @@ export function App() {
         onPlayAudio={audio.play}
         arabicSize={arabicSize}
         showTashkeel={showTashkeel}
+      />
+
+      {/* Cloudflare D1 Cloud Sync Modal */}
+      <SyncModal
+        isOpen={isSyncOpen}
+        onClose={() => setIsSyncOpen(false)}
+        onSyncCompleted={() => setSyncKey(getSyncKey())}
       />
     </div>
   );

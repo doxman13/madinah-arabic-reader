@@ -13,7 +13,8 @@ import {
   Zap,
   Sliders,
   Target,
-  ChevronDown
+  ChevronDown,
+  Cloud
 } from 'lucide-react';
 
 interface HeaderProps {
@@ -42,6 +43,8 @@ interface HeaderProps {
   hasGrammar: boolean;
   hasDualVoice: boolean;
   onOpenFlashcards: () => void;
+  onOpenSync: () => void;
+  syncKey: string | null;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -69,7 +72,9 @@ export const Header: React.FC<HeaderProps> = ({
   verbCount,
   hasGrammar,
   hasDualVoice,
-  onOpenFlashcards
+  onOpenFlashcards,
+  onOpenSync,
+  syncKey
 }) => {
   const [showSettings, setShowSettings] = React.useState(false);
 
@@ -126,6 +131,25 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Quick Controls */}
           <div className="flex items-center gap-2">
+            {/* Cloud Sync Button */}
+            <button
+              onClick={onOpenSync}
+              className={`inline-flex items-center gap-1.5 px-2.5 py-1.5 rounded-lg text-xs font-semibold border transition-all ${
+                syncKey 
+                  ? 'bg-sky-50 dark:bg-sky-950/40 border-sky-300 dark:border-sky-800 text-sky-700 dark:text-sky-300 shadow-2xs' 
+                  : 'border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800'
+              }`}
+              title={syncKey ? `Cloud Sync active (${syncKey})` : "Configure Cloudflare D1 Cloud Sync"}
+            >
+              <Cloud className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">
+                {syncKey ? syncKey : 'Sync'}
+              </span>
+              {syncKey && (
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+              )}
+            </button>
+
             {/* Flashcards CTA */}
             <button
               onClick={onOpenFlashcards}

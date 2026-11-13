@@ -21,6 +21,8 @@ const CORS_HEADERS = {
   'Access-Control-Allow-Headers': 'Content-Type',
 };
 
+const CREATE_TABLE_SQL = 'CREATE TABLE IF NOT EXISTS user_progress (user_key TEXT PRIMARY KEY, data TEXT NOT NULL, updated_at TEXT);';
+
 export async function onRequestOptions() {
   return new Response(null, { headers: CORS_HEADERS });
 }
@@ -47,14 +49,8 @@ export async function onRequestGet(context: { request: Request; env: Env }) {
   }
 
   try {
-    // Ensure table exists
-    await env.DB.exec(`
-      CREATE TABLE IF NOT EXISTS user_progress (
-        user_key TEXT PRIMARY KEY,
-        data TEXT NOT NULL,
-        updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
-      );
-    `);
+    // Ensure table exists using prepare/run (avoids multi-line exec parser issues)
+    await env.DB.prepare(CREATE_TABLE_SQL).run();
 
     const row = await env.DB.prepare('SELECT data, updated_at FROM user_progress WHERE user_key = ?')
       .bind(userKey)
@@ -106,29 +102,20 @@ export async function onRequestPost(context: { request: Request; env: Env }) {
       });
     }
 
-    // Ensure table exists
-    await env.DB.exec(`
-      CREATE TABLE IF NOT EXISTS user_progress (
-        user_key TEXT PRIMARY KEY,
-        data TEXT NOT NULL,
-        updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
-      );
-    `);
+    // Ensure table exists using prepare/run
+    await env.DB.prepare(CREATE_TABLE_SQL).run();
 
     const jsonString = JSON.stringify(body.data);
+    const now = new Date().toISOString();
 
-    await env.DB.prepare(`
-      INSERT INTO user_progress (user_key, data, updated_at)
-      VALUES (?, ?, CURRENT_TIMESTAMP)
-      ON CONFLICT(user_key) DO UPDATE SET
-        data = excluded.data,
-        updated_at = CURRENT_TIMESTAMP
-    `).bind(userKey, jsonString).run();
+    await env.DB.prepare(
+      'INSERT INTO user_progress (user_key, data, updated_at) VALUES (?, ?, ?) ON CONFLICT(user_key) DO UPDATE SET data = excluded.data, updated_at = excluded.updated_at;'
+    ).bind(userKey, jsonString, now).run();
 
     return new Response(JSON.stringify({ 
       success: true, 
       userKey, 
-      updatedAt: new Date().toISOString() 
+      updatedAt: now 
     }), {
       status: 200,
       headers: CORS_HEADERS,

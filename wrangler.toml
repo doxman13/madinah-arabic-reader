@@ -1,0 +1,8 @@
+name = "madinah-arabic-reader"
+compatibility_date = "2026-03-01"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "madinah-db"
+database_id = "9477dbbf-2c9c-415f-af27-bc9f710e7f88"

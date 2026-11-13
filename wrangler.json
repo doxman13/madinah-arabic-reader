@@ -6,5 +6,12 @@
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "madinah-db",
+      "database_id": "9477dbbf-2c9c-415f-af27-bc9f710e7f88"
+    }
+  ]
 }

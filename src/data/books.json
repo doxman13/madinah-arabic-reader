@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Book 1",
+    "arabicTitle": "الجزء الأول",
+    "lessonCount": 23,
+    "dialogueCount": 1379,
+    "vocabCount": 496,
+    "hasDualVoice": true
+  },
+  {
+    "id": 2,
+    "title": "Book 2",
+    "arabicTitle": "الجزء الثاني",
+    "lessonCount": 36,
+    "dialogueCount": 2929,
+    "vocabCount": 737,
+    "hasDualVoice": true
+  },
+  {
+    "id": 3,
+    "title": "Book 3",
+    "arabicTitle": "الجزء الثالث",
+    "lessonCount": 18,
+    "dialogueCount": 1386,
+    "vocabCount": 605,
+    "hasDualVoice": false
+  },
+  {
+    "id": 4,
+    "title": "Book 4",
+    "arabicTitle": "الجزء الرابع",
+    "lessonCount": 17,
+    "dialogueCount": 1209,
+    "vocabCount": 524,
+    "hasDualVoice": false
+  }
+]

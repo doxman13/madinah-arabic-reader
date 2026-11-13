@@ -1,0 +1,5783 @@
+{
+  "verbs": {
+    "1": [
+      {
+        "id": 694,
+        "wordId": 1001,
+        "arabic": "نَظَّفَ",
+        "english": "Sweep(II)",
+        "russian": "Подмести(II)",
+        "voiceKey": "verbs_1_1001"
+      },
+      {
+        "id": 695,
+        "wordId": 1002,
+        "arabic": "جَوَّلَ",
+        "english": "Traveled a lot(II)",
+        "russian": "Много путешествовал(II)",
+        "voiceKey": "verbs_1_1002"
+      },
+      {
+        "id": 696,
+        "wordId": 1003,
+        "arabic": "أَحْضَرَ",
+        "english": "Bring(IV)",
+        "russian": "Приводить, приносить (IV)",
+        "voiceKey": "verbs_1_1003"
+      },
+      {
+        "id": 697,
+        "wordId": 1004,
+        "arabic": "فَهَّمَ",
+        "english": "[Made me] understand(II)",
+        "russian": "Заставил понять (II)",
+        "voiceKey": "verbs_1_1004"
+      },
+      {
+        "id": 698,
+        "wordId": 1005,
+        "arabic": "إِطَّلَعَ",
+        "english": "Get information(VIII)",
+        "russian": "Получать информацию (VIII)",
+        "voiceKey": "verbs_1_1005"
+      },
+      {
+        "id": 699,
+        "wordId": 1006,
+        "arabic": "أَذَاقَ",
+        "english": "Give a try(IV)",
+        "russian": "Давать пробовать(IV)",
+        "voiceKey": "verbs_1_1006"
+      },
+      {
+        "id": 700,
+        "wordId": 1007,
+        "arabic": "قَصَّرَ",
+        "english": "Shorten(II)",
+        "russian": "Укорачивать(II)",
+        "voiceKey": "verbs_1_1007"
+      },
+      {
+        "id": 701,
+        "wordId": 1008,
+        "arabic": "حَبَّبَ",
+        "english": "Instill love(II)",
+        "russian": "Прививать любовь (II)",
+        "voiceKey": "verbs_1_1008"
+      },
+      {
+        "id": 702,
+        "wordId": 1009,
+        "arabic": "أَرَي",
+        "english": "Show(IV)",
+        "russian": "Показывать (IV)",
+        "voiceKey": "verbs_1_1009"
+      },
+      {
+        "id": 703,
+        "wordId": 1010,
+        "arabic": "مَزَّقَ",
+        "english": "Tear; disperse(II)",
+        "russian": "Разрывать; рассеивать (II)",
+        "voiceKey": "verbs_1_1010"
+      },
+      {
+        "id": 704,
+        "wordId": 1011,
+        "arabic": "أَهْلَكَ",
+        "english": "Destroy(IV)",
+        "russian": "Губить, уничтожать(IV)",
+        "voiceKey": "verbs_1_1011"
+      },
+      {
+        "id": 705,
+        "wordId": 1012,
+        "arabic": "أَحْدَثَ",
+        "english": "Bring in the new(IV)",
+        "russian": "Привносить новое(IV)",
+        "voiceKey": "verbs_1_1012"
+      },
+      {
+        "id": 706,
+        "wordId": 1013,
+        "arabic": "تَبَرَّجَ",
+        "english": "Flaunt(V)",
+        "russian": "Выставлять напоказ(V)",
+        "voiceKey": "verbs_1_1013"
+      },
+      {
+        "id": 707,
+        "wordId": 1014,
+        "arabic": "أَخْرَجَ",
+        "english": "Brought out, pulled out(IV)",
+        "russian": "Вывел, вытащил(IV)",
+        "voiceKey": "verbs_1_1014"
+      },
+      {
+        "id": 708,
+        "wordId": 1015,
+        "arabic": "أَدْخَلَ",
+        "english": "Entered(iv)",
+        "russian": "Ввел(IV)",
+        "voiceKey": "verbs_1_1015"
+      },
+      {
+        "id": 709,
+        "wordId": 1016,
+        "arabic": "أَحْضَرَ",
+        "english": "Brought(IV)",
+        "russian": "Принес(IV)",
+        "voiceKey": "verbs_1_1016"
+      },
+      {
+        "id": 710,
+        "wordId": 1017,
+        "arabic": "أَرَى",
+        "english": "Made me see, showed(IV)",
+        "russian": "Заставил увидеть, показал(IV)",
+        "voiceKey": "verbs_1_1017"
+      },
+      {
+        "id": 711,
+        "wordId": 1018,
+        "arabic": "أَسْمَعَ",
+        "english": "Made to hear(IV)",
+        "russian": "Заставил услышать(IV)",
+        "voiceKey": "verbs_1_1018"
+      },
+      {
+        "id": 712,
+        "wordId": 1019,
+        "arabic": "فَرَّحَ",
+        "english": "Pleased(II)",
+        "russian": "Радовал(II)",
+        "voiceKey": "verbs_1_1019"
+      },
+      {
+        "id": 713,
+        "wordId": 1020,
+        "arabic": "نَوَّمَ",
+        "english": "Put to sleep(II)",
+        "russian": "Усыплял(II)",
+        "voiceKey": "verbs_1_1020"
+      },
+      {
+        "id": 714,
+        "wordId": 1021,
+        "arabic": "جَفَّفَ",
+        "english": "Dried(II)",
+        "russian": "Высушил(II)",
+        "voiceKey": "verbs_1_1021"
+      },
+      {
+        "id": 715,
+        "wordId": 1022,
+        "arabic": "أَضَلَّ",
+        "english": "Misled",
+        "russian": "Ввел в заблуждение",
+        "voiceKey": "verbs_1_1022"
+      },
+      {
+        "id": 716,
+        "wordId": 1023,
+        "arabic": "أَرَى",
+        "english": "Showed",
+        "russian": "Показал",
+        "voiceKey": "verbs_1_1023"
+      },
+      {
+        "id": 717,
+        "wordId": 1024,
+        "arabic": "يُرِي",
+        "english": "Shows",
+        "russian": "Показывает",
+        "voiceKey": "verbs_1_1024"
+      },
+      {
+        "id": 718,
+        "wordId": 1025,
+        "arabic": "أَرِ",
+        "english": "Show",
+        "russian": "Покажи",
+        "voiceKey": "verbs_1_1025"
+      },
+      {
+        "id": 719,
+        "wordId": 1026,
+        "arabic": "قَطَّعَ",
+        "english": "Torn into small pieces(II)",
+        "russian": "Разрывал на мелкие кусочки(II)",
+        "voiceKey": "verbs_1_1026"
+      },
+      {
+        "id": 720,
+        "wordId": 1027,
+        "arabic": "عَدَّدَ",
+        "english": "Counted a lot(II)",
+        "russian": "Считал много(II)",
+        "voiceKey": "verbs_1_1027"
+      }
+    ],
+    "2": [
+      {
+        "id": 588,
+        "wordId": 2001,
+        "arabic": "هَاجَرَ",
+        "english": "Relocated(III)",
+        "russian": "Переселился(III)",
+        "voiceKey": "verbs_2_2001"
+      },
+      {
+        "id": 589,
+        "wordId": 2002,
+        "arabic": "يُهَاجِرُ",
+        "english": "Relocating(III)",
+        "russian": "Переселяется(III)",
+        "voiceKey": "verbs_2_2002"
+      },
+      {
+        "id": 590,
+        "wordId": 2003,
+        "arabic": "مُهَاجِر",
+        "english": "Relocating(III) (active voice)",
+        "russian": "Переселяющийся(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2003"
+      },
+      {
+        "id": 591,
+        "wordId": 2004,
+        "arabic": "مُهَاجَر",
+        "english": "The one who relocated(III) (passive voice)",
+        "russian": "Тот кто переселился(III) (страд. залог)",
+        "voiceKey": "verbs_2_2004"
+      },
+      {
+        "id": 592,
+        "wordId": 2005,
+        "arabic": "مُهَاجَرَة",
+        "english": "Resettlement(III) (Masdar)",
+        "russian": "Переселение(III) (Масдар)",
+        "voiceKey": "verbs_2_2005"
+      },
+      {
+        "id": 593,
+        "wordId": 2006,
+        "arabic": "أَنْذَرَ",
+        "english": "Cautioned(IV)",
+        "russian": "Предостерегал(IV)",
+        "voiceKey": "verbs_2_2006"
+      },
+      {
+        "id": 594,
+        "wordId": 2007,
+        "arabic": "يُنْذِرُ",
+        "english": "Cautions(IV)",
+        "russian": "Предостерегает(IV)",
+        "voiceKey": "verbs_2_2007"
+      },
+      {
+        "id": 595,
+        "wordId": 2008,
+        "arabic": "مُنْذِر",
+        "english": "Cautionary(IV) (active voice)",
+        "russian": "Предостерегающий(IV) (дейст. залог)",
+        "voiceKey": "verbs_2_2008"
+      },
+      {
+        "id": 596,
+        "wordId": 2009,
+        "arabic": "مُنْذَر",
+        "english": "He whom is cautionary(IV) (passive voice)",
+        "russian": "Тот кого предостерегают(IV) (страд. залог)",
+        "voiceKey": "verbs_2_2009"
+      },
+      {
+        "id": 597,
+        "wordId": 2010,
+        "arabic": "إِنْذَار",
+        "english": "Caution(IV) (passive voice)",
+        "russian": "Предостережение(IV) (страд. залог)",
+        "voiceKey": "verbs_2_2010"
+      },
+      {
+        "id": 598,
+        "wordId": 2011,
+        "arabic": "مَضَى",
+        "english": "Gone",
+        "russian": "Прошло",
+        "voiceKey": "verbs_2_2011"
+      },
+      {
+        "id": 599,
+        "wordId": 2012,
+        "arabic": "يَمْضِي",
+        "english": "Pass",
+        "russian": "Проходит",
+        "voiceKey": "verbs_2_2012"
+      },
+      {
+        "id": 600,
+        "wordId": 2013,
+        "arabic": "رَوَى",
+        "english": "Reported, conveyed",
+        "russian": "Сообщил, передал",
+        "voiceKey": "verbs_2_2013"
+      },
+      {
+        "id": 601,
+        "wordId": 2014,
+        "arabic": "يَرْوِي",
+        "english": "Informs, transmits",
+        "russian": "Сообщает, передаёт",
+        "voiceKey": "verbs_2_2014"
+      },
+      {
+        "id": 602,
+        "wordId": 2015,
+        "arabic": "عَادَ",
+        "english": "Visited the sick, returned",
+        "russian": "Посещал больного, вернулся",
+        "voiceKey": "verbs_2_2015"
+      },
+      {
+        "id": 603,
+        "wordId": 2016,
+        "arabic": "يَعُودُ",
+        "english": "Visits a sick person, returns",
+        "russian": "Посещает больного, возвращается",
+        "voiceKey": "verbs_2_2016"
+      },
+      {
+        "id": 604,
+        "wordId": 2017,
+        "arabic": "سَابَقَ",
+        "english": "Competed(III)",
+        "russian": "Соревновался(III)",
+        "voiceKey": "verbs_2_2017"
+      },
+      {
+        "id": 605,
+        "wordId": 2018,
+        "arabic": "يُسَابِقُ",
+        "english": "Competes(III)",
+        "russian": "Соревнуется(III)",
+        "voiceKey": "verbs_2_2018"
+      },
+      {
+        "id": 606,
+        "wordId": 2019,
+        "arabic": "مُسَابَقَةٌ",
+        "english": "Competition(III) (Masdar)",
+        "russian": "Соревнование(III) (Масдар)",
+        "voiceKey": "verbs_2_2019"
+      },
+      {
+        "id": 607,
+        "wordId": 2020,
+        "arabic": "شَاهَدَ",
+        "english": "I watched(III)",
+        "russian": "Смотрел, наблюдал(III)",
+        "voiceKey": "verbs_2_2020"
+      },
+      {
+        "id": 608,
+        "wordId": 2021,
+        "arabic": "يُشَاهِدُ",
+        "english": "Watch, observe(III)",
+        "russian": "Смотреть, наблюдает(III)",
+        "voiceKey": "verbs_2_2021"
+      },
+      {
+        "id": 609,
+        "wordId": 2022,
+        "arabic": "مُشَاهَدَةٌ",
+        "english": "View(III) (Masdar)",
+        "russian": "Просмотр(III) (Масдар)",
+        "voiceKey": "verbs_2_2022"
+      },
+      {
+        "id": 610,
+        "wordId": 2023,
+        "arabic": "قَابَلَ",
+        "english": "Met(III)",
+        "russian": "Встречал(III)",
+        "voiceKey": "verbs_2_2023"
+      },
+      {
+        "id": 611,
+        "wordId": 2024,
+        "arabic": "يُقَابِلُ",
+        "english": "Meets(III)",
+        "russian": "Встречает(III)",
+        "voiceKey": "verbs_2_2024"
+      },
+      {
+        "id": 612,
+        "wordId": 2025,
+        "arabic": "مُقَابَلَةٌ",
+        "english": "Meeting(III) (Masdar)",
+        "russian": "Встреча(III) (Масдар)",
+        "voiceKey": "verbs_2_2025"
+      },
+      {
+        "id": 613,
+        "wordId": 2026,
+        "arabic": "سَامَحَ",
+        "english": "Forgave(III)",
+        "russian": "Прощал(III)",
+        "voiceKey": "verbs_2_2026"
+      },
+      {
+        "id": 614,
+        "wordId": 2027,
+        "arabic": "يُسَامِحُ",
+        "english": "Forgives(III)",
+        "russian": "Прощает(III)",
+        "voiceKey": "verbs_2_2027"
+      },
+      {
+        "id": 615,
+        "wordId": 2028,
+        "arabic": "سَامِحْ",
+        "english": "Sorry(III)",
+        "russian": "Прости(III)",
+        "voiceKey": "verbs_2_2028"
+      },
+      {
+        "id": 616,
+        "wordId": 2029,
+        "arabic": "مُسَامَحَةٌ",
+        "english": "Forgiveness(III) (Masdar)",
+        "russian": "Прощение(III) (Масдар)",
+        "voiceKey": "verbs_2_2029"
+      },
+      {
+        "id": 617,
+        "wordId": 2030,
+        "arabic": "سَاعَدَ",
+        "english": "Helped(III)",
+        "russian": "Помогал(III)",
+        "voiceKey": "verbs_2_2030"
+      },
+      {
+        "id": 618,
+        "wordId": 2031,
+        "arabic": "يُسَاعِدُ",
+        "english": "Helps(III)",
+        "russian": "Помогает(III)",
+        "voiceKey": "verbs_2_2031"
+      },
+      {
+        "id": 619,
+        "wordId": 2032,
+        "arabic": "مُسَاعَدَةٌ",
+        "english": "Help(III) (Masdar)",
+        "russian": "Помощь(III) (Масдар)",
+        "voiceKey": "verbs_2_2032"
+      },
+      {
+        "id": 620,
+        "wordId": 2033,
+        "arabic": "مُسَاعِدٌ",
+        "english": "Assistant(III) (active voice)",
+        "russian": "Помощник(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2033"
+      },
+      {
+        "id": 621,
+        "wordId": 2034,
+        "arabic": "رَاسَلَ",
+        "english": "Corresponded(III)",
+        "russian": "Переписывался(III)",
+        "voiceKey": "verbs_2_2034"
+      },
+      {
+        "id": 622,
+        "wordId": 2035,
+        "arabic": "يُرَاسِلُ",
+        "english": "Correspondence(III)",
+        "russian": "Переписывается(III)",
+        "voiceKey": "verbs_2_2035"
+      },
+      {
+        "id": 623,
+        "wordId": 2036,
+        "arabic": "مُرَاسَلَةٌ",
+        "english": "Correspondence(III) (Masdar)",
+        "russian": "Переписка(III) (Масдар)",
+        "voiceKey": "verbs_2_2036"
+      },
+      {
+        "id": 624,
+        "wordId": 2037,
+        "arabic": "مُرَاسِلٌ",
+        "english": "Sender(III) ( active voice)",
+        "russian": "Отправитель(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2037"
+      },
+      {
+        "id": 625,
+        "wordId": 2038,
+        "arabic": "رَاجَعَ",
+        "english": "Repeated(III)",
+        "russian": "Повторял(III)",
+        "voiceKey": "verbs_2_2038"
+      },
+      {
+        "id": 626,
+        "wordId": 2039,
+        "arabic": "يُرَاجِعُ",
+        "english": "Repeats(III)",
+        "russian": "Повторяет(III)",
+        "voiceKey": "verbs_2_2039"
+      },
+      {
+        "id": 627,
+        "wordId": 2040,
+        "arabic": "مُرَاجَعَةٌ",
+        "english": "Repetition(III) ( Masdar)",
+        "russian": "Повторение(III) ( Масдар)",
+        "voiceKey": "verbs_2_2040"
+      },
+      {
+        "id": 628,
+        "wordId": 2087,
+        "arabic": "مُرَاجِع",
+        "english": "Repeating(III) (active voice)",
+        "russian": "Повторяющий(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2087"
+      },
+      {
+        "id": 629,
+        "wordId": 2088,
+        "arabic": "مُرَاجَع",
+        "english": "The one to whom they repeat(III) (passive voice)",
+        "russian": "Тот кому повторяют(III) (страд. залог)",
+        "voiceKey": "verbs_2_2088"
+      },
+      {
+        "id": 630,
+        "wordId": 2089,
+        "arabic": "مُرَاجَعَة",
+        "english": "Repetition(III) (Masdar)",
+        "russian": "Повторение(III) (Масдар)",
+        "voiceKey": "verbs_2_2089"
+      },
+      {
+        "id": 631,
+        "wordId": 2041,
+        "arabic": "حَاوَلَ",
+        "english": "Tried(III)",
+        "russian": "Попытался(III)",
+        "voiceKey": "verbs_2_2041"
+      },
+      {
+        "id": 632,
+        "wordId": 2042,
+        "arabic": "يُحَاوِلُ",
+        "english": "Tries(III)",
+        "russian": "Пытается(III)",
+        "voiceKey": "verbs_2_2042"
+      },
+      {
+        "id": 633,
+        "wordId": 2043,
+        "arabic": "حَاوِلْ",
+        "english": "Try(III)",
+        "russian": "Попытайся(III)",
+        "voiceKey": "verbs_2_2043"
+      },
+      {
+        "id": 634,
+        "wordId": 2044,
+        "arabic": "مُحَاوَلَةٌ",
+        "english": "Try(III) (Masdar)",
+        "russian": "Попытка(III) (Масдар)",
+        "voiceKey": "verbs_2_2044"
+      },
+      {
+        "id": 635,
+        "wordId": 2045,
+        "arabic": "آخَذَ",
+        "english": "Demanded(III)",
+        "russian": "Взыскал(III)",
+        "voiceKey": "verbs_2_2045"
+      },
+      {
+        "id": 636,
+        "wordId": 2046,
+        "arabic": "يُؤَاخِذُ",
+        "english": "Demands(III)",
+        "russian": "Взыскивает(III)",
+        "voiceKey": "verbs_2_2046"
+      },
+      {
+        "id": 637,
+        "wordId": 2047,
+        "arabic": "مُؤَاخَذَةٌ",
+        "english": "Demands(III) (Masdar)",
+        "russian": "Взыскивание(III) (Масдар)",
+        "voiceKey": "verbs_2_2047"
+      },
+      {
+        "id": 638,
+        "wordId": 2048,
+        "arabic": "لَاقَى",
+        "english": "Met someone",
+        "russian": "Встретил кого-то",
+        "voiceKey": "verbs_2_2048"
+      },
+      {
+        "id": 639,
+        "wordId": 2049,
+        "arabic": "يُلَاقِي",
+        "english": "Meets someone",
+        "russian": "Встречает кого-то",
+        "voiceKey": "verbs_2_2049"
+      },
+      {
+        "id": 640,
+        "wordId": 2050,
+        "arabic": "لَاقِ",
+        "english": "Meet someone",
+        "russian": "Встреть кого-то",
+        "voiceKey": "verbs_2_2050"
+      },
+      {
+        "id": 641,
+        "wordId": 2051,
+        "arabic": "مُلَاقَاةٌ",
+        "english": "Meet (with somebody) (Masdar)",
+        "russian": "Встреча (с кем-то) (Масдар)",
+        "voiceKey": "verbs_2_2051"
+      },
+      {
+        "id": 642,
+        "wordId": 2052,
+        "arabic": "بَارَى",
+        "english": "Competed(III)",
+        "russian": "Соревновался(III)",
+        "voiceKey": "verbs_2_2052"
+      },
+      {
+        "id": 643,
+        "wordId": 2053,
+        "arabic": "يُبَارِي",
+        "english": "Competes(III)",
+        "russian": "Соревнуется(III)",
+        "voiceKey": "verbs_2_2053"
+      },
+      {
+        "id": 644,
+        "wordId": 2054,
+        "arabic": "مُبَارَاةٌ",
+        "english": "Match(III) (Masdar)",
+        "russian": "Матч(III) (Масдар)",
+        "voiceKey": "verbs_2_2054"
+      },
+      {
+        "id": 645,
+        "wordId": 2055,
+        "arabic": "جَاهَدَ",
+        "english": "Fought(III)",
+        "russian": "Сражался(III)",
+        "voiceKey": "verbs_2_2055"
+      },
+      {
+        "id": 646,
+        "wordId": 2056,
+        "arabic": "يُجَاهِدُ",
+        "english": "Fight(III)",
+        "russian": "Сражается(III)",
+        "voiceKey": "verbs_2_2056"
+      },
+      {
+        "id": 647,
+        "wordId": 2057,
+        "arabic": "مُجَاهِدٌ",
+        "english": "Fighting(III) (active voice)",
+        "russian": "Сражающийся(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2057"
+      },
+      {
+        "id": 648,
+        "wordId": 2058,
+        "arabic": "مُجَاهَدَةٌ",
+        "english": "Battle(III) (Masdar)",
+        "russian": "Сражение(III) (Масдар)",
+        "voiceKey": "verbs_2_2058"
+      },
+      {
+        "id": 649,
+        "wordId": 2059,
+        "arabic": "جِهَادٌ",
+        "english": "War(III)",
+        "russian": "Война(III)",
+        "voiceKey": "verbs_2_2059"
+      },
+      {
+        "id": 650,
+        "wordId": 2060,
+        "arabic": "عَالَجَ",
+        "english": "Healed(III)",
+        "russian": "Лечил(III)",
+        "voiceKey": "verbs_2_2060"
+      },
+      {
+        "id": 651,
+        "wordId": 2061,
+        "arabic": "يُعَالِجُ",
+        "english": "Heals(III)",
+        "russian": "Лечит(III)",
+        "voiceKey": "verbs_2_2061"
+      },
+      {
+        "id": 652,
+        "wordId": 2062,
+        "arabic": "مُعَالَجَةٌ",
+        "english": "Treatment(III) (Masdar)",
+        "russian": "Лечение(III) (Масдар)",
+        "voiceKey": "verbs_2_2062"
+      },
+      {
+        "id": 653,
+        "wordId": 2063,
+        "arabic": "عِلَاجٌ",
+        "english": "Treatment",
+        "russian": "Лечение",
+        "voiceKey": "verbs_2_2063"
+      },
+      {
+        "id": 654,
+        "wordId": 2064,
+        "arabic": "نَافَقَ",
+        "english": "Hypocrite(III)",
+        "russian": "Лицемерил(III)",
+        "voiceKey": "verbs_2_2064"
+      },
+      {
+        "id": 655,
+        "wordId": 2065,
+        "arabic": "يُنَافِقُ",
+        "english": "[Be a] hypocrite(III)",
+        "russian": "Лицемерить(III)",
+        "voiceKey": "verbs_2_2065"
+      },
+      {
+        "id": 656,
+        "wordId": 2066,
+        "arabic": "مُنَافَقَةٌ",
+        "english": "Hypocrisy(III) (Masdar)",
+        "russian": "Лицемерие(III) (Масдар)",
+        "voiceKey": "verbs_2_2066"
+      },
+      {
+        "id": 657,
+        "wordId": 2067,
+        "arabic": "نِفَاقٌ",
+        "english": "Hypocrisy(III)",
+        "russian": "Лицемерие(III)",
+        "voiceKey": "verbs_2_2067"
+      },
+      {
+        "id": 658,
+        "wordId": 2068,
+        "arabic": "رَاقَبَ",
+        "english": "Inspected(III)",
+        "russian": "Инспектировал(III)",
+        "voiceKey": "verbs_2_2068"
+      },
+      {
+        "id": 659,
+        "wordId": 2069,
+        "arabic": "يُرَاقِبُ",
+        "english": "Inspects(III)",
+        "russian": "Инспектирует(III)",
+        "voiceKey": "verbs_2_2069"
+      },
+      {
+        "id": 660,
+        "wordId": 2070,
+        "arabic": "مُرَاقِبٌ",
+        "english": "Manager, Inspector(III) (active voice)",
+        "russian": "Управляющий, инспектор(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2070"
+      },
+      {
+        "id": 661,
+        "wordId": 2071,
+        "arabic": "خَاطَبَ",
+        "english": "Spoke (sermon) (III)",
+        "russian": "Говорил (проповедь) (III)",
+        "voiceKey": "verbs_2_2071"
+      },
+      {
+        "id": 662,
+        "wordId": 2072,
+        "arabic": "يُخَاطِبُ",
+        "english": "Speaks (sermon) (III)",
+        "russian": "Говорит (проповедь) (III)",
+        "voiceKey": "verbs_2_2072"
+      },
+      {
+        "id": 663,
+        "wordId": 2073,
+        "arabic": "مُخَاطِبٌ",
+        "english": "Speaker (sermon) (III) (actual voice)",
+        "russian": "Говорящий (проповедь) (III) (дейст. залог)",
+        "voiceKey": "verbs_2_2073"
+      },
+      {
+        "id": 664,
+        "wordId": 2074,
+        "arabic": "مُخَاطَبٌ",
+        "english": "The one to whom they say (sermon) (III) (passive voice)",
+        "russian": "Тот, кому говорят (проповедь) (III) (страд. залог)",
+        "voiceKey": "verbs_2_2074"
+      },
+      {
+        "id": 665,
+        "wordId": 2076,
+        "arabic": "ضَيَّعَ",
+        "english": "Destroyed, lost (II)",
+        "russian": "Губил, терял (II)",
+        "voiceKey": "verbs_2_2076"
+      },
+      {
+        "id": 666,
+        "wordId": 2077,
+        "arabic": "يُضَيِّعُ",
+        "english": "Destroys, loses (II)",
+        "russian": "Губит, теряет (II)",
+        "voiceKey": "verbs_2_2077"
+      },
+      {
+        "id": 667,
+        "wordId": 2078,
+        "arabic": "مُضَيِّع",
+        "english": "Destroyer (II) (active voice)",
+        "russian": "Губитель (II) (дейст. залог)",
+        "voiceKey": "verbs_2_2078"
+      },
+      {
+        "id": 668,
+        "wordId": 2079,
+        "arabic": "مُضَيَّع",
+        "english": "The one who is being destroyed (II) (passive voice)",
+        "russian": "Тот кого губят (II) (страд. залог)",
+        "voiceKey": "verbs_2_2079"
+      },
+      {
+        "id": 669,
+        "wordId": 2080,
+        "arabic": "قَابَلَ",
+        "english": "Met(III)",
+        "russian": "Встретил(III)",
+        "voiceKey": "verbs_2_2080"
+      },
+      {
+        "id": 670,
+        "wordId": 2081,
+        "arabic": "تُقَابِلَ",
+        "english": "Meets(III)",
+        "russian": "Встречает(III)",
+        "voiceKey": "verbs_2_2081"
+      },
+      {
+        "id": 671,
+        "wordId": 2082,
+        "arabic": "مُقَابِل",
+        "english": "The greeter(III) (active voice)",
+        "russian": "Встречающий(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2082"
+      },
+      {
+        "id": 672,
+        "wordId": 2083,
+        "arabic": "مُقَابَل",
+        "english": "The one you met(III) (passive voice)",
+        "russian": "Тот кого встретили(III) (страд. залог)",
+        "voiceKey": "verbs_2_2083"
+      },
+      {
+        "id": 673,
+        "wordId": 2084,
+        "arabic": "مُقَابَلَة",
+        "english": "Meeting(III) (Masdar)",
+        "russian": "Встреча(III) (Масдар)",
+        "voiceKey": "verbs_2_2084"
+      },
+      {
+        "id": 674,
+        "wordId": 2090,
+        "arabic": "قَاتَلَ",
+        "english": "Killed(III)",
+        "russian": "Убил(III)",
+        "voiceKey": "verbs_2_2090"
+      },
+      {
+        "id": 675,
+        "wordId": 2091,
+        "arabic": "يُقَاتِلُ",
+        "english": "Kills(III)",
+        "russian": "Убивает(III)",
+        "voiceKey": "verbs_2_2091"
+      },
+      {
+        "id": 676,
+        "wordId": 2092,
+        "arabic": "مُقَاتِل",
+        "english": "Killing(III) (active voice)",
+        "russian": "Убивающий(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2092"
+      },
+      {
+        "id": 677,
+        "wordId": 2093,
+        "arabic": "مُقَاتَل",
+        "english": "The one who is being killed(III) (passive voice)",
+        "russian": "Того кого убивают(III) (страд. залог)",
+        "voiceKey": "verbs_2_2093"
+      },
+      {
+        "id": 678,
+        "wordId": 2094,
+        "arabic": "مُقَاتَلَة",
+        "english": "Murder(III) (Masdar)",
+        "russian": "Убийство(III) (Масдар)",
+        "voiceKey": "verbs_2_2094"
+      },
+      {
+        "id": 679,
+        "wordId": 2095,
+        "arabic": "شَبَّهَ",
+        "english": "Likened (II)",
+        "russian": "Уподоблялся (II)",
+        "voiceKey": "verbs_2_2095"
+      },
+      {
+        "id": 680,
+        "wordId": 2096,
+        "arabic": "يُشَبِّهُ",
+        "english": "Like (someone) (II)",
+        "russian": "Уподобляется(II)",
+        "voiceKey": "verbs_2_2096"
+      },
+      {
+        "id": 681,
+        "wordId": 2097,
+        "arabic": "مُشَبِّه",
+        "english": "Like (II) (actual voice)",
+        "russian": "Уподобляющийся (II) (дейст. залог)",
+        "voiceKey": "verbs_2_2097"
+      },
+      {
+        "id": 682,
+        "wordId": 2098,
+        "arabic": "مُشَبَّه",
+        "english": "The one who is likened (II) (passive voice)",
+        "russian": "Тот кого уподобляют (II) (страд. залог)",
+        "voiceKey": "verbs_2_2098"
+      },
+      {
+        "id": 683,
+        "wordId": 2099,
+        "arabic": "تَشْبِيه",
+        "english": "Like (II) (Masdar)",
+        "russian": "Уподобление (II) (Масдар)",
+        "voiceKey": "verbs_2_2099"
+      },
+      {
+        "id": 684,
+        "wordId": 2100,
+        "arabic": "صَافَحَ",
+        "english": "Shake hands(III)",
+        "russian": "Пожал руку(III)",
+        "voiceKey": "verbs_2_2100"
+      },
+      {
+        "id": 685,
+        "wordId": 2101,
+        "arabic": "يُصَافِحُ",
+        "english": "Shakes hands(III)",
+        "russian": "Пожимает руку(III)",
+        "voiceKey": "verbs_2_2101"
+      },
+      {
+        "id": 686,
+        "wordId": 2102,
+        "arabic": "مُصَافِح",
+        "english": "Shaking hands(III) (active voice)",
+        "russian": "Пожимающий руку(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2102"
+      },
+      {
+        "id": 687,
+        "wordId": 2103,
+        "arabic": "مُصَافَح",
+        "english": "The one who shakes hands(III) (passive voice)",
+        "russian": "Тот кому пожимают руку(III) (страд. залог)",
+        "voiceKey": "verbs_2_2103"
+      },
+      {
+        "id": 688,
+        "wordId": 2104,
+        "arabic": "مُصَافَحَة",
+        "english": "Handshake(III) (Masdar)",
+        "russian": "Рукопожатие(III) (Масдар)",
+        "voiceKey": "verbs_2_2104"
+      },
+      {
+        "id": 689,
+        "wordId": 2105,
+        "arabic": "عَالَجَ",
+        "english": "Treated(III)",
+        "russian": "Лечил(III)",
+        "voiceKey": "verbs_2_2105"
+      },
+      {
+        "id": 690,
+        "wordId": 2106,
+        "arabic": "يُعَالِجُ",
+        "english": "Treats(III)",
+        "russian": "Лечит(III)",
+        "voiceKey": "verbs_2_2106"
+      },
+      {
+        "id": 691,
+        "wordId": 2107,
+        "arabic": "مُعَالِج",
+        "english": "Attending (doctor) (III) (active voice)",
+        "russian": "Лечащий(III) (дейст. залог)",
+        "voiceKey": "verbs_2_2107"
+      },
+      {
+        "id": 692,
+        "wordId": 2108,
+        "arabic": "مُعَالَج",
+        "english": "The one being treated(III) (passive voice)",
+        "russian": "Тот кого лечат(III) (страд. залог)",
+        "voiceKey": "verbs_2_2108"
+      },
+      {
+        "id": 693,
+        "wordId": 2109,
+        "arabic": "مُعَالَجَة",
+        "english": "Treatment(III) (Masdar)",
+        "russian": "Лечение(III) (Масдар)",
+        "voiceKey": "verbs_2_2109"
+      }
+    ],
+    "3": [
+      {
+        "id": 340,
+        "wordId": 3001,
+        "arabic": "وَرِثَ",
+        "english": "Received (inheritance)",
+        "russian": "Получил (наследство)",
+        "voiceKey": "verbs_3_3001"
+      },
+      {
+        "id": 341,
+        "wordId": 3002,
+        "arabic": "يَرِثُ",
+        "english": "Receives (inheritance)",
+        "russian": "Получает (наследство)",
+        "voiceKey": "verbs_3_3002"
+      },
+      {
+        "id": 342,
+        "wordId": 3003,
+        "arabic": "مَرَّضَ",
+        "english": "Looked after(II) [the sick]",
+        "russian": "Присматривал (за больным) (II)",
+        "voiceKey": "verbs_3_3003"
+      },
+      {
+        "id": 343,
+        "wordId": 3004,
+        "arabic": "يُمَرِّضُ",
+        "english": "Looks after(II) [the sick]",
+        "russian": "Присматривает (за больным) (II)",
+        "voiceKey": "verbs_3_3004"
+      },
+      {
+        "id": 344,
+        "wordId": 3005,
+        "arabic": "بلَّغَ",
+        "english": "Passed (hi) (II)",
+        "russian": "Передал (привет) (II)",
+        "voiceKey": "verbs_3_3005"
+      },
+      {
+        "id": 345,
+        "wordId": 3006,
+        "arabic": "يُبَلِّغُ",
+        "english": "Passing (hi) (II)",
+        "russian": "Передаёт (привет) (II)",
+        "voiceKey": "verbs_3_3006"
+      },
+      {
+        "id": 346,
+        "wordId": 3007,
+        "arabic": "تَوَجَّهَ",
+        "english": "Went(V) [on a journey]",
+        "russian": "Направился, отправился(V)",
+        "voiceKey": "verbs_3_3007"
+      },
+      {
+        "id": 347,
+        "wordId": 3008,
+        "arabic": "يَتَوَجَّهُ",
+        "english": "Goes(V) [on a journey]",
+        "russian": "Направляется, отправляется(V)",
+        "voiceKey": "verbs_3_3008"
+      },
+      {
+        "id": 348,
+        "wordId": 3009,
+        "arabic": "تَوَجَّهْ",
+        "english": "Head (home)(V)",
+        "russian": "Направляйся(V)",
+        "voiceKey": "verbs_3_3009"
+      },
+      {
+        "id": 349,
+        "wordId": 3010,
+        "arabic": "تَوَجُّهٌ",
+        "english": "Direction(V)",
+        "russian": "Направление(V)",
+        "voiceKey": "verbs_3_3010"
+      },
+      {
+        "id": 350,
+        "wordId": 3011,
+        "arabic": "مُتَوَجِّهٌ",
+        "english": "In direction(V)",
+        "russian": "Направляющийся(V)",
+        "voiceKey": "verbs_3_3011"
+      },
+      {
+        "id": 351,
+        "wordId": 3012,
+        "arabic": "تَجَسَّسَ",
+        "english": "Was spying(V)",
+        "russian": "Шпионил(V)",
+        "voiceKey": "verbs_3_3012"
+      },
+      {
+        "id": 352,
+        "wordId": 3013,
+        "arabic": "يَتَجَسَّسُ",
+        "english": "Is spying(V)",
+        "russian": "Шпионит(V)",
+        "voiceKey": "verbs_3_3013"
+      },
+      {
+        "id": 353,
+        "wordId": 3014,
+        "arabic": "تَجَسَّسْ",
+        "english": "Spy(V) [for someone]",
+        "russian": "Шпионь(V)",
+        "voiceKey": "verbs_3_3014"
+      },
+      {
+        "id": 354,
+        "wordId": 3015,
+        "arabic": "تَجَسُّسٌ",
+        "english": "Spy(V)",
+        "russian": "Шпион(V)",
+        "voiceKey": "verbs_3_3015"
+      },
+      {
+        "id": 355,
+        "wordId": 3016,
+        "arabic": "مُتَجَسِّسٌ",
+        "english": "Spying(V)",
+        "russian": "Шпионаж(V)",
+        "voiceKey": "verbs_3_3016"
+      },
+      {
+        "id": 356,
+        "wordId": 3017,
+        "arabic": "أَسْرَعَ",
+        "english": "Hurried (IV)",
+        "russian": "Спешил (IV)",
+        "voiceKey": "verbs_3_3017"
+      },
+      {
+        "id": 357,
+        "wordId": 3018,
+        "arabic": "يُسْرِعُ",
+        "english": "(he is) hurry (IV)",
+        "russian": "Спешит (IV)",
+        "voiceKey": "verbs_3_3018"
+      },
+      {
+        "id": 358,
+        "wordId": 3019,
+        "arabic": "بَزَغَ",
+        "english": "Climbed (the mountain)",
+        "russian": "Восходил, поднимался",
+        "voiceKey": "verbs_3_3019"
+      },
+      {
+        "id": 359,
+        "wordId": 3020,
+        "arabic": "يَبْزُغُ",
+        "english": "Climbs (up the mountain)",
+        "russian": "Восходит, поднимается",
+        "voiceKey": "verbs_3_3020"
+      },
+      {
+        "id": 360,
+        "wordId": 3021,
+        "arabic": "تَعَلَّمَ",
+        "english": "Trained(V)",
+        "russian": "Обучался(V)",
+        "voiceKey": "verbs_3_3021"
+      },
+      {
+        "id": 361,
+        "wordId": 3022,
+        "arabic": "يَتَعَلَّمُ",
+        "english": "Learns(V)",
+        "russian": "Обучается(V)",
+        "voiceKey": "verbs_3_3022"
+      },
+      {
+        "id": 362,
+        "wordId": 3023,
+        "arabic": "تَعَلَّمْ",
+        "english": "Study (at University)(V)",
+        "russian": "Обучайся(V)",
+        "voiceKey": "verbs_3_3023"
+      },
+      {
+        "id": 363,
+        "wordId": 3024,
+        "arabic": "تَعَلُّمٌ",
+        "english": "Training(V)",
+        "russian": "Обучение(V)",
+        "voiceKey": "verbs_3_3024"
+      },
+      {
+        "id": 364,
+        "wordId": 3025,
+        "arabic": "مُتَعَلٌ",
+        "english": "Learner(V)",
+        "russian": "Обучающийся(V)",
+        "voiceKey": "verbs_3_3025"
+      },
+      {
+        "id": 365,
+        "wordId": 3026,
+        "arabic": "تَحَدَّثَ",
+        "english": "Chatted(V)",
+        "russian": "Беседовал(V)",
+        "voiceKey": "verbs_3_3026"
+      },
+      {
+        "id": 366,
+        "wordId": 3027,
+        "arabic": "يَتَحَدَّثُ",
+        "english": "Conversing(V)",
+        "russian": "Беседует(V)",
+        "voiceKey": "verbs_3_3027"
+      },
+      {
+        "id": 367,
+        "wordId": 3028,
+        "arabic": "تَحدَّثْ",
+        "english": "Have a conversation(V)",
+        "russian": "Проведи беседу(V)",
+        "voiceKey": "verbs_3_3028"
+      },
+      {
+        "id": 368,
+        "wordId": 3029,
+        "arabic": "تَحَدُّثٌ",
+        "english": "Conversation(V)",
+        "russian": "Беседа(V)",
+        "voiceKey": "verbs_3_3029"
+      },
+      {
+        "id": 369,
+        "wordId": 3030,
+        "arabic": "مُتَحدِثٌ",
+        "english": "Speaker(V)",
+        "russian": "Беседующий(V)",
+        "voiceKey": "verbs_3_3030"
+      },
+      {
+        "id": 370,
+        "wordId": 3031,
+        "arabic": "تَكَلَّمَ",
+        "english": "Spoke(V)",
+        "russian": "Говорил(V)",
+        "voiceKey": "verbs_3_3031"
+      },
+      {
+        "id": 371,
+        "wordId": 3032,
+        "arabic": "يَتَكَلَّمُ",
+        "english": "Speaks(V)",
+        "russian": "Говорит(V)",
+        "voiceKey": "verbs_3_3032"
+      },
+      {
+        "id": 372,
+        "wordId": 3033,
+        "arabic": "تَكَلِّمْ",
+        "english": "Talk(V)",
+        "russian": "Поговори(V)",
+        "voiceKey": "verbs_3_3033"
+      },
+      {
+        "id": 373,
+        "wordId": 3034,
+        "arabic": "تَكَلُّمٌ",
+        "english": "Speaking(V)",
+        "russian": "Говорение(V)",
+        "voiceKey": "verbs_3_3034"
+      },
+      {
+        "id": 374,
+        "wordId": 3035,
+        "arabic": "مُتَكَلِّمٌ",
+        "english": "Talking(V)",
+        "russian": "Говорящий(V)",
+        "voiceKey": "verbs_3_3035"
+      },
+      {
+        "id": 375,
+        "wordId": 3036,
+        "arabic": "تَذَكَّرَ",
+        "english": "Remembered(V)",
+        "russian": "Вспомнил(V)",
+        "voiceKey": "verbs_3_3036"
+      },
+      {
+        "id": 376,
+        "wordId": 3037,
+        "arabic": "يَتَذَكَّرُ",
+        "english": "Remembers(V)",
+        "russian": "Вспоминает(V)",
+        "voiceKey": "verbs_3_3037"
+      },
+      {
+        "id": 377,
+        "wordId": 3038,
+        "arabic": "تَذَكِّرْ",
+        "english": "Remember(V)",
+        "russian": "Вспомни(V)",
+        "voiceKey": "verbs_3_3038"
+      },
+      {
+        "id": 378,
+        "wordId": 3039,
+        "arabic": "تَذَكُّرٌ",
+        "english": "Memories(V)",
+        "russian": "Воспоминания(V)",
+        "voiceKey": "verbs_3_3039"
+      },
+      {
+        "id": 379,
+        "wordId": 3040,
+        "arabic": "مُتَذَكِّرٌ",
+        "english": "Remembering(V)",
+        "russian": "Вспоминающий(V)",
+        "voiceKey": "verbs_3_3040"
+      },
+      {
+        "id": 380,
+        "wordId": 3041,
+        "arabic": "تَأَخَّرَ",
+        "english": "Late(V) [past tense]",
+        "russian": "Опоздал(V)",
+        "voiceKey": "verbs_3_3041"
+      },
+      {
+        "id": 381,
+        "wordId": 3042,
+        "arabic": "يَتَأَخَّرُ",
+        "english": "Late(V) [present tense]",
+        "russian": "Опаздывает(V)",
+        "voiceKey": "verbs_3_3042"
+      },
+      {
+        "id": 382,
+        "wordId": 3043,
+        "arabic": "تَأَخَرْ",
+        "english": "Be late(V)",
+        "russian": "Опоздай(V)",
+        "voiceKey": "verbs_3_3043"
+      },
+      {
+        "id": 383,
+        "wordId": 3044,
+        "arabic": "تَأَخُّرٌ",
+        "english": "Late(V) [for class]",
+        "russian": "Опоздание(V)",
+        "voiceKey": "verbs_3_3044"
+      },
+      {
+        "id": 384,
+        "wordId": 3045,
+        "arabic": "مُتَأَخِرٌ",
+        "english": "Late(V) [man]",
+        "russian": "Опаздывающий(V)",
+        "voiceKey": "verbs_3_3045"
+      },
+      {
+        "id": 385,
+        "wordId": 3046,
+        "arabic": "تَغَدَّى",
+        "english": "Dined(V)",
+        "russian": "Обедал(V)",
+        "voiceKey": "verbs_3_3046"
+      },
+      {
+        "id": 386,
+        "wordId": 3047,
+        "arabic": "يَتَغَدَّى",
+        "english": "Dine(V)",
+        "russian": "Обедает(V)",
+        "voiceKey": "verbs_3_3047"
+      },
+      {
+        "id": 387,
+        "wordId": 3048,
+        "arabic": "تَّغَدَّ",
+        "english": "Have lunch(V)",
+        "russian": "Пообедай(V)",
+        "voiceKey": "verbs_3_3048"
+      },
+      {
+        "id": 388,
+        "wordId": 3049,
+        "arabic": "تَغَدٍّ",
+        "english": "Lunch(V)",
+        "russian": "Обед(V)",
+        "voiceKey": "verbs_3_3049"
+      },
+      {
+        "id": 389,
+        "wordId": 3050,
+        "arabic": "التَّغَدِّي",
+        "english": "Lunch(V)",
+        "russian": "Обед(V)",
+        "voiceKey": "verbs_3_3050"
+      },
+      {
+        "id": 390,
+        "wordId": 3051,
+        "arabic": "تَعَشَّى",
+        "english": "Dinner(V) [past tense]",
+        "russian": "Ужинал(V)",
+        "voiceKey": "verbs_3_3051"
+      },
+      {
+        "id": 391,
+        "wordId": 3052,
+        "arabic": "يَتَعَشَّى",
+        "english": "Dinner(V) [now]",
+        "russian": "Ужинает(V)",
+        "voiceKey": "verbs_3_3052"
+      },
+      {
+        "id": 392,
+        "wordId": 3053,
+        "arabic": "تَعَشَّ",
+        "english": "Have dinner(V)",
+        "russian": "Поужинай(V)",
+        "voiceKey": "verbs_3_3053"
+      },
+      {
+        "id": 393,
+        "wordId": 3054,
+        "arabic": "تَعَشٍّ",
+        "english": "Dinner(V)",
+        "russian": "Ужин(V)",
+        "voiceKey": "verbs_3_3054"
+      },
+      {
+        "id": 394,
+        "wordId": 3055,
+        "arabic": "التَّعَشِّي",
+        "english": "Dinner(V)",
+        "russian": "Ужин(V)",
+        "voiceKey": "verbs_3_3055"
+      },
+      {
+        "id": 395,
+        "wordId": 3056,
+        "arabic": "تَلَقَّى",
+        "english": "Got(V) [past tense]",
+        "russian": "Получил(V)",
+        "voiceKey": "verbs_3_3056"
+      },
+      {
+        "id": 396,
+        "wordId": 3057,
+        "arabic": "يَتَلَقَّى",
+        "english": "Receives(V) [now]",
+        "russian": "Получает(V)",
+        "voiceKey": "verbs_3_3057"
+      },
+      {
+        "id": 397,
+        "wordId": 3058,
+        "arabic": "تَلَقَّ",
+        "english": "Receive(V)",
+        "russian": "Получи(V)",
+        "voiceKey": "verbs_3_3058"
+      },
+      {
+        "id": 398,
+        "wordId": 3059,
+        "arabic": "تَلَقٍّ",
+        "english": "Receiving(V) [parcels]",
+        "russian": "Получение(V)",
+        "voiceKey": "verbs_3_3059"
+      },
+      {
+        "id": 399,
+        "wordId": 3060,
+        "arabic": "التَّلَقِّي",
+        "english": "Receipt(V)",
+        "russian": "Получение(V)",
+        "voiceKey": "verbs_3_3060"
+      },
+      {
+        "id": 400,
+        "wordId": 3061,
+        "arabic": "تَمَنَّى",
+        "english": "Wished(V) [past tense]",
+        "russian": "Желал(V)",
+        "voiceKey": "verbs_3_3061"
+      },
+      {
+        "id": 401,
+        "wordId": 3062,
+        "arabic": "يَتَمَنَّى",
+        "english": "Desires(V) [now]",
+        "russian": "Желает(V)",
+        "voiceKey": "verbs_3_3062"
+      },
+      {
+        "id": 402,
+        "wordId": 3063,
+        "arabic": "تَمَنَّ",
+        "english": "Wish(V) [future tense]",
+        "russian": "Пожелай(V)",
+        "voiceKey": "verbs_3_3063"
+      },
+      {
+        "id": 403,
+        "wordId": 3064,
+        "arabic": "تَمَنٍّ",
+        "english": "Desire(V)",
+        "russian": "Желание(V)",
+        "voiceKey": "verbs_3_3064"
+      },
+      {
+        "id": 404,
+        "wordId": 3065,
+        "arabic": "التَّمَنِّي",
+        "english": "Desire(V)",
+        "russian": "Желание(V)",
+        "voiceKey": "verbs_3_3065"
+      },
+      {
+        "id": 405,
+        "wordId": 3066,
+        "arabic": "تَأَنَّى",
+        "english": "Medlil(V) [past tense]",
+        "russian": "Медлил(V)",
+        "voiceKey": "verbs_3_3066"
+      },
+      {
+        "id": 406,
+        "wordId": 3067,
+        "arabic": "يَتَأَنَّى",
+        "english": "Slow(V) [now]",
+        "russian": "Медлит(V)",
+        "voiceKey": "verbs_3_3067"
+      },
+      {
+        "id": 407,
+        "wordId": 3068,
+        "arabic": "تَأَنَّ",
+        "english": "Slower(V)",
+        "russian": "Медленней(V)",
+        "voiceKey": "verbs_3_3068"
+      },
+      {
+        "id": 408,
+        "wordId": 3069,
+        "arabic": "تَأَنٍّ",
+        "english": "Slowness(V)",
+        "russian": "Медленность(V)",
+        "voiceKey": "verbs_3_3069"
+      },
+      {
+        "id": 409,
+        "wordId": 3070,
+        "arabic": "التَّأَنِّي",
+        "english": "Slowness(V)",
+        "russian": "Медленность(V)",
+        "voiceKey": "verbs_3_3070"
+      },
+      {
+        "id": 410,
+        "wordId": 3071,
+        "arabic": "تَزَوَّجَ",
+        "english": "Married(V)",
+        "russian": "Женился(V)",
+        "voiceKey": "verbs_3_3071"
+      },
+      {
+        "id": 411,
+        "wordId": 3072,
+        "arabic": "يَتَزَوَّجُ",
+        "english": "Marry(V)",
+        "russian": "Жениться(V)",
+        "voiceKey": "verbs_3_3072"
+      },
+      {
+        "id": 412,
+        "wordId": 3073,
+        "arabic": "تَزَوَّجْ",
+        "english": "Get married(V)",
+        "russian": "Женись(V)",
+        "voiceKey": "verbs_3_3073"
+      },
+      {
+        "id": 413,
+        "wordId": 3074,
+        "arabic": "تَزَوُّجٌ",
+        "english": "Marriage(V)",
+        "russian": "Женитьба(V)",
+        "voiceKey": "verbs_3_3074"
+      },
+      {
+        "id": 414,
+        "wordId": 3075,
+        "arabic": "مُتَزَوِّجٌ",
+        "english": "Married(V)",
+        "russian": "Женатый(V)",
+        "voiceKey": "verbs_3_3075"
+      },
+      {
+        "id": 415,
+        "wordId": 3076,
+        "arabic": "تَخَلَّفَ",
+        "english": "Lagged behind(V)",
+        "russian": "Отставал(V)",
+        "voiceKey": "verbs_3_3076"
+      },
+      {
+        "id": 416,
+        "wordId": 3077,
+        "arabic": "يَتَخَلَّفُ",
+        "english": "Falling behind(V)",
+        "russian": "Отстаёт(V)",
+        "voiceKey": "verbs_3_3077"
+      },
+      {
+        "id": 417,
+        "wordId": 3078,
+        "arabic": "تَخَلَّفْ",
+        "english": "Leave me alone(V)",
+        "russian": "Отстань(V)",
+        "voiceKey": "verbs_3_3078"
+      },
+      {
+        "id": 418,
+        "wordId": 3079,
+        "arabic": "تَخَلُّفٌ",
+        "english": "Backwardness(V)",
+        "russian": "Отсталость(V)",
+        "voiceKey": "verbs_3_3079"
+      },
+      {
+        "id": 419,
+        "wordId": 3080,
+        "arabic": "مُتَخَلِّفٌ",
+        "english": "Lagging(V)",
+        "russian": "Отстающий(V)",
+        "voiceKey": "verbs_3_3080"
+      },
+      {
+        "id": 420,
+        "wordId": 3081,
+        "arabic": "تَوَفَّقَ",
+        "english": "Had success",
+        "russian": "Имел успех",
+        "voiceKey": "verbs_3_3081"
+      },
+      {
+        "id": 421,
+        "wordId": 3082,
+        "arabic": "يَتَوَفَّقُ",
+        "english": "Has success",
+        "russian": "Имеет успех",
+        "voiceKey": "verbs_3_3082"
+      },
+      {
+        "id": 422,
+        "wordId": 3083,
+        "arabic": "تَوَفَّقْ",
+        "english": "Have success",
+        "russian": "Имей успех",
+        "voiceKey": "verbs_3_3083"
+      },
+      {
+        "id": 423,
+        "wordId": 3084,
+        "arabic": "تَوَفُّقٌ",
+        "english": "Success",
+        "russian": "Успех",
+        "voiceKey": "verbs_3_3084"
+      },
+      {
+        "id": 424,
+        "wordId": 3085,
+        "arabic": "مُتَوَفِّقٌ",
+        "english": "Having success",
+        "russian": "Имеющий успех",
+        "voiceKey": "verbs_3_3085"
+      },
+      {
+        "id": 425,
+        "wordId": 3086,
+        "arabic": "تَقَبَّلَ",
+        "english": "Accepts (past tense",
+        "russian": "Принимал",
+        "voiceKey": "verbs_3_3086"
+      },
+      {
+        "id": 426,
+        "wordId": 3087,
+        "arabic": "يَتَقَبَّلُ",
+        "english": "Accepts",
+        "russian": "Принимает",
+        "voiceKey": "verbs_3_3087"
+      },
+      {
+        "id": 427,
+        "wordId": 3088,
+        "arabic": "تَقَبَّلْ",
+        "english": "Accept",
+        "russian": "Принимай",
+        "voiceKey": "verbs_3_3088"
+      },
+      {
+        "id": 428,
+        "wordId": 3089,
+        "arabic": "تَقَبُّلٌ",
+        "english": "Reception",
+        "russian": "Приём",
+        "voiceKey": "verbs_3_3089"
+      },
+      {
+        "id": 429,
+        "wordId": 3090,
+        "arabic": "مُتَقَبِّلٌ",
+        "english": "Receiving",
+        "russian": "Принимающий",
+        "voiceKey": "verbs_3_3090"
+      },
+      {
+        "id": 430,
+        "wordId": 3091,
+        "arabic": "تَسَلَّقَ",
+        "english": "Climbed up",
+        "russian": "Взобрался",
+        "voiceKey": "verbs_3_3091"
+      },
+      {
+        "id": 431,
+        "wordId": 3092,
+        "arabic": "يَتَسَلَّقُ",
+        "english": "Climbs",
+        "russian": "Взбирается",
+        "voiceKey": "verbs_3_3092"
+      },
+      {
+        "id": 432,
+        "wordId": 3093,
+        "arabic": "تَسَلَّقْ",
+        "english": "Climb up",
+        "russian": "Взберись",
+        "voiceKey": "verbs_3_3093"
+      },
+      {
+        "id": 433,
+        "wordId": 3094,
+        "arabic": "تَسَلُّقٌ",
+        "english": "Climbing",
+        "russian": "Взбирание",
+        "voiceKey": "verbs_3_3094"
+      },
+      {
+        "id": 434,
+        "wordId": 3095,
+        "arabic": "مُتَسَلِّقٌ",
+        "english": "Climber",
+        "russian": "Альпинист",
+        "voiceKey": "verbs_3_3095"
+      },
+      {
+        "id": 435,
+        "wordId": 3096,
+        "arabic": "تَوَفَّي",
+        "english": "Died",
+        "russian": "Умер",
+        "voiceKey": "verbs_3_3096"
+      },
+      {
+        "id": 436,
+        "wordId": 3097,
+        "arabic": "يَتَوَفَّي",
+        "english": "Dies",
+        "russian": "Умирает",
+        "voiceKey": "verbs_3_3097"
+      },
+      {
+        "id": 437,
+        "wordId": 3098,
+        "arabic": "تَوَفَّ",
+        "english": "Die",
+        "russian": "Умри",
+        "voiceKey": "verbs_3_3098"
+      },
+      {
+        "id": 438,
+        "wordId": 3099,
+        "arabic": "تَوَفٍّ",
+        "english": "Death",
+        "russian": "Смерть",
+        "voiceKey": "verbs_3_3099"
+      },
+      {
+        "id": 439,
+        "wordId": 3100,
+        "arabic": "التَّوَفِّي",
+        "english": "Death",
+        "russian": "Смерть",
+        "voiceKey": "verbs_3_3100"
+      },
+      {
+        "id": 440,
+        "wordId": 3101,
+        "arabic": "تَنَفَّسَ",
+        "english": "Breathed",
+        "russian": "Дышал",
+        "voiceKey": "verbs_3_3101"
+      },
+      {
+        "id": 441,
+        "wordId": 3102,
+        "arabic": "يَتَنَفَّسُ",
+        "english": "Breathes",
+        "russian": "Дышит",
+        "voiceKey": "verbs_3_3102"
+      },
+      {
+        "id": 442,
+        "wordId": 3103,
+        "arabic": "تَنَفَّسْ",
+        "english": "Breathe",
+        "russian": "Дыши",
+        "voiceKey": "verbs_3_3103"
+      },
+      {
+        "id": 443,
+        "wordId": 3104,
+        "arabic": "تَنَفُّسٌ",
+        "english": "Breath",
+        "russian": "Дыхание",
+        "voiceKey": "verbs_3_3104"
+      },
+      {
+        "id": 444,
+        "wordId": 3105,
+        "arabic": "مُتَنَفِّسٌ",
+        "english": "Breathing",
+        "russian": "Дышащий",
+        "voiceKey": "verbs_3_3105"
+      },
+      {
+        "id": 445,
+        "wordId": 3106,
+        "arabic": "تَخَرَّجَ",
+        "english": "Graduated",
+        "russian": "Выпустился",
+        "voiceKey": "verbs_3_3106"
+      },
+      {
+        "id": 446,
+        "wordId": 3107,
+        "arabic": "يَتَخَرَّجُ",
+        "english": "Issued",
+        "russian": "Выпускается",
+        "voiceKey": "verbs_3_3107"
+      },
+      {
+        "id": 447,
+        "wordId": 3108,
+        "arabic": "تَخَرَّجْ",
+        "english": "Release",
+        "russian": "Выпусти",
+        "voiceKey": "verbs_3_3108"
+      },
+      {
+        "id": 448,
+        "wordId": 3109,
+        "arabic": "تَخَرُّجٌ",
+        "english": "High school graduation",
+        "russian": "Выпускной",
+        "voiceKey": "verbs_3_3109"
+      },
+      {
+        "id": 449,
+        "wordId": 3110,
+        "arabic": "متَخَرِّجٌ",
+        "english": "Graduate",
+        "russian": "Выпускник",
+        "voiceKey": "verbs_3_3110"
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "wordId": 4001,
+        "arabic": "تَنَاوَلَ",
+        "english": "Accepted(VI)",
+        "russian": "Принял(VI)",
+        "voiceKey": "verbs_4_4001"
+      },
+      {
+        "id": 2,
+        "wordId": 4002,
+        "arabic": "يَتَنَاوَلُ",
+        "english": "Accepts(VI)",
+        "russian": "Принимает(VI)",
+        "voiceKey": "verbs_4_4002"
+      },
+      {
+        "id": 3,
+        "wordId": 4003,
+        "arabic": "تَنَاوَلْ",
+        "english": "Accept(VI)",
+        "russian": "Прими(VI)",
+        "voiceKey": "verbs_4_4003"
+      },
+      {
+        "id": 4,
+        "wordId": 4004,
+        "arabic": "تَنَاوُلٌ",
+        "english": "Acceptance(VI)",
+        "russian": "Принятие, прием(VI)",
+        "voiceKey": "verbs_4_4004"
+      },
+      {
+        "id": 5,
+        "wordId": 4005,
+        "arabic": "مُتَنَاوِلٌ",
+        "english": "In Reach(VI)",
+        "russian": "В досягаемости(VI)",
+        "voiceKey": "verbs_4_4005"
+      },
+      {
+        "id": 6,
+        "wordId": 4006,
+        "arabic": "تَعَاوَنَ",
+        "english": "Helped each other(pl)(VI)",
+        "russian": "Помогали друг другу(VI)",
+        "voiceKey": "verbs_4_4006"
+      },
+      {
+        "id": 7,
+        "wordId": 4007,
+        "arabic": "يَتَعَاوَنُ",
+        "english": "Help each other(pl)(VI)",
+        "russian": "Помогают друг другу(VI)",
+        "voiceKey": "verbs_4_4007"
+      },
+      {
+        "id": 8,
+        "wordId": 4008,
+        "arabic": "تَعَاوَنْ",
+        "english": "Help each other(VI)",
+        "russian": "Помогите друг другу(VI)",
+        "voiceKey": "verbs_4_4008"
+      },
+      {
+        "id": 9,
+        "wordId": 4009,
+        "arabic": "تَعَاوُنٌ",
+        "english": "Mutual Aid(VI)",
+        "russian": "Взаимопомощь(VI)",
+        "voiceKey": "verbs_4_4009"
+      },
+      {
+        "id": 10,
+        "wordId": 4010,
+        "arabic": "مُتَعَاوِنٌ",
+        "english": "Helping each other(pl)(VI)",
+        "russian": "Помогающие друг другу(VI)",
+        "voiceKey": "verbs_4_4010"
+      },
+      {
+        "id": 11,
+        "wordId": 4011,
+        "arabic": "تَسَاءَلَ",
+        "english": "Questioned each other(pl)(VI)",
+        "russian": "Расспрашивали друг друга(VI)",
+        "voiceKey": "verbs_4_4011"
+      },
+      {
+        "id": 12,
+        "wordId": 4012,
+        "arabic": "يَتَسَاءَلُ",
+        "english": "Question each other(pl)(VI)",
+        "russian": "Расспрашивают друг друга(VI)",
+        "voiceKey": "verbs_4_4012"
+      },
+      {
+        "id": 13,
+        "wordId": 4013,
+        "arabic": "تَسَاءَلْ",
+        "english": "Ask each other(pl)(VI)",
+        "russian": "Расспрашивайте друг друга(VI)",
+        "voiceKey": "verbs_4_4013"
+      },
+      {
+        "id": 14,
+        "wordId": 4014,
+        "arabic": "تَسَاؤُلٌ",
+        "english": "Questioning(VI)",
+        "russian": "Расспрашивание(VI)",
+        "voiceKey": "verbs_4_4014"
+      },
+      {
+        "id": 15,
+        "wordId": 4015,
+        "arabic": "مُتَسَاءِلٌ",
+        "english": "Questioning each other(VI)",
+        "russian": "Расспрашивающие друг друга(VI)",
+        "voiceKey": "verbs_4_4015"
+      },
+      {
+        "id": 16,
+        "wordId": 4016,
+        "arabic": "تَشَاجَرَ",
+        "english": "Swear(pl, past tense)(VI)",
+        "russian": "Ругались(VI)",
+        "voiceKey": "verbs_4_4016"
+      },
+      {
+        "id": 17,
+        "wordId": 4017,
+        "arabic": "يَتَشَاجَرُ",
+        "english": "Swear(pl, now)(VI)",
+        "russian": "Ругаются(VI)",
+        "voiceKey": "verbs_4_4017"
+      },
+      {
+        "id": 18,
+        "wordId": 4018,
+        "arabic": "تَشَاجَرْ",
+        "english": "Swear(VI)",
+        "russian": "Ругайтесь(VI)",
+        "voiceKey": "verbs_4_4018"
+      },
+      {
+        "id": 19,
+        "wordId": 4019,
+        "arabic": "تَشَاجُرٌ",
+        "english": "Mutual swearing(VI)",
+        "russian": "Взаимная ругань(VI)",
+        "voiceKey": "verbs_4_4019"
+      },
+      {
+        "id": 20,
+        "wordId": 4020,
+        "arabic": "مُتَشَاجِرٌ",
+        "english": "Swearing(VI)",
+        "russian": "Ругающиеся(VI)",
+        "voiceKey": "verbs_4_4020"
+      },
+      {
+        "id": 21,
+        "wordId": 4021,
+        "arabic": "تَعَامَى",
+        "english": "Played blind(VI)",
+        "russian": "Притворялся слепым(VI)",
+        "voiceKey": "verbs_4_4021"
+      },
+      {
+        "id": 22,
+        "wordId": 4022,
+        "arabic": "يَتَعَامَى",
+        "english": "Pretending to be blind(VI)",
+        "russian": "Притворяется слепым(VI)",
+        "voiceKey": "verbs_4_4022"
+      },
+      {
+        "id": 23,
+        "wordId": 4023,
+        "arabic": "تَعَامَ",
+        "english": "Pretending to be blind(VI) [future tense]",
+        "russian": "Притворись слепым(VI)",
+        "voiceKey": "verbs_4_4023"
+      },
+      {
+        "id": 24,
+        "wordId": 4024,
+        "arabic": "تَعَامٍ",
+        "english": "Simulate Blindness(VI)",
+        "russian": "Симуляция слепоты(VI)",
+        "voiceKey": "verbs_4_4024"
+      },
+      {
+        "id": 25,
+        "wordId": 4025,
+        "arabic": "تَفَاءَلَ",
+        "english": "Supposed the best(VI)",
+        "russian": "Предполагал лучшее(VI)",
+        "voiceKey": "verbs_4_4025"
+      },
+      {
+        "id": 26,
+        "wordId": 4026,
+        "arabic": "يَتَفَاءَلُ",
+        "english": "Offers the best(VI)",
+        "russian": "Предлагает лучшее(VI)",
+        "voiceKey": "verbs_4_4026"
+      },
+      {
+        "id": 27,
+        "wordId": 4027,
+        "arabic": "تَفَاءَلْ",
+        "english": "Suggest the best(VI)",
+        "russian": "Предложи лучшее(VI)",
+        "voiceKey": "verbs_4_4027"
+      },
+      {
+        "id": 28,
+        "wordId": 4028,
+        "arabic": "تَفَاءُلٌ",
+        "english": "Better Offer(VI)",
+        "russian": "Предложение лучшего(VI)",
+        "voiceKey": "verbs_4_4028"
+      },
+      {
+        "id": 29,
+        "wordId": 4029,
+        "arabic": "مُتَفَائِلٌ",
+        "english": "Optimist(VI)",
+        "russian": "Оптимист(VI)",
+        "voiceKey": "verbs_4_4029"
+      },
+      {
+        "id": 30,
+        "wordId": 4030,
+        "arabic": "تَشَاءَمَ",
+        "english": "Assumed the worst(VI)",
+        "russian": "Предполагал худшее(VI)",
+        "voiceKey": "verbs_4_4030"
+      },
+      {
+        "id": 31,
+        "wordId": 4031,
+        "arabic": "يَتَشَاءَمُ",
+        "english": "Suggests the worst(VI)",
+        "russian": "Предлагает худшее(VI)",
+        "voiceKey": "verbs_4_4031"
+      },
+      {
+        "id": 32,
+        "wordId": 4032,
+        "arabic": "تَشَاءَمْ",
+        "english": "Suggest Worst(VI)",
+        "russian": "Предложи худшее(VI)",
+        "voiceKey": "verbs_4_4032"
+      },
+      {
+        "id": 33,
+        "wordId": 4033,
+        "arabic": "تَشَاءُمٌ",
+        "english": "Worst offer(VI)",
+        "russian": "Предложение худшее(VI)",
+        "voiceKey": "verbs_4_4033"
+      },
+      {
+        "id": 34,
+        "wordId": 4034,
+        "arabic": "مُتَشَائِمٌ",
+        "english": "Pessimist(VI)",
+        "russian": "Пессимист(VI)",
+        "voiceKey": "verbs_4_4034"
+      },
+      {
+        "id": 35,
+        "wordId": 4035,
+        "arabic": "تَكَاسَلَ",
+        "english": "Lazy(VI) [past tense]",
+        "russian": "Ленился(VI)",
+        "voiceKey": "verbs_4_4035"
+      },
+      {
+        "id": 36,
+        "wordId": 4036,
+        "arabic": "يَتَكَاسَلُ",
+        "english": "Being lazy(VI) [to do something]",
+        "russian": "Ленится(VI)",
+        "voiceKey": "verbs_4_4036"
+      },
+      {
+        "id": 37,
+        "wordId": 4037,
+        "arabic": "تَكَاسَلْ",
+        "english": "Be lazy(VI)",
+        "russian": "Ленись(VI)",
+        "voiceKey": "verbs_4_4037"
+      },
+      {
+        "id": 38,
+        "wordId": 4038,
+        "arabic": "تَكَاسُلٌ",
+        "english": "Sloth(VI)",
+        "russian": "Лень(VI)",
+        "voiceKey": "verbs_4_4038"
+      },
+      {
+        "id": 39,
+        "wordId": 4039,
+        "arabic": "مُتَكَاسِلٌ",
+        "english": "Sluggish(VI)",
+        "russian": "Обленившийся(VI)",
+        "voiceKey": "verbs_4_4039"
+      },
+      {
+        "id": 40,
+        "wordId": 4040,
+        "arabic": "تَثَاءَبَ",
+        "english": "Yawn(past tense)(VI)",
+        "russian": "Зевал(VI)",
+        "voiceKey": "verbs_4_4040"
+      },
+      {
+        "id": 41,
+        "wordId": 4041,
+        "arabic": "يَتَثَاءَبُ",
+        "english": "Yawns(VI)",
+        "russian": "Зевает(VI)",
+        "voiceKey": "verbs_4_4041"
+      },
+      {
+        "id": 42,
+        "wordId": 4042,
+        "arabic": "تَثَاءَبْ",
+        "english": "Yawn(VI)",
+        "russian": "Зевай(VI)",
+        "voiceKey": "verbs_4_4042"
+      },
+      {
+        "id": 43,
+        "wordId": 4043,
+        "arabic": "تَثَاءُبٌ",
+        "english": "Yawning(VI)",
+        "russian": "Зевание(VI)",
+        "voiceKey": "verbs_4_4043"
+      },
+      {
+        "id": 44,
+        "wordId": 4044,
+        "arabic": "مُتَثَاءِبٌ",
+        "english": "Yawning(VI) [someone]",
+        "russian": "Зевающий(VI)",
+        "voiceKey": "verbs_4_4044"
+      },
+      {
+        "id": 45,
+        "wordId": 4045,
+        "arabic": "تَنَابَزَ",
+        "english": "Called each other names(VI)",
+        "russian": "Обзывали друг-друга(VI)",
+        "voiceKey": "verbs_4_4045"
+      },
+      {
+        "id": 46,
+        "wordId": 4046,
+        "arabic": "يَتَنَابَزُ",
+        "english": "Call each other names(VI)",
+        "russian": "Обзывают друг друга(VI)",
+        "voiceKey": "verbs_4_4046"
+      },
+      {
+        "id": 47,
+        "wordId": 4047,
+        "arabic": "يتَنَابَزْ",
+        "english": "Call (command tone) each other(VI)",
+        "russian": "Обзывайте друг друга(VI)",
+        "voiceKey": "verbs_4_4047"
+      },
+      {
+        "id": 48,
+        "wordId": 4048,
+        "arabic": "تَنَابُزٌ",
+        "english": "Name calling(VI)",
+        "russian": "Обзывательство(VI)",
+        "voiceKey": "verbs_4_4048"
+      },
+      {
+        "id": 49,
+        "wordId": 4049,
+        "arabic": "مُتَنَابِزٌ",
+        "english": "Name-calling(pl)(VI)",
+        "russian": "Обзывающиеся(VI)",
+        "voiceKey": "verbs_4_4049"
+      },
+      {
+        "id": 50,
+        "wordId": 4050,
+        "arabic": "تَصَافَحَ",
+        "english": "Shake hands(VI) [past tense]",
+        "russian": "Пожали друг другу руки(VI)",
+        "voiceKey": "verbs_4_4050"
+      },
+      {
+        "id": 51,
+        "wordId": 4051,
+        "arabic": "يَتَصَافَحُ",
+        "english": "Shake hands(VI)",
+        "russian": "Пожимают друг другу руки(VI)",
+        "voiceKey": "verbs_4_4051"
+      },
+      {
+        "id": 52,
+        "wordId": 4052,
+        "arabic": "تَصَافَحْ",
+        "english": "Shake hands(VI) [command tone]",
+        "russian": "Пожмите руки(VI)",
+        "voiceKey": "verbs_4_4052"
+      },
+      {
+        "id": 53,
+        "wordId": 4053,
+        "arabic": "تَصَافُحٌ",
+        "english": "Handshake(VI)",
+        "russian": "Рукопожатие(VI)",
+        "voiceKey": "verbs_4_4053"
+      },
+      {
+        "id": 54,
+        "wordId": 4054,
+        "arabic": "مُتَصَافِحٌ",
+        "english": "Shaking hands(VI)",
+        "russian": "Обменивающиеся рукопожатием(VI)",
+        "voiceKey": "verbs_4_4054"
+      },
+      {
+        "id": 55,
+        "wordId": 4055,
+        "arabic": "تَمَارَضَ",
+        "english": "Feigned sick(VI)",
+        "russian": "Притворялся больным(VI)",
+        "voiceKey": "verbs_4_4055"
+      },
+      {
+        "id": 56,
+        "wordId": 4056,
+        "arabic": "يَتَمَارَضُ",
+        "english": "Feigning sick(VI)",
+        "russian": "Притворяется больным(VI)",
+        "voiceKey": "verbs_4_4056"
+      },
+      {
+        "id": 57,
+        "wordId": 4057,
+        "arabic": "تَمَارَضْ",
+        "english": "Play sick(VI)",
+        "russian": "Притворись больным(VI)",
+        "voiceKey": "verbs_4_4057"
+      },
+      {
+        "id": 58,
+        "wordId": 4058,
+        "arabic": "تَمَارُضٌ",
+        "english": "Simulation of the disease(VI)",
+        "russian": "Симуляция болезни(VI)",
+        "voiceKey": "verbs_4_4058"
+      },
+      {
+        "id": 59,
+        "wordId": 4059,
+        "arabic": "مُتَمَارِضٌ",
+        "english": "Pretender, Simulator(VI)",
+        "russian": "Притворщик, симулянт(VI)",
+        "voiceKey": "verbs_4_4059"
+      },
+      {
+        "id": 60,
+        "wordId": 4060,
+        "arabic": "تَبَاكَي",
+        "english": "Feigned to cry(VI)",
+        "russian": "Притворялся плачущим(VI)",
+        "voiceKey": "verbs_4_4060"
+      },
+      {
+        "id": 61,
+        "wordId": 4061,
+        "arabic": "يَتَبَاكَي",
+        "english": "Pretending to cry(VI)",
+        "russian": "Притворяется плачущим(VI)",
+        "voiceKey": "verbs_4_4061"
+      },
+      {
+        "id": 62,
+        "wordId": 4062,
+        "arabic": "تَبَاكَ",
+        "english": "Pretend to cry(VI)",
+        "russian": "Притворись плачущим(VI)",
+        "voiceKey": "verbs_4_4062"
+      },
+      {
+        "id": 63,
+        "wordId": 4063,
+        "arabic": "تَبَاكٍ",
+        "english": "Cry Simulation(VI)",
+        "russian": "Симуляция плача(VI)",
+        "voiceKey": "verbs_4_4063"
+      },
+      {
+        "id": 64,
+        "wordId": 4064,
+        "arabic": "مُتَبَاكِيٌ",
+        "english": "Weeping Simulator(VI)",
+        "russian": "Симулянт плача(VI)",
+        "voiceKey": "verbs_4_4064"
+      },
+      {
+        "id": 65,
+        "wordId": 4065,
+        "arabic": "تَصَدَّقَ",
+        "english": "Distributed alms(V)",
+        "russian": "Раздавал милостыню(V)",
+        "voiceKey": "verbs_4_4065"
+      },
+      {
+        "id": 66,
+        "wordId": 4066,
+        "arabic": "يَتَصَدَّقُ",
+        "english": "Distributing alms(V)",
+        "russian": "Раздаёт милостыню(V)",
+        "voiceKey": "verbs_4_4066"
+      },
+      {
+        "id": 67,
+        "wordId": 4067,
+        "arabic": "تَصَدَّقْ",
+        "english": "Distribute alms(V)",
+        "russian": "Раздай милостыню(V)",
+        "voiceKey": "verbs_4_4067"
+      },
+      {
+        "id": 68,
+        "wordId": 4068,
+        "arabic": "تَصَدُّقٌ",
+        "english": "Alms(V)",
+        "russian": "Подаяние(V)",
+        "voiceKey": "verbs_4_4068"
+      },
+      {
+        "id": 69,
+        "wordId": 4069,
+        "arabic": "مُتَصَدِّقٌ",
+        "english": "Beneficent(V)",
+        "russian": "Благодетельный(V)",
+        "voiceKey": "verbs_4_4069"
+      }
+    ],
+    "5": [
+      {
+        "id": 540,
+        "wordId": 5001,
+        "arabic": "اِنْكَسَرَ",
+        "english": "Broken",
+        "russian": "Сломался",
+        "voiceKey": "verbs_5_5001"
+      },
+      {
+        "id": 541,
+        "wordId": 5002,
+        "arabic": "يَنْكَسِرُ",
+        "english": "Breaks down",
+        "russian": "Ломается",
+        "voiceKey": "verbs_5_5002"
+      },
+      {
+        "id": 542,
+        "wordId": 5003,
+        "arabic": "اِنْكِسَارٌ",
+        "english": "Breaking",
+        "russian": "Поломка",
+        "voiceKey": "verbs_5_5003"
+      },
+      {
+        "id": 543,
+        "wordId": 5004,
+        "arabic": "مُنْكَسِرٌ",
+        "english": "Broken",
+        "russian": "Ломанный",
+        "voiceKey": "verbs_5_5004"
+      },
+      {
+        "id": 544,
+        "wordId": 5005,
+        "arabic": "اِنْفَتَحَ",
+        "english": "Opened",
+        "russian": "Открылся",
+        "voiceKey": "verbs_5_5005"
+      },
+      {
+        "id": 545,
+        "wordId": 5006,
+        "arabic": "يَنْفَتِحُ",
+        "english": "Opens",
+        "russian": "Открывается",
+        "voiceKey": "verbs_5_5006"
+      },
+      {
+        "id": 546,
+        "wordId": 5007,
+        "arabic": "اِنْفِتَاحٌ",
+        "english": "Opening",
+        "russian": "Открытие",
+        "voiceKey": "verbs_5_5007"
+      },
+      {
+        "id": 547,
+        "wordId": 5008,
+        "arabic": "مُنفَتِحٌ",
+        "english": "Open",
+        "russian": "Открытый",
+        "voiceKey": "verbs_5_5008"
+      },
+      {
+        "id": 548,
+        "wordId": 5009,
+        "arabic": "اِنْقَلَبَ",
+        "english": "Overturned",
+        "russian": "Перевернулся",
+        "voiceKey": "verbs_5_5009"
+      },
+      {
+        "id": 549,
+        "wordId": 5010,
+        "arabic": "يَنْقَلِبُ",
+        "english": "Flips over",
+        "russian": "Переворачивается",
+        "voiceKey": "verbs_5_5010"
+      },
+      {
+        "id": 550,
+        "wordId": 5011,
+        "arabic": "اِنْقِلَابٌ",
+        "english": "Upheaval",
+        "russian": "Переворот",
+        "voiceKey": "verbs_5_5011"
+      },
+      {
+        "id": 551,
+        "wordId": 5012,
+        "arabic": "مُنْقَلِبٌ",
+        "english": "Flipped over",
+        "russian": "Перевёрнутый",
+        "voiceKey": "verbs_5_5012"
+      },
+      {
+        "id": 552,
+        "wordId": 5013,
+        "arabic": "اِنْقَطَعَ",
+        "english": "Broke off (past tense)",
+        "russian": "Оборвался",
+        "voiceKey": "verbs_5_5013"
+      },
+      {
+        "id": 553,
+        "wordId": 5014,
+        "arabic": "يَنْقَطِعُ",
+        "english": "Breaks off",
+        "russian": "Обрывается",
+        "voiceKey": "verbs_5_5014"
+      },
+      {
+        "id": 554,
+        "wordId": 5015,
+        "arabic": "اِنْقِطَاعٌ",
+        "english": "Termination",
+        "russian": "Прекращение",
+        "voiceKey": "verbs_5_5015"
+      },
+      {
+        "id": 555,
+        "wordId": 5016,
+        "arabic": "مُنْقَطِعٌ",
+        "english": "Ragged",
+        "russian": "Оборванный",
+        "voiceKey": "verbs_5_5016"
+      },
+      {
+        "id": 556,
+        "wordId": 5017,
+        "arabic": "اِنْشَقَّ",
+        "english": "Splintered",
+        "russian": "Раскалывался",
+        "voiceKey": "verbs_5_5017"
+      },
+      {
+        "id": 557,
+        "wordId": 5018,
+        "arabic": "يَنْشَقُّ",
+        "english": "Is splitting apart",
+        "russian": "Раскалывается",
+        "voiceKey": "verbs_5_5018"
+      },
+      {
+        "id": 558,
+        "wordId": 5019,
+        "arabic": "اِنْشِقَاقٌ",
+        "english": "Split",
+        "russian": "Раскол",
+        "voiceKey": "verbs_5_5019"
+      },
+      {
+        "id": 559,
+        "wordId": 5020,
+        "arabic": "مُنْشَقٌّ",
+        "english": "Split",
+        "russian": "Расколотый",
+        "voiceKey": "verbs_5_5020"
+      },
+      {
+        "id": 560,
+        "wordId": 5021,
+        "arabic": "اِنْجَلَى",
+        "english": "Was revealed",
+        "russian": "Выявлялся",
+        "voiceKey": "verbs_5_5021"
+      },
+      {
+        "id": 561,
+        "wordId": 5022,
+        "arabic": "يَنْجَلِي",
+        "english": "Revealed",
+        "russian": "Выявляется",
+        "voiceKey": "verbs_5_5022"
+      },
+      {
+        "id": 562,
+        "wordId": 5023,
+        "arabic": "اِنْجِلَاءٌ",
+        "english": "Revealing",
+        "russian": "Выявление",
+        "voiceKey": "verbs_5_5023"
+      },
+      {
+        "id": 563,
+        "wordId": 5024,
+        "arabic": "مُنْجَلٍ",
+        "english": "Revealed (something)",
+        "russian": "Выявленный",
+        "voiceKey": "verbs_5_5024"
+      },
+      {
+        "id": 564,
+        "wordId": 5025,
+        "arabic": "اِنْصَرَفَ",
+        "english": "Declined in cases",
+        "russian": "Склонялся по падежам",
+        "voiceKey": "verbs_5_5025"
+      },
+      {
+        "id": 565,
+        "wordId": 5026,
+        "arabic": "يَنْصَرِفُ",
+        "english": "Declines in cases",
+        "russian": "Склоняется по падежам",
+        "voiceKey": "verbs_5_5026"
+      },
+      {
+        "id": 566,
+        "wordId": 5027,
+        "arabic": "اِنْصِرَافٌ",
+        "english": "Case declension",
+        "russian": "Склонение по падежам",
+        "voiceKey": "verbs_5_5027"
+      },
+      {
+        "id": 567,
+        "wordId": 5028,
+        "arabic": "مُنْصَرِفٌ",
+        "english": "Declension (something) by cases",
+        "russian": "Склоняемый по падежам",
+        "voiceKey": "verbs_5_5028"
+      },
+      {
+        "id": 568,
+        "wordId": 5029,
+        "arabic": "اِنْخَلَعَ",
+        "english": "Broke off (from something)",
+        "russian": "Откололся (от чего-то )",
+        "voiceKey": "verbs_5_5029"
+      },
+      {
+        "id": 569,
+        "wordId": 5030,
+        "arabic": "يَنْخَلِعُ",
+        "english": "Breaks off (from something)",
+        "russian": "Откалывается (от чего-то )",
+        "voiceKey": "verbs_5_5030"
+      },
+      {
+        "id": 570,
+        "wordId": 5031,
+        "arabic": "اِنْخِلَاعٌ",
+        "english": "Breaking away (from something)",
+        "russian": "Откалывание (от чего-то )",
+        "voiceKey": "verbs_5_5031"
+      },
+      {
+        "id": 571,
+        "wordId": 5032,
+        "arabic": "مُنْخَلِعٌ",
+        "english": "Broken off (from something)",
+        "russian": "Отколотый (от чего-то )",
+        "voiceKey": "verbs_5_5032"
+      },
+      {
+        "id": 572,
+        "wordId": 5033,
+        "arabic": "اِنْكَسَفَ",
+        "english": "Was eclipsed",
+        "russian": "Затмевался",
+        "voiceKey": "verbs_5_5033"
+      },
+      {
+        "id": 573,
+        "wordId": 5034,
+        "arabic": "يَنْكَسِفُ",
+        "english": "Eclipsed",
+        "russian": "Затмевается",
+        "voiceKey": "verbs_5_5034"
+      },
+      {
+        "id": 574,
+        "wordId": 5035,
+        "arabic": "اِنْكِسَافٌ",
+        "english": "Eclipse",
+        "russian": "Затмение",
+        "voiceKey": "verbs_5_5035"
+      },
+      {
+        "id": 575,
+        "wordId": 5036,
+        "arabic": "مُنْكَسِفٌ",
+        "english": "Eclipsed",
+        "russian": "Затменен",
+        "voiceKey": "verbs_5_5036"
+      },
+      {
+        "id": 576,
+        "wordId": 5037,
+        "arabic": "اِنْطَفَأَ",
+        "english": "Burned",
+        "russian": "Горел",
+        "voiceKey": "verbs_5_5037"
+      },
+      {
+        "id": 577,
+        "wordId": 5038,
+        "arabic": "يَنْطَفِأُ",
+        "english": "Lit",
+        "russian": "Горит",
+        "voiceKey": "verbs_5_5038"
+      },
+      {
+        "id": 578,
+        "wordId": 5039,
+        "arabic": "اِنْطِفاءٌ",
+        "english": "Combustion",
+        "russian": "Горение",
+        "voiceKey": "verbs_5_5039"
+      },
+      {
+        "id": 579,
+        "wordId": 5040,
+        "arabic": "مُنْطَفِئٌ",
+        "english": "Burnt out",
+        "russian": "Выгоренный",
+        "voiceKey": "verbs_5_5040"
+      },
+      {
+        "id": 580,
+        "wordId": 5041,
+        "arabic": "اِنْفَجَرَ",
+        "english": "Exploded",
+        "russian": "Взрывался",
+        "voiceKey": "verbs_5_5041"
+      },
+      {
+        "id": 581,
+        "wordId": 5042,
+        "arabic": "يَنْفَجِرُ",
+        "english": "Explodes",
+        "russian": "Взрывается",
+        "voiceKey": "verbs_5_5042"
+      },
+      {
+        "id": 582,
+        "wordId": 5043,
+        "arabic": "اِنْفِجَارٌ",
+        "english": "Explosion",
+        "russian": "Взрыв",
+        "voiceKey": "verbs_5_5043"
+      },
+      {
+        "id": 583,
+        "wordId": 5044,
+        "arabic": "مُنْفَجِرٌ",
+        "english": "Explosive",
+        "russian": "Взрывной",
+        "voiceKey": "verbs_5_5044"
+      },
+      {
+        "id": 584,
+        "wordId": 5045,
+        "arabic": "اِنْصَرَمَ",
+        "english": "Expired (about time)",
+        "russian": "Истекал (о времени)",
+        "voiceKey": "verbs_5_5045"
+      },
+      {
+        "id": 585,
+        "wordId": 5046,
+        "arabic": "يَنْصَرِمُ",
+        "english": "Expires (about time)",
+        "russian": "Истекает (о времени)",
+        "voiceKey": "verbs_5_5046"
+      },
+      {
+        "id": 586,
+        "wordId": 5047,
+        "arabic": "اِنْصِرَامٌ",
+        "english": "Expiration (about time)",
+        "russian": "Истечение (о времени)",
+        "voiceKey": "verbs_5_5047"
+      },
+      {
+        "id": 587,
+        "wordId": 5048,
+        "arabic": "مُنْصَرِمٌ",
+        "english": "Expired (about time) (past tense)",
+        "russian": "Истеченный (о времени)",
+        "voiceKey": "verbs_5_5048"
+      }
+    ],
+    "6": [
+      {
+        "id": 126,
+        "wordId": 6001,
+        "arabic": "اِنْتَظَرَ",
+        "english": "Expected",
+        "russian": "Ожидал",
+        "voiceKey": "verbs_6_6001"
+      },
+      {
+        "id": 127,
+        "wordId": 6002,
+        "arabic": "يَنْتَظِرُ",
+        "english": "Awaits",
+        "russian": "Ожидает",
+        "voiceKey": "verbs_6_6002"
+      },
+      {
+        "id": 128,
+        "wordId": 6003,
+        "arabic": "اِنتَظِرْ",
+        "english": "Wait",
+        "russian": "Ожидай",
+        "voiceKey": "verbs_6_6003"
+      },
+      {
+        "id": 129,
+        "wordId": 6004,
+        "arabic": "اِنْتِظَارٌ",
+        "english": "Expectation",
+        "russian": "Ожидание",
+        "voiceKey": "verbs_6_6004"
+      },
+      {
+        "id": 130,
+        "wordId": 6005,
+        "arabic": "مُنْتَظِرٌ",
+        "english": "Waiting",
+        "russian": "Ожидающий",
+        "voiceKey": "verbs_6_6005"
+      },
+      {
+        "id": 131,
+        "wordId": 6006,
+        "arabic": "اِشْتَرَكَ",
+        "english": "Participated",
+        "russian": "Участвовал",
+        "voiceKey": "verbs_6_6006"
+      },
+      {
+        "id": 132,
+        "wordId": 6007,
+        "arabic": "يَشْتَرِكُ",
+        "english": "Participates",
+        "russian": "Участвует",
+        "voiceKey": "verbs_6_6007"
+      },
+      {
+        "id": 133,
+        "wordId": 6008,
+        "arabic": "اِشْتَرِكْ",
+        "english": "Participate",
+        "russian": "Участвуй",
+        "voiceKey": "verbs_6_6008"
+      },
+      {
+        "id": 134,
+        "wordId": 6009,
+        "arabic": "اِشْتِرَاكٌ",
+        "english": "Participation",
+        "russian": "Участие",
+        "voiceKey": "verbs_6_6009"
+      },
+      {
+        "id": 135,
+        "wordId": 6010,
+        "arabic": "مُشْتَرِكٌ",
+        "english": "Participating",
+        "russian": "Участвующий",
+        "voiceKey": "verbs_6_6010"
+      },
+      {
+        "id": 136,
+        "wordId": 6011,
+        "arabic": "اِمْتَحَنَ",
+        "english": "Examined",
+        "russian": "Экзаменовал",
+        "voiceKey": "verbs_6_6011"
+      },
+      {
+        "id": 137,
+        "wordId": 6012,
+        "arabic": "يَمْتَحِنُ",
+        "english": "Examines",
+        "russian": "Экзаменует",
+        "voiceKey": "verbs_6_6012"
+      },
+      {
+        "id": 138,
+        "wordId": 6013,
+        "arabic": "اِمْتَحِنْ",
+        "english": "Examine",
+        "russian": "Экзаменуй",
+        "voiceKey": "verbs_6_6013"
+      },
+      {
+        "id": 139,
+        "wordId": 6014,
+        "arabic": "اِمْتِحَانٌ",
+        "english": "Exam",
+        "russian": "Экзамен",
+        "voiceKey": "verbs_6_6014"
+      },
+      {
+        "id": 140,
+        "wordId": 6015,
+        "arabic": "مُمْتَحِنٌ",
+        "english": "Examiner",
+        "russian": "Экзаменатор",
+        "voiceKey": "verbs_6_6015"
+      },
+      {
+        "id": 141,
+        "wordId": 6016,
+        "arabic": "اِجْتَمَعَ",
+        "english": "Were going",
+        "russian": "Собирались",
+        "voiceKey": "verbs_6_6016"
+      },
+      {
+        "id": 142,
+        "wordId": 6017,
+        "arabic": "يَجْتَمِعُ",
+        "english": "Are going",
+        "russian": "Собираются",
+        "voiceKey": "verbs_6_6017"
+      },
+      {
+        "id": 143,
+        "wordId": 6018,
+        "arabic": "اِجْتَمِعْ",
+        "english": "Are you going (somewhere)",
+        "russian": "Собираетесь",
+        "voiceKey": "verbs_6_6018"
+      },
+      {
+        "id": 144,
+        "wordId": 6019,
+        "arabic": "اِجْتِمَاعٌ",
+        "english": "Meeting",
+        "russian": "Собрание",
+        "voiceKey": "verbs_6_6019"
+      },
+      {
+        "id": 145,
+        "wordId": 6020,
+        "arabic": "مُجْتَمِعٌ",
+        "english": "Society",
+        "russian": "Общество",
+        "voiceKey": "verbs_6_6020"
+      },
+      {
+        "id": 146,
+        "wordId": 6021,
+        "arabic": "اِلْتَقَى",
+        "english": "Met",
+        "russian": "Встречал",
+        "voiceKey": "verbs_6_6021"
+      },
+      {
+        "id": 147,
+        "wordId": 6022,
+        "arabic": "يَلْتَقِي",
+        "english": "Meets",
+        "russian": "Встречается",
+        "voiceKey": "verbs_6_6022"
+      },
+      {
+        "id": 148,
+        "wordId": 6023,
+        "arabic": "اِلْتَقِ",
+        "english": "Meet (future tense)",
+        "russian": "Встреть",
+        "voiceKey": "verbs_6_6023"
+      },
+      {
+        "id": 149,
+        "wordId": 6024,
+        "arabic": "اِلْتِقَاءٌ",
+        "english": "Meeting",
+        "russian": "Встреча",
+        "voiceKey": "verbs_6_6024"
+      },
+      {
+        "id": 150,
+        "wordId": 6025,
+        "arabic": "مُلْتَقٍ",
+        "english": "Meeting",
+        "russian": "Встречающий",
+        "voiceKey": "verbs_6_6025"
+      },
+      {
+        "id": 151,
+        "wordId": 6026,
+        "arabic": "اِخْتَارَ",
+        "english": "Chose",
+        "russian": "Выбирал",
+        "voiceKey": "verbs_6_6026"
+      },
+      {
+        "id": 152,
+        "wordId": 6027,
+        "arabic": "يَخْتَارُ",
+        "english": "Chooses",
+        "russian": "Выбирает",
+        "voiceKey": "verbs_6_6027"
+      },
+      {
+        "id": 153,
+        "wordId": 6028,
+        "arabic": "اِخْتَرْ",
+        "english": "Choose",
+        "russian": "Выбирай",
+        "voiceKey": "verbs_6_6028"
+      },
+      {
+        "id": 154,
+        "wordId": 6029,
+        "arabic": "اِخْتِيَارٌ",
+        "english": "Freedom of choice",
+        "russian": "Свобода выбора",
+        "voiceKey": "verbs_6_6029"
+      },
+      {
+        "id": 155,
+        "wordId": 6030,
+        "arabic": "مُخْتَارٌ",
+        "english": "Having freedom of choice",
+        "russian": "Имеющий свободу выбора",
+        "voiceKey": "verbs_6_6030"
+      },
+      {
+        "id": 156,
+        "wordId": 6033,
+        "arabic": "اِنْتَظِرْ",
+        "english": "Wait",
+        "russian": "Жди",
+        "voiceKey": "verbs_6_6033"
+      },
+      {
+        "id": 157,
+        "wordId": 6036,
+        "arabic": "اِقْتَرَحَ",
+        "english": "Proposed",
+        "russian": "Предложил",
+        "voiceKey": "verbs_6_6036"
+      },
+      {
+        "id": 158,
+        "wordId": 6037,
+        "arabic": "يَقْتَرِحُ",
+        "english": "Proposes",
+        "russian": "Предлагает",
+        "voiceKey": "verbs_6_6037"
+      },
+      {
+        "id": 159,
+        "wordId": 6038,
+        "arabic": "اِقْتَرِحْ",
+        "english": "Suggest",
+        "russian": "Предложи",
+        "voiceKey": "verbs_6_6038"
+      },
+      {
+        "id": 160,
+        "wordId": 6039,
+        "arabic": "اِقْتِرَاحٌ",
+        "english": "Offer",
+        "russian": "Предложение",
+        "voiceKey": "verbs_6_6039"
+      },
+      {
+        "id": 161,
+        "wordId": 6040,
+        "arabic": "مُقْتَرِحٌ",
+        "english": "Offering",
+        "russian": "Предлагающий",
+        "voiceKey": "verbs_6_6040"
+      },
+      {
+        "id": 162,
+        "wordId": 6041,
+        "arabic": "اِتَّجَهَ",
+        "english": "Turned (to face)",
+        "russian": "Повернулся (лицом к)",
+        "voiceKey": "verbs_6_6041"
+      },
+      {
+        "id": 163,
+        "wordId": 6042,
+        "arabic": "يتَّجِهُ",
+        "english": "Turns (to face)",
+        "russian": "Поворачивается (лицом к)",
+        "voiceKey": "verbs_6_6042"
+      },
+      {
+        "id": 164,
+        "wordId": 6043,
+        "arabic": "اِتَّجِهْ",
+        "english": "Turn around (to face)",
+        "russian": "Повернись (лицом к)",
+        "voiceKey": "verbs_6_6043"
+      },
+      {
+        "id": 165,
+        "wordId": 6044,
+        "arabic": "اِتِّجَاهٌ",
+        "english": "Turning (facing to)",
+        "russian": "Поворачивании (лицом к)",
+        "voiceKey": "verbs_6_6044"
+      },
+      {
+        "id": 166,
+        "wordId": 6045,
+        "arabic": "مُتَّجِهٌ",
+        "english": "Turnable (facing)",
+        "russian": "Поворачивающийся (лицом к)",
+        "voiceKey": "verbs_6_6045"
+      },
+      {
+        "id": 167,
+        "wordId": 6046,
+        "arabic": "اِزْدَحَمَ",
+        "english": "Overcrowded (with people)",
+        "russian": "Переполненный (людьми)",
+        "voiceKey": "verbs_6_6046"
+      },
+      {
+        "id": 168,
+        "wordId": 6047,
+        "arabic": "يَزْدَحِمُ",
+        "english": "Overflowing (with people)",
+        "russian": "Переполняется (людьми)",
+        "voiceKey": "verbs_6_6047"
+      },
+      {
+        "id": 169,
+        "wordId": 6048,
+        "arabic": "اِزْدَحِمْ",
+        "english": "Fill (with people)",
+        "russian": "Наполни (людьми)",
+        "voiceKey": "verbs_6_6048"
+      },
+      {
+        "id": 170,
+        "wordId": 6049,
+        "arabic": "اِزْدِحَامٌ",
+        "english": "Tightness (by people)",
+        "russian": "Теснота (людьми)",
+        "voiceKey": "verbs_6_6049"
+      },
+      {
+        "id": 171,
+        "wordId": 6050,
+        "arabic": "مُزْدَحِمٌ",
+        "english": "Overcrowded, overflowing",
+        "russian": "Переполненный, битком набитый",
+        "voiceKey": "verbs_6_6050"
+      },
+      {
+        "id": 172,
+        "wordId": 6051,
+        "arabic": "اِنْتَقَلَ",
+        "english": "Moved",
+        "russian": "Переехал",
+        "voiceKey": "verbs_6_6051"
+      },
+      {
+        "id": 173,
+        "wordId": 6052,
+        "arabic": "يَنْتَقِلُ",
+        "english": "Moves",
+        "russian": "Переезжает",
+        "voiceKey": "verbs_6_6052"
+      },
+      {
+        "id": 174,
+        "wordId": 6053,
+        "arabic": "اِنْتَقِلْ",
+        "english": "Move",
+        "russian": "Переедь",
+        "voiceKey": "verbs_6_6053"
+      },
+      {
+        "id": 175,
+        "wordId": 6054,
+        "arabic": "اِنْتِقَالٌ",
+        "english": "Moving",
+        "russian": "Переезд",
+        "voiceKey": "verbs_6_6054"
+      },
+      {
+        "id": 176,
+        "wordId": 6055,
+        "arabic": "مُنْتَقِلٌ",
+        "english": "Moving (somewhere)",
+        "russian": "Переезжающий",
+        "voiceKey": "verbs_6_6055"
+      },
+      {
+        "id": 177,
+        "wordId": 6056,
+        "arabic": "اِجْتَنَبَ",
+        "english": "Shunned",
+        "russian": "Сторонился, избегал",
+        "voiceKey": "verbs_6_6056"
+      },
+      {
+        "id": 178,
+        "wordId": 6057,
+        "arabic": "يَجْتَنِبُ",
+        "english": "Eschews",
+        "russian": "Сторонится, избегает",
+        "voiceKey": "verbs_6_6057"
+      },
+      {
+        "id": 179,
+        "wordId": 6058,
+        "arabic": "اِجْتَنِبْ",
+        "english": "Get away, avoid",
+        "russian": "Посторонись, избеги",
+        "voiceKey": "verbs_6_6058"
+      },
+      {
+        "id": 180,
+        "wordId": 6059,
+        "arabic": "اِجْتِنَابٌ",
+        "english": "Avoidance",
+        "russian": "Избегание",
+        "voiceKey": "verbs_6_6059"
+      },
+      {
+        "id": 181,
+        "wordId": 6060,
+        "arabic": "مُجْتَنِبٌ",
+        "english": "Avoiding",
+        "russian": "Избегающий",
+        "voiceKey": "verbs_6_6060"
+      },
+      {
+        "id": 182,
+        "wordId": 6061,
+        "arabic": "اِغْتَابَ",
+        "english": "Slandered",
+        "russian": "Злословил, клеветал",
+        "voiceKey": "verbs_6_6061"
+      },
+      {
+        "id": 183,
+        "wordId": 6062,
+        "arabic": "يَغْتَابُ",
+        "english": "Backbiting (at someone)",
+        "russian": "Злословит, клевещет",
+        "voiceKey": "verbs_6_6062"
+      },
+      {
+        "id": 184,
+        "wordId": 6063,
+        "arabic": "اِغْتَبْ",
+        "english": "Slander",
+        "russian": "Злословь, клевещь",
+        "voiceKey": "verbs_6_6063"
+      },
+      {
+        "id": 185,
+        "wordId": 6064,
+        "arabic": "اِغْتِيَابٌ",
+        "english": "Slander",
+        "russian": "Злословие, клевета",
+        "voiceKey": "verbs_6_6064"
+      },
+      {
+        "id": 186,
+        "wordId": 6065,
+        "arabic": "مُغْتَابٌ",
+        "english": "Slanderer",
+        "russian": "Клеветник",
+        "voiceKey": "verbs_6_6065"
+      },
+      {
+        "id": 187,
+        "wordId": 6066,
+        "arabic": "اِكْتَفَي",
+        "english": "Restricted",
+        "russian": "Ограничился",
+        "voiceKey": "verbs_6_6066"
+      },
+      {
+        "id": 188,
+        "wordId": 6067,
+        "arabic": "يَكْتَفِي",
+        "english": "Limited",
+        "russian": "Ограничивается",
+        "voiceKey": "verbs_6_6067"
+      },
+      {
+        "id": 189,
+        "wordId": 6068,
+        "arabic": "اِكْتَفِ",
+        "english": "Restricted",
+        "russian": "Огранич",
+        "voiceKey": "verbs_6_6068"
+      },
+      {
+        "id": 190,
+        "wordId": 6069,
+        "arabic": "اِكْتِفَاءٌ",
+        "english": "Limitation",
+        "russian": "Ограничение",
+        "voiceKey": "verbs_6_6069"
+      },
+      {
+        "id": 191,
+        "wordId": 6070,
+        "arabic": "مُكْتَفٍ",
+        "english": "Limiting",
+        "russian": "Ограничивающий",
+        "voiceKey": "verbs_6_6070"
+      },
+      {
+        "id": 192,
+        "wordId": 6071,
+        "arabic": "اِقْتَرَبَ",
+        "english": "Approached (someone)",
+        "russian": "Приблизился",
+        "voiceKey": "verbs_6_6071"
+      },
+      {
+        "id": 193,
+        "wordId": 6072,
+        "arabic": "يَقْتَرِبُ",
+        "english": "Approaching (someone)",
+        "russian": "Приближается",
+        "voiceKey": "verbs_6_6072"
+      },
+      {
+        "id": 194,
+        "wordId": 6073,
+        "arabic": "اِقْتَرِبْ",
+        "english": "Zoom in",
+        "russian": "Приблизь",
+        "voiceKey": "verbs_6_6073"
+      },
+      {
+        "id": 195,
+        "wordId": 6074,
+        "arabic": "اِقْتِرَابٌ",
+        "english": "Approximation",
+        "russian": "Приближение",
+        "voiceKey": "verbs_6_6074"
+      },
+      {
+        "id": 196,
+        "wordId": 6075,
+        "arabic": "مُقْتَرِبٌ",
+        "english": "Approaching",
+        "russian": "Приближающийся",
+        "voiceKey": "verbs_6_6075"
+      },
+      {
+        "id": 197,
+        "wordId": 6076,
+        "arabic": "اِحْتَسَبَ",
+        "english": "Thought",
+        "russian": "Считал",
+        "voiceKey": "verbs_6_6076"
+      },
+      {
+        "id": 198,
+        "wordId": 6077,
+        "arabic": "يَحْتَسِبُ",
+        "english": "Considers",
+        "russian": "Считает",
+        "voiceKey": "verbs_6_6077"
+      },
+      {
+        "id": 199,
+        "wordId": 6078,
+        "arabic": "اِحْتَسِبْ",
+        "english": "Count",
+        "russian": "Считай",
+        "voiceKey": "verbs_6_6078"
+      },
+      {
+        "id": 200,
+        "wordId": 6079,
+        "arabic": "اِحْتِسَابٌ",
+        "english": "Arithmetic",
+        "russian": "Арифметика",
+        "voiceKey": "verbs_6_6079"
+      },
+      {
+        "id": 201,
+        "wordId": 6080,
+        "arabic": "مُحْتَسِبٌ",
+        "english": "Controller",
+        "russian": "Контролёр",
+        "voiceKey": "verbs_6_6080"
+      },
+      {
+        "id": 202,
+        "wordId": 6081,
+        "arabic": "اِضْطَرََّ",
+        "english": "Forced",
+        "russian": "Принуждал",
+        "voiceKey": "verbs_6_6081"
+      },
+      {
+        "id": 203,
+        "wordId": 6082,
+        "arabic": "يَضْطَرُّ",
+        "english": "Forces",
+        "russian": "Принуждает",
+        "voiceKey": "verbs_6_6082"
+      },
+      {
+        "id": 204,
+        "wordId": 6083,
+        "arabic": "اِضْطَرَّ",
+        "english": "Force",
+        "russian": "Принуди",
+        "voiceKey": "verbs_6_6083"
+      },
+      {
+        "id": 205,
+        "wordId": 6084,
+        "arabic": "اِضْطِرَار",
+        "english": "Compulsion",
+        "russian": "Принуждение",
+        "voiceKey": "verbs_6_6084"
+      },
+      {
+        "id": 206,
+        "wordId": 6085,
+        "arabic": "مُضْطِرٌّ",
+        "english": "Coercive",
+        "russian": "Принуждающий",
+        "voiceKey": "verbs_6_6085"
+      },
+      {
+        "id": 207,
+        "wordId": 6086,
+        "arabic": "اِفْتَرَقَ",
+        "english": "Parted",
+        "russian": "Расставался, расходился",
+        "voiceKey": "verbs_6_6086"
+      },
+      {
+        "id": 208,
+        "wordId": 6087,
+        "arabic": "يَفْتَرِقُ",
+        "english": "Breaks up",
+        "russian": "Расстаётся, расходится",
+        "voiceKey": "verbs_6_6087"
+      },
+      {
+        "id": 209,
+        "wordId": 6088,
+        "arabic": "اِفْتَرِقْ",
+        "english": "Break up",
+        "russian": "Расстанься, расходитесь",
+        "voiceKey": "verbs_6_6088"
+      },
+      {
+        "id": 210,
+        "wordId": 6089,
+        "arabic": "اِفْتِرَاقٌ",
+        "english": "Parting",
+        "russian": "Расставание, разделение",
+        "voiceKey": "verbs_6_6089"
+      },
+      {
+        "id": 211,
+        "wordId": 6090,
+        "arabic": "مُفْتَرِقٌ",
+        "english": "Distanced",
+        "russian": "Расстоющий, рассходящий,",
+        "voiceKey": "verbs_6_6090"
+      },
+      {
+        "id": 212,
+        "wordId": 6091,
+        "arabic": "اِرْتَفَعَ",
+        "english": "Rose",
+        "russian": "Поднимался",
+        "voiceKey": "verbs_6_6091"
+      },
+      {
+        "id": 213,
+        "wordId": 6092,
+        "arabic": "يرْتَفِعُ",
+        "english": "Rises",
+        "russian": "Поднимается",
+        "voiceKey": "verbs_6_6092"
+      },
+      {
+        "id": 214,
+        "wordId": 6093,
+        "arabic": "اِرْتَفِعْ",
+        "english": "Rise up",
+        "russian": "Поднимись",
+        "voiceKey": "verbs_6_6093"
+      },
+      {
+        "id": 215,
+        "wordId": 6094,
+        "arabic": "اِرْتِفَاعٌ",
+        "english": "Uplift",
+        "russian": "Поднятие",
+        "voiceKey": "verbs_6_6094"
+      },
+      {
+        "id": 216,
+        "wordId": 6095,
+        "arabic": "مُرْتَفِعٌ",
+        "english": "Rising",
+        "russian": "Поднимающийся",
+        "voiceKey": "verbs_6_6095"
+      },
+      {
+        "id": 217,
+        "wordId": 6096,
+        "arabic": "اِزْدَانَ",
+        "english": "Decorated",
+        "russian": "Украшал",
+        "voiceKey": "verbs_6_6096"
+      },
+      {
+        "id": 218,
+        "wordId": 6097,
+        "arabic": "يَزْدَانُ",
+        "english": "Decorates",
+        "russian": "Украшает",
+        "voiceKey": "verbs_6_6097"
+      },
+      {
+        "id": 219,
+        "wordId": 6098,
+        "arabic": "اِزْدَنْ",
+        "english": "Decorate",
+        "russian": "Укрась",
+        "voiceKey": "verbs_6_6098"
+      },
+      {
+        "id": 220,
+        "wordId": 6099,
+        "arabic": "اِزْدِيَانٌ",
+        "english": "Decoration",
+        "russian": "Украшение",
+        "voiceKey": "verbs_6_6099"
+      },
+      {
+        "id": 221,
+        "wordId": 6100,
+        "arabic": "مُزْدَانٌ",
+        "english": "Decorated (someone)",
+        "russian": "Украшенный",
+        "voiceKey": "verbs_6_6100"
+      },
+      {
+        "id": 222,
+        "wordId": 6101,
+        "arabic": "اِذَّكَرَ",
+        "english": "Remembered",
+        "russian": "Вспоминал",
+        "voiceKey": "verbs_6_6101"
+      },
+      {
+        "id": 223,
+        "wordId": 6102,
+        "arabic": "يَذَّكِرُ",
+        "english": "Recalls",
+        "russian": "Вспоминает",
+        "voiceKey": "verbs_6_6102"
+      },
+      {
+        "id": 224,
+        "wordId": 6103,
+        "arabic": "اِذَّكِرْ",
+        "english": "Remember",
+        "russian": "Вспомни",
+        "voiceKey": "verbs_6_6103"
+      },
+      {
+        "id": 225,
+        "wordId": 6104,
+        "arabic": "اِذِّكَارٌ",
+        "english": "Memories",
+        "russian": "Воспоминания",
+        "voiceKey": "verbs_6_6104"
+      },
+      {
+        "id": 226,
+        "wordId": 6105,
+        "arabic": "مُذَّكِرٌ",
+        "english": "Reminiscing",
+        "russian": "Вспоминающий",
+        "voiceKey": "verbs_6_6105"
+      },
+      {
+        "id": 227,
+        "wordId": 6106,
+        "arabic": "اِصْطَفَي",
+        "english": "Chose",
+        "russian": "Выбирал, избирал",
+        "voiceKey": "verbs_6_6106"
+      },
+      {
+        "id": 228,
+        "wordId": 6107,
+        "arabic": "يَصْطَفِي",
+        "english": "Chooses",
+        "russian": "Выбирает, избирает",
+        "voiceKey": "verbs_6_6107"
+      },
+      {
+        "id": 229,
+        "wordId": 6108,
+        "arabic": "اِصْطَفِ",
+        "english": "Choose",
+        "russian": "Выбери",
+        "voiceKey": "verbs_6_6108"
+      },
+      {
+        "id": 230,
+        "wordId": 6109,
+        "arabic": "اِصْطِفَاءٌ",
+        "english": "Choice; selection",
+        "russian": "Выбор; отбор",
+        "voiceKey": "verbs_6_6109"
+      },
+      {
+        "id": 231,
+        "wordId": 6110,
+        "arabic": "مُصْطَفٍ",
+        "english": "Chooser",
+        "russian": "Выбирающий",
+        "voiceKey": "verbs_6_6110"
+      },
+      {
+        "id": 232,
+        "wordId": 6111,
+        "arabic": "اِضْطَرَبَ",
+        "english": "Worried",
+        "russian": "Волновался",
+        "voiceKey": "verbs_6_6111"
+      },
+      {
+        "id": 233,
+        "wordId": 6112,
+        "arabic": "يَضْطَرِبُ",
+        "english": "Worried (someone)",
+        "russian": "Волнуется",
+        "voiceKey": "verbs_6_6112"
+      },
+      {
+        "id": 234,
+        "wordId": 6113,
+        "arabic": "اِضْطَرِبْ",
+        "english": "Worry",
+        "russian": "Волнуйся",
+        "voiceKey": "verbs_6_6113"
+      },
+      {
+        "id": 235,
+        "wordId": 6114,
+        "arabic": "اِضْطِرَابٌ",
+        "english": "Excitement",
+        "russian": "Волнение",
+        "voiceKey": "verbs_6_6114"
+      },
+      {
+        "id": 236,
+        "wordId": 6115,
+        "arabic": "مُضْطَرِبٌ",
+        "english": "Exciting",
+        "russian": "Волнующий",
+        "voiceKey": "verbs_6_6115"
+      },
+      {
+        "id": 237,
+        "wordId": 6116,
+        "arabic": "اِظَّلَمَ",
+        "english": "Was oppressed",
+        "russian": "Был притеснен",
+        "voiceKey": "verbs_6_6116"
+      },
+      {
+        "id": 238,
+        "wordId": 6117,
+        "arabic": "يَظَّلِمُ",
+        "english": "Oppressed",
+        "russian": "Притесняется",
+        "voiceKey": "verbs_6_6117"
+      },
+      {
+        "id": 239,
+        "wordId": 6118,
+        "arabic": "اِظَّلِمْ",
+        "english": "Oppress",
+        "russian": "Притесни",
+        "voiceKey": "verbs_6_6118"
+      },
+      {
+        "id": 240,
+        "wordId": 6119,
+        "arabic": "اِظِّلَامٌ",
+        "english": "Oppression",
+        "russian": "Притеснение",
+        "voiceKey": "verbs_6_6119"
+      },
+      {
+        "id": 241,
+        "wordId": 6120,
+        "arabic": "مُظَّلِمٌ",
+        "english": "Oppressive",
+        "russian": "Притесняющий",
+        "voiceKey": "verbs_6_6120"
+      },
+      {
+        "id": 242,
+        "wordId": 6121,
+        "arabic": "اِتَّصَلَ",
+        "english": "Connected, called",
+        "russian": "Соединился, звонил",
+        "voiceKey": "verbs_6_6121"
+      },
+      {
+        "id": 243,
+        "wordId": 6122,
+        "arabic": "يَتَّصِلُ",
+        "english": "Connecting, calling",
+        "russian": "Соединяется, звонит",
+        "voiceKey": "verbs_6_6122"
+      },
+      {
+        "id": 244,
+        "wordId": 6123,
+        "arabic": "اِتَّصِلْ",
+        "english": "Connect, call",
+        "russian": "Соединись, звони",
+        "voiceKey": "verbs_6_6123"
+      },
+      {
+        "id": 245,
+        "wordId": 6124,
+        "arabic": "اِتِّصَالٌ",
+        "english": "Connection, call",
+        "russian": "Соединение, звонок",
+        "voiceKey": "verbs_6_6124"
+      },
+      {
+        "id": 246,
+        "wordId": 6125,
+        "arabic": "مُتَّصِلٌ",
+        "english": "Connecting",
+        "russian": "Соединяющий, звонящий",
+        "voiceKey": "verbs_6_6125"
+      },
+      {
+        "id": 247,
+        "wordId": 6126,
+        "arabic": "اِتَّحَدَ",
+        "english": "United",
+        "russian": "Объединился",
+        "voiceKey": "verbs_6_6126"
+      },
+      {
+        "id": 248,
+        "wordId": 6127,
+        "arabic": "يَتَّحِدُ",
+        "english": "Unites",
+        "russian": "Объединяется",
+        "voiceKey": "verbs_6_6127"
+      },
+      {
+        "id": 249,
+        "wordId": 6128,
+        "arabic": "اِتَّحِدْ",
+        "english": "Unite",
+        "russian": "Объединись",
+        "voiceKey": "verbs_6_6128"
+      },
+      {
+        "id": 250,
+        "wordId": 6129,
+        "arabic": "اِتِّحَادٌ",
+        "english": "An association",
+        "russian": "Объединение",
+        "voiceKey": "verbs_6_6129"
+      },
+      {
+        "id": 251,
+        "wordId": 6130,
+        "arabic": "مُتَّحِدٌ",
+        "english": "Unifying",
+        "russian": "Объединяющий",
+        "voiceKey": "verbs_6_6130"
+      },
+      {
+        "id": 252,
+        "wordId": 6131,
+        "arabic": "اِتَّفَقَ",
+        "english": "Complied",
+        "russian": "Соответствовал",
+        "voiceKey": "verbs_6_6131"
+      },
+      {
+        "id": 253,
+        "wordId": 6132,
+        "arabic": "يَتَّفِقُ",
+        "english": "Corresponds",
+        "russian": "Соответствует",
+        "voiceKey": "verbs_6_6132"
+      },
+      {
+        "id": 254,
+        "wordId": 6133,
+        "arabic": "اِتَّفِقْ",
+        "english": "Fit",
+        "russian": "Соответствуй",
+        "voiceKey": "verbs_6_6133"
+      },
+      {
+        "id": 255,
+        "wordId": 6134,
+        "arabic": "اِتِّفَاقٌ",
+        "english": "Conformity",
+        "russian": "Соответствие",
+        "voiceKey": "verbs_6_6134"
+      },
+      {
+        "id": 256,
+        "wordId": 6135,
+        "arabic": "مُتَّفِقٌ",
+        "english": "Corresponding",
+        "russian": "Соответствующий",
+        "voiceKey": "verbs_6_6135"
+      },
+      {
+        "id": 257,
+        "wordId": 6136,
+        "arabic": "اِمْتَلأَ",
+        "english": "Filled",
+        "russian": "Наполнял",
+        "voiceKey": "verbs_6_6136"
+      },
+      {
+        "id": 258,
+        "wordId": 6137,
+        "arabic": "يَمْتَلِأُ",
+        "english": "Fills",
+        "russian": "Наполняет",
+        "voiceKey": "verbs_6_6137"
+      },
+      {
+        "id": 259,
+        "wordId": 6138,
+        "arabic": "اِمْتَلِأْ",
+        "english": "Fill",
+        "russian": "Наполни",
+        "voiceKey": "verbs_6_6138"
+      },
+      {
+        "id": 260,
+        "wordId": 6139,
+        "arabic": "اِمْتِلَاءٌ",
+        "english": "Filling (of something)",
+        "russian": "Наполнение",
+        "voiceKey": "verbs_6_6139"
+      },
+      {
+        "id": 261,
+        "wordId": 6140,
+        "arabic": "مُمْتَلِأٌ",
+        "english": "Filling",
+        "russian": "Наполняющий",
+        "voiceKey": "verbs_6_6140"
+      },
+      {
+        "id": 262,
+        "wordId": 6141,
+        "arabic": "اِسْتَمَعَ",
+        "english": "Listened to",
+        "russian": "Слушал",
+        "voiceKey": "verbs_6_6141"
+      },
+      {
+        "id": 263,
+        "wordId": 6142,
+        "arabic": "يَسْتَمِعُ",
+        "english": "Listens",
+        "russian": "Слушает",
+        "voiceKey": "verbs_6_6142"
+      },
+      {
+        "id": 264,
+        "wordId": 6143,
+        "arabic": "اِسْتَمِعْ",
+        "english": "Listen",
+        "russian": "Слушай",
+        "voiceKey": "verbs_6_6143"
+      },
+      {
+        "id": 265,
+        "wordId": 6144,
+        "arabic": "اِسْتِمَاعٌ",
+        "english": "Hearing",
+        "russian": "Слушание",
+        "voiceKey": "verbs_6_6144"
+      },
+      {
+        "id": 266,
+        "wordId": 6145,
+        "arabic": "مُسْتَمِعٌ",
+        "english": "Listening",
+        "russian": "Слушающий",
+        "voiceKey": "verbs_6_6145"
+      },
+      {
+        "id": 267,
+        "wordId": 6146,
+        "arabic": "اِبْتَسَمَ",
+        "english": "Smiled",
+        "russian": "Улыбался",
+        "voiceKey": "verbs_6_6146"
+      },
+      {
+        "id": 268,
+        "wordId": 6147,
+        "arabic": "يَبْتَسِمُ",
+        "english": "Smiling (to someone)",
+        "russian": "Улыбается",
+        "voiceKey": "verbs_6_6147"
+      },
+      {
+        "id": 269,
+        "wordId": 6148,
+        "arabic": "اِبْتَسِمْ",
+        "english": "Smile",
+        "russian": "Улыбнись",
+        "voiceKey": "verbs_6_6148"
+      },
+      {
+        "id": 270,
+        "wordId": 6149,
+        "arabic": "اِبْتِسَامٌ",
+        "english": "Smile",
+        "russian": "Улыбка",
+        "voiceKey": "verbs_6_6149"
+      },
+      {
+        "id": 271,
+        "wordId": 6150,
+        "arabic": "مُبْتَسِمٌ",
+        "english": "Smiling",
+        "russian": "Улыбающийся",
+        "voiceKey": "verbs_6_6150"
+      }
+    ],
+    "7": [
+      {
+        "id": 70,
+        "wordId": 7001,
+        "arabic": "اِحْمَرَّ",
+        "english": "Blushed(IX)",
+        "russian": "Покраснел(IX)",
+        "voiceKey": "verbs_7_7001"
+      },
+      {
+        "id": 71,
+        "wordId": 7002,
+        "arabic": "يَحْمَرُّ",
+        "english": "Will blush(IX)",
+        "russian": "Покраснеет(IX)",
+        "voiceKey": "verbs_7_7002"
+      },
+      {
+        "id": 72,
+        "wordId": 7003,
+        "arabic": "اِحْمِرَارٌ",
+        "english": "Redness(IX)",
+        "russian": "Покраснение(IX)",
+        "voiceKey": "verbs_7_7003"
+      },
+      {
+        "id": 73,
+        "wordId": 7004,
+        "arabic": "مُحْمَرٌّ",
+        "english": "Flushed(IX)",
+        "russian": "Покрасневший(IX)",
+        "voiceKey": "verbs_7_7004"
+      },
+      {
+        "id": 74,
+        "wordId": 7005,
+        "arabic": "اِصْفَرَّ",
+        "english": "Yellowed(IX)",
+        "russian": "Пожелтел(IX)",
+        "voiceKey": "verbs_7_7005"
+      },
+      {
+        "id": 75,
+        "wordId": 7006,
+        "arabic": "يَصْفَرُّ",
+        "english": "Will turn yellow(IX)",
+        "russian": "Пожелтеет(IX)",
+        "voiceKey": "verbs_7_7006"
+      },
+      {
+        "id": 76,
+        "wordId": 7007,
+        "arabic": "اِصْفِرَارٌ",
+        "english": "Yellowing(IX)",
+        "russian": "Пожелтение(IX)",
+        "voiceKey": "verbs_7_7007"
+      },
+      {
+        "id": 77,
+        "wordId": 7008,
+        "arabic": "مُصْفَرٌّ",
+        "english": "Yellowed(IX)",
+        "russian": "Пожелтевший(IX)",
+        "voiceKey": "verbs_7_7008"
+      },
+      {
+        "id": 78,
+        "wordId": 7009,
+        "arabic": "اِبْيَضَّ",
+        "english": "Whitened(IX)",
+        "russian": "Побелел(IX)",
+        "voiceKey": "verbs_7_7009"
+      },
+      {
+        "id": 79,
+        "wordId": 7010,
+        "arabic": "يَبْيَضُّ",
+        "english": "Will turn white(IX)",
+        "russian": "Побелеет(IX)",
+        "voiceKey": "verbs_7_7010"
+      },
+      {
+        "id": 80,
+        "wordId": 7011,
+        "arabic": "اِبْيِضَاضٌ",
+        "english": "Whitening(IX)",
+        "russian": "Побеление(IX)",
+        "voiceKey": "verbs_7_7011"
+      },
+      {
+        "id": 81,
+        "wordId": 7012,
+        "arabic": "مُبْيَضٌّ",
+        "english": "Whitened(IX)",
+        "russian": "Побелевший(IX)",
+        "voiceKey": "verbs_7_7012"
+      },
+      {
+        "id": 82,
+        "wordId": 7013,
+        "arabic": "اِسْوَدَّ",
+        "english": "Blackened(IX)",
+        "russian": "Почернел(IX)",
+        "voiceKey": "verbs_7_7013"
+      },
+      {
+        "id": 83,
+        "wordId": 7014,
+        "arabic": "يَسْوَدُّ",
+        "english": "Blacken(IX)",
+        "russian": "Почернеет(IX)",
+        "voiceKey": "verbs_7_7014"
+      },
+      {
+        "id": 84,
+        "wordId": 7015,
+        "arabic": "اِسْوِدَادٌ",
+        "english": "Blackening(IX)",
+        "russian": "Почернение(IX)",
+        "voiceKey": "verbs_7_7015"
+      },
+      {
+        "id": 85,
+        "wordId": 7016,
+        "arabic": "مُسْوَدٌّ",
+        "english": "Blackened(IX)",
+        "russian": "Почерневший(IX)",
+        "voiceKey": "verbs_7_7016"
+      },
+      {
+        "id": 86,
+        "wordId": 7017,
+        "arabic": "اِدْهَمَّ",
+        "english": "Turned black(IX) [someone]",
+        "russian": "Почернел(IX)",
+        "voiceKey": "verbs_7_7017"
+      },
+      {
+        "id": 87,
+        "wordId": 7018,
+        "arabic": "يَدْهَمُّ",
+        "english": "Will turn black(IX) [someone]",
+        "russian": "Почернеет(IX)",
+        "voiceKey": "verbs_7_7018"
+      },
+      {
+        "id": 88,
+        "wordId": 7019,
+        "arabic": "اِدْهِمَامٌ",
+        "english": "Blackening(IX) [of something]",
+        "russian": "Почернение(IX)",
+        "voiceKey": "verbs_7_7019"
+      },
+      {
+        "id": 89,
+        "wordId": 7020,
+        "arabic": "مُدْهَمٌّ",
+        "english": "Blackened(IX) [someone]",
+        "russian": "Почерневший(IX)",
+        "voiceKey": "verbs_7_7020"
+      },
+      {
+        "id": 90,
+        "wordId": 7021,
+        "arabic": "اِخْضَرَّ",
+        "english": "Turned green(IX)",
+        "russian": "Позеленел(IX)",
+        "voiceKey": "verbs_7_7021"
+      },
+      {
+        "id": 91,
+        "wordId": 7022,
+        "arabic": "يَخْضَرُّ",
+        "english": "Turns green(IX)",
+        "russian": "Зеленеет(IX)",
+        "voiceKey": "verbs_7_7022"
+      },
+      {
+        "id": 92,
+        "wordId": 7023,
+        "arabic": "اِخْضِرَارٌ",
+        "english": "Greening(IX)",
+        "russian": "Позеленение(IX)",
+        "voiceKey": "verbs_7_7023"
+      },
+      {
+        "id": 93,
+        "wordId": 7024,
+        "arabic": "مُخْضَرٌّ",
+        "english": "Greened(IX)",
+        "russian": "Позеленевший(IX)",
+        "voiceKey": "verbs_7_7024"
+      },
+      {
+        "id": 94,
+        "wordId": 7025,
+        "arabic": "اِعْوَجَّ",
+        "english": "Warped(IX)",
+        "russian": "Искривился(IX)",
+        "voiceKey": "verbs_7_7025"
+      },
+      {
+        "id": 95,
+        "wordId": 7026,
+        "arabic": "يَعْوَجُّ",
+        "english": "Warps(IX)",
+        "russian": "Искривляется(IX)",
+        "voiceKey": "verbs_7_7026"
+      },
+      {
+        "id": 96,
+        "wordId": 7027,
+        "arabic": "اِعْوِجَاجٌ",
+        "english": "Warp(IX)",
+        "russian": "Искривление(IX)",
+        "voiceKey": "verbs_7_7027"
+      },
+      {
+        "id": 97,
+        "wordId": 7028,
+        "arabic": "مُعْوَجٌّ",
+        "english": "Warped(IX)",
+        "russian": "Искривившийся(IX)",
+        "voiceKey": "verbs_7_7028"
+      },
+      {
+        "id": 98,
+        "wordId": 7029,
+        "arabic": "اِحْمَارَّ",
+        "english": "Blushed a lot(XI)",
+        "russian": "Сильно покраснел(XI)",
+        "voiceKey": "verbs_7_7029"
+      },
+      {
+        "id": 99,
+        "wordId": 7030,
+        "arabic": "يَحْمَارُّ",
+        "english": "Blushing intensely(XI)",
+        "russian": "Сильно краснеет(XI)",
+        "voiceKey": "verbs_7_7030"
+      },
+      {
+        "id": 100,
+        "wordId": 7031,
+        "arabic": "اِحْمِيرَارٌ",
+        "english": "Severe redness(XI)",
+        "russian": "Сильное покраснение(XI)",
+        "voiceKey": "verbs_7_7031"
+      },
+      {
+        "id": 101,
+        "wordId": 7032,
+        "arabic": "مُحْمَارٌّ",
+        "english": "Strongly reddened(XI)",
+        "russian": "Сильно покрасневший(XI)",
+        "voiceKey": "verbs_7_7032"
+      },
+      {
+        "id": 102,
+        "wordId": 7033,
+        "arabic": "اِصْفَارَّ",
+        "english": "Very yellowed(XI)",
+        "russian": "Сильно пожелтел(XI)",
+        "voiceKey": "verbs_7_7033"
+      },
+      {
+        "id": 103,
+        "wordId": 7034,
+        "arabic": "يَصْفَارُّ",
+        "english": "Very yellow(XI)",
+        "russian": "Сильно желтеет(XI)",
+        "voiceKey": "verbs_7_7034"
+      },
+      {
+        "id": 104,
+        "wordId": 7035,
+        "arabic": "اِصْفِيرَارٌ",
+        "english": "Strong yellowing(XI)",
+        "russian": "Сильное пожелтение(XI)",
+        "voiceKey": "verbs_7_7035"
+      },
+      {
+        "id": 105,
+        "wordId": 7036,
+        "arabic": "مُصْفَارٌّ",
+        "english": "Strongly yellowed(XI)",
+        "russian": "Сильно пожелтевший(XI)",
+        "voiceKey": "verbs_7_7036"
+      },
+      {
+        "id": 106,
+        "wordId": 7037,
+        "arabic": "اِبْيَاضَّ",
+        "english": "Very white(XI)",
+        "russian": "Сильно побелел(XI)",
+        "voiceKey": "verbs_7_7037"
+      },
+      {
+        "id": 107,
+        "wordId": 7038,
+        "arabic": "يَبْيَاضُّ",
+        "english": "Very white(XI)",
+        "russian": "Сильно белеет(XI)",
+        "voiceKey": "verbs_7_7038"
+      },
+      {
+        "id": 108,
+        "wordId": 7039,
+        "arabic": "اِبْيضَاضٌ",
+        "english": "Severe whitening(XI)",
+        "russian": "Сильное побеление(XI)",
+        "voiceKey": "verbs_7_7039"
+      },
+      {
+        "id": 109,
+        "wordId": 7040,
+        "arabic": "مُبْيَاضٌّ",
+        "english": "Very whitened(XI)",
+        "russian": "Сильно побелевший(XI)",
+        "voiceKey": "verbs_7_7040"
+      },
+      {
+        "id": 110,
+        "wordId": 7041,
+        "arabic": "اِسْوَادَّ",
+        "english": "Very blackened(XI)",
+        "russian": "Сильно почернел(XI)",
+        "voiceKey": "verbs_7_7041"
+      },
+      {
+        "id": 111,
+        "wordId": 7042,
+        "arabic": "يَسْوَادُّ",
+        "english": "Strongly blackens(XI)",
+        "russian": "Сильно чернеет(XI)",
+        "voiceKey": "verbs_7_7042"
+      },
+      {
+        "id": 112,
+        "wordId": 7043,
+        "arabic": "اِسْوِدَادٌ",
+        "english": "Strong blackening(XI)",
+        "russian": "Сильное почернение(XI)",
+        "voiceKey": "verbs_7_7043"
+      },
+      {
+        "id": 113,
+        "wordId": 7044,
+        "arabic": "مُسْوَادٌّ",
+        "english": "Strongly blackened(XI)",
+        "russian": "Сильно почерневший(XI)",
+        "voiceKey": "verbs_7_7044"
+      },
+      {
+        "id": 114,
+        "wordId": 7045,
+        "arabic": "اِدْهَامَّ",
+        "english": "Very blackened(XI)",
+        "russian": "Сильно почернел(XI)",
+        "voiceKey": "verbs_7_7045"
+      },
+      {
+        "id": 115,
+        "wordId": 7046,
+        "arabic": "يَدْهَامُّ",
+        "english": "Strongly blackens(XI)",
+        "russian": "Сильно чернеет(XI)",
+        "voiceKey": "verbs_7_7046"
+      },
+      {
+        "id": 116,
+        "wordId": 7047,
+        "arabic": "اِدْهِيمَامٌ",
+        "english": "Strong blackening(XI)",
+        "russian": "Сильное почернение(XI)",
+        "voiceKey": "verbs_7_7047"
+      },
+      {
+        "id": 117,
+        "wordId": 7048,
+        "arabic": "مُدْهَامٌّ",
+        "english": "Strongly blackened(XI)",
+        "russian": "Сильно почерневший(XI)",
+        "voiceKey": "verbs_7_7048"
+      },
+      {
+        "id": 118,
+        "wordId": 7049,
+        "arabic": "اِخْضَارَّ",
+        "english": "Very green(XI)",
+        "russian": "Сильно позеленел(XI)",
+        "voiceKey": "verbs_7_7049"
+      },
+      {
+        "id": 119,
+        "wordId": 7050,
+        "arabic": "يَخْضَارُّ",
+        "english": "Strongly green(XI)",
+        "russian": "Сильно зеленеет(XI)",
+        "voiceKey": "verbs_7_7050"
+      },
+      {
+        "id": 120,
+        "wordId": 7051,
+        "arabic": "اِخْضِيرارٌّ",
+        "english": "Strong greening(XI)",
+        "russian": "Сильное позеленение(XI)",
+        "voiceKey": "verbs_7_7051"
+      },
+      {
+        "id": 121,
+        "wordId": 7052,
+        "arabic": "مُخْضَارٌّ",
+        "english": "Strongly green(XI)",
+        "russian": "Сильно позеленевший(XI)",
+        "voiceKey": "verbs_7_7052"
+      },
+      {
+        "id": 122,
+        "wordId": 7053,
+        "arabic": "اِعْوَاجَّ",
+        "english": "Strong warped(XI)",
+        "russian": "Сильное искривился(XI)",
+        "voiceKey": "verbs_7_7053"
+      },
+      {
+        "id": 123,
+        "wordId": 7054,
+        "arabic": "يَعْوَاجُّ",
+        "english": "Severely curved(XI)",
+        "russian": "Сильно искривляется(XI)",
+        "voiceKey": "verbs_7_7054"
+      },
+      {
+        "id": 124,
+        "wordId": 7055,
+        "arabic": "اِعْويجَاجٌ",
+        "english": "Severe curvature(XI)",
+        "russian": "Сильное искривление(XI)",
+        "voiceKey": "verbs_7_7055"
+      },
+      {
+        "id": 125,
+        "wordId": 7056,
+        "arabic": "مُعْوَاجٌّ",
+        "english": "Severely warp(XI)",
+        "russian": "Сильно искривиться(XI)",
+        "voiceKey": "verbs_7_7056"
+      }
+    ],
+    "8": [
+      {
+        "id": 272,
+        "wordId": 7001,
+        "arabic": "اِسْتَقْبَلَ",
+        "english": "Met(X)",
+        "russian": "Встречал(X)",
+        "voiceKey": "verbs_8_7001"
+      },
+      {
+        "id": 273,
+        "wordId": 7002,
+        "arabic": "يَسْتَقْبِلُ",
+        "english": "Meets(X)",
+        "russian": "Встречает(X)",
+        "voiceKey": "verbs_8_7002"
+      },
+      {
+        "id": 274,
+        "wordId": 7003,
+        "arabic": "اِسْتَقْبِلْ",
+        "english": "Meet(X)",
+        "russian": "Встречай(X)",
+        "voiceKey": "verbs_8_7003"
+      },
+      {
+        "id": 275,
+        "wordId": 7004,
+        "arabic": "اِسْتِقْبَالٌ",
+        "english": "Meeting, reception(X)",
+        "russian": "Встреча, прием(X)",
+        "voiceKey": "verbs_8_7004"
+      },
+      {
+        "id": 276,
+        "wordId": 7005,
+        "arabic": "اِسْتَغْفَرَ",
+        "english": "Asked for forgiveness(X)",
+        "russian": "Попросил прощения(X)",
+        "voiceKey": "verbs_8_7005"
+      },
+      {
+        "id": 277,
+        "wordId": 7006,
+        "arabic": "يَسْتَغْفِرُ",
+        "english": "Asking for forgiveness(X)",
+        "russian": "Просит прощение(X)",
+        "voiceKey": "verbs_8_7006"
+      },
+      {
+        "id": 278,
+        "wordId": 7007,
+        "arabic": "اِسْتَغْفِرْ",
+        "english": "Ask for forgiveness(X)",
+        "russian": "Попроси прощения(X)",
+        "voiceKey": "verbs_8_7007"
+      },
+      {
+        "id": 279,
+        "wordId": 7008,
+        "arabic": "اِسْتِغْفَارٌ",
+        "english": "Asking for forgiveness(X) [from someone]",
+        "russian": "Испрашивание прощения(X)",
+        "voiceKey": "verbs_8_7008"
+      },
+      {
+        "id": 280,
+        "wordId": 7009,
+        "arabic": "اِسْتَعَدَّ",
+        "english": "Prepared(X)",
+        "russian": "Подготовился(X)",
+        "voiceKey": "verbs_8_7009"
+      },
+      {
+        "id": 281,
+        "wordId": 7010,
+        "arabic": "يَسْتَعِدُّ",
+        "english": "In preparation(X)",
+        "russian": "Подготавливается(X)",
+        "voiceKey": "verbs_8_7010"
+      },
+      {
+        "id": 282,
+        "wordId": 7011,
+        "arabic": "اِسْتَعِدَّ",
+        "english": "Prepare(X)",
+        "russian": "Подготовься(X)",
+        "voiceKey": "verbs_8_7011"
+      },
+      {
+        "id": 283,
+        "wordId": 7012,
+        "arabic": "اِسْتِعْدَادٌ",
+        "english": "Preparation(X)",
+        "russian": "Подготовка(X)",
+        "voiceKey": "verbs_8_7012"
+      },
+      {
+        "id": 284,
+        "wordId": 7013,
+        "arabic": "اِسْتَلْقَى",
+        "english": "Lay back(X)",
+        "russian": "Лег на спину(X)",
+        "voiceKey": "verbs_8_7013"
+      },
+      {
+        "id": 285,
+        "wordId": 7014,
+        "arabic": "يَسْتَلْقِي",
+        "english": "Lying on back(X)",
+        "russian": "Лежит на спине(X)",
+        "voiceKey": "verbs_8_7014"
+      },
+      {
+        "id": 286,
+        "wordId": 7015,
+        "arabic": "اِسْتَلْقِ",
+        "english": "Lie on your back(X)",
+        "russian": "Лежи на спине(X)",
+        "voiceKey": "verbs_8_7015"
+      },
+      {
+        "id": 287,
+        "wordId": 7016,
+        "arabic": "اِسْتِلْقَاءٌ",
+        "english": "Lying on the back(X)",
+        "russian": "Лежание на спине(X)",
+        "voiceKey": "verbs_8_7016"
+      },
+      {
+        "id": 288,
+        "wordId": 7017,
+        "arabic": "اِسْتَرَاحَ",
+        "english": "Rested(X)",
+        "russian": "Отдыхал(X)",
+        "voiceKey": "verbs_8_7017"
+      },
+      {
+        "id": 289,
+        "wordId": 7018,
+        "arabic": "يَسْتَرِيحُ",
+        "english": "Resting(X)",
+        "russian": "Отдыхает(X)",
+        "voiceKey": "verbs_8_7018"
+      },
+      {
+        "id": 290,
+        "wordId": 7019,
+        "arabic": "اِسْتَرِحْ",
+        "english": "Rest(X)",
+        "russian": "Отдыхай(X)",
+        "voiceKey": "verbs_8_7019"
+      },
+      {
+        "id": 291,
+        "wordId": 7020,
+        "arabic": "اِسْتِرَاحَةٌ",
+        "english": "Rest(X)",
+        "russian": "Отдых(X)",
+        "voiceKey": "verbs_8_7020"
+      },
+      {
+        "id": 292,
+        "wordId": 7021,
+        "arabic": "اِسْتَقَالَ",
+        "english": "Asked for resignation(X)",
+        "russian": "Попросил отставку(X)",
+        "voiceKey": "verbs_8_7021"
+      },
+      {
+        "id": 293,
+        "wordId": 7022,
+        "arabic": "يَسْتَقِيلُ",
+        "english": "Asks for resignation(X)",
+        "russian": "Просит отставку(X)",
+        "voiceKey": "verbs_8_7022"
+      },
+      {
+        "id": 294,
+        "wordId": 7023,
+        "arabic": "اِسْتَقِلْ",
+        "english": "Ask for resignation(X) [order tone]",
+        "russian": "Спроси отставку(X)",
+        "voiceKey": "verbs_8_7023"
+      },
+      {
+        "id": 295,
+        "wordId": 7024,
+        "arabic": "اِسْتِقَالَةٌ",
+        "english": "Resignation request(X)",
+        "russian": "Просьба об отставке(X)",
+        "voiceKey": "verbs_8_7024"
+      },
+      {
+        "id": 296,
+        "wordId": 7025,
+        "arabic": "اِسْتَفَادَ",
+        "english": "Benefited(X)",
+        "russian": "Получил пользу(X)",
+        "voiceKey": "verbs_8_7025"
+      },
+      {
+        "id": 297,
+        "wordId": 7026,
+        "arabic": "يَسْتَفِيدُ",
+        "english": "Benefits(X)",
+        "russian": "Получает пользу(X)",
+        "voiceKey": "verbs_8_7026"
+      },
+      {
+        "id": 298,
+        "wordId": 7027,
+        "arabic": "اِسْتَفِدْ",
+        "english": "Benefit(X)",
+        "russian": "Получи пользу(X)",
+        "voiceKey": "verbs_8_7027"
+      },
+      {
+        "id": 299,
+        "wordId": 7028,
+        "arabic": "اِسْتِفَادَةٌ",
+        "english": "Benefiting(X) [from something]",
+        "russian": "Получение пользы(X)",
+        "voiceKey": "verbs_8_7028"
+      },
+      {
+        "id": 300,
+        "wordId": 7029,
+        "arabic": "اِسْتَحَمَّ",
+        "english": "Take a shower(X)",
+        "russian": "Принять душ(X)",
+        "voiceKey": "verbs_8_7029"
+      },
+      {
+        "id": 301,
+        "wordId": 7030,
+        "arabic": "يَسْتَحِمُّ",
+        "english": "Taking a shower(X)",
+        "russian": "Принимает душ(X)",
+        "voiceKey": "verbs_8_7030"
+      },
+      {
+        "id": 302,
+        "wordId": 7031,
+        "arabic": "اِسْتَحَمَّ",
+        "english": "Take a shower(X) [commanding tone]",
+        "russian": "Прими душ(X)",
+        "voiceKey": "verbs_8_7031"
+      },
+      {
+        "id": 303,
+        "wordId": 7032,
+        "arabic": "اِسْتِحْمَامٌ",
+        "english": "Bathing, bath(X)",
+        "russian": "Купание, ванна(X)",
+        "voiceKey": "verbs_8_7032"
+      },
+      {
+        "id": 304,
+        "wordId": 7033,
+        "arabic": "اِسْتَهَدَي",
+        "english": "Asked to direct on the true path(X)",
+        "russian": "Просил направить на истинный путь(X)",
+        "voiceKey": "verbs_8_7033"
+      },
+      {
+        "id": 305,
+        "wordId": 7034,
+        "arabic": "يَسْتَهِدُي",
+        "english": "Asks to direct to the true path(X)",
+        "russian": "Просит направить на истинный путь(X)",
+        "voiceKey": "verbs_8_7034"
+      },
+      {
+        "id": 306,
+        "wordId": 7035,
+        "arabic": "اِسْتَهِدْ",
+        "english": "Ask to direct to the true path(X)",
+        "russian": "Проси направить на истинный путь(X)",
+        "voiceKey": "verbs_8_7035"
+      },
+      {
+        "id": 307,
+        "wordId": 7036,
+        "arabic": "اِسْتِهْدَاءٌُ",
+        "english": "Pointing to the right path(X)",
+        "russian": "Наведение на правильный путь(X)",
+        "voiceKey": "verbs_8_7036"
+      },
+      {
+        "id": 308,
+        "wordId": 7037,
+        "arabic": "اِسْتَطْعَمَ",
+        "english": "Asked to feed(X)",
+        "russian": "Просил накормить(X)",
+        "voiceKey": "verbs_8_7037"
+      },
+      {
+        "id": 309,
+        "wordId": 7038,
+        "arabic": "يَسْتَطْعِمُ",
+        "english": "Asks for food(X)",
+        "russian": "Просит накормить(X)",
+        "voiceKey": "verbs_8_7038"
+      },
+      {
+        "id": 310,
+        "wordId": 7039,
+        "arabic": "اِسْتَطْعِمْ",
+        "english": "Ask for food(X)",
+        "russian": "Проси накормить(X)",
+        "voiceKey": "verbs_8_7039"
+      },
+      {
+        "id": 311,
+        "wordId": 7040,
+        "arabic": "اِسْتِطْعَامٌ",
+        "english": "Feeding(X)",
+        "russian": "Кормлении(X)",
+        "voiceKey": "verbs_8_7040"
+      },
+      {
+        "id": 312,
+        "wordId": 7041,
+        "arabic": "اِسْتَحْيَ",
+        "english": "Ashamed(X)",
+        "russian": "Стыдился(X)",
+        "voiceKey": "verbs_8_7041"
+      },
+      {
+        "id": 313,
+        "wordId": 7042,
+        "arabic": "يَسْتَحْيِ",
+        "english": "Shame(X)",
+        "russian": "Стыдиться(X)",
+        "voiceKey": "verbs_8_7042"
+      },
+      {
+        "id": 314,
+        "wordId": 7043,
+        "arabic": "اِسْتَحِ",
+        "english": "Be ashamed(X)",
+        "russian": "Стыдись(X)",
+        "voiceKey": "verbs_8_7043"
+      },
+      {
+        "id": 315,
+        "wordId": 7044,
+        "arabic": "إِسْتِحْيَاءٌ",
+        "english": "Shame, embarrassment(X)",
+        "russian": "Стыд, смущение(X)",
+        "voiceKey": "verbs_8_7044"
+      },
+      {
+        "id": 316,
+        "wordId": 7045,
+        "arabic": "اِسْتَقْرَضَ",
+        "english": "Asked for a loan(X)",
+        "russian": "Просил в долг(X)",
+        "voiceKey": "verbs_8_7045"
+      },
+      {
+        "id": 317,
+        "wordId": 7046,
+        "arabic": "يَسْتَقْرِضُ",
+        "english": "Asks for a loan(X)",
+        "russian": "Просит в долг(X)",
+        "voiceKey": "verbs_8_7046"
+      },
+      {
+        "id": 318,
+        "wordId": 7047,
+        "arabic": "اِسْتَقْرِضْ",
+        "english": "Ask for a loan(X)",
+        "russian": "Проси в долг(X)",
+        "voiceKey": "verbs_8_7047"
+      },
+      {
+        "id": 319,
+        "wordId": 7048,
+        "arabic": "اِسْتِقْرَاضٌ",
+        "english": "Borrow(X)",
+        "russian": "Брать взаймы(X)",
+        "voiceKey": "verbs_8_7048"
+      },
+      {
+        "id": 320,
+        "wordId": 7049,
+        "arabic": "اِسْتَأْجَرَ",
+        "english": "Rented(X)",
+        "russian": "Арендовал(X)",
+        "voiceKey": "verbs_8_7049"
+      },
+      {
+        "id": 321,
+        "wordId": 7050,
+        "arabic": "يَسْتَأْجِرُ",
+        "english": "Renting(X)",
+        "russian": "Арендовывает(X)",
+        "voiceKey": "verbs_8_7050"
+      },
+      {
+        "id": 322,
+        "wordId": 7051,
+        "arabic": "اِسْتَأْجِرْ",
+        "english": "Rent(X)",
+        "russian": "Арендуй(X)",
+        "voiceKey": "verbs_8_7051"
+      },
+      {
+        "id": 323,
+        "wordId": 7052,
+        "arabic": "اِسْتِأْجِارٌ",
+        "english": "Rent out(X)",
+        "russian": "Сдавать в аренду(X)",
+        "voiceKey": "verbs_8_7052"
+      },
+      {
+        "id": 324,
+        "wordId": 7053,
+        "arabic": "اِسْتَسْلَمَ",
+        "english": "Surrendered(X)",
+        "russian": "Сдался(X)",
+        "voiceKey": "verbs_8_7053"
+      },
+      {
+        "id": 325,
+        "wordId": 7054,
+        "arabic": "يَسْتَسْلِمُ",
+        "english": "For rent(X)",
+        "russian": "Сдается(X)",
+        "voiceKey": "verbs_8_7054"
+      },
+      {
+        "id": 326,
+        "wordId": 7055,
+        "arabic": "اِسْتَسْلِمْ",
+        "english": "Give up(X)",
+        "russian": "Сдайся(X)",
+        "voiceKey": "verbs_8_7055"
+      },
+      {
+        "id": 327,
+        "wordId": 7056,
+        "arabic": "اِسْتِسْلَامٌ",
+        "english": "Surrender, surrender(X)",
+        "russian": "Сдача, капитуляция(X)",
+        "voiceKey": "verbs_8_7056"
+      },
+      {
+        "id": 328,
+        "wordId": 7057,
+        "arabic": "اِسْتَعَانَ",
+        "english": "Asked for help(X)",
+        "russian": "Просил помощи(X)",
+        "voiceKey": "verbs_8_7057"
+      },
+      {
+        "id": 329,
+        "wordId": 7058,
+        "arabic": "يَسْتَعِينُ",
+        "english": "Asking for help(X)",
+        "russian": "Просит помощи(X)",
+        "voiceKey": "verbs_8_7058"
+      },
+      {
+        "id": 330,
+        "wordId": 7059,
+        "arabic": "اِسْتَعِنْ",
+        "english": "Ask for help(X)",
+        "russian": "Проси помощи(X)",
+        "voiceKey": "verbs_8_7059"
+      },
+      {
+        "id": 331,
+        "wordId": 7060,
+        "arabic": "اِسْتِعَانَةٌ",
+        "english": "Request for help, assistance(X)",
+        "russian": "Просьба о помощи, содействии(X)",
+        "voiceKey": "verbs_8_7060"
+      },
+      {
+        "id": 332,
+        "wordId": 7061,
+        "arabic": "اِسْتَكْبَرَ",
+        "english": "Proud(past tense)(X)",
+        "russian": "Гордился(X)",
+        "voiceKey": "verbs_8_7061"
+      },
+      {
+        "id": 333,
+        "wordId": 7062,
+        "arabic": "يَسْتَكْبِرُ",
+        "english": "Proud(X)",
+        "russian": "Гордиться(X)",
+        "voiceKey": "verbs_8_7062"
+      },
+      {
+        "id": 334,
+        "wordId": 7063,
+        "arabic": "اِسْتَكْبِرْ",
+        "english": "Be proud(X)",
+        "russian": "Гордись(X)",
+        "voiceKey": "verbs_8_7063"
+      },
+      {
+        "id": 335,
+        "wordId": 7064,
+        "arabic": "اِسْتِكْبَارٌ",
+        "english": "Arrogance(X)",
+        "russian": "Высокомерие(X)",
+        "voiceKey": "verbs_8_7064"
+      },
+      {
+        "id": 336,
+        "wordId": 7065,
+        "arabic": "اِسْتَفْسَرَ",
+        "english": "Asked to explain(X)",
+        "russian": "Просил объяснить(X)",
+        "voiceKey": "verbs_8_7065"
+      },
+      {
+        "id": 337,
+        "wordId": 7066,
+        "arabic": "يَسْتَفْسِرُ",
+        "english": "Asks for an explanation(X)",
+        "russian": "Просит объяснить(X)",
+        "voiceKey": "verbs_8_7066"
+      },
+      {
+        "id": 338,
+        "wordId": 7067,
+        "arabic": "اِسْتَفْسِرْ",
+        "english": "Ask for an explanation(X)",
+        "russian": "Проси объяснить(X)",
+        "voiceKey": "verbs_8_7067"
+      },
+      {
+        "id": 339,
+        "wordId": 7068,
+        "arabic": "اِسْتِفْسَارٌ",
+        "english": "Explanation, comment(X)",
+        "russian": "Объяснение, комментарий(X)",
+        "voiceKey": "verbs_8_7068"
+      }
+    ],
+    "9": [
+      {
+        "id": 450,
+        "wordId": 9001,
+        "arabic": "دَحْرَجَ",
+        "english": "Rolled (stone) [past simple]",
+        "russian": "Катил (камень)",
+        "voiceKey": "verbs_9_9001"
+      },
+      {
+        "id": 451,
+        "wordId": 9002,
+        "arabic": "يُدَحْرِجُ",
+        "english": "Rolls (stone) [present, future simple]",
+        "russian": "Катит (камень)",
+        "voiceKey": "verbs_9_9002"
+      },
+      {
+        "id": 452,
+        "wordId": 9003,
+        "arabic": "دَحْرِجْ",
+        "english": "Rolling (stone) [imperative]",
+        "russian": "Кати (камень)",
+        "voiceKey": "verbs_9_9003"
+      },
+      {
+        "id": 453,
+        "wordId": 9004,
+        "arabic": "دَحْرَجَة",
+        "english": "Roll [verbal noun]",
+        "russian": "Катить, скатывать.",
+        "voiceKey": "verbs_9_9004"
+      },
+      {
+        "id": 454,
+        "wordId": 9005,
+        "arabic": "مُدَحْرِج",
+        "english": "Roll [valid pledge]",
+        "russian": "Скатывающий",
+        "voiceKey": "verbs_9_9005"
+      },
+      {
+        "id": 455,
+        "wordId": 9006,
+        "arabic": "فَرْقَعَ",
+        "english": "Cracked [past simple]",
+        "russian": "Трескался, лопался",
+        "voiceKey": "verbs_9_9006"
+      },
+      {
+        "id": 456,
+        "wordId": 9007,
+        "arabic": "يُفَرْقِعُ",
+        "english": "Cracking [present, future simple]",
+        "russian": "Трескается, лопается",
+        "voiceKey": "verbs_9_9007"
+      },
+      {
+        "id": 457,
+        "wordId": 9008,
+        "arabic": "فَرْقِعْ",
+        "english": "Crack [imperative]",
+        "russian": "Тресни, лопни",
+        "voiceKey": "verbs_9_9008"
+      },
+      {
+        "id": 458,
+        "wordId": 9009,
+        "arabic": "فَرْقَعَةٌ",
+        "english": "Shaking [verbal noun]",
+        "russian": "Тряска",
+        "voiceKey": "verbs_9_9009"
+      },
+      {
+        "id": 459,
+        "wordId": 9010,
+        "arabic": "مُفَرْقِعٌ",
+        "english": "Crack [valid pledge]",
+        "russian": "Трескающийся",
+        "voiceKey": "verbs_9_9010"
+      },
+      {
+        "id": 460,
+        "wordId": 9011,
+        "arabic": "وَسْوَسَ",
+        "english": "Incited [past simple]",
+        "russian": "Наущал",
+        "voiceKey": "verbs_9_9011"
+      },
+      {
+        "id": 461,
+        "wordId": 9012,
+        "arabic": "يُوَسْوِسُ",
+        "english": "Incites [present, future simple]",
+        "russian": "Наущает",
+        "voiceKey": "verbs_9_9012"
+      },
+      {
+        "id": 462,
+        "wordId": 9013,
+        "arabic": "وَسْوِسْ",
+        "english": "Incite [imperative]",
+        "russian": "Наущай",
+        "voiceKey": "verbs_9_9013"
+      },
+      {
+        "id": 463,
+        "wordId": 9014,
+        "arabic": "وَسْوَسَةٌ",
+        "english": "Incite [verbal noun]",
+        "russian": "Наущение",
+        "voiceKey": "verbs_9_9014"
+      },
+      {
+        "id": 464,
+        "wordId": 9015,
+        "arabic": "مُوَسْوِسٌ",
+        "english": "Incite [valid pledge]",
+        "russian": "Наущающий",
+        "voiceKey": "verbs_9_9015"
+      },
+      {
+        "id": 465,
+        "wordId": 9016,
+        "arabic": "تَدَحْرَجَ",
+        "english": "Rolled [past simple]",
+        "russian": "Катился",
+        "voiceKey": "verbs_9_9016"
+      },
+      {
+        "id": 466,
+        "wordId": 9017,
+        "arabic": "يَتَدَحْرَجُ",
+        "english": "Rolling [present, future simple]",
+        "russian": "Катится",
+        "voiceKey": "verbs_9_9017"
+      },
+      {
+        "id": 467,
+        "wordId": 9018,
+        "arabic": "تَدَحْرَجْ",
+        "english": "Roll [imperative]",
+        "russian": "Катись",
+        "voiceKey": "verbs_9_9018"
+      },
+      {
+        "id": 468,
+        "wordId": 9019,
+        "arabic": "تَدَحْرُج",
+        "english": "Roll away [verbal noun]",
+        "russian": "Укатиться",
+        "voiceKey": "verbs_9_9019"
+      },
+      {
+        "id": 469,
+        "wordId": 9020,
+        "arabic": "مُتَدَحْرِج",
+        "english": "Roll [valid pledge]",
+        "russian": "Катящийся",
+        "voiceKey": "verbs_9_9020"
+      },
+      {
+        "id": 470,
+        "wordId": 9021,
+        "arabic": "تَرْجَمَ",
+        "english": "Translated [past simple]",
+        "russian": "Переводил",
+        "voiceKey": "verbs_9_9021"
+      },
+      {
+        "id": 471,
+        "wordId": 9022,
+        "arabic": "يُتَرْجِمُ",
+        "english": "Translates [present, future simple]",
+        "russian": "Переводит",
+        "voiceKey": "verbs_9_9022"
+      },
+      {
+        "id": 472,
+        "wordId": 9023,
+        "arabic": "تَرْجِمْ",
+        "english": "Translate [imperative]",
+        "russian": "Переводи",
+        "voiceKey": "verbs_9_9023"
+      },
+      {
+        "id": 473,
+        "wordId": 9024,
+        "arabic": "تَرْجَمَة",
+        "english": "Translation [verbal noun]",
+        "russian": "Перевод",
+        "voiceKey": "verbs_9_9024"
+      },
+      {
+        "id": 474,
+        "wordId": 9025,
+        "arabic": "مُتَرْجِم",
+        "english": "Translating [valid pledge]",
+        "russian": "Переводящий",
+        "voiceKey": "verbs_9_9025"
+      },
+      {
+        "id": 475,
+        "wordId": 9026,
+        "arabic": "بَعْثَرَ",
+        "english": "Scattered [past simple]",
+        "russian": "Рассыпал, разбрасывал",
+        "voiceKey": "verbs_9_9026"
+      },
+      {
+        "id": 476,
+        "wordId": 9027,
+        "arabic": "يُبَعْثِرُ",
+        "english": "Scatters [present, future simple]",
+        "russian": "Рассыпает, разбрасывает",
+        "voiceKey": "verbs_9_9027"
+      },
+      {
+        "id": 477,
+        "wordId": 9028,
+        "arabic": "بَعْثِرْ",
+        "english": "Scatter [imperative]",
+        "russian": "Россыпь, разброс",
+        "voiceKey": "verbs_9_9028"
+      },
+      {
+        "id": 478,
+        "wordId": 9029,
+        "arabic": "بَعْثَرَةٌ",
+        "english": "Spreading [verbal noun]",
+        "russian": "Разбрасывание",
+        "voiceKey": "verbs_9_9029"
+      },
+      {
+        "id": 479,
+        "wordId": 9030,
+        "arabic": "مُبَعْثِرٌ",
+        "english": "Scatterer [valid pledge]",
+        "russian": "Разбрасывающий",
+        "voiceKey": "verbs_9_9030"
+      },
+      {
+        "id": 480,
+        "wordId": 9031,
+        "arabic": "هَرْوَلَ",
+        "english": "Ran fast [past simple]",
+        "russian": "Стремительно бежал",
+        "voiceKey": "verbs_9_9031"
+      },
+      {
+        "id": 481,
+        "wordId": 9032,
+        "arabic": "يُهَرْوِلُ",
+        "english": "Runs fast [present, future simple]",
+        "russian": "Стремительно бежит",
+        "voiceKey": "verbs_9_9032"
+      },
+      {
+        "id": 482,
+        "wordId": 9033,
+        "arabic": "هَرْوِلْ",
+        "english": "Running fast [imperative]",
+        "russian": "Стремительно беги",
+        "voiceKey": "verbs_9_9033"
+      },
+      {
+        "id": 483,
+        "wordId": 9034,
+        "arabic": "هَرْوَلَةٌ",
+        "english": "Rapid run [verbal noun]",
+        "russian": "Стремительный бег",
+        "voiceKey": "verbs_9_9034"
+      },
+      {
+        "id": 484,
+        "wordId": 9035,
+        "arabic": "مُهَرْوِلٌ",
+        "english": "Fast running [valid pledge]",
+        "russian": "Стремительно бегущий",
+        "voiceKey": "verbs_9_9035"
+      },
+      {
+        "id": 485,
+        "wordId": 9036,
+        "arabic": "زَلْزَلَ",
+        "english": "Shook [past simple]",
+        "russian": "Трясся",
+        "voiceKey": "verbs_9_9036"
+      },
+      {
+        "id": 486,
+        "wordId": 9037,
+        "arabic": "يُزَلْزِلُ",
+        "english": "Shaking [present, future simple]",
+        "russian": "Трясётся",
+        "voiceKey": "verbs_9_9037"
+      },
+      {
+        "id": 487,
+        "wordId": 9038,
+        "arabic": "زَلْزِلْ",
+        "english": "Shake [imperative]",
+        "russian": "Трясись",
+        "voiceKey": "verbs_9_9038"
+      },
+      {
+        "id": 488,
+        "wordId": 9039,
+        "arabic": "زَلْزَلَةٌ",
+        "english": "Shaking — earthquake [verbal noun]",
+        "russian": "Тряс - землетрясение",
+        "voiceKey": "verbs_9_9039"
+      },
+      {
+        "id": 489,
+        "wordId": 9040,
+        "arabic": "مُزَلْزِل",
+        "english": "Shake [valid pledge]",
+        "russian": "Трясущийся",
+        "voiceKey": "verbs_9_9040"
+      },
+      {
+        "id": 490,
+        "wordId": 9041,
+        "arabic": "تَمَضْمَضَ",
+        "english": "Rinsed your mouth [past simple]",
+        "russian": "Полоскал рот",
+        "voiceKey": "verbs_9_9041"
+      },
+      {
+        "id": 491,
+        "wordId": 9042,
+        "arabic": "يَتَمَضْمَضُ",
+        "english": "Will rinse your mouth [present, future simple]",
+        "russian": "Полоскает рот",
+        "voiceKey": "verbs_9_9042"
+      },
+      {
+        "id": 492,
+        "wordId": 9043,
+        "arabic": "تَمَضْمضْ",
+        "english": "Rinse your mouth [imperative]",
+        "russian": "Полоскай рот",
+        "voiceKey": "verbs_9_9043"
+      },
+      {
+        "id": 493,
+        "wordId": 9044,
+        "arabic": "تَمَضْمُضٌ",
+        "english": "Mouth rinse [verbal noun]",
+        "russian": "Полоскание рта",
+        "voiceKey": "verbs_9_9044"
+      },
+      {
+        "id": 494,
+        "wordId": 9045,
+        "arabic": "مُتَمَضْمِضٌ",
+        "english": "Rinsing mouth [valid pledge]",
+        "russian": "Полоскающий рот",
+        "voiceKey": "verbs_9_9045"
+      },
+      {
+        "id": 495,
+        "wordId": 9046,
+        "arabic": "اِطْمَأَنَّ",
+        "english": "Stayed calm [past simple]",
+        "russian": "Оставался спокойным",
+        "voiceKey": "verbs_9_9046"
+      },
+      {
+        "id": 496,
+        "wordId": 9047,
+        "arabic": "يَطْمَئِنُّ",
+        "english": "Remains calm [present, future simple]",
+        "russian": "Остаётся спокойным",
+        "voiceKey": "verbs_9_9047"
+      },
+      {
+        "id": 497,
+        "wordId": 9048,
+        "arabic": "اِطْمَئِنَّ",
+        "english": "Will stay calm [imperative]",
+        "russian": "Оставайся спокойным",
+        "voiceKey": "verbs_9_9048"
+      },
+      {
+        "id": 498,
+        "wordId": 9049,
+        "arabic": "اِطْمِئْنَان",
+        "english": "Sedation [verbal noun]",
+        "russian": "Успокоение",
+        "voiceKey": "verbs_9_9049"
+      },
+      {
+        "id": 499,
+        "wordId": 9050,
+        "arabic": "مُطْمَئِنّ",
+        "english": "Remaining calm [valid pledge]",
+        "russian": "Остающийся спокойным",
+        "voiceKey": "verbs_9_9050"
+      },
+      {
+        "id": 500,
+        "wordId": 9051,
+        "arabic": "اِشْمَأَزَّ",
+        "english": "Felt disgusted [past simple]",
+        "russian": "Испытывал отвращение",
+        "voiceKey": "verbs_9_9051"
+      },
+      {
+        "id": 501,
+        "wordId": 9052,
+        "arabic": "يَشْمَئِزُّ",
+        "english": "Feeling disgusted [present, future simple]",
+        "russian": "Испытывает отвращение",
+        "voiceKey": "verbs_9_9052"
+      },
+      {
+        "id": 502,
+        "wordId": 9053,
+        "arabic": "اِشْمَئِزَّ",
+        "english": "Feel disgust [imperative]",
+        "russian": "Испытывай отвращение",
+        "voiceKey": "verbs_9_9053"
+      },
+      {
+        "id": 503,
+        "wordId": 9054,
+        "arabic": "اِشْمِئْزَازٌ",
+        "english": "Disgust [verbal noun]",
+        "russian": "Отвращение",
+        "voiceKey": "verbs_9_9054"
+      },
+      {
+        "id": 504,
+        "wordId": 9055,
+        "arabic": "مُشْمَئِزّ",
+        "english": "Disgusted [valid pledge]",
+        "russian": "Испытывающий отвращение",
+        "voiceKey": "verbs_9_9055"
+      },
+      {
+        "id": 505,
+        "wordId": 9056,
+        "arabic": "اِقْشَعَرَّ",
+        "english": "Trembled [past simple]",
+        "russian": "Дрожал",
+        "voiceKey": "verbs_9_9056"
+      },
+      {
+        "id": 506,
+        "wordId": 9057,
+        "arabic": "يَقْشَعِرُّ",
+        "english": "Shivers [present, future simple]",
+        "russian": "Дрожит",
+        "voiceKey": "verbs_9_9057"
+      },
+      {
+        "id": 507,
+        "wordId": 9058,
+        "arabic": "اِقْشَعِرَّ",
+        "english": "Shiver [imperative]",
+        "russian": "Дрожжи",
+        "voiceKey": "verbs_9_9058"
+      },
+      {
+        "id": 508,
+        "wordId": 9059,
+        "arabic": "اِقْشِعْرَارٌ",
+        "english": "Shivering [verbal noun]",
+        "russian": "Дрожь",
+        "voiceKey": "verbs_9_9059"
+      },
+      {
+        "id": 509,
+        "wordId": 9060,
+        "arabic": "مُقْشَعِرّ",
+        "english": "Trembling [valid pledge]",
+        "russian": "Дрожащий",
+        "voiceKey": "verbs_9_9060"
+      },
+      {
+        "id": 510,
+        "wordId": 9061,
+        "arabic": "اِحْرَنْجَمَ",
+        "english": "Got together [past simple]",
+        "russian": "Собирался вместе",
+        "voiceKey": "verbs_9_9061"
+      },
+      {
+        "id": 511,
+        "wordId": 9062,
+        "arabic": "يَحْرَنْجِمُ",
+        "english": "Coming together [present, future simple]",
+        "russian": "Собирается вместе",
+        "voiceKey": "verbs_9_9062"
+      },
+      {
+        "id": 512,
+        "wordId": 9063,
+        "arabic": "اِحْرَنْجِمْ",
+        "english": "Get together [imperative]",
+        "russian": "Соберись вместе",
+        "voiceKey": "verbs_9_9063"
+      },
+      {
+        "id": 513,
+        "wordId": 9064,
+        "arabic": "اِحْرِنْجَامٌ",
+        "english": "Gathering together [verbal noun]",
+        "russian": "Собирание вместе",
+        "voiceKey": "verbs_9_9064"
+      },
+      {
+        "id": 514,
+        "wordId": 9065,
+        "arabic": "مُحْرَنْجِم",
+        "english": "Bringing together [valid pledge]",
+        "russian": "Собирающий вместе",
+        "voiceKey": "verbs_9_9065"
+      },
+      {
+        "id": 515,
+        "wordId": 9066,
+        "arabic": "اِفْرَنْقَعَ",
+        "english": "Scattered to the sides [past simple]",
+        "russian": "Разлетался, разбегался в стороны",
+        "voiceKey": "verbs_9_9066"
+      },
+      {
+        "id": 516,
+        "wordId": 9067,
+        "arabic": "يَفْرَنْقِعُ",
+        "english": "Scatters to the sides [present, future simple]",
+        "russian": "Разлетается, разбегается в стороны",
+        "voiceKey": "verbs_9_9067"
+      },
+      {
+        "id": 517,
+        "wordId": 9068,
+        "arabic": "اِفْرَنْقَعْ",
+        "english": "Scatter to the side [imperative]",
+        "russian": "Разлетись, разбегись в стороны",
+        "voiceKey": "verbs_9_9068"
+      },
+      {
+        "id": 518,
+        "wordId": 9069,
+        "arabic": "اِفْرِنْقَاعٌ",
+        "english": "Scattering to the sides [verbal noun]",
+        "russian": "Разлетание в стороны",
+        "voiceKey": "verbs_9_9069"
+      },
+      {
+        "id": 519,
+        "wordId": 9070,
+        "arabic": "مُفْرَنْقِعٌ",
+        "english": "Scattering [valid pledge]",
+        "russian": "Разлетающий, разбегающий в стороны",
+        "voiceKey": "verbs_9_9070"
+      },
+      {
+        "id": 520,
+        "wordId": 9071,
+        "arabic": "قَهْقَهَ",
+        "english": "Giggled [past simple]",
+        "russian": "Хихикал",
+        "voiceKey": "verbs_9_9071"
+      },
+      {
+        "id": 521,
+        "wordId": 9072,
+        "arabic": "يُقَهْقِهُ",
+        "english": "Giggles [present, future simple]",
+        "russian": "Хихикает",
+        "voiceKey": "verbs_9_9072"
+      },
+      {
+        "id": 522,
+        "wordId": 9073,
+        "arabic": "قَهْقِهْ",
+        "english": "Giggle [imperative]",
+        "russian": "Похихикай",
+        "voiceKey": "verbs_9_9073"
+      },
+      {
+        "id": 523,
+        "wordId": 9074,
+        "arabic": "قَهْقَهَة",
+        "english": "Giggle [verbal noun]",
+        "russian": "Хихиканье",
+        "voiceKey": "verbs_9_9074"
+      },
+      {
+        "id": 524,
+        "wordId": 9075,
+        "arabic": "مُقَهْقِه",
+        "english": "Giggling [valid pledge]",
+        "russian": "Хихикающий",
+        "voiceKey": "verbs_9_9075"
+      },
+      {
+        "id": 525,
+        "wordId": 9076,
+        "arabic": "دَغْدَغَ",
+        "english": "Tickled [past simple]",
+        "russian": "Щекотал",
+        "voiceKey": "verbs_9_9076"
+      },
+      {
+        "id": 526,
+        "wordId": 9077,
+        "arabic": "يُدَغْدِغُ",
+        "english": "Tickles [present, future simple]",
+        "russian": "Щекочет",
+        "voiceKey": "verbs_9_9077"
+      },
+      {
+        "id": 527,
+        "wordId": 9078,
+        "arabic": "دَغْدَغْ",
+        "english": "Will tickle [imperative]",
+        "russian": "Пощекочи",
+        "voiceKey": "verbs_9_9078"
+      },
+      {
+        "id": 528,
+        "wordId": 9079,
+        "arabic": "دَغْدَغَةٌ",
+        "english": "Tickle [verbal noun]",
+        "russian": "Щекот",
+        "voiceKey": "verbs_9_9079"
+      },
+      {
+        "id": 529,
+        "wordId": 9080,
+        "arabic": "مُدَغْدِغٌ",
+        "english": "Tickle [valid pledge]",
+        "russian": "Щекочущий",
+        "voiceKey": "verbs_9_9080"
+      },
+      {
+        "id": 530,
+        "wordId": 9081,
+        "arabic": "غَرْغَرَ",
+        "english": "Gargled my throat [past simple]",
+        "russian": "Полоскал горло",
+        "voiceKey": "verbs_9_9081"
+      },
+      {
+        "id": 531,
+        "wordId": 9082,
+        "arabic": "يُغَرْغِرُ",
+        "english": "Gargle [present, future simple]",
+        "russian": "Полоскает горло",
+        "voiceKey": "verbs_9_9082"
+      },
+      {
+        "id": 532,
+        "wordId": 9083,
+        "arabic": "غَرْغِرْ",
+        "english": "Will gargle [imperative]",
+        "russian": "Полоскай горло",
+        "voiceKey": "verbs_9_9083"
+      },
+      {
+        "id": 533,
+        "wordId": 9084,
+        "arabic": "غَرْغَرَة",
+        "english": "Gargling [verbal noun]",
+        "russian": "Полоскание горла",
+        "voiceKey": "verbs_9_9084"
+      },
+      {
+        "id": 534,
+        "wordId": 9085,
+        "arabic": "مُغَرْغِر",
+        "english": "Gargle [valid pledge]",
+        "russian": "Полоскающий горло",
+        "voiceKey": "verbs_9_9085"
+      },
+      {
+        "id": 535,
+        "wordId": 9086,
+        "arabic": "زَحْزَحَ",
+        "english": "Removed [past simple]",
+        "russian": "Удалял",
+        "voiceKey": "verbs_9_9086"
+      },
+      {
+        "id": 536,
+        "wordId": 9087,
+        "arabic": "يُزَحْزِحُ",
+        "english": "Removes [present, future simple]",
+        "russian": "Удаляет",
+        "voiceKey": "verbs_9_9087"
+      },
+      {
+        "id": 537,
+        "wordId": 9088,
+        "arabic": "زَحْزَحْ",
+        "english": "Remove [imperative]",
+        "russian": "Удали",
+        "voiceKey": "verbs_9_9088"
+      },
+      {
+        "id": 538,
+        "wordId": 9089,
+        "arabic": "زَحْزَحَةٌ",
+        "english": "Removal [verbal noun]",
+        "russian": "Удаление",
+        "voiceKey": "verbs_9_9089"
+      },
+      {
+        "id": 539,
+        "wordId": 9090,
+        "arabic": "مُزَحْزِحٌ",
+        "english": "Removal [valid pledge]",
+        "russian": "Удаляющий",
+        "voiceKey": "verbs_9_9090"
+      }
+    ]
+  },
+  "conjugations": {}
+}

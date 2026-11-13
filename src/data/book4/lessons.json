@@ -1,0 +1,155 @@
+[
+  {
+    "lessonNumber": 1,
+    "title": "Lesson 1: Transitive and non-transitive verbs",
+    "dialogueCount": 169,
+    "vocabCount": 48,
+    "verbCount": 27,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 2,
+    "title": "Lesson 2: Verb of the third kind",
+    "dialogueCount": 77,
+    "vocabCount": 49,
+    "verbCount": 106,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 3,
+    "title": "Lesson 3: Fifth kind of verb",
+    "dialogueCount": 54,
+    "vocabCount": 16,
+    "verbCount": 110,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 4,
+    "title": "Lesson 4: Verb of the sixth kind",
+    "dialogueCount": 118,
+    "vocabCount": 59,
+    "verbCount": 69,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 5,
+    "title": "Lesson 5: Verb of the seventh kind ( انْفَعَلَ )",
+    "dialogueCount": 82,
+    "vocabCount": 27,
+    "verbCount": 48,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 6,
+    "title": "Lesson 6: Verb of the eighth kind",
+    "dialogueCount": 71,
+    "vocabCount": 11,
+    "verbCount": 146,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 7,
+    "title": "Lesson 7: Verbs 9 and 11 breed",
+    "dialogueCount": 53,
+    "vocabCount": 19,
+    "verbCount": 56,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 8,
+    "title": "Lesson 8: Tenth verb ( اِسْتَفْعَلَ )",
+    "dialogueCount": 75,
+    "vocabCount": 61,
+    "verbCount": 68,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 9,
+    "title": "Lesson 9: A four-letter verb is a verb that has 4 letters in the root",
+    "dialogueCount": 42,
+    "vocabCount": 39,
+    "verbCount": 90,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 10,
+    "title": "Lesson 10: Pronouns",
+    "dialogueCount": 86,
+    "vocabCount": 25,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 11,
+    "title": "Lesson 11: Absolute Complement",
+    "dialogueCount": 62,
+    "vocabCount": 22,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 12,
+    "title": "Lesson 12: Addition of reason or purpose",
+    "dialogueCount": 37,
+    "vocabCount": 40,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 13,
+    "title": "Lesson 13: Discriminator",
+    "dialogueCount": 57,
+    "vocabCount": 32,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 14,
+    "title": "Lesson 14: Completing the Behavior State",
+    "dialogueCount": 66,
+    "vocabCount": 27,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 15,
+    "title": "Lesson 15: Exception",
+    "dialogueCount": 80,
+    "vocabCount": 21,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 16,
+    "title": "Lesson 16: Reinforcing verbs with letters ( ن )",
+    "dialogueCount": 47,
+    "vocabCount": 12,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  },
+  {
+    "lessonNumber": 17,
+    "title": "Lesson 17: Non-declensive names or names of two case declensions",
+    "dialogueCount": 33,
+    "vocabCount": 16,
+    "verbCount": 0,
+    "conjugationCount": 0,
+    "hasGrammar": true
+  }
+]

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { VocabItem, DialogueItem, VoiceGender } from '../types';
 import { X, Volume2, RotateCw, ChevronLeft, ChevronRight, Shuffle, Check, ArrowRight } from 'lucide-react';
+import { removeTashkeel } from '../utils/arabic';
 
 interface FlashcardModalProps {
   isOpen: boolean;
@@ -9,6 +10,7 @@ interface FlashcardModalProps {
   dialogues: DialogueItem[];
   onPlayAudio: (key: string) => void;
   arabicSize: number;
+  showTashkeel?: boolean;
 }
 
 export const FlashcardModal: React.FC<FlashcardModalProps> = ({
@@ -17,7 +19,8 @@ export const FlashcardModal: React.FC<FlashcardModalProps> = ({
   vocab,
   dialogues,
   onPlayAudio,
-  arabicSize
+  arabicSize,
+  showTashkeel = true
 }) => {
   const [mode, setMode] = useState<'vocab' | 'dialogue'>('vocab');
   const [cards, setCards] = useState<{ id: number; arabic: string; english: string; voiceKey: string }[]>([]);
@@ -127,7 +130,7 @@ export const FlashcardModal: React.FC<FlashcardModalProps> = ({
               dir="rtl"
               style={{ fontSize: `${arabicSize * 1.1}px` }}
             >
-              {currentCard.arabic}
+              {showTashkeel ? currentCard.arabic : removeTashkeel(currentCard.arabic)}
             </div>
 
             {/* Back (English) */}

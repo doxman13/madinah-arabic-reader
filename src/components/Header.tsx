@@ -1,5 +1,5 @@
 import React from 'react';
-import { ActiveTab, VoiceGender } from '../types';
+import { ActiveTab, VoiceGender, BookMeta } from '../types';
 import { 
   BookOpen, 
   MessageSquare, 
@@ -10,13 +10,16 @@ import {
   Menu, 
   Eye, 
   EyeOff, 
-  Type, 
   Zap,
   Sliders,
-  Target
+  Target,
+  ChevronDown
 } from 'lucide-react';
 
 interface HeaderProps {
+  currentBookId: number;
+  onBookChange: (bookId: number) => void;
+  books: BookMeta[];
   currentLessonNum: number;
   lessonTitle: string;
   activeTab: ActiveTab;
@@ -37,10 +40,14 @@ interface HeaderProps {
   vocabCount: number;
   verbCount: number;
   hasGrammar: boolean;
+  hasDualVoice: boolean;
   onOpenFlashcards: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
+  currentBookId,
+  onBookChange,
+  books,
   currentLessonNum,
   lessonTitle,
   activeTab,
@@ -61,6 +68,7 @@ export const Header: React.FC<HeaderProps> = ({
   vocabCount,
   verbCount,
   hasGrammar,
+  hasDualVoice,
   onOpenFlashcards
 }) => {
   const [showSettings, setShowSettings] = React.useState(false);
@@ -86,18 +94,33 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <Menu className="w-5 h-5" />
             </button>
-            <div>
-              <div className="flex items-center gap-2">
-                <span className="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300">
-                  Book 2
-                </span>
-                <h1 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white truncate max-w-[200px] sm:max-w-md">
+            
+            <div className="flex items-center gap-2.5">
+              {/* Interactive Book Selector Dropdown */}
+              <div className="relative">
+                <select
+                  value={currentBookId}
+                  onChange={(e) => onBookChange(Number(e.target.value))}
+                  className="appearance-none pl-2.5 pr-7 py-1 rounded-lg text-xs font-bold bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-800 cursor-pointer focus:outline-none focus:ring-2 focus:ring-emerald-500 transition-colors"
+                  title="Switch Book"
+                >
+                  {books.map((b) => (
+                    <option key={b.id} value={b.id} className="bg-white dark:bg-slate-900 text-slate-900 dark:text-white">
+                      Book {b.id} • {b.arabicTitle}
+                    </option>
+                  ))}
+                </select>
+                <ChevronDown className="w-3.5 h-3.5 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none text-emerald-700 dark:text-emerald-400" />
+              </div>
+
+              <div>
+                <h1 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white truncate max-w-[180px] sm:max-w-xs md:max-w-md">
                   {lessonTitle}
                 </h1>
+                <p className="text-[11px] text-slate-500 dark:text-slate-400 hidden sm:block">
+                  Madinah Arabic Course (دروس اللغة العربية)
+                </p>
               </div>
-              <p className="text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
-                Madinah Arabic Course (دروس اللغة العربية)
-              </p>
             </div>
           </div>
 
@@ -141,31 +164,38 @@ export const Header: React.FC<HeaderProps> = ({
               <span className="hidden md:inline">{showTashkeel ? 'Tashkeel' : 'No Vowels'}</span>
             </button>
 
-            {/* Voice Gender Switcher */}
-            <div className="flex items-center rounded-lg p-0.5 bg-slate-100 dark:bg-slate-800 text-xs">
-              <button
-                onClick={() => onGenderChange('b')}
-                className={`px-2 py-1 rounded-md font-medium transition-colors ${
-                  gender === 'b'
-                    ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-xs'
-                    : 'text-slate-500 hover:text-slate-900 dark:hover:text-white'
-                }`}
-                title="Male Voice (Voice B)"
-              >
-                Male
-              </button>
-              <button
-                onClick={() => onGenderChange('a')}
-                className={`px-2 py-1 rounded-md font-medium transition-colors ${
-                  gender === 'a'
-                    ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-xs'
-                    : 'text-slate-500 hover:text-slate-900 dark:hover:text-white'
-                }`}
-                title="Female Voice (Voice A)"
-              >
-                Female
-              </button>
-            </div>
+            {/* Voice Gender Switcher (Dual Voice for Book 1 & 2) */}
+            {hasDualVoice ? (
+              <div className="flex items-center rounded-lg p-0.5 bg-slate-100 dark:bg-slate-800 text-xs">
+                <button
+                  onClick={() => onGenderChange('b')}
+                  className={`px-2 py-1 rounded-md font-medium transition-colors ${
+                    gender === 'b'
+                      ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-xs'
+                      : 'text-slate-500 hover:text-slate-900 dark:hover:text-white'
+                  }`}
+                  title="Male Voice (Voice B)"
+                >
+                  Male
+                </button>
+                <button
+                  onClick={() => onGenderChange('a')}
+                  className={`px-2 py-1 rounded-md font-medium transition-colors ${
+                    gender === 'a'
+                      ? 'bg-white dark:bg-slate-700 text-emerald-600 dark:text-emerald-400 shadow-xs'
+                      : 'text-slate-500 hover:text-slate-900 dark:hover:text-white'
+                  }`}
+                  title="Female Voice (Voice A)"
+                >
+                  Female
+                </button>
+              </div>
+            ) : (
+              <div className="hidden sm:inline-flex items-center px-2 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-[11px] font-medium text-slate-500">
+                <Volume2 className="w-3 h-3 mr-1" />
+                <span>Audio (A)</span>
+              </div>
+            )}
 
             {/* Settings Dropdown Button */}
             <div className="relative">

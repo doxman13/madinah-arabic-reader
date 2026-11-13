@@ -1,8 +1,11 @@
 import React, { useState } from 'react';
-import { LessonMeta } from '../types';
+import { LessonMeta, BookMeta } from '../types';
 import { Search, X, CheckCircle, BookOpen, Layers, Sparkles, FileText } from 'lucide-react';
 
 interface LessonSidebarProps {
+  books: BookMeta[];
+  currentBookId: number;
+  onSelectBook: (bookId: number) => void;
   lessons: LessonMeta[];
   currentLessonNum: number;
   onSelectLesson: (num: number) => void;
@@ -11,6 +14,9 @@ interface LessonSidebarProps {
 }
 
 export const LessonSidebar: React.FC<LessonSidebarProps> = ({
+  books,
+  currentBookId,
+  onSelectBook,
   lessons,
   currentLessonNum,
   onSelectLesson,
@@ -18,6 +24,8 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
   onClose,
 }) => {
   const [searchTerm, setSearchTerm] = useState('');
+
+  const currentBook = books.find(b => b.id === currentBookId) || books[0];
 
   const filteredLessons = lessons.filter(l => 
     l.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -41,22 +49,44 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
         }`}
       >
         {/* Header */}
-        <div className="p-4 border-b border-slate-200 dark:border-slate-800 flex items-center justify-between">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center font-bold text-sm">
-              M2
+        <div className="p-4 border-b border-slate-200 dark:border-slate-800 space-y-3">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-2.5">
+              <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center font-bold text-sm shadow-xs">
+                M{currentBookId}
+              </div>
+              <div>
+                <div className="text-sm font-bold text-slate-900 dark:text-white">Madinah Arabic</div>
+                <div className="text-xs text-slate-500 dark:text-slate-400">
+                  {currentBook?.title} ({lessons.length} Lessons)
+                </div>
+              </div>
             </div>
-            <div>
-              <div className="text-sm font-bold text-slate-900 dark:text-white">Madinah Arabic</div>
-              <div className="text-xs text-slate-500 dark:text-slate-400">Book 2 (36 Lessons)</div>
-            </div>
+            <button
+              onClick={onClose}
+              className="p-1.5 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 lg:hidden"
+            >
+              <X className="w-5 h-5" />
+            </button>
           </div>
-          <button
-            onClick={onClose}
-            className="p-1 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 lg:hidden"
-          >
-            <X className="w-5 h-5" />
-          </button>
+
+          {/* Book Switcher Tabs */}
+          <div className="grid grid-cols-4 gap-1 p-1 bg-slate-100 dark:bg-slate-800/80 rounded-xl">
+            {books.map(b => (
+              <button
+                key={b.id}
+                onClick={() => onSelectBook(b.id)}
+                className={`py-1.5 px-1 rounded-lg text-xs font-bold transition-all text-center ${
+                  b.id === currentBookId
+                    ? 'bg-white dark:bg-slate-700 text-emerald-700 dark:text-emerald-300 shadow-xs'
+                    : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
+                }`}
+                title={`${b.title} - ${b.arabicTitle}`}
+              >
+                <span>Book {b.id}</span>
+              </button>
+            ))}
+          </div>
         </div>
 
         {/* Search */}
@@ -65,7 +95,7 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
             <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
             <input
               type="text"
-              placeholder="Search lessons or topics..."
+              placeholder={`Search Book ${currentBookId} lessons...`}
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               className="w-full pl-9 pr-3 py-1.5 text-xs rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-transparent focus:border-emerald-500 focus:bg-white dark:focus:bg-slate-900 text-slate-900 dark:text-white outline-none transition-colors"
@@ -99,40 +129,36 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
                 >
                   {l.lessonNumber}
                 </div>
+
                 <div className="flex-1 min-w-0">
-                  <div className="font-semibold truncate">
-                    {l.title.replace(`Lesson ${l.lessonNumber}: `, '')}
+                  <div className="truncate font-semibold text-slate-900 dark:text-white group-hover:text-emerald-600 dark:group-hover:text-emerald-400">
+                    {l.title}
                   </div>
-                  <div className="flex items-center gap-2 mt-1 text-[11px] text-slate-400 dark:text-slate-500">
-                    {l.dialogueCount > 0 && (
-                      <span className="flex items-center gap-0.5">
-                        <BookOpen className="w-3 h-3" />
-                        {l.dialogueCount}
-                      </span>
-                    )}
+                  <div className="flex items-center gap-2 mt-1 text-[11px] text-slate-500 dark:text-slate-400">
+                    <span>{l.dialogueCount} phrases</span>
                     {l.vocabCount > 0 && (
-                      <span className="flex items-center gap-0.5">
-                        <Layers className="w-3 h-3" />
-                        {l.vocabCount}w
-                      </span>
+                      <>
+                        <span>•</span>
+                        <span>{l.vocabCount} words</span>
+                      </>
                     )}
                     {l.verbCount > 0 && (
-                      <span className="flex items-center gap-0.5 text-amber-500 dark:text-amber-400">
-                        <Sparkles className="w-3 h-3" />
-                        {l.verbCount}v
-                      </span>
-                    )}
-                    {l.hasGrammar && (
-                      <span className="flex items-center gap-0.5">
-                        <FileText className="w-3 h-3" />
-                        Sharh
-                      </span>
+                      <>
+                        <span>•</span>
+                        <span>{l.verbCount} verbs</span>
+                      </>
                     )}
                   </div>
                 </div>
               </button>
             );
           })}
+
+          {filteredLessons.length === 0 && (
+            <div className="text-center py-8 text-xs text-slate-400">
+              No lessons match "{searchTerm}"
+            </div>
+          )}
         </div>
       </aside>
     </>

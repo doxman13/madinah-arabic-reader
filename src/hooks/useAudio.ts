@@ -9,7 +9,7 @@ interface AudioState {
   continuous: boolean;
 }
 
-export function useAudio() {
+export function useAudio(bookId: number = 2) {
   const [currentKey, setCurrentKey] = useState<string | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [gender, setGender] = useState<VoiceGender>(() => {
@@ -52,7 +52,8 @@ export function useAudio() {
   const play = useCallback((voiceKey: string, onEnd?: () => void, overrideGender?: VoiceGender) => {
     if (!audioRef.current) return;
     const g = overrideGender || gender;
-    const audioSrc = `/audio/${voiceKey}_${g}.mp3`;
+    const finalGender = (bookId === 3 || bookId === 4) ? 'a' : g;
+    const audioSrc = `/audio/book${bookId}/${voiceKey}_${finalGender}.mp3`;
 
     // If currently playing the same sound, pause it
     if (currentKey === voiceKey && isPlaying) {
@@ -71,7 +72,7 @@ export function useAudio() {
       console.warn("Audio playback prevented or missing:", audioSrc, err);
       setIsPlaying(false);
     });
-  }, [currentKey, isPlaying, gender, speed]);
+  }, [currentKey, isPlaying, gender, speed, bookId]);
 
   const stop = useCallback(() => {
     if (audioRef.current) {

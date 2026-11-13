@@ -1,0 +1,5214 @@
+{
+  "15": [
+    {
+      "id": 1,
+      "type": 24,
+      "arabic": "الدَّرْسُ الخَامِسُ عَشَرَ",
+      "english": "Lesson 15",
+      "titleEN": "Lesson 15"
+    },
+    {
+      "id": 2,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 3,
+      "type": 4,
+      "arabic": "",
+      "english": "Personal and possessive pronouns feminine 2nd person",
+      "titleEN": "Personal and possessive pronouns feminine 2nd person"
+    },
+    {
+      "id": 4,
+      "type": 1,
+      "arabic": "",
+      "english": "Pronouns ( أَنْتِ ) and ( أَنْتُنَّ ), as well as their united possessive pronouns ( كِ ) and  ( كُنَّ )",
+      "titleEN": ""
+    },
+    {
+      "id": 5,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 6,
+      "type": 21,
+      "arabic": "أَنْتِ",
+      "english": "«You» (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 7,
+      "type": 21,
+      "arabic": "أَنْتِ مَرِيضَةٌ؟",
+      "english": "«Are you sick?»",
+      "titleEN": ""
+    },
+    {
+      "id": 8,
+      "type": 21,
+      "arabic": "كِ",
+      "english": "«Your» (feminine, fused pronoun)",
+      "titleEN": ""
+    },
+    {
+      "id": 9,
+      "type": 21,
+      "arabic": "كِتَابُكِ",
+      "english": "«Your book» (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 10,
+      "type": 21,
+      "arabic": "أَنْتُنَّ",
+      "english": "«You» (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 11,
+      "type": 21,
+      "arabic": "أَنْتُنَّ أَخَوَاتٌ",
+      "english": "«You are sisters»",
+      "titleEN": ""
+    },
+    {
+      "id": 12,
+      "type": 21,
+      "arabic": "كُنَّ",
+      "english": "«Your» (feminine, plural, fused pronoun)",
+      "titleEN": ""
+    },
+    {
+      "id": 13,
+      "type": 21,
+      "arabic": "كِتَابُكُنَّ",
+      "english": "«Your book» (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "arabic": "",
+      "english": "It should be noticed, that personal and united pronouns are unchangeable in form. United pronouns are not used in separately, they must always adjust nouns, in any case.",
+      "titleEN": ""
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "arabic": "",
+      "english": "But, if we need to focus on affiliation «your», then it is necessary to adjust the united possessive pronouns to the preposition ( ل ), which will cause the open affiliation. For example: ( كِتَابٌ لَكِ ) «book-your»",
+      "titleEN": ""
+    },
+    {
+      "id": 16,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 17,
+      "type": 1,
+      "arabic": "",
+      "english": "2nd person masculine and feminine verbs",
+      "titleEN": ""
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "arabic": "",
+      "english": "By forming the past tense verb, in order to express this or that person, or gender and number, the original form of the verb is adjusted to the back of the suffixes.",
+      "titleEN": ""
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples of (masculine)",
+      "titleEN": ""
+    },
+    {
+      "id": 20,
+      "type": 21,
+      "arabic": "ـتَ",
+      "english": "Suffix",
+      "titleEN": ""
+    },
+    {
+      "id": 21,
+      "type": 21,
+      "arabic": "أَنْتَ :ذَهَبْتَ",
+      "english": "«You have gone»",
+      "titleEN": ""
+    },
+    {
+      "id": 22,
+      "type": 21,
+      "arabic": "ـتُمْ",
+      "english": "Suffix",
+      "titleEN": ""
+    },
+    {
+      "id": 23,
+      "type": 21,
+      "arabic": "أَنْتُمْ: ذَهَبْتُمْ",
+      "english": "«You've gone»",
+      "titleEN": ""
+    },
+    {
+      "id": 24,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples of (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 25,
+      "type": 21,
+      "arabic": "ـتِ",
+      "english": "Suffix",
+      "titleEN": ""
+    },
+    {
+      "id": 26,
+      "type": 21,
+      "arabic": "أَنْتِ :ذَهَبَتِ",
+      "english": "«You left»",
+      "titleEN": ""
+    },
+    {
+      "id": 27,
+      "type": 21,
+      "arabic": "ـتُنَّ",
+      "english": "Suffix",
+      "titleEN": ""
+    },
+    {
+      "id": 28,
+      "type": 21,
+      "arabic": "أَنْتُنَّ: ذَهَبْتُنَّ",
+      "english": "«You've gone»",
+      "titleEN": ""
+    },
+    {
+      "id": 29,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 30,
+      "type": 21,
+      "arabic": "ظَرْفُ زَمَانُ",
+      "english": "Adverbial modifier of time",
+      "titleEN": ""
+    },
+    {
+      "id": 31,
+      "type": 21,
+      "arabic": "قَبْلَ",
+      "english": "«Before, behind»",
+      "titleEN": ""
+    },
+    {
+      "id": 32,
+      "type": 21,
+      "arabic": "بَعْدَ",
+      "english": "«After»",
+      "titleEN": ""
+    },
+    {
+      "id": 33,
+      "type": 1,
+      "arabic": "",
+      "english": "The adverbial modifier of  time can be expressed by Izafet combinations: preposition adverbs with nouns, for example: ( بَعْدَ الظُّهْرِ ) «Afternoon», after them is the  «Idafa» rule used.",
+      "titleEN": ""
+    },
+    {
+      "id": 34,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 35,
+      "type": 21,
+      "arabic": "بَعْدَ الدَّرْسِ",
+      "english": "«After lesson»",
+      "titleEN": ""
+    },
+    {
+      "id": 36,
+      "type": 21,
+      "arabic": "قَبْلَ أُسْبُوعٍ",
+      "english": "«During the week»",
+      "titleEN": ""
+    },
+    {
+      "id": 37,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 38,
+      "type": 1,
+      "arabic": "",
+      "english": "Verb forms singular and plural, apply as to feminine and masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 39,
+      "type": 21,
+      "arabic": "أَنَا",
+      "english": "«I»",
+      "titleEN": ""
+    },
+    {
+      "id": 40,
+      "type": 21,
+      "arabic": "نَحْنُ",
+      "english": "«We»",
+      "titleEN": ""
+    },
+    {
+      "id": 41,
+      "type": 11,
+      "arabic": "أَنَا: ذَهَبْتُ",
+      "english": "«I went»",
+      "titleEN": ""
+    },
+    {
+      "id": 42,
+      "type": 11,
+      "arabic": "نَحْنُ:  ذَهَبْناَ",
+      "english": "«We walked»",
+      "titleEN": ""
+    },
+    {
+      "id": 43,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 44,
+      "type": 21,
+      "arabic": "هُوَ طَالِبٌ",
+      "english": "«He is a student» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 45,
+      "type": 21,
+      "arabic": "هِيَ طَالِبَةٌ",
+      "english": "«She is a student» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 46,
+      "type": 21,
+      "arabic": "أَنْتَ طَالِبٌ",
+      "english": "«Are you a student» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 47,
+      "type": 21,
+      "arabic": "أَنْتِ طَالِبَةٌ",
+      "english": "«Are you a student» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 48,
+      "type": 21,
+      "arabic": "أَنَا طَالِبٌ",
+      "english": "«I am a student» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 49,
+      "type": 21,
+      "arabic": "أَنَا طَالِبَةٌ",
+      "english": "«I am a student» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 50,
+      "type": 21,
+      "arabic": "هُمْ طُلاَّبٌ",
+      "english": "«They are students» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 51,
+      "type": 21,
+      "arabic": "هُنَّ طَالِبَاتٌ",
+      "english": "«They are students» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 52,
+      "type": 21,
+      "arabic": "أَنْتُمْ طُلاَّبٌ",
+      "english": "«You are students» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 53,
+      "type": 21,
+      "arabic": "أَنْتُنَّ طَالِبَاتٌ",
+      "english": "«You are students» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 54,
+      "type": 21,
+      "arabic": "نَحْنُ الطُّلاَّبٌ",
+      "english": "«We are students» (m.)",
+      "titleEN": ""
+    },
+    {
+      "id": 55,
+      "type": 21,
+      "arabic": "نَحْنُ طَالِبَاتٌ",
+      "english": "«We are students» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 56,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "1": [
+    {
+      "id": 57,
+      "type": 24,
+      "arabic": "الدَّرْسُ اﻷوَّلُ",
+      "english": "Lesson 1",
+      "titleEN": "Lesson 1"
+    },
+    {
+      "id": 58,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 59,
+      "type": 4,
+      "arabic": "",
+      "english": "Pronouns and descriptions of parts of speech in Arabic",
+      "titleEN": "Pronouns and descriptions of parts of speech in Arabic"
+    },
+    {
+      "id": 60,
+      "type": 1,
+      "arabic": "",
+      "english": "In Arabic, nouns fall into two categories, similar to which do not exist in other languages. These nouns are called: rational and irrational. In the English language, such nouns are called «animated» and «not animated»",
+      "titleEN": ""
+    },
+    {
+      "id": 61,
+      "type": 1,
+      "arabic": "",
+      "english": "Rational nouns refer to people. They are also called sapient nouns, in Arabic (   عَاقِلٌ ). Besides man, angels, jinn (in Islam), the devil are included in this class. Some examples of rational nouns: «doctor, boy, person» - that is  (   طَبِيبٌ، وَلَدٌ، رَجُلٌ )",
+      "titleEN": ""
+    },
+    {
+      "id": 62,
+      "type": 1,
+      "arabic": "",
+      "english": "Irrational nouns do not refer to people. They are also called non-intelligent, (   غَيْرُ عَاقِلٍ ) Irrational nouns refer to animated objects, animals, objects such as trees and plants, etc. Some examples of irrational nouns: «tree, notebook, book» - that is ( كِتَابٌ، دَفْتَرٌ، شَجَرَةٌ )",
+      "titleEN": ""
+    },
+    {
+      "id": 63,
+      "type": 1,
+      "arabic": "",
+      "english": "In the original, almost every Arabic word ends with ( ٌ  ) nun. Because there is a tanvin at the end of every word. This is the original form of the word.",
+      "titleEN": ""
+    },
+    {
+      "id": 64,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 65,
+      "type": 30,
+      "arabic": "مُدَرِّسٌ قَلَمٌٌ مَسْجِدٌ بَيْتٌٌ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 66,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 67,
+      "type": 21,
+      "arabic": "هَذَا",
+      "english": "«This» - demonstrative pronoun for the singular, masculine, close in distance, reasonable and unreasonable.",
+      "titleEN": ""
+    },
+    {
+      "id": 68,
+      "type": 12,
+      "arabic": "هَذَا اِسْمُ إِشَارَةٍ لِلْمُفْرَدِ الْمُذَكَّرِ الْقَرِيبِ الْعَاقِلِ وَ غَيرِ الْعَاقِلِ",
+      "english": "In the Arabic language:",
+      "titleEN": ""
+    },
+    {
+      "id": 69,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 70,
+      "type": 21,
+      "arabic": "مَا",
+      "english": "«What» - an interrogative pronoun for not reasonable.",
+      "titleEN": ""
+    },
+    {
+      "id": 71,
+      "type": 12,
+      "arabic": "مَا اِسْمُ إِسْتِفْهَامٍ لِغَيرِ العَاقِلِ",
+      "english": "In the Arabic language:",
+      "titleEN": ""
+    },
+    {
+      "id": 72,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 73,
+      "type": 21,
+      "arabic": "أَ",
+      "english": "«Hamza» - an interrogative particle, the answer to it is «yes» or «no».",
+      "titleEN": ""
+    },
+    {
+      "id": 74,
+      "type": 21,
+      "arabic": "أَ هَمْزَةُ اﻹِْسْتِفْهَامِِ",
+      "english": "Letter or particle",
+      "titleEN": ""
+    },
+    {
+      "id": 75,
+      "type": 21,
+      "arabic": "حَرْفٌ جَوابُهُ",
+      "english": "The answer to it",
+      "titleEN": ""
+    },
+    {
+      "id": 76,
+      "type": 21,
+      "arabic": "نَعَمْ",
+      "english": "«Yes»",
+      "titleEN": ""
+    },
+    {
+      "id": 77,
+      "type": 21,
+      "arabic": "أَوْ",
+      "english": "«Or»",
+      "titleEN": ""
+    },
+    {
+      "id": 78,
+      "type": 21,
+      "arabic": "ﻻَ",
+      "english": "«Not»",
+      "titleEN": ""
+    },
+    {
+      "id": 79,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 80,
+      "type": 21,
+      "arabic": "مَنْ",
+      "english": "«Who» - an interrogative pronoun for reasonable.",
+      "titleEN": ""
+    },
+    {
+      "id": 81,
+      "type": 12,
+      "arabic": "مَنْ اِسْمُ إِسْتِفْهَامٍ لِلْعَاقِلِ",
+      "english": "In the Arabic language:",
+      "titleEN": ""
+    },
+    {
+      "id": 82,
+      "type": 21,
+      "arabic": "مَنْ هَذَ؟",
+      "english": "«who is this?»",
+      "titleEN": ""
+    },
+    {
+      "id": 83,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 84,
+      "type": 1,
+      "arabic": "",
+      "english": "An Arabic sentence consists of three parts of speech:",
+      "titleEN": ""
+    },
+    {
+      "id": 85,
+      "type": 21,
+      "arabic": "انواع الكلمة",
+      "english": "Parts of speech",
+      "titleEN": ""
+    },
+    {
+      "id": 86,
+      "type": 21,
+      "arabic": "الاِسْمُ",
+      "english": "1) Noun",
+      "titleEN": ""
+    },
+    {
+      "id": 87,
+      "type": 1,
+      "arabic": "",
+      "english": "1. The name الاِسْمُ is any word that points at:",
+      "titleEN": ""
+    },
+    {
+      "id": 88,
+      "type": 1,
+      "arabic": "1. Человек:    طَالِبٌ - «Студент»",
+      "english": "2. Person  : طَالِبٌ - «Student»",
+      "titleEN": ""
+    },
+    {
+      "id": 89,
+      "type": 1,
+      "arabic": "2. Животное:  أَسَدٌ - «Лев»",
+      "english": "3. Animal: أَسَدٌ - «Lion»",
+      "titleEN": ""
+    },
+    {
+      "id": 90,
+      "type": 1,
+      "arabic": "3. Растение:  زَهْرَةٌ - «Цветок»",
+      "english": "4. Plant: زَهْرَةٌ - «Flower»",
+      "titleEN": ""
+    },
+    {
+      "id": 91,
+      "type": 1,
+      "arabic": "",
+      "english": "5. Inanimate object: حَجَرٌ - «Stone»",
+      "titleEN": ""
+    },
+    {
+      "id": 92,
+      "type": 1,
+      "arabic": "",
+      "english": "6. Abstract concept: شَجاعَةٌ - «Courage»",
+      "titleEN": ""
+    },
+    {
+      "id": 93,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 94,
+      "type": 21,
+      "arabic": "الفِعْلُ",
+      "english": "2) Verb",
+      "titleEN": ""
+    },
+    {
+      "id": 95,
+      "type": 1,
+      "arabic": "",
+      "english": "A verb (  الفِعْلُ ) is a word that indicates an event that occurred in one of the tenses. For example:",
+      "titleEN": ""
+    },
+    {
+      "id": 96,
+      "type": 21,
+      "arabic": "كَتَبَ",
+      "english": "- he wrote (past simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 97,
+      "type": 21,
+      "arabic": "جَلَسَ",
+      "english": "- Is he sat (past continuous)",
+      "titleEN": ""
+    },
+    {
+      "id": 98,
+      "type": 21,
+      "arabic": "ضَرَبَ",
+      "english": "- he beat (past simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 99,
+      "type": 21,
+      "arabic": "يَكْتُبُ",
+      "english": "- he writes (present simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 100,
+      "type": 21,
+      "arabic": "يَجْلِسُ",
+      "english": "- he sits (present simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 101,
+      "type": 21,
+      "arabic": "يَضْرِبُ",
+      "english": "- he hits (present simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 102,
+      "type": 21,
+      "arabic": "سَيَكْتُبُ",
+      "english": "- he will write (future simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 103,
+      "type": 21,
+      "arabic": "سَيَجْلِسُ",
+      "english": "- he will sit (future simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 104,
+      "type": 21,
+      "arabic": "سَيَضْرِبُ",
+      "english": "- he will beat (future simple)",
+      "titleEN": ""
+    },
+    {
+      "id": 105,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 106,
+      "type": 21,
+      "arabic": "الحَرْفُ",
+      "english": "3) Particle",
+      "titleEN": ""
+    },
+    {
+      "id": 107,
+      "type": 1,
+      "arabic": "",
+      "english": "Particle (   الحَرْفُ ) is a word that does not carry meaning in separately, but acquires it in combination with a name or verb. For example:",
+      "titleEN": ""
+    },
+    {
+      "id": 108,
+      "type": 21,
+      "arabic": "فِي",
+      "english": "- «in»",
+      "titleEN": ""
+    },
+    {
+      "id": 109,
+      "type": 21,
+      "arabic": "عَلَى",
+      "english": "- «on» and etc",
+      "titleEN": ""
+    },
+    {
+      "id": 110,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "19": [
+    {
+      "id": 111,
+      "type": 24,
+      "arabic": "الدَّرْسُ التَّاسِعَ عَشَرَ",
+      "english": "Lesson 19",
+      "titleEN": "Lesson 19"
+    },
+    {
+      "id": 112,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 113,
+      "type": 4,
+      "arabic": "",
+      "english": "Numbers",
+      "titleEN": "Numbers"
+    },
+    {
+      "id": 114,
+      "type": 21,
+      "arabic": "الْعَدَدُ",
+      "english": "Numbers",
+      "titleEN": ""
+    },
+    {
+      "id": 115,
+      "type": 21,
+      "arabic": "الْمَعْدُودُ",
+      "english": "Countable",
+      "titleEN": ""
+    },
+    {
+      "id": 116,
+      "type": 1,
+      "arabic": "",
+      "english": "Phrase containing a number ( الْعَدَدُ ) and countable word ( الْمَعْدُودُ ) called a number phrase ( الْمُرَكَّبُ الْعَدَدِيُ ), or a number combination. In numbers from 3 to 10, if If the word to be counted is masculine, then the number will be feminine, also countable will be with «Kasra» and stand in ( مُضَفٌ إِلَيْهِ )",
+      "titleEN": ""
+    },
+    {
+      "id": 117,
+      "type": 1,
+      "arabic": "",
+      "english": "Masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 118,
+      "type": 21,
+      "arabic": "ثَلاَثَةُ أَقْلاَمٍ",
+      "english": "«Three pens»",
+      "titleEN": ""
+    },
+    {
+      "id": 119,
+      "type": 21,
+      "arabic": "أَرْبَعَةُ أَبْوَبٍ",
+      "english": "«Four doors»",
+      "titleEN": ""
+    },
+    {
+      "id": 120,
+      "type": 21,
+      "arabic": "خَمْسَةُ كِلَابٍ",
+      "english": "«Five dogs»",
+      "titleEN": ""
+    },
+    {
+      "id": 121,
+      "type": 21,
+      "arabic": "سِتَّةُ جِبَلٍ",
+      "english": "«Six mountains»",
+      "titleEN": ""
+    },
+    {
+      "id": 122,
+      "type": 21,
+      "arabic": "سَبْعَةُ  سُرُرٍ",
+      "english": "«Seven beds»",
+      "titleEN": ""
+    },
+    {
+      "id": 123,
+      "type": 21,
+      "arabic": "ثَمَانِيَةُ أَنْهَارٍ",
+      "english": "«Eight rivers»",
+      "titleEN": ""
+    },
+    {
+      "id": 124,
+      "type": 21,
+      "arabic": "تِسْعَةُ نُجُومٍ",
+      "english": "«Nine stars»",
+      "titleEN": ""
+    },
+    {
+      "id": 125,
+      "type": 21,
+      "arabic": "عَشَرَةُ كُتُبٍ",
+      "english": "«Ten books»",
+      "titleEN": ""
+    },
+    {
+      "id": 126,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 127,
+      "type": 1,
+      "arabic": "",
+      "english": "Numbers «one» and «two» in Arabic are formed in the same way as a noun and its adjective, where the adjective is completely considers with a noun in number, gender and case.In  case of the number «two» the numeral is formed in dual form.",
+      "titleEN": ""
+    },
+    {
+      "id": 128,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 129,
+      "type": 21,
+      "arabic": "كِتَابٌ وَاحِدٌ",
+      "english": "«One book»",
+      "titleEN": ""
+    },
+    {
+      "id": 130,
+      "type": 21,
+      "arabic": "كُرْسِيَّانِ اثْنَانِ",
+      "english": "«Two chairs»",
+      "titleEN": ""
+    },
+    {
+      "id": 131,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 132,
+      "type": 1,
+      "arabic": "",
+      "english": "One should also know, that in arabic for expressions of singularity or two items it is enough to express them in singular and in dual number. However, the numbers are pronounced for focusing of attention.",
+      "titleEN": ""
+    },
+    {
+      "id": 133,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 134,
+      "type": 11,
+      "arabic": "عَلَى مَكْتَبِي قَلَمٌ وَاحِدٌ",
+      "english": "«One pencil on my desk»",
+      "titleEN": ""
+    },
+    {
+      "id": 135,
+      "type": 11,
+      "arabic": "هَذَانِ أَخَوَانِ اثْنَانِ",
+      "english": "«These are two brothers»",
+      "titleEN": ""
+    },
+    {
+      "id": 136,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "8": [
+    {
+      "id": 137,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّامِنُ",
+      "english": "Lesson 8",
+      "titleEN": "Lesson 8"
+    },
+    {
+      "id": 138,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 139,
+      "type": 4,
+      "arabic": "",
+      "english": "( بَدَلٌ ) Substitute(appendix)",
+      "titleEN": "( بَدَلٌ ) Substitute(appendix)"
+    },
+    {
+      "id": 140,
+      "type": 1,
+      "arabic": "",
+      "english": "If a word in a particular state is followed by a word that repeats it throughout: in case, in ending, in number, in kind, in certainty and not in certainty. Answers a question «who?», «what?», that is «البَدَلُ» - substitute i.e. this word follows its word in absolutely everything and is a noun",
+      "titleEN": ""
+    },
+    {
+      "id": 141,
+      "type": 1,
+      "arabic": "",
+      "english": "Below we will analyze the proposals with a substitute:",
+      "titleEN": ""
+    },
+    {
+      "id": 142,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 143,
+      "type": 11,
+      "arabic": "هَذَا الرَّجُلُ تَاجِرٌ",
+      "english": "«This man is a merchant»",
+      "titleEN": ""
+    },
+    {
+      "id": 144,
+      "type": 11,
+      "arabic": "هَذَا – مُبْتَدَأٌ",
+      "english": "This is the subject",
+      "titleEN": ""
+    },
+    {
+      "id": 145,
+      "type": 11,
+      "arabic": "الرَّجُلُ بَدَلٌ",
+      "english": "The man is a substitute (always in a certain state)",
+      "titleEN": ""
+    },
+    {
+      "id": 146,
+      "type": 21,
+      "arabic": "بَدَلٌ",
+      "english": "The substitute always stands with ( ال )",
+      "titleEN": ""
+    },
+    {
+      "id": 147,
+      "type": 11,
+      "arabic": "تَاجِرٌ خَبَر",
+      "english": "Merchant — predicate",
+      "titleEN": ""
+    },
+    {
+      "id": 148,
+      "type": 1,
+      "arabic": "",
+      "english": "If we remove the definite article, then the substitute becomes predicate",
+      "titleEN": ""
+    },
+    {
+      "id": 149,
+      "type": 11,
+      "arabic": "هَذَا رجل",
+      "english": "«This is a man»",
+      "titleEN": ""
+    },
+    {
+      "id": 150,
+      "type": 11,
+      "arabic": "مُبْتَدَأٌ, خَبَر",
+      "english": "Subject, predicate",
+      "titleEN": ""
+    },
+    {
+      "id": 151,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 152,
+      "type": 21,
+      "arabic": "حَرْفُ الجَرُّ",
+      "english": "Preposition of the genitive",
+      "titleEN": ""
+    },
+    {
+      "id": 153,
+      "type": 21,
+      "arabic": "لِ",
+      "english": "«At, for» Feature of this suggestion —  indicator of belonging, ownership. He answers the question «whose?»",
+      "titleEN": ""
+    },
+    {
+      "id": 154,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 155,
+      "type": 11,
+      "arabic": "لِمَنْ هَذِهِ السَّيَّارَةُ؟",
+      "english": "«Whose car is it?»",
+      "titleEN": ""
+    },
+    {
+      "id": 156,
+      "type": 11,
+      "arabic": "لِصَدِيقِي عَلِيِّ",
+      "english": "«My friend Ali»",
+      "titleEN": ""
+    },
+    {
+      "id": 157,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "14": [
+    {
+      "id": 158,
+      "type": 24,
+      "arabic": "الدَّرْسُ الرَّبِعُ عَشَرَ",
+      "english": "Lesson 14",
+      "titleEN": "Lesson 14"
+    },
+    {
+      "id": 159,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 160,
+      "type": 4,
+      "arabic": "",
+      "english": "Pronouns",
+      "titleEN": "Pronouns"
+    },
+    {
+      "id": 161,
+      "type": 12,
+      "arabic": "الضَمَائِرُ الْمُتَصِلَة بِاﻻسْمِ",
+      "english": "Possessive pronouns",
+      "titleEN": ""
+    },
+    {
+      "id": 162,
+      "type": 1,
+      "arabic": "",
+      "english": "Here, we are going to consider two personal pronouns masculine and feminine, as well as two possessive pronouns masculine and feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 163,
+      "type": 1,
+      "arabic": "",
+      "english": "Note that personal pronouns are written separately, whereas possessive pronouns are adjusted to nouns.",
+      "titleEN": ""
+    },
+    {
+      "id": 164,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 165,
+      "type": 1,
+      "arabic": "",
+      "english": "Masculine:",
+      "titleEN": ""
+    },
+    {
+      "id": 166,
+      "type": 21,
+      "arabic": "هُوَ",
+      "english": "«He»",
+      "titleEN": ""
+    },
+    {
+      "id": 167,
+      "type": 21,
+      "arabic": "هُوَ طَوِيلٌ",
+      "english": "«He is tall»",
+      "titleEN": ""
+    },
+    {
+      "id": 168,
+      "type": 21,
+      "arabic": "هُمْ",
+      "english": "«They»",
+      "titleEN": ""
+    },
+    {
+      "id": 169,
+      "type": 21,
+      "arabic": "هُمْ طِوَالٌ",
+      "english": "«They are tall»",
+      "titleEN": ""
+    },
+    {
+      "id": 170,
+      "type": 21,
+      "arabic": "ـهُ",
+      "english": "«His»",
+      "titleEN": ""
+    },
+    {
+      "id": 171,
+      "type": 21,
+      "arabic": "بَيْتُهُ",
+      "english": "«His house»",
+      "titleEN": ""
+    },
+    {
+      "id": 172,
+      "type": 21,
+      "arabic": "ـهُمْ",
+      "english": "«Their»",
+      "titleEN": ""
+    },
+    {
+      "id": 173,
+      "type": 21,
+      "arabic": "بَيْتُهُمْ",
+      "english": "«Their house»",
+      "titleEN": ""
+    },
+    {
+      "id": 174,
+      "type": 21,
+      "arabic": "هُمْ مُدَرِّسُونَ",
+      "english": "«They're teachers»",
+      "titleEN": ""
+    },
+    {
+      "id": 175,
+      "type": 21,
+      "arabic": "هُوَ مُدَرِّسٌ",
+      "english": "«He is a teacher»",
+      "titleEN": ""
+    },
+    {
+      "id": 176,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 177,
+      "type": 1,
+      "arabic": "",
+      "english": "Feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 178,
+      "type": 21,
+      "arabic": "هِيَ",
+      "english": "«She»",
+      "titleEN": ""
+    },
+    {
+      "id": 179,
+      "type": 21,
+      "arabic": "هِيَ مَرِيضَةٌ",
+      "english": "«She is ill»",
+      "titleEN": ""
+    },
+    {
+      "id": 180,
+      "type": 21,
+      "arabic": "هُنَّ",
+      "english": "«They»",
+      "titleEN": ""
+    },
+    {
+      "id": 181,
+      "type": 21,
+      "arabic": "هُنَّ مَرِيضَاتٌ",
+      "english": "«They are sick»",
+      "titleEN": ""
+    },
+    {
+      "id": 182,
+      "type": 21,
+      "arabic": "ـهَا",
+      "english": "«Her»",
+      "titleEN": ""
+    },
+    {
+      "id": 183,
+      "type": 21,
+      "arabic": "كِتَابُهَا",
+      "english": "«Her book»",
+      "titleEN": ""
+    },
+    {
+      "id": 184,
+      "type": 21,
+      "arabic": "ـهُنَّ",
+      "english": "«Their»",
+      "titleEN": ""
+    },
+    {
+      "id": 185,
+      "type": 21,
+      "arabic": "كِتَابُـهُنَّ",
+      "english": "«Their book»",
+      "titleEN": ""
+    },
+    {
+      "id": 186,
+      "type": 21,
+      "arabic": "هُنَّ مُدَرِّسَاتٌ",
+      "english": "«They are teachers»",
+      "titleEN": ""
+    },
+    {
+      "id": 187,
+      "type": 21,
+      "arabic": "هِيَ مُدَرِّسَةٌ",
+      "english": "«She is a teacher»",
+      "titleEN": ""
+    },
+    {
+      "id": 188,
+      "type": 1,
+      "arabic": "",
+      "english": "1st person pronoun ( ا نا ) «My» and plural ( نحن ) «We», both feminine and masculine, written identically",
+      "titleEN": ""
+    },
+    {
+      "id": 189,
+      "type": 21,
+      "arabic": "بَيْتِي",
+      "english": "«My house»",
+      "titleEN": ""
+    },
+    {
+      "id": 190,
+      "type": 21,
+      "arabic": "عَمِّي",
+      "english": "«My uncle»",
+      "titleEN": ""
+    },
+    {
+      "id": 191,
+      "type": 21,
+      "arabic": "بَيْتُنَا",
+      "english": "«Our house»",
+      "titleEN": ""
+    },
+    {
+      "id": 192,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 193,
+      "type": 2,
+      "arabic": "ضَمِيُر المُخَاطَبِ الْمُتَّصِلِ باِلفِعْلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 194,
+      "type": 1,
+      "arabic": "",
+      "english": "Pronoun 2nd person, that joins a verb, can be singular or plural as well as masculine and feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 195,
+      "type": 2,
+      "arabic": "أَنْتَ, أَنْتُمْ, أَنْتِ أَنْتُنَّ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 196,
+      "type": 21,
+      "arabic": "حَرَجْتَ",
+      "english": "«You went out» ( أَنْتَ )",
+      "titleEN": ""
+    },
+    {
+      "id": 197,
+      "type": 21,
+      "arabic": "ذَهَبْتَ",
+      "english": "«You walked» ( أَنْتَ )",
+      "titleEN": ""
+    },
+    {
+      "id": 198,
+      "type": 21,
+      "arabic": "حَرَجْتِ",
+      "english": "«You went out» ( أَنْتِ )(f)",
+      "titleEN": ""
+    },
+    {
+      "id": 199,
+      "type": 21,
+      "arabic": "ذَهَبْتِ",
+      "english": "«You walked» ( أَنْتِ )(f)",
+      "titleEN": ""
+    },
+    {
+      "id": 200,
+      "type": 21,
+      "arabic": "ذَهَبْتُمْ",
+      "english": "«You(all) walked» (pl. أَنْتُمْ)",
+      "titleEN": ""
+    },
+    {
+      "id": 201,
+      "type": 21,
+      "arabic": "ذَهَبْتُنَّ",
+      "english": "«You(all) walked» (pl. أَنْتُنَّ)",
+      "titleEN": ""
+    },
+    {
+      "id": 202,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 203,
+      "type": 21,
+      "arabic": "أيُّ",
+      "english": "«Which»",
+      "titleEN": ""
+    },
+    {
+      "id": 204,
+      "type": 2,
+      "arabic": "اِسْمُ اسْتِفْهَامٍ, لِلْعَاقِلِ, وَغَيْرِ الْعَاقِلِ . وَاﻻِسْمُ الَّذِي بَعْدَهُ, مُضَافٌ إِلَيهِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 205,
+      "type": 1,
+      "arabic": "",
+      "english": "Interrogative particle for reasonable and non-reason. And the name after itself puts in a state «Idafa»",
+      "titleEN": ""
+    },
+    {
+      "id": 206,
+      "type": 1,
+      "arabic": "",
+      "english": "In Arabic, this word can have different grammatical meanings, as «interrogative name», «subject nominal sentence», «conjuncton» or be the first part Izafet state (status constructus).",
+      "titleEN": ""
+    },
+    {
+      "id": 207,
+      "type": 1,
+      "arabic": "",
+      "english": "In this lesson we will show how this word is involved in Izafet state and mostly expresses a question.",
+      "titleEN": ""
+    },
+    {
+      "id": 208,
+      "type": 1,
+      "arabic": "",
+      "english": "It should be noticed, that the word acts as the first part of Izafet state declension by cases.",
+      "titleEN": ""
+    },
+    {
+      "id": 209,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 210,
+      "type": 11,
+      "arabic": "أيُّ يَوْمٍ هَذَا؟",
+      "english": "«What day is this?»",
+      "titleEN": ""
+    },
+    {
+      "id": 211,
+      "type": 11,
+      "arabic": "أَيُّ شَهْرٍ هَذَا؟",
+      "english": "«What month is this?»",
+      "titleEN": ""
+    },
+    {
+      "id": 212,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 213,
+      "type": 11,
+      "arabic": "الْعَلَمُ اﻷَ عْجَمِيُّ",
+      "english": "Proper names",
+      "titleEN": ""
+    },
+    {
+      "id": 214,
+      "type": 11,
+      "arabic": "مَمْنُوعٌ مِنَ الصَّرْفِ",
+      "english": "Forbidden to declension",
+      "titleEN": ""
+    },
+    {
+      "id": 215,
+      "type": 1,
+      "arabic": "",
+      "english": "Own names of foreign origin (not Arabic), do not accept «Tanwīn»",
+      "titleEN": ""
+    },
+    {
+      "id": 216,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 217,
+      "type": 30,
+      "arabic": "بَاكِستانُُ إِدْوَرْدُُُ إِصْطَنْبُولُُُ إِبْرَهِيمُُُُ بَرِيسُُُ وِلْيَمُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 218,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 219,
+      "type": 1,
+      "arabic": "",
+      "english": "There are words in Arabic that have two plurals.",
+      "titleEN": ""
+    },
+    {
+      "id": 220,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 221,
+      "type": 11,
+      "arabic": "إِخوَةٌٌ",
+      "english": "«Brothers»",
+      "titleEN": ""
+    },
+    {
+      "id": 222,
+      "type": 11,
+      "arabic": "إِخْوَانٌ",
+      "english": "«Brothers»",
+      "titleEN": ""
+    },
+    {
+      "id": 223,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "6": [
+    {
+      "id": 224,
+      "type": 24,
+      "arabic": "الدَّرْسُ السَّادِسُ",
+      "english": "Lesson 6",
+      "titleEN": "Lesson 6"
+    },
+    {
+      "id": 225,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 226,
+      "type": 4,
+      "arabic": "",
+      "english": "Feminine pronoun and part of speech",
+      "titleEN": "Feminine pronoun and part of speech"
+    },
+    {
+      "id": 227,
+      "type": 21,
+      "arabic": "هَذِِهِ",
+      "english": "«This(f)»",
+      "titleEN": ""
+    },
+    {
+      "id": 228,
+      "type": 2,
+      "arabic": "اِسْمُ إِشَارَةٍ لِلْمُفْرَدِ الْمُؤَنَّثِ الْقَرِيبِ العَاقِلِ, وَغير العَاقِلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 229,
+      "type": 1,
+      "arabic": "",
+      "english": "( هَـٰذِهِ ) demonstrative pronoun for singular, feminine, close in distance, reasonable and not reasonable. It should be noted that the sign of the feminine is «ة marbuta», or a female proper name, nouns in meaning or paired body organs, as well as plural nouns.",
+      "titleEN": ""
+    },
+    {
+      "id": 230,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 231,
+      "type": 2,
+      "arabic": "مُحَمَّدٌ طَالِبٌ ( آمِنَةُ طَالِبَةٌ )",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 232,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 233,
+      "type": 1,
+      "arabic": "",
+      "english": "Second block",
+      "titleEN": ""
+    },
+    {
+      "id": 234,
+      "type": 1,
+      "arabic": "",
+      "english": "Unpaired organs of the body do not change gender remain in the masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 235,
+      "type": 11,
+      "arabic": "هَذَا أَنْفٌ, وَهَذَا فَمٌ",
+      "english": "«This is the nose and this is the mouth»",
+      "titleEN": ""
+    },
+    {
+      "id": 236,
+      "type": 1,
+      "arabic": "",
+      "english": "The word exception:",
+      "titleEN": ""
+    },
+    {
+      "id": 237,
+      "type": 1,
+      "arabic": "",
+      "english": "Noun (f.) with an invariable ending",
+      "titleEN": ""
+    },
+    {
+      "id": 238,
+      "type": 21,
+      "arabic": "قِدْرٌ",
+      "english": "«Saucepan»",
+      "titleEN": ""
+    },
+    {
+      "id": 239,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 240,
+      "type": 1,
+      "arabic": "",
+      "english": "Third block",
+      "titleEN": ""
+    },
+    {
+      "id": 241,
+      "type": 11,
+      "arabic": "اَلُجُمْلَةُ اﻹِسْمِيَّةَ",
+      "english": "Nominal sentence",
+      "titleEN": ""
+    },
+    {
+      "id": 242,
+      "type": 11,
+      "arabic": "تَتَكَوَّنُ مِنْ كَلِمَتَينِ",
+      "english": "In Arabic, the smallest sentence consists of two words",
+      "titleEN": ""
+    },
+    {
+      "id": 243,
+      "type": 11,
+      "arabic": "تُفِيدَنِ مَعْنًى تَامًّا",
+      "english": "A sentence with complete meaning",
+      "titleEN": ""
+    },
+    {
+      "id": 244,
+      "type": 11,
+      "arabic": "تُسَمَّى جُملَةً مُفِيدَةً",
+      "english": "Called «useful suggestion»",
+      "titleEN": ""
+    },
+    {
+      "id": 245,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 246,
+      "type": 11,
+      "arabic": "مُحَمَّدٌ طَالِبٌ",
+      "english": "«Muhammad student»",
+      "titleEN": ""
+    },
+    {
+      "id": 247,
+      "type": 21,
+      "arabic": "مُبْتَدَأٌ",
+      "english": "This is the subject, where does the sentence begin in the nominative case",
+      "titleEN": ""
+    },
+    {
+      "id": 248,
+      "type": 11,
+      "arabic": "مُحَمَّد مُبْتَدَأٌ",
+      "english": "Muhammad — subject",
+      "titleEN": ""
+    },
+    {
+      "id": 249,
+      "type": 21,
+      "arabic": "خَبَرٌ",
+      "english": "The predicate is the notification of the sentence in the nominative case",
+      "titleEN": ""
+    },
+    {
+      "id": 250,
+      "type": 11,
+      "arabic": "الطَّالِبُ خَبَرٌ",
+      "english": "student - predicate",
+      "titleEN": ""
+    },
+    {
+      "id": 251,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "17": [
+    {
+      "id": 301,
+      "type": 24,
+      "arabic": "الدَّرْسُ السَّابِعُ عَشَرَ",
+      "english": "Lesson 17",
+      "titleEN": "Lesson 17"
+    },
+    {
+      "id": 302,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 303,
+      "type": 4,
+      "arabic": "",
+      "english": "Continuation of the 16th lesson. Predicate",
+      "titleEN": "Continuation of the 16th lesson. Predicate"
+    },
+    {
+      "id": 304,
+      "type": 11,
+      "arabic": "الْبَابُ مَفْتُخٌ",
+      "english": "«The door is open» (masculine )",
+      "titleEN": ""
+    },
+    {
+      "id": 305,
+      "type": 1,
+      "arabic": "",
+      "english": "If the sentence begins with the plural, then in its predicate ( خَبَر ) added at the end ( ة ). She becomes feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 306,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 307,
+      "type": 11,
+      "arabic": "النُّجُومُ جَمِيْلَةٌ",
+      "english": "«The stars are beautiful»",
+      "titleEN": ""
+    },
+    {
+      "id": 308,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "13": [
+    {
+      "id": 309,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّالِثَ عَشَرَ",
+      "english": "Lesson 13",
+      "titleEN": "Lesson 13"
+    },
+    {
+      "id": 310,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 311,
+      "type": 4,
+      "arabic": "",
+      "english": "Demonstrative pronoun singular masculine and feminine",
+      "titleEN": "Demonstrative pronoun singular masculine and feminine"
+    },
+    {
+      "id": 312,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ",
+      "english": "«These»",
+      "titleEN": ""
+    },
+    {
+      "id": 313,
+      "type": 1,
+      "arabic": "",
+      "english": "The plural lesson",
+      "titleEN": ""
+    },
+    {
+      "id": 314,
+      "type": 1,
+      "arabic": "",
+      "english": "In the previous lessons, we have already  studied demonstrative pronouns for close range masculine ( هَذَا ) «This» and feminine ( هَذِهِ ) «This».",
+      "titleEN": ""
+    },
+    {
+      "id": 315,
+      "type": 1,
+      "arabic": "",
+      "english": "Today we are going to  use examples of the demonstrative pronoun for close range plural ( هَؤُلاءِ ) «These», which is the same for both genders.",
+      "titleEN": ""
+    },
+    {
+      "id": 316,
+      "type": 21,
+      "arabic": "هَؤُلَاءِ",
+      "english": "«These» - demonstrative pronoun for plural, close in distance, for reasonable, masculine and feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 317,
+      "type": 2,
+      "arabic": "هَؤُلاَءِ,  اِسْمُ إشَارَةٍ  الِلْجَمْعِ  الْقَريبِ الْعَاقِلِ  الْمُذَكَّرِ,  وَالْمُؤَنَّثِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 318,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 319,
+      "type": 1,
+      "arabic": "",
+      "english": "Plural:",
+      "titleEN": ""
+    },
+    {
+      "id": 320,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ طُلاَّبٌ",
+      "english": "«These students»",
+      "titleEN": ""
+    },
+    {
+      "id": 321,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ حُجَّاجٌ",
+      "english": "«These pilgrims»",
+      "titleEN": ""
+    },
+    {
+      "id": 322,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ رِجَالٌ",
+      "english": "«These men»",
+      "titleEN": ""
+    },
+    {
+      "id": 323,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ طَبِيبَاتٌ",
+      "english": "«These doctors» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 324,
+      "type": 21,
+      "arabic": "هَؤُلاَءِ النِّسَاءُ",
+      "english": "«These women»",
+      "titleEN": ""
+    },
+    {
+      "id": 325,
+      "type": 1,
+      "arabic": "",
+      "english": "Singular:",
+      "titleEN": ""
+    },
+    {
+      "id": 326,
+      "type": 21,
+      "arabic": "هَذَا طَالِبٌ",
+      "english": "«This is a student»",
+      "titleEN": ""
+    },
+    {
+      "id": 327,
+      "type": 21,
+      "arabic": "هَذَا حَاجٌ",
+      "english": "«This is a pilgrim»",
+      "titleEN": ""
+    },
+    {
+      "id": 328,
+      "type": 21,
+      "arabic": "هَذَا رَجُلٌٌ",
+      "english": "«This is a man»",
+      "titleEN": ""
+    },
+    {
+      "id": 329,
+      "type": 21,
+      "arabic": "هَذِهِ الطَّالِبَةُ",
+      "english": "«This is a student» (f.)",
+      "titleEN": ""
+    },
+    {
+      "id": 330,
+      "type": 21,
+      "arabic": "هَذِهِ أُمِّي",
+      "english": "«This is my mother»",
+      "titleEN": ""
+    },
+    {
+      "id": 331,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 332,
+      "type": 21,
+      "arabic": "هُمْ",
+      "english": "«They» - plural pronoun, distant in distance, masculine for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 333,
+      "type": 2,
+      "arabic": "هُمْ, ضَمِيُر جَمْعِ الْغَائِبِ  الْمُذَكَّرِ الْعَاقِلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 334,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 335,
+      "type": 11,
+      "arabic": "هُمْ طُلاَّبٌ جُدُدٌ",
+      "english": "«They are new students»",
+      "titleEN": ""
+    },
+    {
+      "id": 336,
+      "type": 11,
+      "arabic": "هُم مِنْ أَمْرِيكَا",
+      "english": "«They are from America»",
+      "titleEN": ""
+    },
+    {
+      "id": 337,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 338,
+      "type": 2,
+      "arabic": "وَاوُ, الْجَمَاعَةِ, ضَمِيرٌ لِلْمُذَكَّرِ العَاقِلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 339,
+      "type": 21,
+      "arabic": "و‬",
+      "english": "Plural, masculine for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 340,
+      "type": 11,
+      "arabic": "يَتَّصِلُ باِلْفِعْلِ, وَهُوَ الفَاعِلُ",
+      "english": "Connects with a verb and it is an active person",
+      "titleEN": ""
+    },
+    {
+      "id": 341,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 342,
+      "type": 21,
+      "arabic": "ذَهَبَ",
+      "english": "«He left»",
+      "titleEN": ""
+    },
+    {
+      "id": 343,
+      "type": 21,
+      "arabic": "ذَهَبُوا",
+      "english": "«They've gone». Added «Vov» masculine plural",
+      "titleEN": ""
+    },
+    {
+      "id": 344,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 345,
+      "type": 2,
+      "arabic": "اﻹضَافَةُ إِلَى اﻻسْم الظَّاهِرِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 346,
+      "type": 1,
+      "arabic": "",
+      "english": "Attaching a noun to an explicit name represent «Idafa», «Mudof» and «Mudof Ileih»",
+      "titleEN": ""
+    },
+    {
+      "id": 347,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 348,
+      "type": 5,
+      "arabic": "",
+      "english": "(watch lesson 5)",
+      "titleEN": ""
+    },
+    {
+      "id": 349,
+      "type": 21,
+      "arabic": "أَبْنَاءُ مُحَمَّدٍ",
+      "english": "«Sons of Muhammad»",
+      "titleEN": ""
+    },
+    {
+      "id": 350,
+      "type": 21,
+      "arabic": "أَسْمَاءُ الطُّلاَّبٍِ",
+      "english": "«Students' names»",
+      "titleEN": ""
+    },
+    {
+      "id": 351,
+      "type": 21,
+      "arabic": "زُمَلاَءُ حَامِدٍ",
+      "english": "«Hamid's colleagues»",
+      "titleEN": ""
+    },
+    {
+      "id": 352,
+      "type": 21,
+      "arabic": "أَصْدِقَاءُ الْمُدَرِّسٍِ",
+      "english": "«Teacher's friends»",
+      "titleEN": ""
+    },
+    {
+      "id": 353,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 354,
+      "type": 1,
+      "arabic": "",
+      "english": "Attaching possessive pronouns to a noun",
+      "titleEN": ""
+    },
+    {
+      "id": 355,
+      "type": 21,
+      "arabic": "أَبْنَاءُهُ",
+      "english": "«His sons»",
+      "titleEN": ""
+    },
+    {
+      "id": 356,
+      "type": 21,
+      "arabic": "أَسْمَائُهُمْ",
+      "english": "«Their names»",
+      "titleEN": ""
+    },
+    {
+      "id": 357,
+      "type": 21,
+      "arabic": "زُمَلاَئُكَ",
+      "english": "«Your colleagues»",
+      "titleEN": ""
+    },
+    {
+      "id": 358,
+      "type": 21,
+      "arabic": "أَصْدِقَاءُهُ",
+      "english": "«His friends»",
+      "titleEN": ""
+    },
+    {
+      "id": 359,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 360,
+      "type": 21,
+      "arabic": "هُنَّ",
+      "english": "«They»",
+      "titleEN": ""
+    },
+    {
+      "id": 361,
+      "type": 11,
+      "arabic": "هُنَّ :ضَمِرُ جَمْعِ الْغَائِبِ الْمُؤَنَّثِ الْعَاقِلِ",
+      "english": "Feminine plural pronoun for reasonable and distant in distance",
+      "titleEN": ""
+    },
+    {
+      "id": 362,
+      "type": 1,
+      "arabic": "",
+      "english": "Expample:",
+      "titleEN": ""
+    },
+    {
+      "id": 363,
+      "type": 11,
+      "arabic": "مَنْ هَؤُلَاءِ؟  هُنَّ مُدَرِّسَاتٌ",
+      "english": "«Who are they? They're teachers»",
+      "titleEN": ""
+    },
+    {
+      "id": 364,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 365,
+      "type": 11,
+      "arabic": "تَاءُ التَّأْنِيثِ:  حَرْفٌ سَاكِنٌ يَتَّصِلُ باِلْفِعْلِ",
+      "english": "(ت )feminine with«Sukun» which connects with the verb for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 366,
+      "type": 1,
+      "arabic": "",
+      "english": "Expample:",
+      "titleEN": ""
+    },
+    {
+      "id": 367,
+      "type": 21,
+      "arabic": "خَرَجَتْ",
+      "english": "«Went out» feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 368,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 369,
+      "type": 11,
+      "arabic": "نُونُ النِّسْوَةِ,  ضَمِيرٌ لِلْمُؤَنَثِّ الْعَاقِلِ",
+      "english": "( ن ) feminine feminine pronoun for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 370,
+      "type": 11,
+      "arabic": "يَتَّصِلُ باِلْفِعْلِ, وَهُوَ الفَاعِلُ",
+      "english": "Which connects with the verb, it is active",
+      "titleEN": ""
+    },
+    {
+      "id": 371,
+      "type": 21,
+      "arabic": "خَرَجْنَ",
+      "english": "«They came out»  feminine ( ن ) joined with a verb",
+      "titleEN": ""
+    },
+    {
+      "id": 372,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 373,
+      "type": 21,
+      "arabic": "أُولَئِكَ",
+      "english": "«Those»",
+      "titleEN": ""
+    },
+    {
+      "id": 374,
+      "type": 11,
+      "arabic": "أُولَئِاكَ,  اِسْمُ إشَارَةٍ الِلْجَمْعِ الْبَعِيدِ الْعَاقِلِ الْمُذَكَّرِ, وَالْمُؤَنَّثِ",
+      "english": "«Those» - a demonstrative pronoun, plural, for distant, reasonable, masculine and feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 375,
+      "type": 1,
+      "arabic": "",
+      "english": "Expample:",
+      "titleEN": ""
+    },
+    {
+      "id": 376,
+      "type": 11,
+      "arabic": "هَؤُﻻَءِ رِجَالٌ",
+      "english": "«These men» (for those close in distance)",
+      "titleEN": ""
+    },
+    {
+      "id": 377,
+      "type": 11,
+      "arabic": "هَؤُﻻَءِ نِسَاءٌ",
+      "english": "«These women» (for those close in distance)",
+      "titleEN": ""
+    },
+    {
+      "id": 378,
+      "type": 11,
+      "arabic": "أُوْلَئِكَ رِجَالٌ",
+      "english": "«Those men» (for long distance)",
+      "titleEN": ""
+    },
+    {
+      "id": 379,
+      "type": 11,
+      "arabic": "أُوْلَئِكَ  نِسَاءٌ",
+      "english": "«Those women» (for long distance)",
+      "titleEN": ""
+    },
+    {
+      "id": 380,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "16": [
+    {
+      "id": 381,
+      "type": 24,
+      "arabic": "الدَّرْسُ لسَّا دِسُ عَشَرَ",
+      "english": "Lesson 16",
+      "titleEN": "Lesson 16"
+    },
+    {
+      "id": 382,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 383,
+      "type": 4,
+      "arabic": "",
+      "english": "Parts of speech, subject and predicate",
+      "titleEN": "Parts of speech, subject and predicate"
+    },
+    {
+      "id": 384,
+      "type": 1,
+      "arabic": "",
+      "english": "The shortest sentence in Arabic can consist of two words (two nouns)",
+      "titleEN": ""
+    },
+    {
+      "id": 385,
+      "type": 21,
+      "arabic": "البَابُ مَفْتُوحٌ",
+      "english": "«The door is open»",
+      "titleEN": ""
+    },
+    {
+      "id": 386,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 387,
+      "type": 2,
+      "arabic": "الْجُمْلَةُ اﻻِسْمِيَّة",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 388,
+      "type": 1,
+      "arabic": "",
+      "english": "Nominal sentence - it has its own sentence members",
+      "titleEN": ""
+    },
+    {
+      "id": 389,
+      "type": 1,
+      "arabic": "",
+      "english": "«1st part of the sentence» - is the word at the beginning of a sentence, it is called  «مُبْتَدَأٌ», subject — this is where the sentence starts",
+      "titleEN": ""
+    },
+    {
+      "id": 390,
+      "type": 2,
+      "arabic": "مُبْتَدَأٌ - اِسْمٌ يَقَعُ فِي أوَّلِ الْجُمْلَةِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 391,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 392,
+      "type": 11,
+      "arabic": "الْبَابُ مَفْتُوحٌ",
+      "english": "«The door is open»",
+      "titleEN": ""
+    },
+    {
+      "id": 393,
+      "type": 21,
+      "arabic": "الْبَابُ",
+      "english": "«Part 1 of the sentence» is ( مُبْتَدَأٌ ) subject",
+      "titleEN": ""
+    },
+    {
+      "id": 394,
+      "type": 1,
+      "arabic": "",
+      "english": "«2nd part of the sentence» - this is the second word and it is called ( خََبَرٌ ) predicate. And together with the subject forms a useful sentence",
+      "titleEN": ""
+    },
+    {
+      "id": 395,
+      "type": 2,
+      "arabic": "خََبَرٌ - اِسْمٌ يَقَعُ بَعْدَ الْمُبْتَدَأِ, وَتَحْصُلُ بِهِ الْفَائِدَةُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 396,
+      "type": 21,
+      "arabic": "مَفْتُوحٌ",
+      "english": "( خَبَرٌ ) predicate",
+      "titleEN": ""
+    },
+    {
+      "id": 397,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 398,
+      "type": 21,
+      "arabic": "هَذِهِ",
+      "english": "«This(f)» - feminine demonstrative pronoun, for the singular, also used for plural for non-intelligent, also used for plural. «These»",
+      "titleEN": ""
+    },
+    {
+      "id": 399,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 400,
+      "type": 21,
+      "arabic": "هَذِهِ بُيُوتٌ",
+      "english": "«These houses»",
+      "titleEN": ""
+    },
+    {
+      "id": 401,
+      "type": 21,
+      "arabic": "هَذِهِ نُجُومٌ",
+      "english": "«These stars»",
+      "titleEN": ""
+    },
+    {
+      "id": 402,
+      "type": 21,
+      "arabic": "هَذِهِ دُرُوسٌ",
+      "english": "«These lessons»",
+      "titleEN": ""
+    },
+    {
+      "id": 403,
+      "type": 21,
+      "arabic": "هَذِهِ أَبْوَابٌ",
+      "english": "«These doors»",
+      "titleEN": ""
+    },
+    {
+      "id": 404,
+      "type": 11,
+      "arabic": "١ هَذَا طَالِبٌ جَدِيدٌ هُوَ مِنْ بِلْجِيكَا",
+      "english": "1st. Singular masculine use ( هَذَا ) for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 405,
+      "type": 11,
+      "arabic": "٢ هَؤُلاَءِ طُلَّابٌ جُدُدٌ هُمْ مِنْ بِلْجِيكَا",
+      "english": "2nd. Plural masculine use ( هَؤُلاَءِ ) for reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 406,
+      "type": 11,
+      "arabic": "٣ هَذَا كِتَابٌ جَدِيدٌ هُوَ مِنْ بِلْجِيكَا",
+      "english": "3rd. Singular masculine use ( هَذَا ) for the unreasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 407,
+      "type": 11,
+      "arabic": "٤ هَذِهِ كُتُبٌ جَدِيدَةٌ هِيَ مِنْ بِلْجِيكَا",
+      "english": "4th. Plural masculine use ( هَذِهِ ) for the unreasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 408,
+      "type": 11,
+      "arabic": "٥ هَذَا طَالِبٌ",
+      "english": "5th. Masculine, singular, use ( هَذَا ) for reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 409,
+      "type": 11,
+      "arabic": "٦ هَؤُلاَءِ طُلَّابٌ",
+      "english": "6th. Masculine, plural, use ( هَؤُلاَءِ ) for reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 410,
+      "type": 11,
+      "arabic": "٧ هَذِهِ طَالِبَةٌ",
+      "english": "7th. Feminine, singular, use ( هَذِهِ ) for reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 411,
+      "type": 11,
+      "arabic": "٨  هَؤُلاَءِ طَالِبَاتٌ",
+      "english": "8th. Feminine, plural, use ( هَؤُلاَءِ ) for reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 412,
+      "type": 11,
+      "arabic": "٩ ذَلِكَ طَالِبٌ",
+      "english": "9th. Masculine, singular, use ( ذَلِكَ ) for reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 413,
+      "type": 11,
+      "arabic": "١ ٠ أُولَئِكَ طُلَّابٌ",
+      "english": "10th. Masculine, plural, use ( أُولَئِكَ ) for reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 414,
+      "type": 11,
+      "arabic": "١١ تِلْكَ طَالِبَةٌ",
+      "english": "11th. Feminine, singular, use ( تِلْكَ ) for reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 415,
+      "type": 11,
+      "arabic": "١ ٢ أُولَئِكَ طَا لِبَاتٌ",
+      "english": "12th. Feminine, plural, use ( أُولَئِكَ ) for reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 416,
+      "type": 11,
+      "arabic": "١ ٣ هَذَ بَيْتٌ",
+      "english": "13th. Masculine, singular, use ( هَذَ ) for not reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 417,
+      "type": 11,
+      "arabic": "١ ٤ هَذِهِ بُيُوتٌ",
+      "english": "14th. Masculine, plural, use ( هَذِهِ ) for not reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 418,
+      "type": 11,
+      "arabic": "١ ٥ هَذِهِ سَيَّارَةٌ",
+      "english": "15th. Feminine, singular, use ( هَذِهِ ) for not reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 419,
+      "type": 11,
+      "arabic": "١ ٦ هَذِهِ سَيَّارَاتٌ",
+      "english": "16th. Feminine, plural, use ( هَذِهِ ) for not reasonable, for close distance",
+      "titleEN": ""
+    },
+    {
+      "id": 420,
+      "type": 11,
+      "arabic": "١ ٧  ذَلِكَ بَيْتٌ",
+      "english": "17th. Masculine, singular, use ( ذَلِكَ ) for not reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 421,
+      "type": 11,
+      "arabic": "١ ٨  تِلْكَ بُيُوتٌ",
+      "english": "18th. Masculine, plural, use ( تِلْكَ ) for not reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 422,
+      "type": 11,
+      "arabic": "١ ٩  تِلْكَ سَيَّارَةٌ",
+      "english": "19th. Feminine, singular, use ( تِلْكَ ) for not reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 423,
+      "type": 11,
+      "arabic": "٢ ٠  تِلْكَ سَيَّا رَاتٌ",
+      "english": "20th. Feminine, plural, use ( تِلْكَ )for not reasonable, for long distance",
+      "titleEN": ""
+    },
+    {
+      "id": 424,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "11": [
+    {
+      "id": 425,
+      "type": 24,
+      "arabic": "الدَّرْسُ الحَادِىَ عَشَرَ",
+      "english": "Lesson 11",
+      "titleEN": "Lesson 11"
+    },
+    {
+      "id": 426,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 427,
+      "type": 4,
+      "arabic": "",
+      "english": "1st person singular pronouns",
+      "titleEN": "1st person singular pronouns"
+    },
+    {
+      "id": 428,
+      "type": 21,
+      "arabic": "ياَءُ الُمتَكَلِّمُ",
+      "english": "( ي )  1st person",
+      "titleEN": ""
+    },
+    {
+      "id": 429,
+      "type": 1,
+      "arabic": "",
+      "english": "— pronoun of the 1st person singular: ( ـِي ) «my», for both masculine and feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 430,
+      "type": 21,
+      "arabic": "قَلَمِي",
+      "english": "«My pen»",
+      "titleEN": ""
+    },
+    {
+      "id": 431,
+      "type": 21,
+      "arabic": "بَيْتِي",
+      "english": "«My house»",
+      "titleEN": ""
+    },
+    {
+      "id": 432,
+      "type": 21,
+      "arabic": "فِي ( ه ) فِيهِ",
+      "english": "«In him» (masculine)",
+      "titleEN": ""
+    },
+    {
+      "id": 433,
+      "type": 21,
+      "arabic": "فِي ( ها) فِيهَا",
+      "english": "«In her» (feminine)",
+      "titleEN": ""
+    },
+    {
+      "id": 434,
+      "type": 1,
+      "arabic": "Мест. м. р. меняет форму ( ـهُ ) на ( ـهِ ) , если ей предшествует «Касра» либо такие предлоги, как ( فِي , إلَى , عَلَى ), например: ( عَلَى مَكْتَبِهِ , فِيهِ , إلَيْهِ )",
+      "english": "The masculine pronoun changes shape ( ـهُ ) on the ( ـهِ ), if preceded by «Kasrah» or prepositions such as ( فِي , إلَى , عَلَى ), for example: ( عَلَى مَكْتَبِهِ , فِيهِ , إلَيْهِ )",
+      "titleEN": ""
+    },
+    {
+      "id": 435,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 436,
+      "type": 21,
+      "arabic": "اﻷَسْمَاءُ الْخَمْسَة",
+      "english": "Five names",
+      "titleEN": ""
+    },
+    {
+      "id": 437,
+      "type": 21,
+      "arabic": "أَبٌّ",
+      "english": "«Father»",
+      "titleEN": ""
+    },
+    {
+      "id": 438,
+      "type": 21,
+      "arabic": "أَخٌ",
+      "english": "«Brother»",
+      "titleEN": ""
+    },
+    {
+      "id": 439,
+      "type": 21,
+      "arabic": "حَمٌ",
+      "english": "«Husband’s relative» (wife)",
+      "titleEN": ""
+    },
+    {
+      "id": 440,
+      "type": 21,
+      "arabic": "فُو",
+      "english": "«Mouth»",
+      "titleEN": ""
+    },
+    {
+      "id": 441,
+      "type": 21,
+      "arabic": "ذُو",
+      "english": "«Owner of something»",
+      "titleEN": ""
+    },
+    {
+      "id": 442,
+      "type": 1,
+      "arabic": "",
+      "english": "— These five names differ from all other words following:",
+      "titleEN": ""
+    },
+    {
+      "id": 443,
+      "type": 1,
+      "arabic": "",
+      "english": "1st. If one of these names takes a case «Rof» nominative, then the letter ( الواو ) is added to it",
+      "titleEN": ""
+    },
+    {
+      "id": 444,
+      "type": 1,
+      "arabic": "",
+      "english": "2nd. If one of these names takes a case «Nasb» accusative,  then the letter ( الف ) is added to it",
+      "titleEN": ""
+    },
+    {
+      "id": 445,
+      "type": 1,
+      "arabic": "",
+      "english": "3rd. If one of these names takes a case «Dzharr» genitive, then the letter ( الياء ) is added to it",
+      "titleEN": ""
+    },
+    {
+      "id": 446,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 447,
+      "type": 11,
+      "arabic": "جاء أبو الطفل",
+      "english": "«The father of the child came»",
+      "titleEN": ""
+    },
+    {
+      "id": 448,
+      "type": 11,
+      "arabic": "دعوت أبا الطفل",
+      "english": "«You called the father of the child»",
+      "titleEN": ""
+    },
+    {
+      "id": 449,
+      "type": 11,
+      "arabic": "سلمت على ابي الطفل",
+      "english": "«I greeted the child’s father»",
+      "titleEN": ""
+    },
+    {
+      "id": 450,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "4": [
+    {
+      "id": 451,
+      "type": 24,
+      "arabic": "الدَّرْسُ الرَّبِعُ",
+      "english": "Lesson 4",
+      "titleEN": "Lesson 4"
+    },
+    {
+      "id": 452,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 453,
+      "type": 4,
+      "arabic": "",
+      "english": "Genitive prepositions",
+      "titleEN": "Genitive prepositions"
+    },
+    {
+      "id": 454,
+      "type": 2,
+      "arabic": "حُرُوفُ الْجَرِّ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 455,
+      "type": 1,
+      "arabic": "",
+      "english": "The following should be remembered about prepositions, namely:",
+      "titleEN": ""
+    },
+    {
+      "id": 456,
+      "type": 1,
+      "arabic": "",
+      "english": "— on the whole, all prepositions have no meaning without nouns following them.",
+      "titleEN": ""
+    },
+    {
+      "id": 457,
+      "type": 1,
+      "arabic": "",
+      "english": "— in grammatical terminology, a preposition and a noun following it in Arabic are called as follows:",
+      "titleEN": ""
+    },
+    {
+      "id": 458,
+      "type": 21,
+      "arabic": "حَرْفُ الْجَرِّ",
+      "english": "Preposition of the genitive",
+      "titleEN": ""
+    },
+    {
+      "id": 459,
+      "type": 21,
+      "arabic": "مَجْرُورٌ",
+      "english": "In a state of genitive",
+      "titleEN": ""
+    },
+    {
+      "id": 460,
+      "type": 1,
+      "arabic": "",
+      "english": "Description:",
+      "titleEN": ""
+    },
+    {
+      "id": 461,
+      "type": 1,
+      "arabic": "",
+      "english": "All nouns following prepositions have the ending «Kasra». This indicates belonging to the genitive case",
+      "titleEN": ""
+    },
+    {
+      "id": 462,
+      "type": 2,
+      "arabic": "الْبَيْتُ فيِ الْبَيْتِ, عَلَى البَيْتِ, مِنَ الْبَيْتِ, إلىَ البَيْتِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 463,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 464,
+      "type": 1,
+      "arabic": "",
+      "english": "Some genitive prepositions",
+      "titleEN": ""
+    },
+    {
+      "id": 465,
+      "type": 2,
+      "arabic": "مِنْ حُرُوفُ الْجَرِّ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 466,
+      "type": 1,
+      "arabic": "",
+      "english": "Prepositions:",
+      "titleEN": ""
+    },
+    {
+      "id": 467,
+      "type": 2,
+      "arabic": "فيِ, عَلى, مِن, إِلى",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 468,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 469,
+      "type": 1,
+      "arabic": "",
+      "english": "If both «Sukun», then over «ن» set «Fatħa»",
+      "titleEN": ""
+    },
+    {
+      "id": 470,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 471,
+      "type": 2,
+      "arabic": "مِنْ الْ (مِنَ الْ)",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 472,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 473,
+      "type": 21,
+      "arabic": "مَاذَا",
+      "english": "«What is this?» short form (pour pas raisonnable) from (مَا هَذَ)",
+      "titleEN": ""
+    },
+    {
+      "id": 474,
+      "type": 2,
+      "arabic": "مَاذَا (مَا هَذَ) (لِغَيرِالعَاقِلِ )",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 475,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 476,
+      "type": 2,
+      "arabic": "العَلَمُ الْمُؤَنَّثُ لاَيُنَوَّنُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 477,
+      "type": 1,
+      "arabic": "",
+      "english": "Female names have no  «Tanwīn» ( ٌ  )",
+      "titleEN": ""
+    },
+    {
+      "id": 478,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 479,
+      "type": 2,
+      "arabic": "عَائِشَةُ, آمِنَةُ, مَرْيَمُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 480,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "18": [
+    {
+      "id": 491,
+      "type": 24,
+      "arabic": "الدَّرْسُ لثَّامِنَ عَشَرَ",
+      "english": "Lesson 18",
+      "titleEN": "Lesson 18"
+    },
+    {
+      "id": 492,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 493,
+      "type": 4,
+      "arabic": "",
+      "english": "Interrogative particle and dual masculine and feminine",
+      "titleEN": "Interrogative particle and dual masculine and feminine"
+    },
+    {
+      "id": 494,
+      "type": 21,
+      "arabic": "الْمُثَنَّى",
+      "english": "Dual number",
+      "titleEN": ""
+    },
+    {
+      "id": 495,
+      "type": 11,
+      "arabic": "ماَ دَلَّ عَلَى اثْنَينِ, أَوَ اثْنَتَيْنِ لِلْعَاقِلِ, وَغَيْرِ الْعَاقِلِ",
+      "english": "There is a dual number in Arabic, denoting two or two things (for reasonable and not reasonable).",
+      "titleEN": ""
+    },
+    {
+      "id": 496,
+      "type": 11,
+      "arabic": "رَجُلٌ + رَجُلاَنِ",
+      "english": "«Male + two men»",
+      "titleEN": ""
+    },
+    {
+      "id": 497,
+      "type": 11,
+      "arabic": "بَيْتٌ + بَيْتَانِ",
+      "english": "«Home + two houses»",
+      "titleEN": ""
+    },
+    {
+      "id": 498,
+      "type": 11,
+      "arabic": "قَلَمٌ + قَلَمَانِ",
+      "english": "«Pen + two pens»",
+      "titleEN": ""
+    },
+    {
+      "id": 499,
+      "type": 1,
+      "arabic": "",
+      "english": "Two letters are added to the word of the dual number ( ا, ن )",
+      "titleEN": ""
+    },
+    {
+      "id": 500,
+      "type": 2,
+      "arabic": "رَجُلٌ + ا, ن = رَجُلاَنِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 501,
+      "type": 21,
+      "arabic": "اِثْنَانِ",
+      "english": "«Two»",
+      "titleEN": ""
+    },
+    {
+      "id": 502,
+      "type": 21,
+      "arabic": "اِثْنَتَانِ",
+      "english": "«Two»",
+      "titleEN": ""
+    },
+    {
+      "id": 503,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 504,
+      "type": 21,
+      "arabic": "هَذَانِ",
+      "english": "«These» - demonstrative pronoun, for dual number (for two), for close in distance, masculine for reasonable and not reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 505,
+      "type": 2,
+      "arabic": "هَذَانِ - اِسْمُ إِشَارَةٍ لِلْمُثَنَّى القَرِيبِ الْمُذَكَّرِ الْعَاقِلِ, وَغَيرِ الْعَاقِلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 506,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 507,
+      "type": 21,
+      "arabic": "هَاتَانِِ",
+      "english": "«These(f)» - demonstrative pronoun for dual number (for two) for close distance feminine for reasonable and not reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 508,
+      "type": 2,
+      "arabic": "هَاتَانِ - اِسْمُ إِشَارَةٍ لِلْمُثَنَّى القَرِيبِ الْمُؤَنَّثِ الْعَاقِلِ, وَغَيرِ الْعَاقِلِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 509,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 510,
+      "type": 11,
+      "arabic": "كَمْ؟ إِسْمُ إسْتِفْهَامٍ",
+      "english": "( كَمْ ) «How» interrogative particle",
+      "titleEN": ""
+    },
+    {
+      "id": 511,
+      "type": 1,
+      "arabic": "",
+      "english": "( كَمْ ) «How» - interrogative particle, the word after it will be in the accusative case ( مَنْصُوبٌ ) with «Fatha» and this word is always in the singular",
+      "titleEN": ""
+    },
+    {
+      "id": 512,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 513,
+      "type": 21,
+      "arabic": "كَمْ أَخَاً لَكَ؟",
+      "english": "«How many brothers do you have?»",
+      "titleEN": ""
+    },
+    {
+      "id": 514,
+      "type": 21,
+      "arabic": "كَمْ أُخْتاً لَكَ؟",
+      "english": "«How many sisters do you have?»",
+      "titleEN": ""
+    },
+    {
+      "id": 515,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "21": [
+    {
+      "id": 516,
+      "type": 24,
+      "arabic": "الدَّرْسُ الحَادِي وَالعِشْرُونَ",
+      "english": "Lesson 21",
+      "titleEN": "Lesson 21"
+    },
+    {
+      "id": 517,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 518,
+      "type": 4,
+      "arabic": "",
+      "english": "«That» shortened demonstrative pronoun from ( ذَلِكَ )",
+      "titleEN": "«That» shortened demonstrative pronoun from ( ذَلِكَ )"
+    },
+    {
+      "id": 519,
+      "type": 21,
+      "arabic": "ذَاكَ",
+      "english": "«That» - demonstrative pronoun, masculine, singular, for long distance, for a reasonable and not reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 520,
+      "type": 2,
+      "arabic": "ذَاكَ - اِسْمُ إِشَارَةٍ لِلْبَعِدِ الْمُذَكَّرِ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 521,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "22": [
+    {
+      "id": 522,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّانِي وَالعِشْرُونَ",
+      "english": "Lesson 22",
+      "titleEN": "Lesson 22"
+    },
+    {
+      "id": 523,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 524,
+      "type": 4,
+      "arabic": "",
+      "english": "Indeclinable words",
+      "titleEN": "Indeclinable words"
+    },
+    {
+      "id": 525,
+      "type": 11,
+      "arabic": "المَمْنُوعُ مِنَ الصَّرْفِ",
+      "english": "indeclinable words (forbidden to declension)",
+      "titleEN": ""
+    },
+    {
+      "id": 526,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 527,
+      "type": 1,
+      "arabic": "",
+      "english": "Six categories of words that are prohibited from declension:",
+      "titleEN": ""
+    },
+    {
+      "id": 528,
+      "type": 11,
+      "arabic": "الْعَلَمُ الْمُؤَنَّثُ",
+      "english": "1) category - all female, proper names. Do not accept «Tanwin»",
+      "titleEN": ""
+    },
+    {
+      "id": 529,
+      "type": 1,
+      "arabic": "",
+      "english": "All female proper names and those names that end in «ة marbut»",
+      "titleEN": ""
+    },
+    {
+      "id": 530,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 531,
+      "type": 30,
+      "arabic": "جِدَّةُ مَكَّةُ عَائِشَةُ فَاطِمَةُ مَرْيَمُُ زَينَبُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 532,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 533,
+      "type": 1,
+      "arabic": "",
+      "english": "2) category - these are names in the feminine gender in spelling, but in the meaning of the masculine gender and at, which at the end is «ة marbuta»",
+      "titleEN": ""
+    },
+    {
+      "id": 534,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 535,
+      "type": 30,
+      "arabic": "طَلْحَةُ مُعَاوِيَةُُ أُسَامَةُ حَمْزَةُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 536,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 537,
+      "type": 11,
+      "arabic": "العَلَمُ الْمَخْتُومُ بِأَلِفٍ وَنُونٍ",
+      "english": "3) category - these are adjectives formed by the formula ( فَعْلانُ ) and which ends with ( ا, ن ) the same applies human qualities (lazy, hungry etc.)",
+      "titleEN": ""
+    },
+    {
+      "id": 538,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 539,
+      "type": 30,
+      "arabic": "مَﻵانُ شَبْعَانُ عَطْشَانُ جَوْعَانُ كَسْلاَنُ نُعْمَانُ مَرْوَانُ سُفْيَانُ عَفَانُ عُثْمَانُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 540,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 541,
+      "type": 1,
+      "arabic": "",
+      "english": "4) category - these are proper masculine names formed from the formula ( أَفْعَلُ )",
+      "titleEN": ""
+    },
+    {
+      "id": 542,
+      "type": 30,
+      "arabic": "أَسْعَدُ أَكْبَرُُ أَنْوَارُ أَحْمَدُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 543,
+      "type": 1,
+      "arabic": "",
+      "english": "Also, adjectives that are formed according to the same formula  ( أَفْعَلُ )",
+      "titleEN": ""
+    },
+    {
+      "id": 544,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 545,
+      "type": 30,
+      "arabic": "أَخْضَرُ أَزْرَقُ أَصْفَرُ أَحْمَرُ أَسْوَدُ أَبْيَضُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 546,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 547,
+      "type": 1,
+      "arabic": "",
+      "english": "5) category is non-Arabic names of people and cities (of foreign origin)",
+      "titleEN": ""
+    },
+    {
+      "id": 548,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 549,
+      "type": 30,
+      "arabic": "يُوسُفُ يُونُسُُ يَعْقُوبُُ إِسْحَقُ إسْمَاعِيلُ إِبْرَاهِيمُ بَغْدَادُُ بَاكِسْتَانُ بَارِيسُ لَنْدَنُ إِدْوَارْدُ وِلْيَمُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 550,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 551,
+      "type": 1,
+      "arabic": "",
+      "english": "6) category divided into 4 forms is broken plurals, do not accept «Tanwin» endings («broken plurals» - they are called because they are not formed from the singular by adding at the end ( ـــُونَ )",
+      "titleEN": ""
+    },
+    {
+      "id": 552,
+      "type": 2,
+      "arabic": "أَلِفٌ مَمْدُودَةٌ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 553,
+      "type": 1,
+      "arabic": "",
+      "english": "1) form are words ending in (ء) «Alif Mamduda», formed from the formula (أَفْعِلاَءُ)",
+      "titleEN": ""
+    },
+    {
+      "id": 554,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 555,
+      "type": 30,
+      "arabic": "أَطِبَاءُ أَقْوِيَاءُ أَصْدِقَاءُ أَغْنِيَاءُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 556,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 557,
+      "type": 1,
+      "arabic": "",
+      "english": "2) form - also ending in «Аlif Mamduda» ( ء ) and formed from the formula ( فُعَلاَءُ )",
+      "titleEN": ""
+    },
+    {
+      "id": 558,
+      "type": 30,
+      "arabic": "عُلَمَاءُ زُمَلاَءُ وُزَرَاءُ فُقَرَاءُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 559,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 560,
+      "type": 1,
+      "arabic": "",
+      "english": "3) form - formed from the formula ( مَفاَعِل )",
+      "titleEN": ""
+    },
+    {
+      "id": 561,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 562,
+      "type": 30,
+      "arabic": "دَقَائِقُ مَكَاتِبُ فَنَادِقُ مَدَارسُ مَسَاجِدُُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 563,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 564,
+      "type": 1,
+      "arabic": "",
+      "english": "4) form - formed from the formula ( ُمفاعيل )",
+      "titleEN": ""
+    },
+    {
+      "id": 565,
+      "type": 1,
+      "arabic": "",
+      "english": "Expamples:",
+      "titleEN": ""
+    },
+    {
+      "id": 566,
+      "type": 30,
+      "arabic": "كَرَاسِيُّ فَنَاجِينُ مَفَاتِيحُ مَنَادِيلُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 567,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "2": [
+    {
+      "id": 568,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّانِي",
+      "english": "Lesson 2",
+      "titleEN": "Lesson 2"
+    },
+    {
+      "id": 569,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 570,
+      "type": 4,
+      "arabic": "",
+      "english": "Demonstrative pronouns",
+      "titleEN": "Demonstrative pronouns"
+    },
+    {
+      "id": 571,
+      "type": 21,
+      "arabic": "ذَلِكَ",
+      "english": "«That» - demonstrative pronoun for singular, masculine, long distance, reasonable and unreasonable.",
+      "titleEN": ""
+    },
+    {
+      "id": 572,
+      "type": 12,
+      "arabic": "ذَلِكَ اِسْمُ إِشَارَةٍ لِلْمُفْرَدِ الْمُذَكَّرِ البَعِيدِ",
+      "english": "In the Arabic language:",
+      "titleEN": ""
+    },
+    {
+      "id": 573,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 574,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 575,
+      "type": 21,
+      "arabic": "مَنْ هَذَا",
+      "english": "1. «Who is this?» -  the question about reasonable, that is near",
+      "titleEN": ""
+    },
+    {
+      "id": 576,
+      "type": 21,
+      "arabic": "مَنْ ذَلِكَ",
+      "english": "2. «Who is that?» - the question about reasonable, that is far",
+      "titleEN": ""
+    },
+    {
+      "id": 577,
+      "type": 21,
+      "arabic": "مَا هَذَا",
+      "english": "3. «What is this?» - the question about not reasonable, that is near",
+      "titleEN": ""
+    },
+    {
+      "id": 578,
+      "type": 21,
+      "arabic": "مَا ذَلِكَ",
+      "english": "4. «What is that? »- the question about not sensible, that is far",
+      "titleEN": ""
+    },
+    {
+      "id": 579,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "12": [
+    {
+      "id": 580,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثِّا نيِ عَشَرَ",
+      "english": "Lesson 12",
+      "titleEN": "Lesson 12"
+    },
+    {
+      "id": 581,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 582,
+      "type": 4,
+      "arabic": "",
+      "english": "2nd person masculine pronouns",
+      "titleEN": "2nd person masculine pronouns"
+    },
+    {
+      "id": 583,
+      "type": 11,
+      "arabic": "المُطَخَاطَبِ  وَالمُؤَنَّثِ",
+      "english": "( كِ ) 2nd person feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 584,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 585,
+      "type": 1,
+      "arabic": "",
+      "english": "1st person) feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 586,
+      "type": 2,
+      "arabic": "الْمُتَكَلِّمُ وَالْمُؤَنَّثُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 587,
+      "type": 21,
+      "arabic": "أَنَا",
+      "english": "«I» ي",
+      "titleEN": ""
+    },
+    {
+      "id": 588,
+      "type": 21,
+      "arabic": "بَيْتِي",
+      "english": "«My house»",
+      "titleEN": ""
+    },
+    {
+      "id": 589,
+      "type": 21,
+      "arabic": "كِتَابِي",
+      "english": "«My book»",
+      "titleEN": ""
+    },
+    {
+      "id": 590,
+      "type": 21,
+      "arabic": "ﻫَﺬَا سَرِيرِي",
+      "english": "«This is my bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 591,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 592,
+      "type": 1,
+      "arabic": "",
+      "english": "2nd person) feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 593,
+      "type": 21,
+      "arabic": "أَنْتِ",
+      "english": "«You» كِ",
+      "titleEN": ""
+    },
+    {
+      "id": 594,
+      "type": 21,
+      "arabic": "بَيْتُكِ",
+      "english": "«Your house»",
+      "titleEN": ""
+    },
+    {
+      "id": 595,
+      "type": 21,
+      "arabic": "كِتَابُكِ",
+      "english": "«Your book»",
+      "titleEN": ""
+    },
+    {
+      "id": 596,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرُكِ",
+      "english": "«This is your bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 597,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 598,
+      "type": 1,
+      "arabic": "",
+      "english": "3rd person) feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 599,
+      "type": 21,
+      "arabic": "هِيَ",
+      "english": "«She» هاَ",
+      "titleEN": ""
+    },
+    {
+      "id": 600,
+      "type": 21,
+      "arabic": "بَيْتُهَا",
+      "english": "«Her house»",
+      "titleEN": ""
+    },
+    {
+      "id": 601,
+      "type": 21,
+      "arabic": "كِتَابُهَا",
+      "english": "«Her book»",
+      "titleEN": ""
+    },
+    {
+      "id": 602,
+      "type": 21,
+      "arabic": "هَذَاسَرِيرُها",
+      "english": "«This is her bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 603,
+      "type": 1,
+      "arabic": "",
+      "english": "The Arabic speech consists of three kinds of words.",
+      "titleEN": ""
+    },
+    {
+      "id": 604,
+      "type": 21,
+      "arabic": "فِعْل",
+      "english": "«Verb» — action",
+      "titleEN": ""
+    },
+    {
+      "id": 605,
+      "type": 21,
+      "arabic": "فَاعِل",
+      "english": "«Subject» — a person or object performing an action",
+      "titleEN": ""
+    },
+    {
+      "id": 606,
+      "type": 21,
+      "arabic": "مَفْعُول",
+      "english": "«Object» — the thing with which the action is associated (addition)",
+      "titleEN": ""
+    },
+    {
+      "id": 607,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 608,
+      "type": 21,
+      "arabic": "جُمْلَةٌ فِعْلِيَّةٌ",
+      "english": "Verb sentence",
+      "titleEN": ""
+    },
+    {
+      "id": 609,
+      "type": 11,
+      "arabic": "خَرَجَ مُحَمَّدٌ مِنَ الْمَسْجِدِ",
+      "english": "«Muhammad came out of the mosque»",
+      "titleEN": ""
+    },
+    {
+      "id": 610,
+      "type": 21,
+      "arabic": "خَرَجَ",
+      "english": "The masculine verb «came out»",
+      "titleEN": ""
+    },
+    {
+      "id": 611,
+      "type": 21,
+      "arabic": "خَرَجَتْ",
+      "english": "The feminine verb «came out»",
+      "titleEN": ""
+    },
+    {
+      "id": 612,
+      "type": 1,
+      "arabic": "",
+      "english": "We recall that the relative pronouns are used to mean a connection with previous nouns in a certain state. The masculine form of the relative pronoun is ( الَّذِي ) and can be translated as «Which». Likewise, female form ( الَّتِي ) relative pronoun «Which» has the same meanings as the masculine form and is used for feminine nouns.",
+      "titleEN": ""
+    },
+    {
+      "id": 613,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "23": [
+    {
+      "id": 614,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّالِثُ وَ العِشْرُونَ",
+      "english": "Lesson 23",
+      "titleEN": "Lesson 23"
+    },
+    {
+      "id": 615,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 616,
+      "type": 4,
+      "arabic": "",
+      "english": "The second part, indeclinable words",
+      "titleEN": "The second part, indeclinable words"
+    },
+    {
+      "id": 617,
+      "type": 11,
+      "arabic": "اِسْم ﻻَيُنَوّنُ, وَيُجَرُّ باِلْفَتْحَةِ",
+      "english": "Nouns that do not accept «Tanwin» ( ٌ  ). These are the names to which instead of «Kasra» accepts only «Fatha»",
+      "titleEN": ""
+    },
+    {
+      "id": 618,
+      "type": 1,
+      "arabic": "",
+      "english": "Unlike ordinary nouns, inflected words do not use «Tanwin» endings. Also, indeclinable words do not end in harakat «Kasra», that is, they do not decline into the genitive case.",
+      "titleEN": ""
+    },
+    {
+      "id": 619,
+      "type": 1,
+      "arabic": "",
+      "english": "According to the grammar of the Arabic language, nouns, in a certain state inflect into genitive with harakat «Kasra» at the end. For example: ( مِنَ الْجَامِعَةِ ) «from university». And, also in an indeterminate state can have «Kasra», when they are in «Izafet state» or if they are preceded by a genitive preposition, for example: ( مِنْ مَسْجِدٍ ) «from the mosque».",
+      "titleEN": ""
+    },
+    {
+      "id": 620,
+      "type": 1,
+      "arabic": "",
+      "english": "However, indeclinable words, unlike simple nouns, do not end in harakat «Kasra». In place of the genitive case, they have only the ending «Fatha» instead of «Kasra»",
+      "titleEN": ""
+    },
+    {
+      "id": 621,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 622,
+      "type": 11,
+      "arabic": "هَذَ الكِتَابُ   ﻷحْمَدَ",
+      "english": "«This book is for Ahmad»",
+      "titleEN": ""
+    },
+    {
+      "id": 623,
+      "type": 11,
+      "arabic": "بَيْتُ زَينَبَ جَمِيلٌ",
+      "english": "«Zainab's house is beautiful»",
+      "titleEN": ""
+    },
+    {
+      "id": 624,
+      "type": 11,
+      "arabic": "أَنَا مِنْ بَاكِسْتَانَ",
+      "english": "«I am from Pakistan»",
+      "titleEN": ""
+    },
+    {
+      "id": 625,
+      "type": 30,
+      "arabic": "إِلَى جِدَّةَ فِي مَكَّةََ لِعَائِشَةََ مِنْ لَنْدَنَ لِخَدَيجَةَ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 626,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "3": [
+    {
+      "id": 627,
+      "type": 24,
+      "arabic": "الدَّرْسُ الثَّالِثُ",
+      "english": "Lesson 3",
+      "titleEN": "Lesson 3"
+    },
+    {
+      "id": 628,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 629,
+      "type": 4,
+      "arabic": "",
+      "english": "Definition of words",
+      "titleEN": "Definition of words"
+    },
+    {
+      "id": 630,
+      "type": 11,
+      "arabic": "ال - حَرْفُ تعريف",
+      "english": "Article «ال» - indicates definite. Respectively «Tanwin» and «ال» cannot occur at the same time in a word. If an article is added at the beginning of a word «ال», then from the end of the word leaves «Tanwin» ( ٌ  ) and that word becomes definite",
+      "titleEN": ""
+    },
+    {
+      "id": 631,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 632,
+      "type": 11,
+      "arabic": "بَيْتٌ + ال = الْبَيْتُ",
+      "english": "«A house»(indefinite  house), added «ال» and got «the house»(definite  house)",
+      "titleEN": ""
+    },
+    {
+      "id": 633,
+      "type": 11,
+      "arabic": "قَلَمٌ + ال = الْقَلَمُ",
+      "english": "«A pen»(indefinite  pen), added «ال» and got «the pen»(definite  pen)",
+      "titleEN": ""
+    },
+    {
+      "id": 634,
+      "type": 11,
+      "arabic": "بيَتٌ النَّكِرَةُ شَىيْءُ غَيرُ مُعَيَّنٍ",
+      "english": "«A house» - some house (indefinite house)",
+      "titleEN": ""
+    },
+    {
+      "id": 635,
+      "type": 11,
+      "arabic": "الْبَيْتُ الْمَعْرِفَةُ شَيْءُ مُعَيَّنٍ",
+      "english": "«The house» definite house",
+      "titleEN": ""
+    },
+    {
+      "id": 636,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "5": [
+    {
+      "id": 637,
+      "type": 24,
+      "arabic": "الدَّرْسُ الخَامِسُ",
+      "english": "Lesson 5",
+      "titleEN": "Lesson 5"
+    },
+    {
+      "id": 638,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 639,
+      "type": 4,
+      "arabic": "",
+      "english": "The «Iđâfa» - which means: add annexation",
+      "titleEN": "The «Iđâfa» - which means: add annexation"
+    },
+    {
+      "id": 640,
+      "type": 21,
+      "arabic": "اﻹِاضَافة",
+      "english": "«Iđâfa» consists of two parts",
+      "titleEN": ""
+    },
+    {
+      "id": 641,
+      "type": 1,
+      "arabic": "",
+      "english": "This form means adding of one noun to another to form a relationship of possession or belonging (one noun being owned or belonging to another noun – e.g. teacher’s book).  In the  possessive expression, one noun is the «possessor» called «Muđâf  Ilaihi» while the other is the «possessed» called «Muđâf» in Arabic. For example, if we say «the teacher’s book», «the teacher» is the possessor and «the book» is possessed.",
+      "titleEN": ""
+    },
+    {
+      "id": 642,
+      "type": 1,
+      "arabic": "",
+      "english": "In order to express the belonging of one object to another correctly, some rules must be followed:",
+      "titleEN": ""
+    },
+    {
+      "id": 643,
+      "type": 1,
+      "arabic": "",
+      "english": "— the first part of «Izafet» should not have the article «ال» and can be conjugated by cases.",
+      "titleEN": ""
+    },
+    {
+      "id": 644,
+      "type": 1,
+      "arabic": "",
+      "english": "- the second part «Izafeta» must always be in the genitive case with the ending «Kasra», depending on the state, or it can be an unchangeable personal and continuous pronoun. by the state of the second part «Izafeta» appears and the state of the first part «Izafet»",
+      "titleEN": ""
+    },
+    {
+      "id": 645,
+      "type": 11,
+      "arabic": "كِتَابُ مُحَمَّدٍ",
+      "english": "«A book of  Muhammad»",
+      "titleEN": ""
+    },
+    {
+      "id": 646,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 647,
+      "type": 21,
+      "arabic": "مُضَافٌ",
+      "english": "1. «The added»",
+      "titleEN": ""
+    },
+    {
+      "id": 648,
+      "type": 21,
+      "arabic": "كِتَابُ",
+      "english": "From «Muđâf» leaves «Tanwīn»",
+      "titleEN": ""
+    },
+    {
+      "id": 649,
+      "type": 21,
+      "arabic": "كِتَابُ",
+      "english": "«Muđâf» has no particle ( ال )",
+      "titleEN": ""
+    },
+    {
+      "id": 650,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 651,
+      "type": 21,
+      "arabic": "مُضَافٌ إِلَيه",
+      "english": "2)«That is added to»",
+      "titleEN": ""
+    },
+    {
+      "id": 652,
+      "type": 21,
+      "arabic": "مُحَمَّدٌ← مُحَمَّدٍ",
+      "english": "«مُضَافٌ إِلَيه» - ending becomes «kasra»",
+      "titleEN": ""
+    },
+    {
+      "id": 653,
+      "type": 12,
+      "arabic": "«Книга Мухаммада» - полное предложение, построенное на (مُضَافٌ, مُضَافٌ إِلَيه)",
+      "english": "«A book of  Muhammad» - full sentence, built with (مُضَافٌ, مُضَافٌ إِلَيه)",
+      "titleEN": ""
+    },
+    {
+      "id": 654,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 655,
+      "type": 21,
+      "arabic": "يا  المُنَادَى",
+      "english": "( يا ) «О» The one addressed to is truncated at the end «Tanwīn»",
+      "titleEN": ""
+    },
+    {
+      "id": 656,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 657,
+      "type": 11,
+      "arabic": "مُحَمَّدٌ = يا مُحَمَّدُ",
+      "english": "«Muhammad = O Muhammad»",
+      "titleEN": ""
+    },
+    {
+      "id": 658,
+      "type": 2,
+      "arabic": "عَلِيٌّ = يا عَلِيُّ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 659,
+      "type": 2,
+      "arabic": "عَبَّاسٌ = يا عَبَّاسُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 660,
+      "type": 2,
+      "arabic": "شَيخٌ = يا شَيخُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 661,
+      "type": 2,
+      "arabic": "رَجُلٌ = يا رَجُلُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 662,
+      "type": 2,
+      "arabic": "ياَسِرٌ = يا ياَسِرُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 663,
+      "type": 2,
+      "arabic": "عَمَّارٌ = يا عَمَّارُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 664,
+      "type": 2,
+      "arabic": "دُكْتُورٌ = يا دُكْتُورُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 665,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 666,
+      "type": 1,
+      "arabic": "",
+      "english": "If letter «ا» stands at the beginning of a sentence, then it is read. If in the middle, then it is not readable",
+      "titleEN": ""
+    },
+    {
+      "id": 667,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 668,
+      "type": 11,
+      "arabic": "اِسْمُ الْوَلَدِ ا مُحَمَّدٌ",
+      "english": "«The name of the boy is Muhammad»",
+      "titleEN": ""
+    },
+    {
+      "id": 669,
+      "type": 11,
+      "arabic": "وَاسْمُ الْبِنْتِ زَيْنَبُ",
+      "english": "«Daughter name Zainab»",
+      "titleEN": ""
+    },
+    {
+      "id": 670,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "10": [
+    {
+      "id": 671,
+      "type": 24,
+      "arabic": "العَا شِرُ",
+      "english": "Lesson 10",
+      "titleEN": "Lesson 10"
+    },
+    {
+      "id": 672,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 673,
+      "type": 4,
+      "arabic": "",
+      "english": "Possessive pronouns 1, 2 and 3 persons m. and f.",
+      "titleEN": "Possessive pronouns 1, 2 and 3 persons m. and f."
+    },
+    {
+      "id": 674,
+      "type": 21,
+      "arabic": "الضَّمَائِرُ",
+      "english": "Pronouns",
+      "titleEN": ""
+    },
+    {
+      "id": 675,
+      "type": 1,
+      "arabic": "",
+      "english": "1) When attached to nouns, they act as possessive pronouns. Thus, the grammatical gender of the owner of the object is taken into account, and not the gender of the object itself.",
+      "titleEN": ""
+    },
+    {
+      "id": 676,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 677,
+      "type": 21,
+      "arabic": "كِتَابُهُ",
+      "english": "«His book»",
+      "titleEN": ""
+    },
+    {
+      "id": 678,
+      "type": 21,
+      "arabic": "كِتَابُهَا",
+      "english": "«Her book»",
+      "titleEN": ""
+    },
+    {
+      "id": 679,
+      "type": 1,
+      "arabic": "",
+      "english": "When joining fused pronouns, the noun is put in a certain state, but without the article «ال», (in an indeterminate state)",
+      "titleEN": ""
+    },
+    {
+      "id": 680,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 681,
+      "type": 21,
+      "arabic": "بَيْتُهُ",
+      "english": "«His house»",
+      "titleEN": ""
+    },
+    {
+      "id": 682,
+      "type": 1,
+      "arabic": "",
+      "english": "If the noun ends in ( ة ) «Ta marbuta», then when you add a pronoun, it turns into «Ta marbuta» that is, in the usual ( ت )",
+      "titleEN": ""
+    },
+    {
+      "id": 683,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 684,
+      "type": 2,
+      "arabic": "غُرْفَتُهُ",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 685,
+      "type": 1,
+      "arabic": "",
+      "english": "It should also be noted that fused pronouns are invariable in form, i.e. whichever noun has a case ending, the pronoun will remain in the same form",
+      "titleEN": ""
+    },
+    {
+      "id": 686,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 687,
+      "type": 21,
+      "arabic": "الْمُتَكَلِّمُ الْمُذَكَّرُ",
+      "english": "1 person) masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 688,
+      "type": 21,
+      "arabic": "أَنا",
+      "english": "«I» (ي)",
+      "titleEN": ""
+    },
+    {
+      "id": 689,
+      "type": 21,
+      "arabic": "بَيْتِي",
+      "english": "«My house»",
+      "titleEN": ""
+    },
+    {
+      "id": 690,
+      "type": 21,
+      "arabic": "كِتَابِي",
+      "english": "«My book»",
+      "titleEN": ""
+    },
+    {
+      "id": 691,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرِي",
+      "english": "«This is my bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 692,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 693,
+      "type": 21,
+      "arabic": "الُمخَاطَبُ الْمُذَكَّرُ",
+      "english": "2nd person) masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 694,
+      "type": 21,
+      "arabic": "أَنْتَ",
+      "english": "«You» (كَ)",
+      "titleEN": ""
+    },
+    {
+      "id": 695,
+      "type": 21,
+      "arabic": "بَيْتُكَ",
+      "english": "«Your house»",
+      "titleEN": ""
+    },
+    {
+      "id": 696,
+      "type": 21,
+      "arabic": "كِتَابُكَ",
+      "english": "«Your book»",
+      "titleEN": ""
+    },
+    {
+      "id": 697,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرُكَ",
+      "english": "«This is your bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 698,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 699,
+      "type": 21,
+      "arabic": "الْغَائِبُ الْمُذَكَّرُ",
+      "english": "3 person) masculine",
+      "titleEN": ""
+    },
+    {
+      "id": 700,
+      "type": 21,
+      "arabic": "هُوَ",
+      "english": "«He» (هُ)",
+      "titleEN": ""
+    },
+    {
+      "id": 701,
+      "type": 21,
+      "arabic": "بَيْتُهُ",
+      "english": "«His house»",
+      "titleEN": ""
+    },
+    {
+      "id": 702,
+      "type": 21,
+      "arabic": "كِتَابُهُ",
+      "english": "«His book»",
+      "titleEN": ""
+    },
+    {
+      "id": 703,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرُهُ",
+      "english": "«This is his bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 704,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 705,
+      "type": 21,
+      "arabic": "الْمُتَكَلِّمُ الْمُؤَنَّثُ",
+      "english": "1 person) female",
+      "titleEN": ""
+    },
+    {
+      "id": 706,
+      "type": 21,
+      "arabic": "أَنَا",
+      "english": "«I» (يَ)",
+      "titleEN": ""
+    },
+    {
+      "id": 707,
+      "type": 21,
+      "arabic": "بَيْتِي",
+      "english": "«My house»",
+      "titleEN": ""
+    },
+    {
+      "id": 708,
+      "type": 21,
+      "arabic": "كِتَابِي",
+      "english": "«My book»",
+      "titleEN": ""
+    },
+    {
+      "id": 709,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرِي",
+      "english": "«This is my bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 710,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 711,
+      "type": 21,
+      "arabic": "الُمخَاطَبُ الْمُؤَنَّثُ",
+      "english": "2 person) female",
+      "titleEN": ""
+    },
+    {
+      "id": 712,
+      "type": 21,
+      "arabic": "أَنْتِ",
+      "english": "«She» (كِ)",
+      "titleEN": ""
+    },
+    {
+      "id": 713,
+      "type": 21,
+      "arabic": "بَيْتُكِ",
+      "english": "«Your house»",
+      "titleEN": ""
+    },
+    {
+      "id": 714,
+      "type": 21,
+      "arabic": "كِتَابُكِ",
+      "english": "«Your book»",
+      "titleEN": ""
+    },
+    {
+      "id": 715,
+      "type": 21,
+      "arabic": "هَذَا سَرِيرُكِ",
+      "english": "«This is your bed»",
+      "titleEN": ""
+    },
+    {
+      "id": 716,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 717,
+      "type": 21,
+      "arabic": "الْغَائِبُ الْمُؤَنَّثُ",
+      "english": "3 person) female",
+      "titleEN": ""
+    },
+    {
+      "id": 718,
+      "type": 1,
+      "arabic": "",
+      "english": "Female",
+      "titleEN": ""
+    },
+    {
+      "id": 719,
+      "type": 21,
+      "arabic": "بَيْتُهَا",
+      "english": "«Her home»",
+      "titleEN": ""
+    },
+    {
+      "id": 720,
+      "type": 21,
+      "arabic": "كِتُابُهَا",
+      "english": "«Her book»",
+      "titleEN": ""
+    },
+    {
+      "id": 721,
+      "type": 1,
+      "arabic": "",
+      "english": "In the same way, in Arabic there are proper nouns, masculine having the ending «ة marbuta». They also don't have «Tanwin» endings. These names agree with other parts of speech, just like masculine nouns. These names include the following proper names( حَمْزَةُ، مُعَاوِيَةُ )",
+      "titleEN": ""
+    },
+    {
+      "id": 722,
+      "type": 1,
+      "arabic": "",
+      "english": "Prepositions in the Arabic language in a separate order do not carry a semantic meaning, only combined with other parts of speech give an understandable connotation to what has been said. Prepositions put the subsequent noun in the genitive case, which is why they are also called prepositions. «genitive» ( حُرُوفُ الْجَرِّ ).",
+      "titleEN": ""
+    },
+    {
+      "id": 723,
+      "type": 1,
+      "arabic": "",
+      "english": "Pretext ( عَنْ ) means:",
+      "titleEN": ""
+    },
+    {
+      "id": 724,
+      "type": 1,
+      "arabic": "— предмет речи,  например: ( … يَتَحَدَّثُ عَنْ ) «говорить о»",
+      "english": "— subject of speech, for example: ( … يَتَحَدَّثُ عَنْ ) «talk about»",
+      "titleEN": ""
+    },
+    {
+      "id": 725,
+      "type": 1,
+      "arabic": "",
+      "english": "Pretext ( مَعَ ) means:",
+      "titleEN": ""
+    },
+    {
+      "id": 726,
+      "type": 1,
+      "arabic": "",
+      "english": "— consistency of location or movement, for example: ( جَاءَ مَعِي ) «he came with me».",
+      "titleEN": ""
+    },
+    {
+      "id": 727,
+      "type": 1,
+      "arabic": "",
+      "english": "This preposition with a fused pronoun of the 1st person singular has the form ( مَعِي ), otherwise this form is unchanged.",
+      "titleEN": ""
+    },
+    {
+      "id": 728,
+      "type": 1,
+      "arabic": "",
+      "english": "Pretext ( بِ ) can mean:",
+      "titleEN": ""
+    },
+    {
+      "id": 729,
+      "type": 1,
+      "arabic": "",
+      "english": "— the means or instrument by which an action is performed, expample: ( كَتَبَ بِقَلَمٍ ) «I wrote in pencil».",
+      "titleEN": ""
+    },
+    {
+      "id": 730,
+      "type": 1,
+      "arabic": "",
+      "english": "( بِ ) пputs after itself at the end «Kasra»",
+      "titleEN": ""
+    },
+    {
+      "id": 731,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "20": [
+    {
+      "id": 732,
+      "type": 24,
+      "arabic": "الدَّرْسُ الْعِشْرُونُ",
+      "english": "Lesson 20",
+      "titleEN": "Lesson 20"
+    },
+    {
+      "id": 733,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 734,
+      "type": 4,
+      "arabic": "",
+      "english": "Numbers (feminine)",
+      "titleEN": "Numbers (feminine)"
+    },
+    {
+      "id": 735,
+      "type": 1,
+      "arabic": "",
+      "english": "Feminine",
+      "titleEN": ""
+    },
+    {
+      "id": 736,
+      "type": 21,
+      "arabic": "الْعَدَدُ",
+      "english": "Numbers",
+      "titleEN": ""
+    },
+    {
+      "id": 737,
+      "type": 21,
+      "arabic": "الْمَعْدُودُ",
+      "english": "Countable",
+      "titleEN": ""
+    },
+    {
+      "id": 738,
+      "type": 1,
+      "arabic": "",
+      "english": "In this part, we will see how numerals consider with countable names in feminine.",
+      "titleEN": ""
+    },
+    {
+      "id": 739,
+      "type": 1,
+      "arabic": "",
+      "english": "In numbers from 3 to 10, if a countable word is feminine, then its number will also be masculine and countable with «Kasra» and stand in ( مضف  إليه )",
+      "titleEN": ""
+    },
+    {
+      "id": 740,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 741,
+      "type": 1,
+      "arabic": "",
+      "english": "Feminine:",
+      "titleEN": ""
+    },
+    {
+      "id": 742,
+      "type": 21,
+      "arabic": "ثَلَاثُ أَخَوَاتٍ",
+      "english": "«Three sisters»",
+      "titleEN": ""
+    },
+    {
+      "id": 743,
+      "type": 21,
+      "arabic": "أَرْبَعُ بَنَاتٍ",
+      "english": "«Four daughters»",
+      "titleEN": ""
+    },
+    {
+      "id": 744,
+      "type": 21,
+      "arabic": "خَمْسُ سَاعَاتٍ",
+      "english": "«Five hours»",
+      "titleEN": ""
+    },
+    {
+      "id": 745,
+      "type": 21,
+      "arabic": "سِتُّ سَيَّارَتٍ",
+      "english": "«Six cars»",
+      "titleEN": ""
+    },
+    {
+      "id": 746,
+      "type": 21,
+      "arabic": "سَبْعُ فَتَيَاتٍ",
+      "english": "«Seven girls»",
+      "titleEN": ""
+    },
+    {
+      "id": 747,
+      "type": 21,
+      "arabic": "ثَمَانُ فَتَيَاتٍ",
+      "english": "«Eight girls»",
+      "titleEN": ""
+    },
+    {
+      "id": 748,
+      "type": 21,
+      "arabic": "تِسْعُ كَالِمَاتٍ",
+      "english": "«Nine words»",
+      "titleEN": ""
+    },
+    {
+      "id": 749,
+      "type": 21,
+      "arabic": "عَشْرُ مَجَلاَّتٍ",
+      "english": "«Ten magazines»",
+      "titleEN": ""
+    },
+    {
+      "id": 750,
+      "type": 1,
+      "arabic": "",
+      "english": "In a numerical phrase, where the numeral is one or two, the numeral is placed after the countable and agrees with it in gender and case, just like adjectives. However, it will always be in an indeterminate state",
+      "titleEN": ""
+    },
+    {
+      "id": 751,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 752,
+      "type": 11,
+      "arabic": "كُرَّاسَةٌ وَاحِدَةٌ",
+      "english": "«One notebook»",
+      "titleEN": ""
+    },
+    {
+      "id": 753,
+      "type": 11,
+      "arabic": "كُلِّيَّتَانِ اثْنَتَانِ",
+      "english": "«Two faculties»",
+      "titleEN": ""
+    },
+    {
+      "id": 754,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "7": [
+    {
+      "id": 755,
+      "type": 24,
+      "arabic": "الدَرْسُ السَّابِعُ",
+      "english": "Lesson 7",
+      "titleEN": "Lesson 7"
+    },
+    {
+      "id": 756,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 757,
+      "type": 4,
+      "arabic": "",
+      "english": "Demonstrative feminine pronouns for far",
+      "titleEN": "Demonstrative feminine pronouns for far"
+    },
+    {
+      "id": 758,
+      "type": 21,
+      "arabic": "تِلْكَ",
+      "english": "That(f)",
+      "titleEN": ""
+    },
+    {
+      "id": 759,
+      "type": 11,
+      "arabic": "اِسْمُ إِشَارَةٍ لِلْمُفْرَدِ الْمُؤَنَّثِ البَعِيد العَاقِلِ, وَغير العَاقِلِ",
+      "english": "Demonstrative pronoun for singular, feminine, for distant in distance, reasonable and not reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 760,
+      "type": 1,
+      "arabic": "",
+      "english": "In this lesson, we will deal with the demonstrative pronoun ( تِلْكَ ) feminine singular for long distance. Demonstrative singular pronouns  are available for both close and long distance, some of them we have already passed.",
+      "titleEN": ""
+    },
+    {
+      "id": 761,
+      "type": 1,
+      "arabic": "",
+      "english": "Look attentively at the table of these pronouns.",
+      "titleEN": ""
+    },
+    {
+      "id": 762,
+      "type": 21,
+      "arabic": "هَـذَا",
+      "english": "«This» (masculine)",
+      "titleEN": ""
+    },
+    {
+      "id": 763,
+      "type": 21,
+      "arabic": "هَـذِهِ",
+      "english": "«This(f)» (feminine) also used for plural. «These»",
+      "titleEN": ""
+    },
+    {
+      "id": 764,
+      "type": 21,
+      "arabic": "تِلْكَ",
+      "english": "«That(f), those(f)» (feminine) [continued in lesson 16]",
+      "titleEN": ""
+    },
+    {
+      "id": 765,
+      "type": 21,
+      "arabic": "ذَلِكَ",
+      "english": "«That» (masculine)",
+      "titleEN": ""
+    },
+    {
+      "id": 766,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ],
+  "9": [
+    {
+      "id": 767,
+      "type": 24,
+      "arabic": "الدَّرْسُ التَّاسِعُ",
+      "english": "Lesson 9",
+      "titleEN": "Lesson 9"
+    },
+    {
+      "id": 768,
+      "type": 3,
+      "arabic": "",
+      "english": "Sharh (description)",
+      "titleEN": "Sharh (description)"
+    },
+    {
+      "id": 769,
+      "type": 4,
+      "arabic": "",
+      "english": "Adjective",
+      "titleEN": "Adjective"
+    },
+    {
+      "id": 770,
+      "type": 1,
+      "arabic": "",
+      "english": "«Nat» — adjective, definition, ( نَعْتٌ ), defined noun. It's called in Arabic ( مَنْعُوتٌ )",
+      "titleEN": ""
+    },
+    {
+      "id": 771,
+      "type": 1,
+      "arabic": "",
+      "english": "1. Adjective - masculine as well as feminine. Definite form and indefinite form of inflected ending",
+      "titleEN": ""
+    },
+    {
+      "id": 772,
+      "type": 1,
+      "arabic": "",
+      "english": "in Arabic «Nat» follows «Manut» in number, in kind, in certainty and indefinitely and in change",
+      "titleEN": ""
+    },
+    {
+      "id": 773,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 774,
+      "type": 11,
+      "arabic": "وَلَدٌ صَغِيرٌ",
+      "english": "«little boy»",
+      "titleEN": ""
+    },
+    {
+      "id": 775,
+      "type": 11,
+      "arabic": "الْحَقِيبَةُ الْجَدِيدَةُ",
+      "english": "«Briefcase new»",
+      "titleEN": ""
+    },
+    {
+      "id": 776,
+      "type": 1,
+      "arabic": "",
+      "english": "In Arabic, an adjective follows a noun",
+      "titleEN": ""
+    },
+    {
+      "id": 777,
+      "type": 1,
+      "arabic": "",
+      "english": "Example:",
+      "titleEN": ""
+    },
+    {
+      "id": 778,
+      "type": 11,
+      "arabic": "طَالِبٌ مُجْتَهِدٌ",
+      "english": "«Diligent student»",
+      "titleEN": ""
+    },
+    {
+      "id": 779,
+      "type": 1,
+      "arabic": "",
+      "english": "They are also interconnected if the first one is without «ال», then the second will also be without «ال».",
+      "titleEN": ""
+    },
+    {
+      "id": 780,
+      "type": 1,
+      "arabic": "",
+      "english": "If the first one is without «Tanwin», then the second one too «Tanwin» and will follow in everything",
+      "titleEN": ""
+    },
+    {
+      "id": 781,
+      "type": 11,
+      "arabic": "نَعْتُ وَالمَنْعُوتُ",
+      "english": "Adjective after adjective",
+      "titleEN": ""
+    },
+    {
+      "id": 782,
+      "type": 11,
+      "arabic": "مَكتَبٌ قَدِيمٌ",
+      "english": "«Table old»",
+      "titleEN": ""
+    },
+    {
+      "id": 783,
+      "type": 11,
+      "arabic": "الْمَكْتَبُ الْقَدِيمُ",
+      "english": "«Table old»",
+      "titleEN": ""
+    },
+    {
+      "id": 784,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 785,
+      "type": 21,
+      "arabic": "الَّذِي",
+      "english": "«Which»",
+      "titleEN": ""
+    },
+    {
+      "id": 786,
+      "type": 11,
+      "arabic": "الَّذِي- اِسْم مَوصُولٌ  لِلْمُفْرَدِ الْمُذَكَّرِ الْعَاقِلِ, وَغَيرِ الْعَاقِلِ",
+      "english": "«Which» - this is a relative name, for the singular, masculine, reasonable and not reasonable",
+      "titleEN": ""
+    },
+    {
+      "id": 787,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    },
+    {
+      "id": 788,
+      "type": 1,
+      "arabic": "",
+      "english": "In Arabic, adjectives that express feelings in sentences are used without an article. «ال» and «Tanwin»",
+      "titleEN": ""
+    },
+    {
+      "id": 789,
+      "type": 1,
+      "arabic": "",
+      "english": "Examples:",
+      "titleEN": ""
+    },
+    {
+      "id": 790,
+      "type": 21,
+      "arabic": "كَسْلانُ",
+      "english": "«Lazy»",
+      "titleEN": ""
+    },
+    {
+      "id": 791,
+      "type": 21,
+      "arabic": "جَوْعَانُ",
+      "english": "«Hungry»",
+      "titleEN": ""
+    },
+    {
+      "id": 792,
+      "type": 21,
+      "arabic": "غَضْبانُ",
+      "english": "«Angry»",
+      "titleEN": ""
+    },
+    {
+      "id": 793,
+      "type": 21,
+      "arabic": "عَطْشانُ",
+      "english": "«Thirsty»",
+      "titleEN": ""
+    },
+    {
+      "id": 794,
+      "type": 21,
+      "arabic": "أَلْمانِيَا",
+      "english": "«Germany»",
+      "titleEN": ""
+    },
+    {
+      "id": 795,
+      "type": 21,
+      "arabic": "أَمْرِيكاَ",
+      "english": "«America»",
+      "titleEN": ""
+    },
+    {
+      "id": 796,
+      "type": 21,
+      "arabic": "مَلْآنُ",
+      "english": "«Crowded»",
+      "titleEN": ""
+    },
+    {
+      "id": 797,
+      "type": 50,
+      "arabic": "",
+      "english": "",
+      "titleEN": ""
+    }
+  ]
+}

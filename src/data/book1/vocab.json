@@ -1,0 +1,4014 @@
+{
+  "1": [
+    {
+      "id": 1002,
+      "wordId": 1002,
+      "arabic": "بَيْتٌ",
+      "english": "House",
+      "russian": "Дом",
+      "voiceKey": "part_1_less_1_words_1002"
+    },
+    {
+      "id": 1003,
+      "wordId": 1003,
+      "arabic": "مَسْجِدٌ",
+      "english": "Mosque",
+      "russian": "Мечеть",
+      "voiceKey": "part_1_less_1_words_1003"
+    },
+    {
+      "id": 1004,
+      "wordId": 1004,
+      "arabic": "بَابٌ",
+      "english": "Door",
+      "russian": "Дверь",
+      "voiceKey": "part_1_less_1_words_1004"
+    },
+    {
+      "id": 1005,
+      "wordId": 1005,
+      "arabic": "كِتَابٌ",
+      "english": "Book",
+      "russian": "Книга",
+      "voiceKey": "part_1_less_1_words_1005"
+    },
+    {
+      "id": 1006,
+      "wordId": 1006,
+      "arabic": "قَلَمٌ",
+      "english": "Pen",
+      "russian": "Ручка",
+      "voiceKey": "part_1_less_1_words_1006"
+    },
+    {
+      "id": 1007,
+      "wordId": 1007,
+      "arabic": "مِفْتَاحٌ",
+      "english": "Key",
+      "russian": "Ключ",
+      "voiceKey": "part_1_less_1_words_1007"
+    },
+    {
+      "id": 1008,
+      "wordId": 1008,
+      "arabic": "مَكْتَبٌ",
+      "english": "Writing desk",
+      "russian": "Письменный стол",
+      "voiceKey": "part_1_less_1_words_1008"
+    },
+    {
+      "id": 1009,
+      "wordId": 1009,
+      "arabic": "سَرِيرٌ",
+      "english": "Bed",
+      "russian": "Кровать",
+      "voiceKey": "part_1_less_1_words_1009"
+    },
+    {
+      "id": 1010,
+      "wordId": 1010,
+      "arabic": "كُرْسِيٌّ",
+      "english": "Chair",
+      "russian": "Стул",
+      "voiceKey": "part_1_less_1_words_1010"
+    },
+    {
+      "id": 1011,
+      "wordId": 1011,
+      "arabic": "كَلْبٌ",
+      "english": "Dog",
+      "russian": "Собака",
+      "voiceKey": "part_1_less_1_words_1011"
+    },
+    {
+      "id": 1012,
+      "wordId": 1012,
+      "arabic": "قِطٌّ",
+      "english": "Cat",
+      "russian": "Кошка",
+      "voiceKey": "part_1_less_1_words_1012"
+    },
+    {
+      "id": 1013,
+      "wordId": 1013,
+      "arabic": "حِمَارٌ",
+      "english": "Donkey",
+      "russian": "Осел",
+      "voiceKey": "part_1_less_1_words_1013"
+    },
+    {
+      "id": 1014,
+      "wordId": 1014,
+      "arabic": "حِصَانٌ",
+      "english": "Horse",
+      "russian": "Лошадь",
+      "voiceKey": "part_1_less_1_words_1014"
+    },
+    {
+      "id": 1015,
+      "wordId": 1015,
+      "arabic": "جَمَلٌ",
+      "english": "Camel",
+      "russian": "Верблюд",
+      "voiceKey": "part_1_less_1_words_1015"
+    },
+    {
+      "id": 1016,
+      "wordId": 1016,
+      "arabic": "دِيكٌ",
+      "english": "Cockerel",
+      "russian": "Петух",
+      "voiceKey": "part_1_less_1_words_1016"
+    },
+    {
+      "id": 1017,
+      "wordId": 1017,
+      "arabic": "قَمِيصٌ",
+      "english": "Shirt",
+      "russian": "Рубашка",
+      "voiceKey": "part_1_less_1_words_1017"
+    },
+    {
+      "id": 1018,
+      "wordId": 1018,
+      "arabic": "مِنْدِيلٌ",
+      "english": "Handkerchief, napkin",
+      "russian": "Носовой платок, салфетка",
+      "voiceKey": "part_1_less_1_words_1018"
+    },
+    {
+      "id": 1019,
+      "wordId": 1019,
+      "arabic": "طَبِيبٌ",
+      "english": "Doctor",
+      "russian": "Врач",
+      "voiceKey": "part_1_less_1_words_1019"
+    },
+    {
+      "id": 1020,
+      "wordId": 1020,
+      "arabic": "طَالِبٌ",
+      "english": "Student",
+      "russian": "Студент",
+      "voiceKey": "part_1_less_1_words_1020"
+    },
+    {
+      "id": 1021,
+      "wordId": 1021,
+      "arabic": "وَلَدٌ",
+      "english": "Boy",
+      "russian": "Мальчик",
+      "voiceKey": "part_1_less_1_words_1021"
+    },
+    {
+      "id": 1022,
+      "wordId": 1022,
+      "arabic": "رَجُلٌ",
+      "english": "Man",
+      "russian": "Мужчина",
+      "voiceKey": "part_1_less_1_words_1022"
+    },
+    {
+      "id": 1023,
+      "wordId": 1023,
+      "arabic": "تَاجِرٌ",
+      "english": "Merchant",
+      "russian": "Торговец",
+      "voiceKey": "part_1_less_1_words_1023"
+    },
+    {
+      "id": 1024,
+      "wordId": 1024,
+      "arabic": "مُدَرِّسٌ",
+      "english": "Teacher",
+      "russian": "Учитель",
+      "voiceKey": "part_1_less_1_words_1024"
+    },
+    {
+      "id": 1025,
+      "wordId": 1025,
+      "arabic": "هَذَا",
+      "english": "This",
+      "russian": "Это(м.р.)",
+      "voiceKey": "part_1_less_1_words_1025"
+    },
+    {
+      "id": 1026,
+      "wordId": 1026,
+      "arabic": "نَعَمْ",
+      "english": "Yes",
+      "russian": "Да",
+      "voiceKey": "part_1_less_1_words_1026"
+    },
+    {
+      "id": 1027,
+      "wordId": 1027,
+      "arabic": "ﻻَ",
+      "english": "No",
+      "russian": "Нет",
+      "voiceKey": "part_1_less_1_words_1027"
+    },
+    {
+      "id": 1028,
+      "wordId": 1028,
+      "arabic": "مَا",
+      "english": "What",
+      "russian": "Что",
+      "voiceKey": "part_1_less_1_words_1028"
+    },
+    {
+      "id": 1029,
+      "wordId": 1029,
+      "arabic": "مَنْ",
+      "english": "Who",
+      "russian": "Кто",
+      "voiceKey": "part_1_less_1_words_1029"
+    },
+    {
+      "id": 1030,
+      "wordId": 1030,
+      "arabic": "أَوْ",
+      "english": "Or",
+      "russian": "Или",
+      "voiceKey": "part_1_less_1_words_1030"
+    }
+  ],
+  "2": [
+    {
+      "id": 2002,
+      "wordId": 2002,
+      "arabic": "ذَلِكَ",
+      "english": "That(m)",
+      "russian": "Вон то(м.р.), вон тот(м.р.), вон та(м.р.)",
+      "voiceKey": "part_1_less_2_words_2002"
+    },
+    {
+      "id": 2003,
+      "wordId": 2003,
+      "arabic": "نَجْمٌ",
+      "english": "Star",
+      "russian": "Звезда",
+      "voiceKey": "part_1_less_2_words_2003"
+    },
+    {
+      "id": 2004,
+      "wordId": 2004,
+      "arabic": "حَجَرٌ",
+      "english": "Rock",
+      "russian": "Камень",
+      "voiceKey": "part_1_less_2_words_2004"
+    },
+    {
+      "id": 2005,
+      "wordId": 2005,
+      "arabic": "سُكَّرٌ",
+      "english": "Sugar",
+      "russian": "Сахар",
+      "voiceKey": "part_1_less_2_words_2005"
+    },
+    {
+      "id": 2006,
+      "wordId": 2006,
+      "arabic": "لَبَنٌ",
+      "english": "Milk",
+      "russian": "Молоко",
+      "voiceKey": "part_1_less_2_words_2006"
+    },
+    {
+      "id": 2007,
+      "wordId": 2007,
+      "arabic": "إِمَامٌ",
+      "english": "Imam",
+      "russian": "Имам",
+      "voiceKey": "part_1_less_2_words_2007"
+    }
+  ],
+  "3": [
+    {
+      "id": 3002,
+      "wordId": 3002,
+      "arabic": "مَكْسُورٌ",
+      "english": "Broken",
+      "russian": "Сломанный",
+      "voiceKey": "part_1_less_3_words_3002"
+    },
+    {
+      "id": 3003,
+      "wordId": 3003,
+      "arabic": "جَمِيلٌ",
+      "english": "Beautiful",
+      "russian": "Красивый",
+      "voiceKey": "part_1_less_3_words_3003"
+    },
+    {
+      "id": 3004,
+      "wordId": 3004,
+      "arabic": "مَفْتُوحٌ",
+      "english": "Open",
+      "russian": "Открытый",
+      "voiceKey": "part_1_less_3_words_3004"
+    },
+    {
+      "id": 3005,
+      "wordId": 3005,
+      "arabic": "جَالِسٌ",
+      "english": "Sitting",
+      "russian": "Сидящий",
+      "voiceKey": "part_1_less_3_words_3005"
+    },
+    {
+      "id": 3006,
+      "wordId": 3006,
+      "arabic": "وَاقِفٌ",
+      "english": "Standing",
+      "russian": "Стоячий",
+      "voiceKey": "part_1_less_3_words_3006"
+    },
+    {
+      "id": 3007,
+      "wordId": 3007,
+      "arabic": "قَدِيمٌ",
+      "english": "Old",
+      "russian": "Старый",
+      "voiceKey": "part_1_less_3_words_3007"
+    },
+    {
+      "id": 3008,
+      "wordId": 3008,
+      "arabic": "صَغِيرٌ",
+      "english": "Small",
+      "russian": "Маленький",
+      "voiceKey": "part_1_less_3_words_3008"
+    },
+    {
+      "id": 3009,
+      "wordId": 3009,
+      "arabic": "كَبِيرٌ",
+      "english": "Big",
+      "russian": "Большой",
+      "voiceKey": "part_1_less_3_words_3009"
+    },
+    {
+      "id": 3010,
+      "wordId": 3010,
+      "arabic": "وَسِخٌ",
+      "english": "Dirt (dirty)",
+      "russian": "Грязь (грязный)",
+      "voiceKey": "part_1_less_3_words_3010"
+    },
+    {
+      "id": 3011,
+      "wordId": 3011,
+      "arabic": "مَاءٌ",
+      "english": "Water",
+      "russian": "Вода",
+      "voiceKey": "part_1_less_3_words_3011"
+    },
+    {
+      "id": 3012,
+      "wordId": 3012,
+      "arabic": "بَارِدٌ",
+      "english": "Cold",
+      "russian": "Холодный",
+      "voiceKey": "part_1_less_3_words_3012"
+    },
+    {
+      "id": 3013,
+      "wordId": 3013,
+      "arabic": "قَمَرٌ",
+      "english": "Moon",
+      "russian": "Луна",
+      "voiceKey": "part_1_less_3_words_3013"
+    },
+    {
+      "id": 3014,
+      "wordId": 3014,
+      "arabic": "قَرِيبٌ",
+      "english": "Near",
+      "russian": "Близко, рядом",
+      "voiceKey": "part_1_less_3_words_3014"
+    },
+    {
+      "id": 3015,
+      "wordId": 3015,
+      "arabic": "ثَقِيلٌ",
+      "english": "Heavy",
+      "russian": "Тяжелый",
+      "voiceKey": "part_1_less_3_words_3015"
+    },
+    {
+      "id": 3016,
+      "wordId": 3016,
+      "arabic": "خَفِيفٌ",
+      "english": "Light",
+      "russian": "Легкий",
+      "voiceKey": "part_1_less_3_words_3016"
+    },
+    {
+      "id": 3017,
+      "wordId": 3017,
+      "arabic": "حَارٌّ",
+      "english": "Hot",
+      "russian": "Горячий",
+      "voiceKey": "part_1_less_3_words_3017"
+    },
+    {
+      "id": 3018,
+      "wordId": 3018,
+      "arabic": "نَظِيفٌ",
+      "english": "Clean",
+      "russian": "Чистый",
+      "voiceKey": "part_1_less_3_words_3018"
+    },
+    {
+      "id": 3019,
+      "wordId": 3019,
+      "arabic": "وَرَقٌ",
+      "english": "Paper",
+      "russian": "Бумага",
+      "voiceKey": "part_1_less_3_words_3019"
+    },
+    {
+      "id": 3020,
+      "wordId": 3020,
+      "arabic": "بَعِيدٌ",
+      "english": "Far away",
+      "russian": "Дальний",
+      "voiceKey": "part_1_less_3_words_3020"
+    },
+    {
+      "id": 3022,
+      "wordId": 3022,
+      "arabic": "غَنِيٌّ",
+      "english": "Rich",
+      "russian": "Богатый",
+      "voiceKey": "part_1_less_3_words_3022"
+    },
+    {
+      "id": 3023,
+      "wordId": 3023,
+      "arabic": "دُكَّانٌ",
+      "english": "Shop",
+      "russian": "Магазин",
+      "voiceKey": "part_1_less_3_words_3023"
+    },
+    {
+      "id": 3024,
+      "wordId": 3024,
+      "arabic": "فَقِيرٌ",
+      "english": "Poor",
+      "russian": "Бедный",
+      "voiceKey": "part_1_less_3_words_3024"
+    },
+    {
+      "id": 3025,
+      "wordId": 3025,
+      "arabic": "تُفَّاحٌ",
+      "english": "Apple",
+      "russian": "Яблоко",
+      "voiceKey": "part_1_less_3_words_3025"
+    },
+    {
+      "id": 3027,
+      "wordId": 3027,
+      "arabic": "جَدِيدٌ",
+      "english": "New(m)",
+      "russian": "Новый(м.р.)",
+      "voiceKey": "part_1_less_3_words_3027"
+    },
+    {
+      "id": 3028,
+      "wordId": 3028,
+      "arabic": "حُلْوٌ",
+      "english": "Sweet",
+      "russian": "Сладкий",
+      "voiceKey": "part_1_less_3_words_3028"
+    },
+    {
+      "id": 3029,
+      "wordId": 3029,
+      "arabic": "لَذِيذٌ",
+      "english": "Delicious",
+      "russian": "Вкусное",
+      "voiceKey": "part_1_less_3_words_3026"
+    },
+    {
+      "id": 3030,
+      "wordId": 3030,
+      "arabic": "مَرِيضٌ",
+      "english": "Sick",
+      "russian": "Больной",
+      "voiceKey": "part_1_less_3_words_3030"
+    }
+  ],
+  "4": [
+    {
+      "id": 4002,
+      "wordId": 4002,
+      "arabic": "مِنْ",
+      "english": "From",
+      "russian": "Из, с, от",
+      "voiceKey": "part_1_less_4_words_4002"
+    },
+    {
+      "id": 4003,
+      "wordId": 4003,
+      "arabic": "إلَى",
+      "english": "To",
+      "russian": "К, в",
+      "voiceKey": "part_1_less_4_words_4003"
+    },
+    {
+      "id": 4004,
+      "wordId": 4004,
+      "arabic": "عَلَى",
+      "english": "On",
+      "russian": "На",
+      "voiceKey": "part_1_less_4_words_4004"
+    },
+    {
+      "id": 4005,
+      "wordId": 4005,
+      "arabic": "أَيْنَ",
+      "english": "Where",
+      "russian": "Где",
+      "voiceKey": "part_1_less_4_words_4005"
+    },
+    {
+      "id": 4007,
+      "wordId": 4007,
+      "arabic": "هُوَ",
+      "english": "He",
+      "russian": "Он",
+      "voiceKey": "part_1_less_4_words_4007"
+    },
+    {
+      "id": 4008,
+      "wordId": 4008,
+      "arabic": "حَمَّامٌ",
+      "english": "Bathroom",
+      "russian": "Ванна",
+      "voiceKey": "part_1_less_4_words_4008"
+    },
+    {
+      "id": 4009,
+      "wordId": 4009,
+      "arabic": "مَطْبَخٌ",
+      "english": "Kitchen",
+      "russian": "Кухня",
+      "voiceKey": "part_1_less_4_words_4009"
+    },
+    {
+      "id": 4010,
+      "wordId": 4010,
+      "arabic": "هِيَ",
+      "english": "She",
+      "russian": "Она",
+      "voiceKey": "part_1_less_4_words_4010"
+    },
+    {
+      "id": 4011,
+      "wordId": 4011,
+      "arabic": "سَاعَةٌ",
+      "english": "Clock",
+      "russian": "Часы",
+      "voiceKey": "part_1_less_4_words_4011"
+    },
+    {
+      "id": 4012,
+      "wordId": 4012,
+      "arabic": "جَامِعَةٌ",
+      "english": "University",
+      "russian": "Университет",
+      "voiceKey": "part_1_less_4_words_4012"
+    },
+    {
+      "id": 4014,
+      "wordId": 4014,
+      "arabic": "فَصْلٌ",
+      "english": "Classroom",
+      "russian": "Класс",
+      "voiceKey": "part_1_less_4_words_4014"
+    },
+    {
+      "id": 4015,
+      "wordId": 4015,
+      "arabic": "شَمْسٌ",
+      "english": "Sun",
+      "russian": "Солнце",
+      "voiceKey": "part_1_less_4_words_4015"
+    },
+    {
+      "id": 4016,
+      "wordId": 4016,
+      "arabic": "سَمَاءٌ",
+      "english": "Sky",
+      "russian": "Небо",
+      "voiceKey": "part_1_less_4_words_4016"
+    },
+    {
+      "id": 4017,
+      "wordId": 4017,
+      "arabic": "اليَابَان",
+      "english": "Japan",
+      "russian": "Япония",
+      "voiceKey": "part_1_less_4_words_4017"
+    },
+    {
+      "id": 4018,
+      "wordId": 4018,
+      "arabic": "الصِّين",
+      "english": "China",
+      "russian": "Китай",
+      "voiceKey": "part_1_less_4_words_4018"
+    },
+    {
+      "id": 4019,
+      "wordId": 4019,
+      "arabic": "الهِنْد",
+      "english": "India",
+      "russian": "Индия",
+      "voiceKey": "part_1_less_4_words_4019"
+    },
+    {
+      "id": 4020,
+      "wordId": 4020,
+      "arabic": "خَرَجَ",
+      "english": "Came out",
+      "russian": "Вышел",
+      "voiceKey": "part_1_less_4_words_4020"
+    },
+    {
+      "id": 4021,
+      "wordId": 4021,
+      "arabic": "ذَهَبَ",
+      "english": "Went",
+      "russian": "Ушел (направился)",
+      "voiceKey": "part_1_less_4_words_4021"
+    },
+    {
+      "id": 4022,
+      "wordId": 4022,
+      "arabic": "مُدِيرٌ",
+      "english": "Director",
+      "russian": "Директор",
+      "voiceKey": "part_1_less_4_words_4022"
+    },
+    {
+      "id": 4023,
+      "wordId": 4023,
+      "arabic": "مِرْحَاضٌ",
+      "english": "Toilet",
+      "russian": "Уборная (туалет)",
+      "voiceKey": "part_1_less_4_words_4023"
+    },
+    {
+      "id": 4024,
+      "wordId": 4024,
+      "arabic": "فِلِبِّين",
+      "english": "The Philippines",
+      "russian": "Филиппины",
+      "voiceKey": "part_1_less_4_words_4024"
+    },
+    {
+      "id": 4025,
+      "wordId": 4025,
+      "arabic": "رُوسِيَا",
+      "english": "Russia",
+      "russian": "Россия",
+      "voiceKey": "part_1_less_4_words_4025"
+    },
+    {
+      "id": 4026,
+      "wordId": 4026,
+      "arabic": "مَدْرَسَةٌ",
+      "english": "School",
+      "russian": "Школа",
+      "voiceKey": "part_1_less_4_words_4026"
+    },
+    {
+      "id": 4027,
+      "wordId": 4027,
+      "arabic": "ضَيفٌ",
+      "english": "Guest",
+      "russian": "Гость",
+      "voiceKey": "part_1_less_4_words_4027"
+    },
+    {
+      "id": 4028,
+      "wordId": 4028,
+      "arabic": "أَنْتِ",
+      "english": "You(f)",
+      "russian": "Ты(ж.р.)",
+      "voiceKey": "part_1_less_4_words_4028"
+    },
+    {
+      "id": 4029,
+      "wordId": 4029,
+      "arabic": "فِي",
+      "english": "In",
+      "russian": "В",
+      "voiceKey": "part_1_less_4_words_4029"
+    },
+    {
+      "id": 4030,
+      "wordId": 4030,
+      "arabic": "أَنَا",
+      "english": "I am",
+      "russian": "Я",
+      "voiceKey": "part_1_less_4_words_4030"
+    },
+    {
+      "id": 4031,
+      "wordId": 4031,
+      "arabic": "غُرْفَةٌ",
+      "english": "Room",
+      "russian": "Комната",
+      "voiceKey": "part_1_less_4_words_4031"
+    },
+    {
+      "id": 4037,
+      "wordId": 4037,
+      "arabic": "مَاذَا",
+      "english": "What",
+      "russian": "Что",
+      "voiceKey": "part_1_less_4_words_4037"
+    },
+    {
+      "id": 4038,
+      "wordId": 4038,
+      "arabic": "أَنْتَ",
+      "english": "You(m)",
+      "russian": "Ты(м.р.)",
+      "voiceKey": "part_1_less_4_words_4038"
+    },
+    {
+      "id": 4040,
+      "wordId": 4040,
+      "arabic": "سُوقٌ",
+      "english": "Market",
+      "russian": "Рынок",
+      "voiceKey": "part_1_less_4_words_4040"
+    },
+    {
+      "id": 4042,
+      "wordId": 4042,
+      "arabic": "عَمَّارٌ",
+      "english": "Ammar",
+      "russian": "Аммар",
+      "voiceKey": "part_1_less_4_words_4042"
+    },
+    {
+      "id": 4043,
+      "wordId": 4043,
+      "arabic": "عَبَّاسٌ",
+      "english": "Abbas",
+      "russian": "Аббас",
+      "voiceKey": "part_1_less_4_words_4043"
+    },
+    {
+      "id": 4044,
+      "wordId": 4044,
+      "arabic": "عَلِيٌّ",
+      "english": "Ali",
+      "russian": "Али",
+      "voiceKey": "part_1_less_4_words_4044"
+    },
+    {
+      "id": 4045,
+      "wordId": 4045,
+      "arabic": "مُحَمَّدٌ",
+      "english": "Muhammad",
+      "russian": "Мухаммад",
+      "voiceKey": "part_1_less_4_words_4045"
+    },
+    {
+      "id": 4046,
+      "wordId": 4046,
+      "arabic": "حَامِدٌ",
+      "english": "Hamid",
+      "russian": "Хамид",
+      "voiceKey": "part_1_less_4_words_4046"
+    },
+    {
+      "id": 4047,
+      "wordId": 4047,
+      "arabic": "فَاطِمَةُ",
+      "english": "Fatima",
+      "russian": "Фатима",
+      "voiceKey": "part_1_less_4_words_4047"
+    },
+    {
+      "id": 4048,
+      "wordId": 4048,
+      "arabic": "خَدِيجَةُ",
+      "english": "Khadija",
+      "russian": "Хадиджа",
+      "voiceKey": "part_1_less_4_words_4048"
+    },
+    {
+      "id": 4049,
+      "wordId": 4049,
+      "arabic": "خَالِدٌ",
+      "english": "Khalid",
+      "russian": "Халид",
+      "voiceKey": "part_1_less_4_words_4049"
+    },
+    {
+      "id": 4050,
+      "wordId": 4050,
+      "arabic": "يَاسِرٌ",
+      "english": "Yasir",
+      "russian": "Ясир",
+      "voiceKey": "part_1_less_4_words_4050"
+    },
+    {
+      "id": 4051,
+      "wordId": 4051,
+      "arabic": "آمِنَةُ",
+      "english": "Amina",
+      "russian": "Амина",
+      "voiceKey": "part_1_less_4_words_4051"
+    },
+    {
+      "id": 4052,
+      "wordId": 4052,
+      "arabic": "زَينَبُ",
+      "english": "Zainab",
+      "russian": "Зайнаб",
+      "voiceKey": "part_1_less_4_words_4052"
+    }
+  ],
+  "5": [
+    {
+      "id": 5003,
+      "wordId": 5003,
+      "arabic": "رَسُولٌ",
+      "english": "Messenger",
+      "russian": "Посланник",
+      "voiceKey": "part_1_less_5_words_5003"
+    },
+    {
+      "id": 5004,
+      "wordId": 5004,
+      "arabic": "عَمٌّ",
+      "english": "Uncle (by father)",
+      "russian": "Дядя (по отцу)",
+      "voiceKey": "part_1_less_5_words_5004"
+    },
+    {
+      "id": 5005,
+      "wordId": 5005,
+      "arabic": "شَارِعٌ",
+      "english": "Street",
+      "russian": "Улица",
+      "voiceKey": "part_1_less_5_words_5005"
+    },
+    {
+      "id": 5006,
+      "wordId": 5006,
+      "arabic": "مُهَنْدِسٌ",
+      "english": "Engineer",
+      "russian": "Инженер",
+      "voiceKey": "part_1_less_5_words_5006"
+    },
+    {
+      "id": 5007,
+      "wordId": 5007,
+      "arabic": "كَعْبَةٌ",
+      "english": "The Kaaba",
+      "russian": "Кааба",
+      "voiceKey": "part_1_less_5_words_5007"
+    },
+    {
+      "id": 5008,
+      "wordId": 5008,
+      "arabic": "خَالٌ",
+      "english": "Uncle (by mother)",
+      "russian": "Дядя (по матери)",
+      "voiceKey": "part_1_less_5_words_5008"
+    },
+    {
+      "id": 5009,
+      "wordId": 5009,
+      "arabic": "مُغْلَقٌ",
+      "english": "Closed",
+      "russian": "Закрыто",
+      "voiceKey": "part_1_less_5_words_5009"
+    },
+    {
+      "id": 5010,
+      "wordId": 5010,
+      "arabic": "اِسْمٌ",
+      "english": "Name",
+      "russian": "Имя",
+      "voiceKey": "part_1_less_5_words_5010"
+    },
+    {
+      "id": 5011,
+      "wordId": 5011,
+      "arabic": "حَقِيبَةٌ",
+      "english": "Bag",
+      "russian": "Сумка",
+      "voiceKey": "part_1_less_5_words_5011"
+    },
+    {
+      "id": 5012,
+      "wordId": 5012,
+      "arabic": "تَحْتَ",
+      "english": "Under",
+      "russian": "Под",
+      "voiceKey": "part_1_less_5_words_5012"
+    },
+    {
+      "id": 5013,
+      "wordId": 5013,
+      "arabic": "اِبْنٌ",
+      "english": "Son",
+      "russian": "Сын",
+      "voiceKey": "part_1_less_5_words_5013"
+    },
+    {
+      "id": 5014,
+      "wordId": 5014,
+      "arabic": "هُنَاكَ",
+      "english": "There",
+      "russian": "Там",
+      "voiceKey": "part_1_less_5_words_5014"
+    },
+    {
+      "id": 5015,
+      "wordId": 5015,
+      "arabic": "سَيَّارَةٌ",
+      "english": "Car",
+      "russian": "Машина",
+      "voiceKey": "part_1_less_5_words_5015"
+    },
+    {
+      "id": 5016,
+      "wordId": 5016,
+      "arabic": "يَا",
+      "english": "O",
+      "russian": "О",
+      "voiceKey": "part_1_less_5_words_5016"
+    },
+    {
+      "id": 5017,
+      "wordId": 5017,
+      "arabic": "بِنْتٌ",
+      "english": "Daughter",
+      "russian": "Дочь",
+      "voiceKey": "part_1_less_5_words_5017"
+    },
+    {
+      "id": 5018,
+      "wordId": 5018,
+      "arabic": "اَللَّهُ",
+      "english": "Allah",
+      "russian": "Аллах",
+      "voiceKey": "part_1_less_5_words_5018"
+    },
+    {
+      "id": 5020,
+      "wordId": 5020,
+      "arabic": "الْمَدِينَةُ",
+      "english": "Medina",
+      "russian": "Медина",
+      "voiceKey": "part_1_less_5_words_5020"
+    },
+    {
+      "id": 5021,
+      "wordId": 5021,
+      "arabic": "الْمُنَوَّرَةُ",
+      "english": "Blessed",
+      "russian": "Благословенная",
+      "voiceKey": "part_1_less_5_words_5021"
+    },
+    {
+      "id": 5022,
+      "wordId": 5022,
+      "arabic": "سَعِيدٌ",
+      "english": "Said",
+      "russian": "Саид",
+      "voiceKey": "part_1_less_5_words_5022"
+    },
+    {
+      "id": 5023,
+      "wordId": 5023,
+      "arabic": "الْقُرْآنُ",
+      "english": "The Quran",
+      "russian": "Коран",
+      "voiceKey": "part_1_less_5_words_5023"
+    }
+  ],
+  "6": [
+    {
+      "id": 6003,
+      "wordId": 6003,
+      "arabic": "أُخْتٌ",
+      "english": "Sister",
+      "russian": "Сестра",
+      "voiceKey": "part_1_less_6_words_6003"
+    },
+    {
+      "id": 6004,
+      "wordId": 6004,
+      "arabic": "أَيضًا",
+      "english": "Also",
+      "russian": "Тоже",
+      "voiceKey": "part_1_less_6_words_6004"
+    },
+    {
+      "id": 6005,
+      "wordId": 6005,
+      "arabic": "طَبيبَةٌ",
+      "english": "Doctor(f)",
+      "russian": "Врач, доктор(ж.р.)",
+      "voiceKey": "part_1_less_6_words_6005"
+    },
+    {
+      "id": 6006,
+      "wordId": 6006,
+      "arabic": "مِكْوَاةٌ",
+      "english": "Iron",
+      "russian": "Утюг",
+      "voiceKey": "part_1_less_6_words_6006"
+    },
+    {
+      "id": 6007,
+      "wordId": 6007,
+      "arabic": "لِمَنْ",
+      "english": "Whose,",
+      "russian": "Чья, чье, чей, чьи",
+      "voiceKey": "part_1_less_6_words_6007"
+    },
+    {
+      "id": 6008,
+      "wordId": 6008,
+      "arabic": "دَرَّاجَةٌ",
+      "english": "Bicycle",
+      "russian": "Велосипед",
+      "voiceKey": "part_1_less_6_words_6008"
+    },
+    {
+      "id": 6010,
+      "wordId": 6010,
+      "arabic": "قَديمَةٌ",
+      "english": "Old(f)",
+      "russian": "Старая",
+      "voiceKey": "part_1_less_6_words_6010"
+    },
+    {
+      "id": 6011,
+      "wordId": 6011,
+      "arabic": "جَميلَةٌ",
+      "english": "Beautiful(f)",
+      "russian": "Красивая",
+      "voiceKey": "part_1_less_6_words_6011"
+    },
+    {
+      "id": 6012,
+      "wordId": 6012,
+      "arabic": "جِدًّا",
+      "english": "Very",
+      "russian": "Очень",
+      "voiceKey": "part_1_less_6_words_6012"
+    },
+    {
+      "id": 6013,
+      "wordId": 6013,
+      "arabic": "مِلْعَقَةٌ",
+      "english": "Spoon",
+      "russian": "Ложка",
+      "voiceKey": "part_1_less_6_words_6013"
+    },
+    {
+      "id": 6014,
+      "wordId": 6014,
+      "arabic": "قِدْرٌ",
+      "english": "Saucepan",
+      "russian": "Кастрюля",
+      "voiceKey": "part_1_less_6_words_6014"
+    },
+    {
+      "id": 6015,
+      "wordId": 6015,
+      "arabic": "بَقَرَةٌ",
+      "english": "Cow",
+      "russian": "Корова",
+      "voiceKey": "part_1_less_6_words_6015"
+    },
+    {
+      "id": 6016,
+      "wordId": 6016,
+      "arabic": "فَلَّاحٌ",
+      "english": "Farmer",
+      "russian": "Фермер",
+      "voiceKey": "part_1_less_6_words_6016"
+    },
+    {
+      "id": 6017,
+      "wordId": 6017,
+      "arabic": "أَنْفٌ",
+      "english": "Nose",
+      "russian": "Нос",
+      "voiceKey": "part_1_less_6_words_6017"
+    },
+    {
+      "id": 6018,
+      "wordId": 6018,
+      "arabic": "أُذُنٌ",
+      "english": "Ear",
+      "russian": "Ухо",
+      "voiceKey": "part_1_less_6_words_6018"
+    },
+    {
+      "id": 6019,
+      "wordId": 6019,
+      "arabic": "رِجْلٌ",
+      "english": "Leg",
+      "russian": "Нога",
+      "voiceKey": "part_1_less_6_words_6019"
+    },
+    {
+      "id": 6020,
+      "wordId": 6020,
+      "arabic": "دَجَاجَةٌ",
+      "english": "Hen",
+      "russian": "Курица",
+      "voiceKey": "part_1_less_6_words_6020"
+    },
+    {
+      "id": 6021,
+      "wordId": 6021,
+      "arabic": "مُسْلِمٌ",
+      "english": "Muslim(m)",
+      "russian": "Мусульманин",
+      "voiceKey": "part_1_less_6_words_6021"
+    },
+    {
+      "id": 6022,
+      "wordId": 6022,
+      "arabic": "مُسْلِمةٌ",
+      "english": "Muslim(f)",
+      "russian": "Мусульманка",
+      "voiceKey": "part_1_less_6_words_6022"
+    },
+    {
+      "id": 6023,
+      "wordId": 6023,
+      "arabic": "ثَلَّاجَةٌ",
+      "english": "Fridge",
+      "russian": "Холодильник",
+      "voiceKey": "part_1_less_6_words_6023"
+    },
+    {
+      "id": 6024,
+      "wordId": 6024,
+      "arabic": "نَافِذَةٌ",
+      "english": "Window",
+      "russian": "Окно",
+      "voiceKey": "part_1_less_6_words_6024"
+    },
+    {
+      "id": 6025,
+      "wordId": 6025,
+      "arabic": "شَايٌّ",
+      "english": "Tea",
+      "russian": "Чай",
+      "voiceKey": "part_1_less_6_words_6025"
+    },
+    {
+      "id": 6026,
+      "wordId": 6026,
+      "arabic": "أُمٌّ",
+      "english": "Mother",
+      "russian": "Мать, мама",
+      "voiceKey": "part_1_less_6_words_6026"
+    },
+    {
+      "id": 6027,
+      "wordId": 6027,
+      "arabic": "قَهْوَةٌ",
+      "english": "Coffee",
+      "russian": "Кофе",
+      "voiceKey": "part_1_less_6_words_6027"
+    },
+    {
+      "id": 6028,
+      "wordId": 6028,
+      "arabic": "سَرِيعٌ",
+      "english": "Fast",
+      "russian": "Быстрый",
+      "voiceKey": "part_1_less_6_words_6028"
+    },
+    {
+      "id": 6029,
+      "wordId": 6029,
+      "arabic": "يَدٌ",
+      "english": "Hand",
+      "russian": "Рука",
+      "voiceKey": "part_1_less_6_words_6029"
+    },
+    {
+      "id": 6030,
+      "wordId": 6030,
+      "arabic": "فَمٌ",
+      "english": "Mouth",
+      "russian": "Рот",
+      "voiceKey": "part_1_less_6_words_6030"
+    },
+    {
+      "id": 6031,
+      "wordId": 6031,
+      "arabic": "هَذِهِ",
+      "english": "This(f)",
+      "russian": "Это(а) (ж.р.)",
+      "voiceKey": "part_1_less_6_words_6031"
+    },
+    {
+      "id": 6032,
+      "wordId": 6032,
+      "arabic": "أنَسٌ",
+      "english": "Anas",
+      "russian": "Анас",
+      "voiceKey": "part_1_less_6_words_6032"
+    },
+    {
+      "id": 6033,
+      "wordId": 6033,
+      "arabic": "سَاعَاتٌ",
+      "english": "Clocks",
+      "russian": "Часы(мн.ч.)",
+      "voiceKey": "part_1_less_6_words_6033"
+    },
+    {
+      "id": 6034,
+      "wordId": 6034,
+      "arabic": "عَيْنٌ",
+      "english": "Eye",
+      "russian": "Глаз",
+      "voiceKey": "part_1_less_6_words_6034"
+    },
+    {
+      "id": 6035,
+      "wordId": 6035,
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "english": "Praise be to Allah",
+      "russian": "Хвала Аллаху",
+      "voiceKey": "part_1_less_6_words_6035"
+    },
+    {
+      "id": 6036,
+      "wordId": 6036,
+      "arabic": "مَشْرِقٌ",
+      "english": "East",
+      "russian": "Восток",
+      "voiceKey": "part_1_less_6_words_6036"
+    },
+    {
+      "id": 6037,
+      "wordId": 6037,
+      "arabic": "مَغْرِبٌ",
+      "english": "West",
+      "russian": "Запад",
+      "voiceKey": "part_1_less_6_words_6037"
+    }
+  ],
+  "7": [
+    {
+      "id": 7002,
+      "wordId": 7002,
+      "arabic": "مُمَرِّضَةٌ",
+      "english": "Nurse",
+      "russian": "Медсестра",
+      "voiceKey": "part_1_less_7_words_7002"
+    },
+    {
+      "id": 7003,
+      "wordId": 7003,
+      "arabic": "طَويلَةٌ",
+      "english": "Tall(f)",
+      "russian": "Высокая",
+      "voiceKey": "part_1_less_7_words_7003"
+    },
+    {
+      "id": 7004,
+      "wordId": 7004,
+      "arabic": "قَصيرَةٌ",
+      "english": "Short(f)",
+      "russian": "Низкая",
+      "voiceKey": "part_1_less_7_words_7004"
+    },
+    {
+      "id": 7005,
+      "wordId": 7005,
+      "arabic": "بَطَّةٌ",
+      "english": "Duck",
+      "russian": "Утка",
+      "voiceKey": "part_1_less_7_words_7005"
+    },
+    {
+      "id": 7006,
+      "wordId": 7006,
+      "arabic": "بَيضَةٌ",
+      "english": "Egg",
+      "russian": "Яйцо",
+      "voiceKey": "part_1_less_7_words_7006"
+    },
+    {
+      "id": 7007,
+      "wordId": 7007,
+      "arabic": "ناقَةٌ",
+      "english": "Camel(f)",
+      "russian": "Верблюдица",
+      "voiceKey": "part_1_less_7_words_7007"
+    },
+    {
+      "id": 7008,
+      "wordId": 7008,
+      "arabic": "طالِبَةٌ",
+      "english": "Student(f)",
+      "russian": "Студентка",
+      "voiceKey": "part_1_less_7_words_7008"
+    },
+    {
+      "id": 7009,
+      "wordId": 7009,
+      "arabic": "مُؤَذِّنٌ",
+      "english": "Muaddzin (Man calling to prayer)",
+      "russian": "Муаззин (Человек призывающий к молитве)",
+      "voiceKey": "part_1_less_7_words_7009"
+    },
+    {
+      "id": 7010,
+      "wordId": 7010,
+      "arabic": "حَدِيقَةٌ",
+      "english": "Park (garden)",
+      "russian": "Парк (сад)",
+      "voiceKey": "part_1_less_7_words_7010"
+    },
+    {
+      "id": 7011,
+      "wordId": 7011,
+      "arabic": "تِلْكَ",
+      "english": "That(f)",
+      "russian": "Вон та",
+      "voiceKey": "part_1_less_7_words_7011"
+    },
+    {
+      "id": 7012,
+      "wordId": 7012,
+      "arabic": "طَوِيلَةٌ",
+      "english": "Long",
+      "russian": "Длинная",
+      "voiceKey": "part_1_less_7_words_7012"
+    },
+    {
+      "id": 7013,
+      "wordId": 7013,
+      "arabic": "قَصِيرَةٌ",
+      "english": "Short",
+      "russian": "Короткая",
+      "voiceKey": "part_1_less_7_words_7013"
+    }
+  ],
+  "8": [
+    {
+      "id": 8002,
+      "wordId": 8002,
+      "arabic": "أَمَامَ",
+      "english": "Before, in front of",
+      "russian": "Перед",
+      "voiceKey": "part_1_less_8_words_8002"
+    },
+    {
+      "id": 8003,
+      "wordId": 8003,
+      "arabic": "خَلْفَ",
+      "english": "Behind",
+      "russian": "За",
+      "voiceKey": "part_1_less_8_words_8003"
+    },
+    {
+      "id": 8004,
+      "wordId": 8004,
+      "arabic": "أَمْريكَا",
+      "english": "America",
+      "russian": "Америка",
+      "voiceKey": "part_1_less_8_words_8004"
+    },
+    {
+      "id": 8005,
+      "wordId": 8005,
+      "arabic": "سِكّينٌ",
+      "english": "Knife",
+      "russian": "Нож",
+      "voiceKey": "part_1_less_8_words_8005"
+    },
+    {
+      "id": 8006,
+      "wordId": 8006,
+      "arabic": "أَلْمَانِيَا",
+      "english": "Germany",
+      "russian": "Германия",
+      "voiceKey": "part_1_less_8_words_8006"
+    },
+    {
+      "id": 8007,
+      "wordId": 8007,
+      "arabic": "إِنْكَلْتَرّا",
+      "english": "England",
+      "russian": "Англия",
+      "voiceKey": "part_1_less_8_words_8007"
+    },
+    {
+      "id": 8008,
+      "wordId": 8008,
+      "arabic": "سُوِيسْرا",
+      "english": "Switzerland",
+      "russian": "Швейцария",
+      "voiceKey": "part_1_less_8_words_8008"
+    },
+    {
+      "id": 8009,
+      "wordId": 8009,
+      "arabic": "المُسْتَشْفى",
+      "english": "The hospital",
+      "russian": "Больница",
+      "voiceKey": "part_1_less_8_words_8009"
+    },
+    {
+      "id": 8010,
+      "wordId": 8010,
+      "arabic": "فَرَنْسَا",
+      "english": "France",
+      "russian": "Франция",
+      "voiceKey": "part_1_less_8_words_8010"
+    },
+    {
+      "id": 8011,
+      "wordId": 8011,
+      "arabic": "اَلآنَ",
+      "english": "Now",
+      "russian": "Сейчас",
+      "voiceKey": "part_1_less_8_words_8011"
+    },
+    {
+      "id": 8012,
+      "wordId": 8012,
+      "arabic": "سَبُورَةٌ",
+      "english": "Board",
+      "russian": "Доска",
+      "voiceKey": "part_1_less_8_words_8012"
+    },
+    {
+      "id": 8013,
+      "wordId": 8013,
+      "arabic": "إِمَامٌ",
+      "english": "Imam",
+      "russian": "Имам",
+      "voiceKey": "part_1_less_8_words_8013"
+    },
+    {
+      "id": 8014,
+      "wordId": 8014,
+      "arabic": "جَلَسَ",
+      "english": "Sat down(m)",
+      "russian": "Сел",
+      "voiceKey": "part_1_less_8_words_8014"
+    },
+    {
+      "id": 8015,
+      "wordId": 8015,
+      "arabic": "مَحْمُودٌ",
+      "english": "Mahmoud",
+      "russian": "Махмуд",
+      "voiceKey": "part_1_less_8_words_8015"
+    },
+    {
+      "id": 8016,
+      "wordId": 8016,
+      "arabic": "عِيسَى",
+      "english": "Isa",
+      "russian": "Иса",
+      "voiceKey": "part_1_less_8_words_8016"
+    },
+    {
+      "id": 8017,
+      "wordId": 8017,
+      "arabic": "مُوسَى",
+      "english": "Musa",
+      "russian": "Муса",
+      "voiceKey": "part_1_less_8_words_8017"
+    }
+  ],
+  "9": [
+    {
+      "id": 9003,
+      "wordId": 9003,
+      "arabic": "فاكِهَةٌ",
+      "english": "Fruit",
+      "russian": "Фрукт",
+      "voiceKey": "part_1_less_9_words_9003"
+    },
+    {
+      "id": 9005,
+      "wordId": 9005,
+      "arabic": "عُصْفورٌ",
+      "english": "Sparrow",
+      "russian": "Воробей",
+      "voiceKey": "part_1_less_9_words_9005"
+    },
+    {
+      "id": 9006,
+      "wordId": 9006,
+      "arabic": "طائِرٌ",
+      "english": "Bird",
+      "russian": "Птица",
+      "voiceKey": "part_1_less_9_words_9006"
+    },
+    {
+      "id": 9007,
+      "wordId": 9007,
+      "arabic": "عَرَبِيَّةٌ",
+      "english": "Arabic",
+      "russian": "Арабский",
+      "voiceKey": "part_1_less_9_words_9007"
+    },
+    {
+      "id": 9008,
+      "wordId": 9008,
+      "arabic": "لُغَةٌ",
+      "english": "Language",
+      "russian": "Язык",
+      "voiceKey": "part_1_less_9_words_9008"
+    },
+    {
+      "id": 9009,
+      "wordId": 9009,
+      "arabic": "سَهْلَةٌ",
+      "english": "Easy(f)",
+      "russian": "Легкая",
+      "voiceKey": "part_1_less_9_words_9009"
+    },
+    {
+      "id": 9010,
+      "wordId": 9010,
+      "arabic": "مُجْتَهِدٌ",
+      "english": "Hard-working",
+      "russian": "Старательный",
+      "voiceKey": "part_1_less_9_words_9010"
+    },
+    {
+      "id": 9011,
+      "wordId": 9011,
+      "arabic": "كَسْلانُ",
+      "english": "Lazy",
+      "russian": "Ленивый",
+      "voiceKey": "part_1_less_9_words_9011"
+    },
+    {
+      "id": 9012,
+      "wordId": 9012,
+      "arabic": "دَرْسٌ",
+      "english": "Lesson",
+      "russian": "Урок",
+      "voiceKey": "part_1_less_9_words_9012"
+    },
+    {
+      "id": 9013,
+      "wordId": 9013,
+      "arabic": "شَهِيرٌ",
+      "english": "Famous",
+      "russian": "Известный",
+      "voiceKey": "part_1_less_9_words_9013"
+    },
+    {
+      "id": 9014,
+      "wordId": 9014,
+      "arabic": "صَعْبَةٌ",
+      "english": "Difficult(f)",
+      "russian": "Сложная",
+      "voiceKey": "part_1_less_9_words_9014"
+    },
+    {
+      "id": 9015,
+      "wordId": 9015,
+      "arabic": "القَاهِرَةُ",
+      "english": "Cairo",
+      "russian": "Каир",
+      "voiceKey": "part_1_less_9_words_9015"
+    },
+    {
+      "id": 9016,
+      "wordId": 9016,
+      "arabic": "مَدينَةٌ",
+      "english": "City",
+      "russian": "Город",
+      "voiceKey": "part_1_less_9_words_9016"
+    },
+    {
+      "id": 9017,
+      "wordId": 9017,
+      "arabic": "إِنْكليزِيَّةٌ",
+      "english": "English",
+      "russian": "Английский",
+      "voiceKey": "part_1_less_9_words_9017"
+    },
+    {
+      "id": 9018,
+      "wordId": 9018,
+      "arabic": "جَوْعانُ",
+      "english": "Hungry",
+      "russian": "Голодный",
+      "voiceKey": "part_1_less_9_words_9018"
+    },
+    {
+      "id": 9019,
+      "wordId": 9019,
+      "arabic": "عَطْشَانُ",
+      "english": "Thirsty",
+      "russian": "Жаждущий",
+      "voiceKey": "part_1_less_9_words_9019"
+    },
+    {
+      "id": 9020,
+      "wordId": 9020,
+      "arabic": "غَضْبَانُ",
+      "english": "Angry",
+      "russian": "Гневный",
+      "voiceKey": "part_1_less_9_words_9020"
+    },
+    {
+      "id": 9021,
+      "wordId": 9021,
+      "arabic": "مَلْآنُ",
+      "english": "Full",
+      "russian": "Переполненный",
+      "voiceKey": "part_1_less_9_words_9021"
+    },
+    {
+      "id": 9022,
+      "wordId": 9022,
+      "arabic": "اَلْيَوْمَ",
+      "english": "Today",
+      "russian": "Сегодня",
+      "voiceKey": "part_1_less_9_words_9022"
+    },
+    {
+      "id": 9023,
+      "wordId": 9023,
+      "arabic": "كُوبٌ",
+      "english": "Cup",
+      "russian": "Стакан",
+      "voiceKey": "part_1_less_9_words_9023"
+    },
+    {
+      "id": 9025,
+      "wordId": 9025,
+      "arabic": "صَعْبٌ",
+      "english": "Difficult",
+      "russian": "Сложный",
+      "voiceKey": "part_1_less_9_words_9025"
+    },
+    {
+      "id": 9027,
+      "wordId": 9027,
+      "arabic": "الَّذِي",
+      "english": "Which(m)",
+      "russian": "Который(м.р)",
+      "voiceKey": "part_1_less_9_words_9027"
+    },
+    {
+      "id": 9028,
+      "wordId": 9028,
+      "arabic": "مِرْوَحَةٌ",
+      "english": "Fan",
+      "russian": "Вентилятор",
+      "voiceKey": "part_1_less_9_words_9028"
+    },
+    {
+      "id": 9029,
+      "wordId": 9029,
+      "arabic": "مَدْرَسَةٌ ثانَوِيَّةٌ",
+      "english": "High school",
+      "russian": "Старшая школа",
+      "voiceKey": "part_1_less_9_words_9029"
+    },
+    {
+      "id": 9030,
+      "wordId": 9030,
+      "arabic": "حَادٌّ",
+      "english": "Sharp",
+      "russian": "Острый",
+      "voiceKey": "part_1_less_9_words_9030"
+    },
+    {
+      "id": 9031,
+      "wordId": 9031,
+      "arabic": "إِنْدُونيسِيَا",
+      "english": "Indonesia",
+      "russian": "Индонезия",
+      "voiceKey": "part_1_less_9_words_9031"
+    },
+    {
+      "id": 9032,
+      "wordId": 9032,
+      "arabic": "وَزِيرٌ",
+      "english": "Minister",
+      "russian": "Министр",
+      "voiceKey": "part_1_less_9_words_9032"
+    },
+    {
+      "id": 9033,
+      "wordId": 9033,
+      "arabic": "مُسْتَوصَفٌ",
+      "english": "Dispensary",
+      "russian": "Клиника",
+      "voiceKey": "part_1_less_9_words_9033"
+    },
+    {
+      "id": 9034,
+      "wordId": 9034,
+      "arabic": "عِنْدَ",
+      "english": "With, near",
+      "russian": "У меня (него, нее для разумного)",
+      "voiceKey": "part_1_less_9_words_9034"
+    },
+    {
+      "id": 9035,
+      "wordId": 9035,
+      "arabic": "يَوْمٌ",
+      "english": "Day",
+      "russian": "День",
+      "voiceKey": "part_1_less_9_words_9035"
+    }
+  ],
+  "10": [
+    {
+      "id": 10002,
+      "wordId": 10002,
+      "arabic": "اِسْمُكَ",
+      "english": "Your name(m)",
+      "russian": "Твое имя(м.р.)",
+      "voiceKey": "part_1_less_10_words_10002"
+    },
+    {
+      "id": 10003,
+      "wordId": 10003,
+      "arabic": "كَ",
+      "english": "Your(m)",
+      "russian": "Твое(м.р.) [-я, -й]",
+      "voiceKey": "part_1_less_10_words_10003"
+    },
+    {
+      "id": 10004,
+      "wordId": 10004,
+      "arabic": "ي",
+      "english": "My",
+      "russian": "Мой [-я, -е]",
+      "voiceKey": "part_1_less_10_words_10004"
+    },
+    {
+      "id": 10005,
+      "wordId": 10005,
+      "arabic": "فَتىً",
+      "english": "Young boy",
+      "russian": "Юноша, мальчик",
+      "voiceKey": "part_1_less_10_words_10005"
+    },
+    {
+      "id": 10006,
+      "wordId": 10006,
+      "arabic": "مَعَ",
+      "english": "With",
+      "russian": "С, вместе с...",
+      "voiceKey": "part_1_less_10_words_10006"
+    },
+    {
+      "id": 10007,
+      "wordId": 10007,
+      "arabic": "هُ",
+      "english": "His",
+      "russian": "Его(м.р)",
+      "voiceKey": "part_1_less_10_words_10007"
+    },
+    {
+      "id": 10008,
+      "wordId": 10008,
+      "arabic": "أُرْدِيَّةٌ",
+      "english": "Urdu",
+      "russian": "Урду",
+      "voiceKey": "part_1_less_10_words_10008"
+    },
+    {
+      "id": 10009,
+      "wordId": 10009,
+      "arabic": "يَابَانِيَّةُ",
+      "english": "Japanese",
+      "russian": "Японская",
+      "voiceKey": "part_1_less_10_words_10009"
+    },
+    {
+      "id": 10010,
+      "wordId": 10010,
+      "arabic": "كُوَيتُ",
+      "english": "Kuwait",
+      "russian": "Кувейт",
+      "voiceKey": "part_1_less_10_words_10010"
+    },
+    {
+      "id": 10011,
+      "wordId": 10011,
+      "arabic": "ذَهَبْتَ",
+      "english": "Did you go",
+      "russian": "Ты ходил",
+      "voiceKey": "part_1_less_10_words_10011"
+    },
+    {
+      "id": 10012,
+      "wordId": 10012,
+      "arabic": "ذَهَبْتُ",
+      "english": "I went",
+      "russian": "Я ходил",
+      "voiceKey": "part_1_less_10_words_10012"
+    },
+    {
+      "id": 10013,
+      "wordId": 10013,
+      "arabic": "واحِدٌ",
+      "english": "One",
+      "russian": "Один",
+      "voiceKey": "part_1_less_10_words_10013"
+    },
+    {
+      "id": 10014,
+      "wordId": 10014,
+      "arabic": "هُنَا",
+      "english": "Here",
+      "russian": "Здесь",
+      "voiceKey": "part_1_less_10_words_10014"
+    },
+    {
+      "id": 10015,
+      "wordId": 10015,
+      "arabic": "واحِدَةٌ",
+      "english": "One(f)",
+      "russian": "Одна",
+      "voiceKey": "part_1_less_10_words_10015"
+    },
+    {
+      "id": 10016,
+      "wordId": 10016,
+      "arabic": "هَا",
+      "english": "Her",
+      "russian": "Ее(ж.р)",
+      "voiceKey": "part_1_less_10_words_10016"
+    },
+    {
+      "id": 10017,
+      "wordId": 10017,
+      "arabic": "ماعِنْدِ",
+      "english": "No, I don't have",
+      "russian": "У меня [него, нее...] нет (для неразумного)",
+      "voiceKey": "part_1_less_10_words_10017"
+    },
+    {
+      "id": 10018,
+      "wordId": 10018,
+      "arabic": "زَمِيلٌ",
+      "english": "Classmate",
+      "russian": "Коллега, одногруппник",
+      "voiceKey": "part_1_less_10_words_10018"
+    },
+    {
+      "id": 10019,
+      "wordId": 10019,
+      "arabic": "رِياضُ",
+      "english": "Riyadh",
+      "russian": "Рияд",
+      "voiceKey": "part_1_less_10_words_10019"
+    },
+    {
+      "id": 10020,
+      "wordId": 10020,
+      "arabic": "طَائِفُ",
+      "english": "At-Taif",
+      "russian": "Эт-Таиф",
+      "voiceKey": "part_1_less_10_words_10020"
+    },
+    {
+      "id": 10021,
+      "wordId": 10021,
+      "arabic": "طِفْلٌ",
+      "english": "Child",
+      "russian": "Ребенок",
+      "voiceKey": "part_1_less_10_words_10021"
+    }
+  ],
+  "11": [
+    {
+      "id": 11002,
+      "wordId": 11002,
+      "arabic": "فِيهِ",
+      "english": "In it(m)",
+      "russian": "В нем(м.р)",
+      "voiceKey": "part_1_less_11_words_11002"
+    },
+    {
+      "id": 11003,
+      "wordId": 11003,
+      "arabic": "فِيهَا",
+      "english": "In it(f)",
+      "russian": "В ней(ж.р)",
+      "voiceKey": "part_1_less_11_words_11003"
+    },
+    {
+      "id": 11004,
+      "wordId": 11004,
+      "arabic": "أُحِبُّ",
+      "english": "I like, I love",
+      "russian": "Я люблю",
+      "voiceKey": "part_1_less_11_words_11004"
+    },
+    {
+      "id": 11005,
+      "wordId": 11005,
+      "arabic": "أُسْتَاذٌ",
+      "english": "Teacher",
+      "russian": "Учитель",
+      "voiceKey": "part_1_less_11_words_11005"
+    },
+    {
+      "id": 11007,
+      "wordId": 11007,
+      "arabic": "نَبِيٌّ",
+      "english": "Prophet",
+      "russian": "Пророк",
+      "voiceKey": "part_1_less_11_words_11007"
+    }
+  ],
+  "12": [
+    {
+      "id": 12002,
+      "wordId": 12002,
+      "arabic": "كَيْفَ",
+      "english": "How",
+      "russian": "Как",
+      "voiceKey": "part_1_less_12_words_12002"
+    },
+    {
+      "id": 12003,
+      "wordId": 12003,
+      "arabic": "حَالٌ",
+      "english": "State",
+      "russian": "Дела, состояние",
+      "voiceKey": "part_1_less_12_words_12003"
+    },
+    {
+      "id": 12004,
+      "wordId": 12004,
+      "arabic": "بِخَيْرٍ",
+      "english": "Fine",
+      "russian": "С благом, хорошо",
+      "voiceKey": "part_1_less_12_words_12004"
+    },
+    {
+      "id": 12006,
+      "wordId": 12006,
+      "arabic": "مُوَجِهٌ",
+      "english": "Supervisor",
+      "russian": "Управляющий",
+      "voiceKey": "part_1_less_12_words_12006"
+    },
+    {
+      "id": 12007,
+      "wordId": 12007,
+      "arabic": "مُسْتَشْفَى الوِلَدَةِ",
+      "english": "Maternity Hospital",
+      "russian": "Родильный дом, роддом",
+      "voiceKey": "part_1_less_12_words_12007"
+    },
+    {
+      "id": 12008,
+      "wordId": 12008,
+      "arabic": "فَتاةٌ",
+      "english": "Young lady",
+      "russian": "Девушка",
+      "voiceKey": "part_1_less_12_words_12008"
+    },
+    {
+      "id": 12009,
+      "wordId": 12009,
+      "arabic": "الَّتِي",
+      "english": "Who, that, which(f)",
+      "russian": "Которая(ж.р.)",
+      "voiceKey": "part_1_less_12_words_12009"
+    },
+    {
+      "id": 12010,
+      "wordId": 12010,
+      "arabic": "الَّذِي",
+      "english": "Who, that, which(m)",
+      "russian": "Который(м.р.)",
+      "voiceKey": "part_1_less_12_words_12010"
+    },
+    {
+      "id": 12011,
+      "wordId": 12011,
+      "arabic": "مَدْرَسَةٌ مُتَوَسِّطَةٌ",
+      "english": "Middle school",
+      "russian": "Средняя школа",
+      "voiceKey": "part_1_less_12_words_12011"
+    },
+    {
+      "id": 12012,
+      "wordId": 12012,
+      "arabic": "ذَهَبَتْ",
+      "english": "She went",
+      "russian": "Она ушла",
+      "voiceKey": "part_1_less_12_words_12012"
+    },
+    {
+      "id": 12013,
+      "wordId": 12013,
+      "arabic": "خَرَجَتْ",
+      "english": "She came out",
+      "russian": "Она вышла",
+      "voiceKey": "part_1_less_12_words_12013"
+    },
+    {
+      "id": 12014,
+      "wordId": 12014,
+      "arabic": "خالَةٌ",
+      "english": "Maternal aunt",
+      "russian": "Тетя по матери",
+      "voiceKey": "part_1_less_12_words_12014"
+    },
+    {
+      "id": 12015,
+      "wordId": 12015,
+      "arabic": "عَمَّةٌ",
+      "english": "Paternal aunt",
+      "russian": "Тетя по отцу",
+      "voiceKey": "part_1_less_12_words_12015"
+    },
+    {
+      "id": 12016,
+      "wordId": 12016,
+      "arabic": "شَجَرَةٌ",
+      "english": "Tree",
+      "russian": "Дерево",
+      "voiceKey": "part_1_less_12_words_12016"
+    },
+    {
+      "id": 12017,
+      "wordId": 12017,
+      "arabic": "مَاليزِيَا",
+      "english": "Malaysia",
+      "russian": "Малайзия",
+      "voiceKey": "part_1_less_12_words_12017"
+    },
+    {
+      "id": 12018,
+      "wordId": 12018,
+      "arabic": "صَدِيقَةٌ",
+      "english": "Friend(f)",
+      "russian": "Подруга",
+      "voiceKey": "part_1_less_12_words_12018"
+    },
+    {
+      "id": 12019,
+      "wordId": 12019,
+      "arabic": "بَعْدَ",
+      "english": "After",
+      "russian": "После",
+      "voiceKey": "part_1_less_12_words_12019"
+    }
+  ],
+  "13": [
+    {
+      "id": 13002,
+      "wordId": 13002,
+      "arabic": "هَؤُلاءِ",
+      "english": "These",
+      "russian": "Эти",
+      "voiceKey": "part_1_less_13_words_13002"
+    },
+    {
+      "id": 13003,
+      "wordId": 13003,
+      "arabic": "فِتْيَةٌ",
+      "english": "Young men",
+      "russian": "Юноши",
+      "voiceKey": "part_1_less_13_words_13003"
+    },
+    {
+      "id": 13004,
+      "wordId": 13004,
+      "arabic": "طِوَالٌ",
+      "english": "Tall(pl)",
+      "russian": "Высокие",
+      "voiceKey": "part_1_less_13_words_13004"
+    },
+    {
+      "id": 13005,
+      "wordId": 13005,
+      "arabic": "هُمْ",
+      "english": "They(m)",
+      "russian": "Они(м.р.)",
+      "voiceKey": "part_1_less_13_words_13005"
+    },
+    {
+      "id": 13006,
+      "wordId": 13006,
+      "arabic": "طُلّابٌ",
+      "english": "Students",
+      "russian": "Студенты",
+      "voiceKey": "part_1_less_13_words_13006"
+    },
+    {
+      "id": 13007,
+      "wordId": 13007,
+      "arabic": "جُدُدٌ",
+      "english": "New(m,pl)",
+      "russian": "Новые(м.р.)",
+      "voiceKey": "part_1_less_13_words_13007"
+    },
+    {
+      "id": 13008,
+      "wordId": 13008,
+      "arabic": "زُمَلاءُ",
+      "english": "Classmates(m)",
+      "russian": "Коллеги, одногруппники(м.р.)",
+      "voiceKey": "part_1_less_13_words_13008"
+    },
+    {
+      "id": 13009,
+      "wordId": 13009,
+      "arabic": "مُجْتَهِدُونَ",
+      "english": "Diligent(m,pl)",
+      "russian": "Старательные(м.р.)",
+      "voiceKey": "part_1_less_13_words_13009"
+    },
+    {
+      "id": 13011,
+      "wordId": 13011,
+      "arabic": "رِجَالٌ",
+      "english": "Men",
+      "russian": "Мужчины",
+      "voiceKey": "part_1_less_13_words_13011"
+    },
+    {
+      "id": 13012,
+      "wordId": 13012,
+      "arabic": "قِصَارٌ",
+      "english": "Low/short(m,pl)",
+      "russian": "Низкие(м.р.)",
+      "voiceKey": "part_1_less_13_words_13012"
+    },
+    {
+      "id": 13013,
+      "wordId": 13013,
+      "arabic": "حُجّاجٌ",
+      "english": "Pilgrims",
+      "russian": "Паломники",
+      "voiceKey": "part_1_less_13_words_13013"
+    },
+    {
+      "id": 13014,
+      "wordId": 13014,
+      "arabic": "بَعْضُهُمْ",
+      "english": "Some of them",
+      "russian": "Некоторые из них",
+      "voiceKey": "part_1_less_13_words_13014"
+    },
+    {
+      "id": 13015,
+      "wordId": 13015,
+      "arabic": "أَصْدِقاءُ",
+      "english": "Friends",
+      "russian": "Друзья",
+      "voiceKey": "part_1_less_13_words_13015"
+    },
+    {
+      "id": 13016,
+      "wordId": 13016,
+      "arabic": "ذَهَبُوا",
+      "english": "They have gone(m)",
+      "russian": "Они ушли(м.р.)",
+      "voiceKey": "part_1_less_13_words_13016"
+    },
+    {
+      "id": 13017,
+      "wordId": 13017,
+      "arabic": "خَرَجُوا",
+      "english": "They went out(m)",
+      "russian": "Они вышли(м.р.)",
+      "voiceKey": "part_1_less_13_words_13017"
+    },
+    {
+      "id": 13018,
+      "wordId": 13018,
+      "arabic": "مَطْعَمٌ",
+      "english": "Restaurant",
+      "russian": "Столовая",
+      "voiceKey": "part_1_less_13_words_13018"
+    },
+    {
+      "id": 13019,
+      "wordId": 13019,
+      "arabic": "تُجارٌ",
+      "english": "Merchants",
+      "russian": "Торговцы",
+      "voiceKey": "part_1_less_13_words_13019"
+    },
+    {
+      "id": 13020,
+      "wordId": 13020,
+      "arabic": "كِبَارٌ",
+      "english": "Large(pl)",
+      "russian": "Большие",
+      "voiceKey": "part_1_less_13_words_13020"
+    },
+    {
+      "id": 13021,
+      "wordId": 13021,
+      "arabic": "صِغارٌ",
+      "english": "Small(pl)",
+      "russian": "Маленькие",
+      "voiceKey": "part_1_less_13_words_13021"
+    },
+    {
+      "id": 13022,
+      "wordId": 13022,
+      "arabic": "أَوْلادٌ",
+      "english": "Children(pl)",
+      "russian": "Дети",
+      "voiceKey": "part_1_less_13_words_13022"
+    },
+    {
+      "id": 13023,
+      "wordId": 13023,
+      "arabic": "أَبْناءٌ",
+      "english": "Sons",
+      "russian": "Сыновья",
+      "voiceKey": "part_1_less_13_words_13023"
+    },
+    {
+      "id": 13024,
+      "wordId": 13024,
+      "arabic": "أَعْمامٌ",
+      "english": "Paternal uncles",
+      "russian": "Дяди по отцу",
+      "voiceKey": "part_1_less_13_words_13024"
+    },
+    {
+      "id": 13025,
+      "wordId": 13025,
+      "arabic": "شُيوخٌ",
+      "english": "Old people (sheikhs, pl)",
+      "russian": "Старики (шейхи)",
+      "voiceKey": "part_1_less_13_words_13025"
+    },
+    {
+      "id": 13026,
+      "wordId": 13026,
+      "arabic": "ضُيُوفٌ",
+      "english": "Guests",
+      "russian": "Гости",
+      "voiceKey": "part_1_less_13_words_13026"
+    },
+    {
+      "id": 13027,
+      "wordId": 13027,
+      "arabic": "فُقَراءُ",
+      "english": "Poor(pl)",
+      "russian": "Бедные",
+      "voiceKey": "part_1_less_13_words_13027"
+    },
+    {
+      "id": 13028,
+      "wordId": 13028,
+      "arabic": "أَغْنِياءُ",
+      "english": "Rich(pl)",
+      "russian": "Богатые",
+      "voiceKey": "part_1_less_13_words_13028"
+    },
+    {
+      "id": 13029,
+      "wordId": 13029,
+      "arabic": "أَطِبَّاءُ",
+      "english": "Doctors",
+      "russian": "Врачи",
+      "voiceKey": "part_1_less_13_words_13029"
+    },
+    {
+      "id": 13030,
+      "wordId": 13030,
+      "arabic": "إِخْوَةٌ",
+      "english": "Brothers",
+      "russian": "Братья",
+      "voiceKey": "part_1_less_13_words_13030"
+    },
+    {
+      "id": 13031,
+      "wordId": 13031,
+      "arabic": "مُدَرِّسُونَ",
+      "english": "Teachers",
+      "russian": "Преподаватели, учителя",
+      "voiceKey": "part_1_less_13_words_13031"
+    },
+    {
+      "id": 13032,
+      "wordId": 13032,
+      "arabic": "مُهَنْدِسونَ",
+      "english": "Engineers",
+      "russian": "Инженеры",
+      "voiceKey": "part_1_less_13_words_13032"
+    },
+    {
+      "id": 13033,
+      "wordId": 13033,
+      "arabic": "فَلاحُونَ",
+      "english": "Farmers",
+      "russian": "Фермеры",
+      "voiceKey": "part_1_less_13_words_13033"
+    },
+    {
+      "id": 13034,
+      "wordId": 13034,
+      "arabic": "مُسْلِمونَ",
+      "english": "Muslims",
+      "russian": "Мусульмане",
+      "voiceKey": "part_1_less_13_words_13034"
+    },
+    {
+      "id": 13035,
+      "wordId": 13035,
+      "arabic": "حَاجٌّ",
+      "english": "Pilgrim",
+      "russian": "Паломник",
+      "voiceKey": "part_1_less_13_words_13035"
+    },
+    {
+      "id": 13036,
+      "wordId": 13036,
+      "arabic": "أَسْمَاءٌ",
+      "english": "Names",
+      "russian": "Имена",
+      "voiceKey": "part_1_less_13_words_13036"
+    },
+    {
+      "id": 13037,
+      "wordId": 13037,
+      "arabic": "نَاسٌ",
+      "english": "People",
+      "russian": "Люди",
+      "voiceKey": "part_1_less_13_words_13037"
+    },
+    {
+      "id": 13038,
+      "wordId": 13038,
+      "arabic": "تُرْكِيا",
+      "english": "Turkey",
+      "russian": "Турция",
+      "voiceKey": "part_1_less_13_words_13038"
+    },
+    {
+      "id": 13039,
+      "wordId": 13039,
+      "arabic": "حَقْلٌ",
+      "english": "Field",
+      "russian": "Поле(ед.ч.)",
+      "voiceKey": "part_1_less_13_words_13039"
+    },
+    {
+      "id": 13040,
+      "wordId": 13040,
+      "arabic": "حُقُولٌ",
+      "english": "Fields",
+      "russian": "Поля(мн.ч.)",
+      "voiceKey": "part_1_less_13_words_13040"
+    },
+    {
+      "id": 13041,
+      "wordId": 13041,
+      "arabic": "مَلْعَبٌ",
+      "english": "Playground",
+      "russian": "Игровая площадка",
+      "voiceKey": "part_1_less_13_words_13041"
+    },
+    {
+      "id": 13042,
+      "wordId": 13042,
+      "arabic": "قَرْيَةٌ",
+      "english": "Village",
+      "russian": "Деревня",
+      "voiceKey": "part_1_less_13_words_13042"
+    },
+    {
+      "id": 13043,
+      "wordId": 13043,
+      "arabic": "مَدْرَسَةٌ اِبْتِدَائِيَّةٌ",
+      "english": "Primary school",
+      "russian": "Начальная школа",
+      "voiceKey": "part_1_less_13_words_13043"
+    },
+    {
+      "id": 13044,
+      "wordId": 13044,
+      "arabic": "فَتَياتٌ",
+      "english": "Girls",
+      "russian": "Девушки",
+      "voiceKey": "part_1_less_13_words_13044"
+    },
+    {
+      "id": 13045,
+      "wordId": 13045,
+      "arabic": "هُنَّ",
+      "english": "They(f)",
+      "russian": "Они(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13045"
+    },
+    {
+      "id": 13046,
+      "wordId": 13046,
+      "arabic": "زَمِيلاَتٌ",
+      "english": "Classmates(f)",
+      "russian": "Коллеги, одногруппницы(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13046"
+    },
+    {
+      "id": 13047,
+      "wordId": 13047,
+      "arabic": "أَخَوَاتٌ",
+      "english": "Sisters",
+      "russian": "Сестры",
+      "voiceKey": "part_1_less_13_words_13047"
+    },
+    {
+      "id": 13048,
+      "wordId": 13048,
+      "arabic": "قَوِيٌ",
+      "english": "Strong",
+      "russian": "Сильный",
+      "voiceKey": "part_1_less_13_words_13048"
+    },
+    {
+      "id": 13049,
+      "wordId": 13049,
+      "arabic": "بَناتٌ",
+      "english": "Daughters",
+      "russian": "Дочери",
+      "voiceKey": "part_1_less_13_words_13049"
+    },
+    {
+      "id": 13050,
+      "wordId": 13050,
+      "arabic": "طالِبَاتٌ",
+      "english": "Students(f)",
+      "russian": "Студентки",
+      "voiceKey": "part_1_less_13_words_13050"
+    },
+    {
+      "id": 13051,
+      "wordId": 13051,
+      "arabic": "مُدَرِّسَاتٌ",
+      "english": "Teachers(f)",
+      "russian": "Преподавательницы, учительницы",
+      "voiceKey": "part_1_less_13_words_13051"
+    },
+    {
+      "id": 13052,
+      "wordId": 13052,
+      "arabic": "طَبِيبَاتٌ",
+      "english": "Doctors(f)",
+      "russian": "Врачи(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13052"
+    },
+    {
+      "id": 13053,
+      "wordId": 13053,
+      "arabic": "مُسْلِمَاتٌ",
+      "english": "Muslim women(f)",
+      "russian": "Мусульманки",
+      "voiceKey": "part_1_less_13_words_13053"
+    },
+    {
+      "id": 13054,
+      "wordId": 13054,
+      "arabic": "زَوْجَةٌ",
+      "english": "Wife",
+      "russian": "Жена",
+      "voiceKey": "part_1_less_13_words_13054"
+    },
+    {
+      "id": 13055,
+      "wordId": 13055,
+      "arabic": "زَوْجَاتٌ",
+      "english": "Wives",
+      "russian": "Жены",
+      "voiceKey": "part_1_less_13_words_13055"
+    },
+    {
+      "id": 13056,
+      "wordId": 13056,
+      "arabic": "ذَهَبْنَ",
+      "english": "They have gone(f)",
+      "russian": "Они ушли(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13056"
+    },
+    {
+      "id": 13057,
+      "wordId": 13057,
+      "arabic": "مُمَرِّضاتٌ",
+      "english": "Nurses(f)",
+      "russian": "Медсестры",
+      "voiceKey": "part_1_less_13_words_13057"
+    },
+    {
+      "id": 13058,
+      "wordId": 13058,
+      "arabic": "أَزْوَاجٌ",
+      "english": "Husbands",
+      "russian": "Мужья",
+      "voiceKey": "part_1_less_13_words_13058"
+    },
+    {
+      "id": 13059,
+      "wordId": 13059,
+      "arabic": "مَرْأَةٌ",
+      "english": "Woman",
+      "russian": "Женщина",
+      "voiceKey": "part_1_less_13_words_13059"
+    },
+    {
+      "id": 13060,
+      "wordId": 13060,
+      "arabic": "نِسَاءٌ",
+      "english": "Women",
+      "russian": "Женщины",
+      "voiceKey": "part_1_less_13_words_13060"
+    },
+    {
+      "id": 13061,
+      "wordId": 13061,
+      "arabic": "بَعْضُهُنَّ",
+      "english": "Some of them(f)",
+      "russian": "Некоторые из них(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13061"
+    },
+    {
+      "id": 13062,
+      "wordId": 13062,
+      "arabic": "خَرَجْنَ",
+      "english": "They went out(f)",
+      "russian": "Они вышли(ж.р.)",
+      "voiceKey": "part_1_less_13_words_13062"
+    },
+    {
+      "id": 13063,
+      "wordId": 13063,
+      "arabic": "أُولَئِكَ",
+      "english": "Those",
+      "russian": "Те",
+      "voiceKey": "part_1_less_13_words_13063"
+    },
+    {
+      "id": 13064,
+      "wordId": 13064,
+      "arabic": "أُمَّهاتٌ",
+      "english": "Mothers",
+      "russian": "Матери",
+      "voiceKey": "part_1_less_13_words_13064"
+    },
+    {
+      "id": 13065,
+      "wordId": 13065,
+      "arabic": "آباءٌ",
+      "english": "Fathers",
+      "russian": "Отцы",
+      "voiceKey": "part_1_less_13_words_13065"
+    },
+    {
+      "id": 13066,
+      "wordId": 13066,
+      "arabic": "وُزَراءُ",
+      "english": "Ministers",
+      "russian": "Министры",
+      "voiceKey": "part_1_less_13_words_13066"
+    },
+    {
+      "id": 13067,
+      "wordId": 13067,
+      "arabic": "مَمْلَكَةٌ",
+      "english": "Kingdom",
+      "russian": "Королевство",
+      "voiceKey": "part_1_less_13_words_13067"
+    },
+    {
+      "id": 13068,
+      "wordId": 13068,
+      "arabic": "السَّعُودِيَّةُ",
+      "english": "Saudi",
+      "russian": "Саудовская",
+      "voiceKey": "part_1_less_13_words_13068"
+    },
+    {
+      "id": 13070,
+      "wordId": 13070,
+      "arabic": "عالِمٌ",
+      "english": "Scientist",
+      "russian": "Ученый, знающий",
+      "voiceKey": "part_1_less_13_words_13070"
+    },
+    {
+      "id": 13071,
+      "wordId": 13071,
+      "arabic": "عُلَماءُ",
+      "english": "Scientists",
+      "russian": "Ученые, знающие",
+      "voiceKey": "part_1_less_13_words_13071"
+    },
+    {
+      "id": 13072,
+      "wordId": 13072,
+      "arabic": "ضُعَافٌ",
+      "english": "Weak(pl)",
+      "russian": "Слабые",
+      "voiceKey": "part_1_less_13_words_13072"
+    }
+  ],
+  "14": [
+    {
+      "id": 14002,
+      "wordId": 14002,
+      "arabic": "حَالُكُمْ",
+      "english": "Your state",
+      "russian": "Ваши дела",
+      "voiceKey": "part_1_less_14_words_14002"
+    },
+    {
+      "id": 14003,
+      "wordId": 14003,
+      "arabic": "أَنْتُمْ",
+      "english": "You(m)",
+      "russian": "Вы(м.р.)",
+      "voiceKey": "part_1_less_14_words_14003"
+    },
+    {
+      "id": 14004,
+      "wordId": 14004,
+      "arabic": "نَحْنُ",
+      "english": "We",
+      "russian": "Мы",
+      "voiceKey": "part_1_less_14_words_14004"
+    },
+    {
+      "id": 14005,
+      "wordId": 14005,
+      "arabic": "طِفْلَةٌ",
+      "english": "Child(f)",
+      "russian": "Ребенок(ж.р.)",
+      "voiceKey": "part_1_less_14_words_14005"
+    },
+    {
+      "id": 14006,
+      "wordId": 14006,
+      "arabic": "مَعَكُمْ",
+      "english": "With you(m,pl)",
+      "russian": "С вами",
+      "voiceKey": "part_1_less_14_words_14006"
+    },
+    {
+      "id": 14007,
+      "wordId": 14007,
+      "arabic": "أُخْتُنا",
+      "english": "Our sister",
+      "russian": "Наша сестра",
+      "voiceKey": "part_1_less_14_words_14007"
+    },
+    {
+      "id": 14008,
+      "wordId": 14008,
+      "arabic": "اِسْمُهَا",
+      "english": "Her name",
+      "russian": "Ее имя",
+      "voiceKey": "part_1_less_14_words_14008"
+    },
+    {
+      "id": 14009,
+      "wordId": 14009,
+      "arabic": "مَطارٌ",
+      "english": "The airport",
+      "russian": "Аэропорт",
+      "voiceKey": "part_1_less_14_words_14009"
+    },
+    {
+      "id": 14010,
+      "wordId": 14010,
+      "arabic": "كُلِّيَّةُ الهَنْدَسَةِ",
+      "english": "Faculty of Engineering",
+      "russian": "Факультет инженерии",
+      "voiceKey": "part_1_less_14_words_14010"
+    },
+    {
+      "id": 14011,
+      "wordId": 14011,
+      "arabic": "كُلِّيَّةُ الطِّبِّ",
+      "english": "Faculty of Medicine",
+      "russian": "Факультет медицины",
+      "voiceKey": "part_1_less_14_words_14011"
+    },
+    {
+      "id": 14012,
+      "wordId": 14012,
+      "arabic": "كُلِّيَّةُ الشَّرِيعَةِ",
+      "english": "Faculty of Sharia",
+      "russian": "Факультет шариата",
+      "voiceKey": "part_1_less_14_words_14012"
+    },
+    {
+      "id": 14013,
+      "wordId": 14013,
+      "arabic": "كُلِّيَّةُ التِّجارَةِ",
+      "english": "Department of Economics",
+      "russian": "Факультет экономики",
+      "voiceKey": "part_1_less_14_words_14013"
+    },
+    {
+      "id": 14014,
+      "wordId": 14014,
+      "arabic": "اِسْمُهُ",
+      "english": "His name",
+      "russian": "Его имя",
+      "voiceKey": "part_1_less_14_words_14014"
+    },
+    {
+      "id": 14015,
+      "wordId": 14015,
+      "arabic": "نَصْرَانِيٌّ",
+      "english": "Christian",
+      "russian": "Христианин",
+      "voiceKey": "part_1_less_14_words_14015"
+    },
+    {
+      "id": 14016,
+      "wordId": 14016,
+      "arabic": "ذَهَبْتُمْ",
+      "english": "Did you walk/go(m)",
+      "russian": "Вы ходили",
+      "voiceKey": "part_1_less_14_words_14016"
+    },
+    {
+      "id": 14017,
+      "wordId": 14017,
+      "arabic": "زِيارَةٌ",
+      "english": "Visit",
+      "russian": "Посещение, навещать",
+      "voiceKey": "part_1_less_14_words_14017"
+    },
+    {
+      "id": 14018,
+      "wordId": 14018,
+      "arabic": "لِزِيارَةٍ",
+      "english": "For visiting",
+      "russian": "Для посещения",
+      "voiceKey": "part_1_less_14_words_14018"
+    },
+    {
+      "id": 14019,
+      "wordId": 14019,
+      "arabic": "ذَهَبْنا",
+      "english": "We walked",
+      "russian": "Мы ходили",
+      "voiceKey": "part_1_less_14_words_14019"
+    },
+    {
+      "id": 14020,
+      "wordId": 14020,
+      "arabic": "رَبُّنا",
+      "english": "Our God",
+      "russian": "Наш Господь",
+      "voiceKey": "part_1_less_14_words_14020"
+    },
+    {
+      "id": 14021,
+      "wordId": 14021,
+      "arabic": "دِينُنا",
+      "english": "Our religion",
+      "russian": "Наша религия",
+      "voiceKey": "part_1_less_14_words_14021"
+    },
+    {
+      "id": 14022,
+      "wordId": 14022,
+      "arabic": "مَحْكَمَةٌ",
+      "english": "Court",
+      "russian": "Суд",
+      "voiceKey": "part_1_less_14_words_14022"
+    },
+    {
+      "id": 14023,
+      "wordId": 14023,
+      "arabic": "حَفِيدٌ",
+      "english": "Grandson",
+      "russian": "Внук",
+      "voiceKey": "part_1_less_14_words_14023"
+    },
+    {
+      "id": 14024,
+      "wordId": 14024,
+      "arabic": "حَفَدَةٌ",
+      "english": "Grandchildren",
+      "russian": "Внуки",
+      "voiceKey": "part_1_less_14_words_14024"
+    },
+    {
+      "id": 14025,
+      "wordId": 14025,
+      "arabic": "صَغيرَةٌ",
+      "english": "Small(f)",
+      "russian": "Маленькая(ж.р.)",
+      "voiceKey": "part_1_less_14_words_14025"
+    },
+    {
+      "id": 14026,
+      "wordId": 14026,
+      "arabic": "بَعْضُنَا",
+      "english": "Some of us",
+      "russian": "Некоторые из нас",
+      "voiceKey": "part_1_less_14_words_14026"
+    },
+    {
+      "id": 14027,
+      "wordId": 14027,
+      "arabic": "رَبُّكُمْ",
+      "english": "Your God",
+      "russian": "Ваш Господь",
+      "voiceKey": "part_1_less_14_words_14027"
+    },
+    {
+      "id": 14028,
+      "wordId": 14028,
+      "arabic": "دِينٌ",
+      "english": "Religion",
+      "russian": "Религия",
+      "voiceKey": "part_1_less_14_words_14028"
+    },
+    {
+      "id": 14029,
+      "wordId": 14029,
+      "arabic": "شَهْرٌ",
+      "english": "Month",
+      "russian": "Месяц",
+      "voiceKey": "part_1_less_14_words_14029"
+    },
+    {
+      "id": 14030,
+      "wordId": 14030,
+      "arabic": "بَلَدٌ",
+      "english": "Country",
+      "russian": "Страна",
+      "voiceKey": "part_1_less_14_words_14030"
+    },
+    {
+      "id": 14031,
+      "wordId": 14031,
+      "arabic": "اليُونَانُ",
+      "english": "Greece",
+      "russian": "Греция",
+      "voiceKey": "part_1_less_14_words_14031"
+    },
+    {
+      "id": 14032,
+      "wordId": 14032,
+      "arabic": "لَنْدَنُ",
+      "english": "London",
+      "russian": "Лондон",
+      "voiceKey": "part_1_less_14_words_14032"
+    },
+    {
+      "id": 14033,
+      "wordId": 14033,
+      "arabic": "بَارِيسُ",
+      "english": "Paris",
+      "russian": "Париж",
+      "voiceKey": "part_1_less_14_words_14033"
+    },
+    {
+      "id": 14034,
+      "wordId": 14034,
+      "arabic": "بَاكِسْتَانُ",
+      "english": "Pakistan",
+      "russian": "Пакистан",
+      "voiceKey": "part_1_less_14_words_14034"
+    },
+    {
+      "id": 14035,
+      "wordId": 14035,
+      "arabic": "إِسطَنْبُولُ",
+      "english": "Istanbul",
+      "russian": "Стамбул",
+      "voiceKey": "part_1_less_14_words_14035"
+    },
+    {
+      "id": 14036,
+      "wordId": 14036,
+      "arabic": "كُلِّيَّاتٌ",
+      "english": "Faculties",
+      "russian": "Факультеты",
+      "voiceKey": "part_1_less_14_words_14036"
+    },
+    {
+      "id": 14037,
+      "wordId": 14037,
+      "arabic": "إِخْوَانٌ",
+      "english": "Brothers",
+      "russian": "Братья",
+      "voiceKey": "part_1_less_14_words_14037"
+    },
+    {
+      "id": 14038,
+      "wordId": 14038,
+      "arabic": "أَهْلًا وَسَهْلًا",
+      "english": "Welcome",
+      "russian": "Добро пожаловать",
+      "voiceKey": "part_1_less_14_words_14038"
+    },
+    {
+      "id": 14039,
+      "wordId": 14039,
+      "arabic": "بِلَادٌ",
+      "english": "Countries",
+      "russian": "Страны",
+      "voiceKey": "part_1_less_14_words_14039"
+    },
+    {
+      "id": 14040,
+      "wordId": 14040,
+      "arabic": "نَصَارَى",
+      "english": "Christians",
+      "russian": "Христиане",
+      "voiceKey": "part_1_less_14_words_14040"
+    },
+    {
+      "id": 14041,
+      "wordId": 14041,
+      "arabic": "أيُّ",
+      "english": "Which",
+      "russian": "Какой",
+      "voiceKey": "part_1_less_14_words_14041"
+    },
+    {
+      "id": 14042,
+      "wordId": 14042,
+      "arabic": "يَوْمُ السَّبْتِ",
+      "english": "Saturday",
+      "russian": "Суббота",
+      "voiceKey": "part_1_less_14_words_14042"
+    }
+  ],
+  "15": [
+    {
+      "id": 15002,
+      "wordId": 15002,
+      "arabic": "أَنْتُنَّ",
+      "english": "You(pl,f)",
+      "russian": "Вы(ж.р.)",
+      "voiceKey": "part_1_less_15_words_15002"
+    },
+    {
+      "id": 15003,
+      "wordId": 15003,
+      "arabic": "أُمُّكُنَّ",
+      "english": "Your mom(pl,f)",
+      "russian": "Ваша мама(ж.р.)",
+      "voiceKey": "part_1_less_15_words_15003"
+    },
+    {
+      "id": 15004,
+      "wordId": 15004,
+      "arabic": "قَبْلَ",
+      "english": "Before",
+      "russian": "До, перед, за",
+      "voiceKey": "part_1_less_15_words_15004"
+    },
+    {
+      "id": 15005,
+      "wordId": 15005,
+      "arabic": "أُسْبُوعٌ",
+      "english": "Week",
+      "russian": "Неделя",
+      "voiceKey": "part_1_less_15_words_15005"
+    },
+    {
+      "id": 15006,
+      "wordId": 15006,
+      "arabic": "مَعَها",
+      "english": "With her",
+      "russian": "С ней",
+      "voiceKey": "part_1_less_15_words_15006"
+    },
+    {
+      "id": 15007,
+      "wordId": 15007,
+      "arabic": "اِخْتِبارٌ",
+      "english": "Exam, test, certification",
+      "russian": "Экзамен, зачет, аттестация",
+      "voiceKey": "part_1_less_15_words_15007"
+    },
+    {
+      "id": 15008,
+      "wordId": 15008,
+      "arabic": "بَعْدَ",
+      "english": "After, after (time)",
+      "russian": "После, через (время)",
+      "voiceKey": "part_1_less_15_words_15008"
+    },
+    {
+      "id": 15009,
+      "wordId": 15009,
+      "arabic": "رَجَعَ",
+      "english": "Return(m)",
+      "russian": "Возвращаться(м.р.)",
+      "voiceKey": "part_1_less_15_words_15009"
+    },
+    {
+      "id": 15010,
+      "wordId": 15010,
+      "arabic": "رَجَعْنَا",
+      "english": "We returned",
+      "russian": "Мы вернулись",
+      "voiceKey": "part_1_less_15_words_15010"
+    },
+    {
+      "id": 15011,
+      "wordId": 15011,
+      "arabic": "مَرِيضَةٌ",
+      "english": "Sick(f)",
+      "russian": "Больная",
+      "voiceKey": "part_1_less_15_words_15011"
+    },
+    {
+      "id": 15013,
+      "wordId": 15013,
+      "arabic": "أَذَانٌ",
+      "english": "Azan (call to prayer)",
+      "russian": "Азан (призыв на молитву)",
+      "voiceKey": "part_1_less_15_words_15013"
+    },
+    {
+      "id": 15014,
+      "wordId": 15014,
+      "arabic": "مَتَى",
+      "english": "When",
+      "russian": "Когда",
+      "voiceKey": "part_1_less_15_words_15014"
+    }
+  ],
+  "16": [
+    {
+      "id": 16002,
+      "wordId": 16002,
+      "arabic": "دُرُوسٌ",
+      "english": "Lessons",
+      "russian": "Уроки",
+      "voiceKey": "part_1_less_16_words_16002"
+    },
+    {
+      "id": 16003,
+      "wordId": 16003,
+      "arabic": "نُجُومٌ",
+      "english": "Stars",
+      "russian": "Звезды",
+      "voiceKey": "part_1_less_16_words_16003"
+    },
+    {
+      "id": 16004,
+      "wordId": 16004,
+      "arabic": "أَقْلَامٌ",
+      "english": "Pens",
+      "russian": "Ручки",
+      "voiceKey": "part_1_less_16_words_16004"
+    },
+    {
+      "id": 16005,
+      "wordId": 16005,
+      "arabic": "أَبْوَابٌ",
+      "english": "Doors",
+      "russian": "Двери",
+      "voiceKey": "part_1_less_16_words_16005"
+    },
+    {
+      "id": 16006,
+      "wordId": 16006,
+      "arabic": "نَهْرٌ",
+      "english": "River",
+      "russian": "Река",
+      "voiceKey": "part_1_less_16_words_16006"
+    },
+    {
+      "id": 16007,
+      "wordId": 16007,
+      "arabic": "أَنْهَارٌ",
+      "english": "Rivers",
+      "russian": "Реки",
+      "voiceKey": "part_1_less_16_words_16007"
+    },
+    {
+      "id": 16008,
+      "wordId": 16008,
+      "arabic": "جَبَلٌ",
+      "english": "Mountain",
+      "russian": "Гора",
+      "voiceKey": "part_1_less_16_words_16008"
+    },
+    {
+      "id": 16009,
+      "wordId": 16009,
+      "arabic": "جِبَالٌ",
+      "english": "Mountains",
+      "russian": "Горы",
+      "voiceKey": "part_1_less_16_words_16009"
+    },
+    {
+      "id": 16010,
+      "wordId": 16010,
+      "arabic": "كِلَابٌ",
+      "english": "Dogs",
+      "russian": "Собаки",
+      "voiceKey": "part_1_less_16_words_16010"
+    },
+    {
+      "id": 16011,
+      "wordId": 16011,
+      "arabic": "بَحْرٌ",
+      "english": "Sea",
+      "russian": "Море",
+      "voiceKey": "part_1_less_16_words_16011"
+    },
+    {
+      "id": 16012,
+      "wordId": 16012,
+      "arabic": "كُتُبٌ",
+      "english": "Books",
+      "russian": "Книги",
+      "voiceKey": "part_1_less_16_words_16012"
+    },
+    {
+      "id": 16013,
+      "wordId": 16013,
+      "arabic": "حُمُرٌ",
+      "english": "Donkeys",
+      "russian": "Ослы",
+      "voiceKey": "part_1_less_16_words_16013"
+    },
+    {
+      "id": 16014,
+      "wordId": 16014,
+      "arabic": "بِحَارٌ",
+      "english": "Seas",
+      "russian": "Моря",
+      "voiceKey": "part_1_less_16_words_16014"
+    },
+    {
+      "id": 16015,
+      "wordId": 16015,
+      "arabic": "سُرُرٌ",
+      "english": "Beds",
+      "russian": "Кровати",
+      "voiceKey": "part_1_less_16_words_16015"
+    },
+    {
+      "id": 16016,
+      "wordId": 16016,
+      "arabic": "دَفَاتِرُ",
+      "english": "Notebooks",
+      "russian": "Тетради",
+      "voiceKey": "part_1_less_16_words_16016"
+    },
+    {
+      "id": 16017,
+      "wordId": 16017,
+      "arabic": "مَكاتِبُ",
+      "english": "Tables",
+      "russian": "Столы",
+      "voiceKey": "part_1_less_16_words_16017"
+    },
+    {
+      "id": 16018,
+      "wordId": 16018,
+      "arabic": "فُنْدُقٌ",
+      "english": "Hotel",
+      "russian": "Гостиница (отель)",
+      "voiceKey": "part_1_less_16_words_16018"
+    },
+    {
+      "id": 16019,
+      "wordId": 16019,
+      "arabic": "فَنَادِقُ",
+      "english": "Hotels",
+      "russian": "Гостиницы (отели)",
+      "voiceKey": "part_1_less_16_words_16019"
+    },
+    {
+      "id": 16021,
+      "wordId": 16021,
+      "arabic": "سَيَارَاتٌ",
+      "english": "Cars",
+      "russian": "Машины",
+      "voiceKey": "part_1_less_16_words_16021"
+    },
+    {
+      "id": 16022,
+      "wordId": 16022,
+      "arabic": "طَائِرَةٌ",
+      "english": "Plane",
+      "russian": "Самолет",
+      "voiceKey": "part_1_less_16_words_16022"
+    },
+    {
+      "id": 16023,
+      "wordId": 16023,
+      "arabic": "طَائِرَاتٌ",
+      "english": "Planes",
+      "russian": "Самолеты",
+      "voiceKey": "part_1_less_16_words_16023"
+    },
+    {
+      "id": 16024,
+      "wordId": 16024,
+      "arabic": "مُدَرِّسُونَ",
+      "english": "Teachers(m)",
+      "russian": "Учителя(м.р.)",
+      "voiceKey": "part_1_less_16_words_16024"
+    }
+  ],
+  "17": [
+    {
+      "id": 17002,
+      "wordId": 17002,
+      "arabic": "بُيُوتٌ",
+      "english": "Houses",
+      "russian": "Дома",
+      "voiceKey": "part_1_less_17_words_17002"
+    },
+    {
+      "id": 17003,
+      "wordId": 17003,
+      "arabic": "شَرِكَةٌ",
+      "english": "Firm, company",
+      "russian": "Фирма, компания",
+      "voiceKey": "part_1_less_17_words_17003"
+    },
+    {
+      "id": 17004,
+      "wordId": 17004,
+      "arabic": "سَهْلٌ",
+      "english": "Easy (simple)",
+      "russian": "Легкий (простой)",
+      "voiceKey": "part_1_less_17_words_17004"
+    },
+    {
+      "id": 17005,
+      "wordId": 17005,
+      "arabic": "مَكْسُورَةٌ",
+      "english": "Broken(f)",
+      "russian": "Сломанная(ж.р.)",
+      "voiceKey": "part_1_less_17_words_17005"
+    },
+    {
+      "id": 17006,
+      "wordId": 17006,
+      "arabic": "مَفْتُوحَةٌ",
+      "english": "Open(f)",
+      "russian": "Открытая(ж.р.)",
+      "voiceKey": "part_1_less_17_words_17006"
+    },
+    {
+      "id": 17007,
+      "wordId": 17007,
+      "arabic": "رَخِيْصٌ",
+      "english": "Cheap(m)",
+      "russian": "Дешевый(м.р.)",
+      "voiceKey": "part_1_less_17_words_17007"
+    },
+    {
+      "id": 17008,
+      "wordId": 17008,
+      "arabic": "رَخِيْصَةٌ",
+      "english": "Cheap(f)",
+      "russian": "Дешевая(ж.р.)",
+      "voiceKey": "part_1_less_17_words_17008"
+    },
+    {
+      "id": 17009,
+      "wordId": 17009,
+      "arabic": "مَسَاجِدٌ",
+      "english": "Mosques",
+      "russian": "Мечети",
+      "voiceKey": "part_1_less_17_words_17009"
+    },
+    {
+      "id": 17010,
+      "wordId": 17010,
+      "arabic": "قُمْصَانٌ",
+      "english": "Shirts",
+      "russian": "Рубашки",
+      "voiceKey": "part_1_less_17_words_17010"
+    },
+    {
+      "id": 17011,
+      "wordId": 17011,
+      "arabic": "دَرَّجَاتٌ",
+      "english": "Bicycles",
+      "russian": "Велосипеды",
+      "voiceKey": "part_1_less_17_words_17011"
+    },
+    {
+      "id": 17012,
+      "wordId": 17012,
+      "arabic": "شَرِكَاتٌ",
+      "english": "Firms, companies",
+      "russian": "Фирмы, компании",
+      "voiceKey": "part_1_less_17_words_17012"
+    }
+  ],
+  "18": [
+    {
+      "id": 18002,
+      "wordId": 18002,
+      "arabic": "كَمْ?",
+      "english": "How many?",
+      "russian": "Сколько?",
+      "voiceKey": "part_1_less_18_words_18002"
+    },
+    {
+      "id": 18003,
+      "wordId": 18003,
+      "arabic": "عَجَلَةٌ",
+      "english": "Wheel",
+      "russian": "Колесо",
+      "voiceKey": "part_1_less_18_words_18003"
+    },
+    {
+      "id": 18004,
+      "wordId": 18004,
+      "arabic": "عَجَلاتٌ",
+      "english": "Wheels",
+      "russian": "Колеса",
+      "voiceKey": "part_1_less_18_words_18004"
+    },
+    {
+      "id": 18005,
+      "wordId": 18005,
+      "arabic": "عِيدٌ",
+      "english": "Holiday",
+      "russian": "Праздник",
+      "voiceKey": "part_1_less_18_words_18005"
+    },
+    {
+      "id": 18006,
+      "wordId": 18006,
+      "arabic": "سَنَةٌ",
+      "english": "Year",
+      "russian": "Год",
+      "voiceKey": "part_1_less_18_words_18006"
+    },
+    {
+      "id": 18007,
+      "wordId": 18007,
+      "arabic": "سَنَوَاتٌ",
+      "english": "Years",
+      "russian": "Годы",
+      "voiceKey": "part_1_less_18_words_18007"
+    },
+    {
+      "id": 18008,
+      "wordId": 18008,
+      "arabic": "عيدُ الفِطْرِ",
+      "english": "Eid al-Fitr",
+      "russian": "Ураза-байрам",
+      "voiceKey": "part_1_less_18_words_18008"
+    },
+    {
+      "id": 18009,
+      "wordId": 18009,
+      "arabic": "عيدُ الأَضْحَى",
+      "english": "Eid al-Adha",
+      "russian": "Курбан-байрам",
+      "voiceKey": "part_1_less_18_words_18009"
+    },
+    {
+      "id": 18010,
+      "wordId": 18010,
+      "arabic": "مَتْجَرٌ",
+      "english": "Store, shopping place",
+      "russian": "Магазин, торговая точка",
+      "voiceKey": "part_1_less_18_words_18010"
+    },
+    {
+      "id": 18011,
+      "wordId": 18011,
+      "arabic": "حَيٌّ",
+      "english": "District",
+      "russian": "Район",
+      "voiceKey": "part_1_less_18_words_18011"
+    },
+    {
+      "id": 18012,
+      "wordId": 18012,
+      "arabic": "أَحْياءٌ",
+      "english": "Districts",
+      "russian": "Районы",
+      "voiceKey": "part_1_less_18_words_18012"
+    },
+    {
+      "id": 18013,
+      "wordId": 18013,
+      "arabic": "مِسْطَرَةٌ",
+      "english": "Ruler",
+      "russian": "Линейка",
+      "voiceKey": "part_1_less_18_words_18013"
+    },
+    {
+      "id": 18014,
+      "wordId": 18014,
+      "arabic": "مَسَاطِرٌ",
+      "english": "Rulers",
+      "russian": "Линейки",
+      "voiceKey": "part_1_less_18_words_18014"
+    },
+    {
+      "id": 18015,
+      "wordId": 18015,
+      "arabic": "رِيالٌ",
+      "english": "Rial",
+      "russian": "Риал",
+      "voiceKey": "part_1_less_18_words_18015"
+    },
+    {
+      "id": 18016,
+      "wordId": 18016,
+      "arabic": "رِيَالاَتٌ",
+      "english": "Rials",
+      "russian": "Риалы",
+      "voiceKey": "part_1_less_18_words_18016"
+    },
+    {
+      "id": 18017,
+      "wordId": 18017,
+      "arabic": "رَكْعَةٌ",
+      "english": "Rak'ah",
+      "russian": "Ракаат",
+      "voiceKey": "part_1_less_18_words_18017"
+    }
+  ],
+  "19": [
+    {
+      "id": 19002,
+      "wordId": 19002,
+      "arabic": "مُخْتَلِفٌ",
+      "english": "Different",
+      "russian": "Разный, разнообразный",
+      "voiceKey": "part_1_less_19_words_19002"
+    },
+    {
+      "id": 19003,
+      "wordId": 19003,
+      "arabic": "ثَمَنٌ",
+      "english": "Price",
+      "russian": "Цена",
+      "voiceKey": "part_1_less_19_words_19003"
+    },
+    {
+      "id": 19004,
+      "wordId": 19004,
+      "arabic": "ثَلاثَةٌ",
+      "english": "Three",
+      "russian": "Три",
+      "voiceKey": "part_1_less_19_words_19004"
+    },
+    {
+      "id": 19005,
+      "wordId": 19005,
+      "arabic": "أَرْبَعَةٌ",
+      "english": "Four",
+      "russian": "Четыре",
+      "voiceKey": "part_1_less_19_words_19005"
+    },
+    {
+      "id": 19006,
+      "wordId": 19006,
+      "arabic": "خَمْسَةٌ",
+      "english": "Five",
+      "russian": "Пять",
+      "voiceKey": "part_1_less_19_words_19006"
+    },
+    {
+      "id": 19007,
+      "wordId": 19007,
+      "arabic": "سِتَّةٌ",
+      "english": "Six",
+      "russian": "Шесть",
+      "voiceKey": "part_1_less_19_words_19007"
+    },
+    {
+      "id": 19008,
+      "wordId": 19008,
+      "arabic": "سَبْعَةٌ",
+      "english": "Seven",
+      "russian": "Семь",
+      "voiceKey": "part_1_less_19_words_19008"
+    },
+    {
+      "id": 19009,
+      "wordId": 19009,
+      "arabic": "ثَمانِيَةٌ",
+      "english": "Eight",
+      "russian": "Восемь",
+      "voiceKey": "part_1_less_19_words_19009"
+    },
+    {
+      "id": 19010,
+      "wordId": 19010,
+      "arabic": "تِسْعَةٌ",
+      "english": "Nine",
+      "russian": "Девять",
+      "voiceKey": "part_1_less_19_words_19010"
+    },
+    {
+      "id": 19011,
+      "wordId": 19011,
+      "arabic": "عَشَرَةٌ",
+      "english": "Ten",
+      "russian": "Десять",
+      "voiceKey": "part_1_less_19_words_19011"
+    },
+    {
+      "id": 19012,
+      "wordId": 19012,
+      "arabic": "أُورُبَّا",
+      "english": "Europe",
+      "russian": "Европа",
+      "voiceKey": "part_1_less_19_words_19012"
+    },
+    {
+      "id": 19013,
+      "wordId": 19013,
+      "arabic": "نِصْفٌ",
+      "english": "Half",
+      "russian": "Половина",
+      "voiceKey": "part_1_less_19_words_19013"
+    },
+    {
+      "id": 19014,
+      "wordId": 19014,
+      "arabic": "قِرْشٌ",
+      "english": "Coin",
+      "russian": "Монета",
+      "voiceKey": "part_1_less_19_words_19014"
+    },
+    {
+      "id": 19015,
+      "wordId": 19015,
+      "arabic": "قُروشٌ",
+      "english": "Coins",
+      "russian": "Монеты",
+      "voiceKey": "part_1_less_19_words_19015"
+    },
+    {
+      "id": 19016,
+      "wordId": 19016,
+      "arabic": "حَافِلَةٌ",
+      "english": "Bus",
+      "russian": "Автобус",
+      "voiceKey": "part_1_less_19_words_19016"
+    },
+    {
+      "id": 19017,
+      "wordId": 19017,
+      "arabic": "رَاكِبٌ",
+      "english": "Passenger",
+      "russian": "Пассажир",
+      "voiceKey": "part_1_less_19_words_19017"
+    },
+    {
+      "id": 19018,
+      "wordId": 19018,
+      "arabic": "رُكَّابٌ",
+      "english": "Passengers",
+      "russian": "Пассажиры",
+      "voiceKey": "part_1_less_19_words_19018"
+    },
+    {
+      "id": 19019,
+      "wordId": 19019,
+      "arabic": "سُؤَالٌ",
+      "english": "Question",
+      "russian": "Вопрос",
+      "voiceKey": "part_1_less_19_words_19019"
+    },
+    {
+      "id": 19020,
+      "wordId": 19020,
+      "arabic": "أَسْئِلَةٌ",
+      "english": "Questions",
+      "russian": "Вопросы",
+      "voiceKey": "part_1_less_19_words_19020"
+    },
+    {
+      "id": 19021,
+      "wordId": 19021,
+      "arabic": "جَيْبٌ",
+      "english": "Pocket",
+      "russian": "Карман",
+      "voiceKey": "part_1_less_19_words_19021"
+    },
+    {
+      "id": 19022,
+      "wordId": 19022,
+      "arabic": "جُيوبٌ",
+      "english": "Pockets",
+      "russian": "Карманы",
+      "voiceKey": "part_1_less_19_words_19022"
+    },
+    {
+      "id": 19023,
+      "wordId": 19023,
+      "arabic": "يَوْمٌ",
+      "english": "Day",
+      "russian": "День",
+      "voiceKey": "part_1_less_19_words_19023"
+    },
+    {
+      "id": 19024,
+      "wordId": 19024,
+      "arabic": "أَيّامٌ",
+      "english": "Days",
+      "russian": "Дни",
+      "voiceKey": "part_1_less_19_words_19024"
+    },
+    {
+      "id": 19025,
+      "wordId": 19025,
+      "arabic": "قَدِيمٌ",
+      "english": "Old(sg)",
+      "russian": "Давний, старый",
+      "voiceKey": "part_1_less_19_words_19025"
+    },
+    {
+      "id": 19026,
+      "wordId": 19026,
+      "arabic": "قُدَامَى",
+      "english": "Old(pl)",
+      "russian": "Давние, старые",
+      "voiceKey": "part_1_less_19_words_19026"
+    },
+    {
+      "id": 19027,
+      "wordId": 19027,
+      "arabic": "بَلادٌ",
+      "english": "Countries",
+      "russian": "Страны",
+      "voiceKey": "part_1_less_19_words_19027"
+    },
+    {
+      "id": 19028,
+      "wordId": 19028,
+      "arabic": "رِيَالٌ",
+      "english": "Rial",
+      "russian": "Риал",
+      "voiceKey": "part_1_less_19_words_19028"
+    },
+    {
+      "id": 19029,
+      "wordId": 19029,
+      "arabic": "رِيَالاَتٌ",
+      "english": "Rials",
+      "russian": "Риалы",
+      "voiceKey": "part_1_less_19_words_19029"
+    },
+    {
+      "id": 19030,
+      "wordId": 19030,
+      "arabic": "كُلٌّ",
+      "english": "All",
+      "russian": "Все",
+      "voiceKey": "part_1_less_19_words_19030"
+    },
+    {
+      "id": 19031,
+      "wordId": 19031,
+      "arabic": "شُكْرًا",
+      "english": "Thank you",
+      "russian": "Спасибо",
+      "voiceKey": "part_1_less_19_words_19031"
+    }
+  ],
+  "20": [
+    {
+      "id": 20003,
+      "wordId": 20003,
+      "arabic": "غُرُوفٌ",
+      "english": "Rooms",
+      "russian": "Комнаты",
+      "voiceKey": "part_1_less_20_words_20003"
+    },
+    {
+      "id": 20004,
+      "wordId": 20004,
+      "arabic": "كَلِمَةٌ",
+      "english": "Word",
+      "russian": "Слово",
+      "voiceKey": "part_1_less_20_words_20004"
+    },
+    {
+      "id": 20005,
+      "wordId": 20005,
+      "arabic": "كَلِمَاتٌ",
+      "english": "Words",
+      "russian": "Слова",
+      "voiceKey": "part_1_less_20_words_20005"
+    },
+    {
+      "id": 20006,
+      "wordId": 20006,
+      "arabic": "مَجَلَّةٌ",
+      "english": "Magazine",
+      "russian": "Журнал",
+      "voiceKey": "part_1_less_20_words_20006"
+    },
+    {
+      "id": 20007,
+      "wordId": 20007,
+      "arabic": "مَجَلَّاتٌ",
+      "english": "Magazines",
+      "russian": "Журналы",
+      "voiceKey": "part_1_less_20_words_20007"
+    },
+    {
+      "id": 20008,
+      "wordId": 20008,
+      "arabic": "حَرْفٌ",
+      "english": "Letter",
+      "russian": "Буква",
+      "voiceKey": "part_1_less_20_words_20008"
+    },
+    {
+      "id": 20009,
+      "wordId": 20009,
+      "arabic": "حُرُوفٌ",
+      "english": "Letters",
+      "russian": "Буквы",
+      "voiceKey": "part_1_less_20_words_20009"
+    }
+  ],
+  "21": [
+    {
+      "id": 21002,
+      "wordId": 21002,
+      "arabic": "نافِذَةٌ",
+      "english": "Window",
+      "russian": "Окно",
+      "voiceKey": "part_1_less_21_words_21002"
+    },
+    {
+      "id": 21003,
+      "wordId": 21003,
+      "arabic": "نَوافِذُ",
+      "english": "Windows",
+      "russian": "Окна",
+      "voiceKey": "part_1_less_21_words_21003"
+    },
+    {
+      "id": 21004,
+      "wordId": 21004,
+      "arabic": "مَكْتَبَةٌ",
+      "english": "Library",
+      "russian": "Библиотека",
+      "voiceKey": "part_1_less_21_words_21004"
+    },
+    {
+      "id": 21005,
+      "wordId": 21005,
+      "arabic": "مَكتَبَاتٌ",
+      "english": "Libraries",
+      "russian": "Библиотеки",
+      "voiceKey": "part_1_less_21_words_21005"
+    },
+    {
+      "id": 21006,
+      "wordId": 21006,
+      "arabic": "كَرَاسِيُّ",
+      "english": "Chairs",
+      "russian": "Стулья",
+      "voiceKey": "part_1_less_21_words_21006"
+    },
+    {
+      "id": 21007,
+      "wordId": 21007,
+      "arabic": "لَوْنٌ",
+      "english": "Colour",
+      "russian": "Цвет",
+      "voiceKey": "part_1_less_21_words_21007"
+    },
+    {
+      "id": 21008,
+      "wordId": 21008,
+      "arabic": "أَلْوانٌ",
+      "english": "Colours",
+      "russian": "Цвета",
+      "voiceKey": "part_1_less_21_words_21008"
+    },
+    {
+      "id": 21009,
+      "wordId": 21009,
+      "arabic": "صالِحٌ",
+      "english": "Righteous(sg)",
+      "russian": "Праведный",
+      "voiceKey": "part_1_less_21_words_21009"
+    },
+    {
+      "id": 21010,
+      "wordId": 21010,
+      "arabic": "صُلَحاءُ",
+      "english": "Righteous(pl)",
+      "russian": "Праведные",
+      "voiceKey": "part_1_less_21_words_21010"
+    },
+    {
+      "id": 21011,
+      "wordId": 21011,
+      "arabic": "واسِعٌ",
+      "english": "Wide",
+      "russian": "Широкий",
+      "voiceKey": "part_1_less_21_words_21011"
+    },
+    {
+      "id": 21012,
+      "wordId": 21012,
+      "arabic": "غَانَا",
+      "english": "Ghana",
+      "russian": "Гана",
+      "voiceKey": "part_1_less_21_words_21012"
+    },
+    {
+      "id": 21013,
+      "wordId": 21013,
+      "arabic": "نَيجِيرِيا",
+      "english": "Nigeria",
+      "russian": "Нигерия",
+      "voiceKey": "part_1_less_21_words_21013"
+    },
+    {
+      "id": 21014,
+      "wordId": 21014,
+      "arabic": "وَلَكِنَّ",
+      "english": "But, however",
+      "russian": "Но, однако",
+      "voiceKey": "part_1_less_21_words_21014"
+    },
+    {
+      "id": 21015,
+      "wordId": 21015,
+      "arabic": "قِبْلَةٌ",
+      "english": "Qibla",
+      "russian": "Кибла",
+      "voiceKey": "part_1_less_21_words_21015"
+    },
+    {
+      "id": 21016,
+      "wordId": 21016,
+      "arabic": "ذَاكَ",
+      "english": "That(m)",
+      "russian": "Тот(м.р.)",
+      "voiceKey": "part_1_less_21_words_21016"
+    },
+    {
+      "id": 21017,
+      "wordId": 21017,
+      "arabic": "حُبٌّ",
+      "english": "Love",
+      "russian": "Любовь",
+      "voiceKey": "part_1_less_21_words_21017"
+    }
+  ],
+  "22": [
+    {
+      "id": 22002,
+      "wordId": 22002,
+      "arabic": "أَزْرَقُ",
+      "english": "Blue",
+      "russian": "Синий",
+      "voiceKey": "part_1_less_22_words_22002"
+    },
+    {
+      "id": 22003,
+      "wordId": 22003,
+      "arabic": "أَسْوَدُ",
+      "english": "Black",
+      "russian": "Черный",
+      "voiceKey": "part_1_less_22_words_22003"
+    },
+    {
+      "id": 22004,
+      "wordId": 22004,
+      "arabic": "أَصْفَرُ",
+      "english": "Yellow",
+      "russian": "Желтый",
+      "voiceKey": "part_1_less_22_words_22004"
+    },
+    {
+      "id": 22005,
+      "wordId": 22005,
+      "arabic": "أَحْمَرُ",
+      "english": "Red",
+      "russian": "Красный",
+      "voiceKey": "part_1_less_22_words_22005"
+    },
+    {
+      "id": 22006,
+      "wordId": 22006,
+      "arabic": "أَبْيَضُ",
+      "english": "White",
+      "russian": "Белый",
+      "voiceKey": "part_1_less_22_words_22006"
+    },
+    {
+      "id": 22007,
+      "wordId": 22007,
+      "arabic": "أَخْضَرُ",
+      "english": "Green",
+      "russian": "Зеленый",
+      "voiceKey": "part_1_less_22_words_22007"
+    },
+    {
+      "id": 22008,
+      "wordId": 22008,
+      "arabic": "قَلِيلًا",
+      "english": "Few",
+      "russian": "Мало",
+      "voiceKey": "part_1_less_22_words_22008"
+    },
+    {
+      "id": 22009,
+      "wordId": 22009,
+      "arabic": "فِنْجَانٌ",
+      "english": "Cup",
+      "russian": "Чашка",
+      "voiceKey": "part_1_less_22_words_22009"
+    },
+    {
+      "id": 22010,
+      "wordId": 22010,
+      "arabic": "فَناجِينُ",
+      "english": "Cups",
+      "russian": "Чашки",
+      "voiceKey": "part_1_less_22_words_22010"
+    },
+    {
+      "id": 22011,
+      "wordId": 22011,
+      "arabic": "مَفاتيحُ",
+      "english": "Keys",
+      "russian": "Ключи",
+      "voiceKey": "part_1_less_22_words_22011"
+    },
+    {
+      "id": 22012,
+      "wordId": 22012,
+      "arabic": "مَدَارِسُ",
+      "english": "Schools",
+      "russian": "Школы",
+      "voiceKey": "part_1_less_22_words_22012"
+    },
+    {
+      "id": 22014,
+      "wordId": 22014,
+      "arabic": "دَقائِقُ",
+      "english": "Minutes",
+      "russian": "Минуты",
+      "voiceKey": "part_1_less_22_words_22014"
+    },
+    {
+      "id": 22015,
+      "wordId": 22015,
+      "arabic": "قَالَ",
+      "english": "He said",
+      "russian": "Он сказал",
+      "voiceKey": "part_1_less_22_words_22015"
+    },
+    {
+      "id": 22016,
+      "wordId": 22016,
+      "arabic": "قَالَتْ",
+      "english": "She said",
+      "russian": "Она сказала",
+      "voiceKey": "part_1_less_22_words_22016"
+    }
+  ]
+}

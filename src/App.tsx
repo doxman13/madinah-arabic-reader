@@ -1,10 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import lessonsData from './data/lessons.json';
-import dialoguesData from './data/dialogues.json';
-import vocabData from './data/vocab.json';
-import verbsData from './data/verbs.json';
-import grammarData from './data/grammar.json';
-
+import { ALL_BOOKS, getBookData } from './data';
 import { ActiveTab, LessonMeta, DialogueItem, VocabItem, VerbItem, ConjugationItem, GrammarItem } from './types';
 import { useAudio } from './hooks/useAudio';
 import { Header } from './components/Header';
@@ -18,10 +13,16 @@ import { FlashcardModal } from './components/FlashcardModal';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 export function App() {
-  const lessons: LessonMeta[] = lessonsData as LessonMeta[];
-  
+  // Current Book (default to 1 or saved)
+  const [currentBookId, setCurrentBookId] = useState<number>(() => {
+    const saved = localStorage.getItem('madinah_current_book');
+    return saved ? parseInt(saved, 10) : 1;
+  });
+
+  // Current Lesson for the active book
   const [currentLessonNum, setCurrentLessonNum] = useState<number>(() => {
-    const saved = localStorage.getItem('madinah_current_lesson');
+    const saved = localStorage.getItem(`madinah_b${currentBookId}_current_lesson`) || 
+      (currentBookId === 2 ? localStorage.getItem('madinah_current_lesson') : null);
     return saved ? parseInt(saved, 10) : 1;
   });
 
@@ -35,29 +36,65 @@ export function App() {
   const [arabicSize, setArabicSize] = useState<number>(32);
   const [isFlashcardOpen, setIsFlashcardOpen] = useState<boolean>(false);
 
-  const audio = useAudio();
+  // Audio Hook hooked to current active book
+  const audio = useAudio(currentBookId);
 
-  // Save current lesson to localStorage
+  // Fetch data bundle for the selected book
+  const bookData = getBookData(currentBookId);
+  const lessons: LessonMeta[] = bookData.lessons;
+
+  // Save book selection to localStorage
   useEffect(() => {
-    localStorage.setItem('madinah_current_lesson', currentLessonNum.toString());
-  }, [currentLessonNum]);
+    localStorage.setItem('madinah_current_book', currentBookId.toString());
+  }, [currentBookId]);
+
+  // Save lesson selection per book to localStorage
+  useEffect(() => {
+    localStorage.setItem(`madinah_b${currentBookId}_current_lesson`, currentLessonNum.toString());
+  }, [currentBookId, currentLessonNum]);
 
   // Save tashkeel preference to localStorage
   useEffect(() => {
     localStorage.setItem('madinah_show_tashkeel', showTashkeel.toString());
   }, [showTashkeel]);
 
+  // Handle Book switching
+  const handleSelectBook = (newBookId: number) => {
+    if (newBookId === currentBookId) return;
+    audio.stop();
+    setCurrentBookId(newBookId);
+    
+    // Restore or default lesson for the new book
+    const savedLesson = localStorage.getItem(`madinah_b${newBookId}_current_lesson`);
+    const newLessonNum = savedLesson ? parseInt(savedLesson, 10) : 1;
+    setCurrentLessonNum(newLessonNum);
+
+    // If on verbs tab and new book has no verbs, revert to dialogue
+    const newBookData = getBookData(newBookId);
+    const newVerbs = newBookData.verbs.verbs[newLessonNum.toString()] || [];
+    if (activeTab === 'verbs' && newVerbs.length === 0) {
+      setActiveTab('dialogue');
+    }
+  };
+
   // Current lesson data
-  const currentLessonMeta = lessons.find(l => l.lessonNumber === currentLessonNum) || lessons[0];
+  const currentLessonMeta = lessons.find(l => l.lessonNumber === currentLessonNum) || lessons[0] || {
+    lessonNumber: currentLessonNum,
+    title: `Lesson ${currentLessonNum}`,
+    dialogueCount: 0,
+    vocabCount: 0,
+    verbCount: 0,
+    conjugationCount: 0,
+    hasGrammar: false
+  };
   
-  const currentDialogues: DialogueItem[] = (dialoguesData as Record<string, DialogueItem[]>)[currentLessonNum.toString()] || [];
-  const currentVocab: VocabItem[] = (vocabData as Record<string, VocabItem[]>)[currentLessonNum.toString()] || [];
+  const currentDialogues: DialogueItem[] = bookData.dialogues[currentLessonNum.toString()] || [];
+  const currentVocab: VocabItem[] = bookData.vocab[currentLessonNum.toString()] || [];
   
-  const verbsMap = (verbsData as { verbs: Record<string, VerbItem[]>; conjugations: Record<string, ConjugationItem[]> });
-  const currentVerbs: VerbItem[] = verbsMap.verbs[currentLessonNum.toString()] || [];
-  const currentConjugations: ConjugationItem[] = verbsMap.conjugations[currentLessonNum.toString()] || [];
+  const currentVerbs: VerbItem[] = bookData.verbs.verbs[currentLessonNum.toString()] || [];
+  const currentConjugations: ConjugationItem[] = bookData.verbs.conjugations[currentLessonNum.toString()] || [];
   
-  const currentGrammar: GrammarItem[] = (grammarData as Record<string, GrammarItem[]>)[currentLessonNum.toString()] || [];
+  const currentGrammar: GrammarItem[] = bookData.grammar[currentLessonNum.toString()] || [];
 
   // Stop audio if lesson changes
   const handleSelectLesson = (num: number) => {
@@ -81,6 +118,9 @@ export function App() {
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex flex-col font-sans transition-colors">
       {/* Sidebar Drawer */}
       <LessonSidebar
+        books={ALL_BOOKS}
+        currentBookId={currentBookId}
+        onSelectBook={handleSelectBook}
         lessons={lessons}
         currentLessonNum={currentLessonNum}
         onSelectLesson={handleSelectLesson}
@@ -92,6 +132,9 @@ export function App() {
       <div className="flex-1 flex flex-col lg:pl-80 transition-all">
         {/* Navigation & Controls Header */}
         <Header
+          currentBookId={currentBookId}
+          onBookChange={handleSelectBook}
+          books={ALL_BOOKS}
           currentLessonNum={currentLessonNum}
           lessonTitle={currentLessonMeta.title}
           activeTab={activeTab}
@@ -112,6 +155,7 @@ export function App() {
           vocabCount={currentVocab.length}
           verbCount={currentVerbs.length}
           hasGrammar={currentGrammar.length > 0}
+          hasDualVoice={bookData.meta.hasDualVoice}
           onOpenFlashcards={() => setIsFlashcardOpen(true)}
         />
 
@@ -134,6 +178,7 @@ export function App() {
 
           {activeTab === 'exercise' && (
             <ExerciseView
+              bookId={currentBookId}
               dialogues={currentDialogues}
               vocab={currentVocab}
               currentLessonNum={currentLessonNum}
@@ -191,7 +236,7 @@ export function App() {
             </button>
 
             <span className="font-semibold text-slate-600 dark:text-slate-400">
-              Lesson {currentLessonNum} of {lessons.length}
+              Book {currentBookId} • Lesson {currentLessonNum} of {lessons.length}
             </span>
 
             <button
@@ -214,6 +259,7 @@ export function App() {
         dialogues={currentDialogues}
         onPlayAudio={audio.play}
         arabicSize={arabicSize}
+        showTashkeel={showTashkeel}
       />
     </div>
   );

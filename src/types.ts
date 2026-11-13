@@ -1,3 +1,13 @@
+export interface BookMeta {
+  id: number;
+  title: string;
+  arabicTitle: string;
+  lessonCount: number;
+  dialogueCount: number;
+  vocabCount: number;
+  hasDualVoice: boolean;
+}
+
 export interface LessonMeta {
   lessonNumber: number;
   title: string;

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { DialogueItem, VocabItem, VoiceGender } from '../types';
 import { 
   Check, 
@@ -9,15 +9,18 @@ import {
   Trophy, 
   Keyboard,
   Puzzle,
+  ChevronLeft,
   ChevronRight,
   ArrowRightLeft,
-  RotateCw,
   Trash2,
-  CheckCircle2
+  CheckCircle2,
+  LayoutGrid,
+  ListOrdered
 } from 'lucide-react';
 import { removeTashkeel } from '../utils/arabic';
 
 interface ExerciseViewProps {
+  bookId?: number;
   dialogues: DialogueItem[];
   vocab: VocabItem[];
   currentLessonNum: number;
@@ -43,6 +46,7 @@ interface ProgressRecord {
 }
 
 export const ExerciseView: React.FC<ExerciseViewProps> = ({
+  bookId = 1,
   dialogues,
   vocab,
   currentLessonNum,
@@ -51,21 +55,73 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
   gender,
   showTashkeel
 }) => {
-  const [currentIndex, setCurrentIndex] = useState(0);
   const [mode, setMode] = useState<ExerciseMode>('scramble');
   const [direction, setDirection] = useState<ExerciseDirection>('en-ar');
+  const [showGridModal, setShowGridModal] = useState<boolean>(false);
   
+  // Storage keys
+  const progressKey = `madinah_b${bookId}_lesson_${currentLessonNum}_progress`;
+  const qIndexKey = `madinah_b${bookId}_lesson_${currentLessonNum}_qIndex`;
+
   // Progress State from localStorage
-  const progressKey = `madinah_lesson_${currentLessonNum}_progress`;
   const [progress, setProgress] = useState<ProgressRecord>(() => {
     try {
-      const saved = localStorage.getItem(progressKey);
+      const saved = localStorage.getItem(progressKey) || (bookId === 2 ? localStorage.getItem(`madinah_lesson_${currentLessonNum}_progress`) : null);
       if (saved) return JSON.parse(saved);
     } catch (e) {
       console.error(e);
     }
     return { completedIds: [], score: 0, streak: 0 };
   });
+
+  // Load saved question index, bounds-checked
+  const [currentIndex, setCurrentIndex] = useState<number>(() => {
+    try {
+      const saved = localStorage.getItem(qIndexKey);
+      if (saved !== null) {
+        const idx = parseInt(saved, 10);
+        if (!isNaN(idx) && idx >= 0 && idx < dialogues.length) {
+          return idx;
+        }
+      }
+    } catch (e) {
+      console.error(e);
+    }
+    return 0;
+  });
+
+  // Re-sync index and progress when lesson or book changes
+  useEffect(() => {
+    try {
+      const savedProg = localStorage.getItem(progressKey) || (bookId === 2 ? localStorage.getItem(`madinah_lesson_${currentLessonNum}_progress`) : null);
+      if (savedProg) {
+        setProgress(JSON.parse(savedProg));
+      } else {
+        setProgress({ completedIds: [], score: 0, streak: 0 });
+      }
+
+      const savedIdx = localStorage.getItem(qIndexKey);
+      if (savedIdx !== null) {
+        const idx = parseInt(savedIdx, 10);
+        if (!isNaN(idx) && idx >= 0 && idx < dialogues.length) {
+          setCurrentIndex(idx);
+          return;
+        }
+      }
+    } catch (e) {
+      console.error(e);
+    }
+    setCurrentIndex(0);
+  }, [bookId, currentLessonNum, dialogues.length, progressKey, qIndexKey]);
+
+  // Save current question index whenever it changes
+  useEffect(() => {
+    try {
+      localStorage.setItem(qIndexKey, currentIndex.toString());
+    } catch (e) {
+      console.error(e);
+    }
+  }, [currentIndex, qIndexKey]);
 
   // Scramble mode state
   const [bankWords, setBankWords] = useState<Token[]>([]);
@@ -77,7 +133,21 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
   // Feedback
   const [status, setStatus] = useState<'idle' | 'correct' | 'incorrect'>('idle');
 
+  // Ref for auto-scrolling question pills into view
+  const activePillRef = useRef<HTMLButtonElement | null>(null);
+
   const currentItem: DialogueItem | undefined = dialogues[currentIndex];
+
+  // Auto-scroll active pill into view
+  useEffect(() => {
+    if (activePillRef.current) {
+      activePillRef.current.scrollIntoView({
+        behavior: 'smooth',
+        block: 'nearest',
+        inline: 'center'
+      });
+    }
+  }, [currentIndex]);
 
   // Determine current question direction (for mixed mode)
   const activeDirection: 'en-ar' | 'ar-en' = useMemo(() => {
@@ -128,6 +198,17 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
       setStatus('idle');
       setUserInput('');
       setSelectedWords([]);
+    }
+  };
+
+  // Navigate to any specific question index
+  const handleJumpToQuestion = (targetIndex: number) => {
+    if (targetIndex >= 0 && targetIndex < dialogues.length) {
+      setCurrentIndex(targetIndex);
+      setStatus('idle');
+      setUserInput('');
+      setSelectedWords([]);
+      setShowGridModal(false);
     }
   };
 
@@ -307,9 +388,15 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
 
   const handleNext = () => {
     if (currentIndex < dialogues.length - 1) {
-      setCurrentIndex(prev => prev + 1);
+      handleJumpToQuestion(currentIndex + 1);
     } else {
-      setCurrentIndex(0);
+      handleJumpToQuestion(0);
+    }
+  };
+
+  const handlePrev = () => {
+    if (currentIndex > 0) {
+      handleJumpToQuestion(currentIndex - 1);
     }
   };
 
@@ -351,8 +438,17 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
             </div>
           </div>
 
-          {/* Reset & Restart Button */}
+          {/* Question Grid Picker & Reset Button */}
           <div className="flex items-center gap-2 self-end sm:self-auto">
+            <button
+              onClick={() => setShowGridModal(true)}
+              className="px-3 py-1.5 rounded-xl border border-emerald-300 dark:border-emerald-800 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 text-xs font-semibold flex items-center gap-1.5 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors shadow-2xs"
+              title="Jump to any question"
+            >
+              <LayoutGrid className="w-3.5 h-3.5" />
+              <span>Jump to Question ({currentIndex + 1}/{dialogues.length})</span>
+            </button>
+
             <button
               onClick={handleResetLessonProgress}
               className="px-2.5 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-500 hover:text-rose-600 hover:border-rose-300 dark:hover:border-rose-900 text-xs font-medium flex items-center gap-1.5 transition-colors"
@@ -429,17 +525,77 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
         </div>
       </div>
 
-      {/* Progress Bar */}
-      <div className="space-y-1">
-        <div className="flex justify-between text-xs text-slate-500 px-1 font-medium">
-          <span>Question {currentIndex + 1} of {dialogues.length}</span>
-          {isCurrentCompleted && (
-            <span className="text-emerald-600 dark:text-emerald-400 flex items-center gap-1 font-semibold">
-              <CheckCircle2 className="w-3.5 h-3.5" /> Mastered
+      {/* Horizontal Question Ribbon (Quick Scrollable Jump Carousel) */}
+      <div className="space-y-2">
+        <div className="flex items-center justify-between text-xs text-slate-500 px-1 font-medium">
+          <div className="flex items-center gap-2">
+            <button
+              onClick={handlePrev}
+              disabled={currentIndex <= 0}
+              className="p-1 rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 disabled:pointer-events-none transition-colors"
+              title="Previous Question"
+            >
+              <ChevronLeft className="w-4 h-4" />
+            </button>
+            <span className="font-semibold text-slate-800 dark:text-slate-200">
+              Question {currentIndex + 1} of {dialogues.length}
             </span>
-          )}
+            <button
+              onClick={handleNext}
+              disabled={currentIndex >= dialogues.length - 1}
+              className="p-1 rounded-lg border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-30 disabled:pointer-events-none transition-colors"
+              title="Next Question"
+            >
+              <ChevronRight className="w-4 h-4" />
+            </button>
+          </div>
+
+          <div className="flex items-center gap-2">
+            {isCurrentCompleted && (
+              <span className="text-emerald-600 dark:text-emerald-400 flex items-center gap-1 font-semibold text-xs">
+                <CheckCircle2 className="w-3.5 h-3.5" /> Mastered
+              </span>
+            )}
+            <button
+              onClick={() => setShowGridModal(true)}
+              className="text-xs text-slate-500 hover:text-emerald-600 dark:hover:text-emerald-400 flex items-center gap-1 font-medium"
+            >
+              <ListOrdered className="w-3.5 h-3.5" />
+              <span>All Questions</span>
+            </button>
+          </div>
         </div>
-        <div className="w-full bg-slate-200 dark:bg-slate-800 h-2 rounded-full overflow-hidden">
+
+        {/* Scrollable Number Strip */}
+        <div className="flex items-center gap-1.5 overflow-x-auto pb-1.5 scrollbar-thin px-0.5">
+          {dialogues.map((d, idx) => {
+            const isCompleted = progress.completedIds.includes(d.id);
+            const isCurrent = idx === currentIndex;
+            return (
+              <button
+                key={d.id}
+                ref={isCurrent ? activePillRef : null}
+                onClick={() => handleJumpToQuestion(idx)}
+                className={`min-w-[34px] h-8 px-2 rounded-xl text-xs font-bold transition-all flex items-center justify-center shrink-0 border ${
+                  isCurrent
+                    ? 'bg-emerald-600 text-white border-emerald-600 shadow-xs ring-2 ring-emerald-500/30 scale-105'
+                    : isCompleted
+                    ? 'bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-400 border-emerald-200 dark:border-emerald-800 hover:bg-emerald-100'
+                    : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-400 border-slate-200 dark:border-slate-800 hover:bg-slate-50 dark:hover:bg-slate-800'
+                }`}
+                title={`Question ${idx + 1}${isCompleted ? ' (Mastered)' : ''}`}
+              >
+                <span>{idx + 1}</span>
+                {isCompleted && !isCurrent && (
+                  <span className="ml-1 text-[10px] text-emerald-500">✓</span>
+                )}
+              </button>
+            );
+          })}
+        </div>
+
+        {/* Progress Bar Line */}
+        <div className="w-full bg-slate-200 dark:bg-slate-800 h-1.5 rounded-full overflow-hidden">
           <div
             className="bg-emerald-500 h-full transition-all duration-300 rounded-full"
             style={{ width: `${((currentIndex + 1) / dialogues.length) * 100}%` }}
@@ -638,12 +794,22 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
         <div className="flex items-center justify-between pt-2 border-t border-slate-100 dark:border-slate-800">
           <div className="flex items-center gap-2">
             <button
+              onClick={handlePrev}
+              disabled={currentIndex <= 0}
+              className="px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-40 disabled:pointer-events-none text-xs font-medium flex items-center gap-1 transition-colors"
+            >
+              <ChevronLeft className="w-3.5 h-3.5" />
+              <span>Previous</span>
+            </button>
+
+            <button
               onClick={handleRetryCurrent}
               className="p-2 rounded-xl text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
               title="Reset current question"
             >
               <RotateCcw className="w-4 h-4" />
             </button>
+            
             <button
               onClick={handleNext}
               className="px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-500 hover:text-slate-800 dark:hover:text-white text-xs font-medium transition-colors"
@@ -673,6 +839,84 @@ export const ExerciseView: React.FC<ExerciseViewProps> = ({
           </div>
         </div>
       </div>
+
+      {/* Question Grid Modal / Drawer */}
+      {showGridModal && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs animate-fade-in">
+          <div className="bg-white dark:bg-slate-900 w-full max-w-lg rounded-3xl p-6 border border-slate-200 dark:border-slate-800 shadow-xl max-h-[85vh] flex flex-col space-y-4">
+            <div className="flex items-center justify-between pb-3 border-b border-slate-100 dark:border-slate-800">
+              <div>
+                <h3 className="text-base font-bold text-slate-900 dark:text-white flex items-center gap-2">
+                  <LayoutGrid className="w-5 h-5 text-emerald-600" />
+                  Jump to Question
+                </h3>
+                <p className="text-xs text-slate-500 dark:text-slate-400">
+                  Select any question to jump directly to it
+                </p>
+              </div>
+              <button
+                onClick={() => setShowGridModal(false)}
+                className="p-1.5 rounded-xl text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 transition-colors"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* Stats legend */}
+            <div className="flex items-center justify-between text-xs px-1 text-slate-500">
+              <span className="flex items-center gap-1.5">
+                <span className="w-3 h-3 rounded-full bg-emerald-500 inline-block" />
+                Mastered ({progress.completedIds.length})
+              </span>
+              <span className="flex items-center gap-1.5">
+                <span className="w-3 h-3 rounded-full ring-2 ring-emerald-500 bg-white dark:bg-slate-800 inline-block" />
+                Current (#{currentIndex + 1})
+              </span>
+              <span className="flex items-center gap-1.5">
+                <span className="w-3 h-3 rounded-full bg-slate-200 dark:bg-slate-700 inline-block" />
+                Remaining ({dialogues.length - progress.completedIds.length})
+              </span>
+            </div>
+
+            {/* Grid list */}
+            <div className="flex-1 overflow-y-auto grid grid-cols-5 sm:grid-cols-6 gap-2.5 p-1 scrollbar-thin">
+              {dialogues.map((d, idx) => {
+                const isCompleted = progress.completedIds.includes(d.id);
+                const isCurrent = idx === currentIndex;
+                return (
+                  <button
+                    key={d.id}
+                    onClick={() => handleJumpToQuestion(idx)}
+                    className={`h-12 rounded-2xl font-bold text-xs flex flex-col items-center justify-center gap-0.5 border transition-all ${
+                      isCurrent
+                        ? 'bg-emerald-600 text-white border-emerald-600 shadow-md ring-2 ring-emerald-400/50 scale-105'
+                        : isCompleted
+                        ? 'bg-emerald-50 dark:bg-emerald-950/50 text-emerald-700 dark:text-emerald-300 border-emerald-300 dark:border-emerald-800 hover:bg-emerald-100'
+                        : 'bg-slate-50 dark:bg-slate-800/60 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-700 hover:border-emerald-400 hover:bg-slate-100'
+                    }`}
+                  >
+                    <span>#{idx + 1}</span>
+                    {isCompleted ? (
+                      <span className="text-[10px] text-emerald-600 dark:text-emerald-400">✓ done</span>
+                    ) : (
+                      <span className="text-[9px] text-slate-400">ready</span>
+                    )}
+                  </button>
+                );
+              })}
+            </div>
+
+            <div className="pt-2 border-t border-slate-100 dark:border-slate-800 flex justify-end">
+              <button
+                onClick={() => setShowGridModal(false)}
+                className="px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 text-xs font-semibold hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

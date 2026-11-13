@@ -1,0 +1,4876 @@
+{
+  "1": [
+    {
+      "id": 591,
+      "wordId": 1001,
+      "arabic": "مَحَلٌ",
+      "english": "Place",
+      "russian": "Место",
+      "voiceKey": "words_1_1001"
+    },
+    {
+      "id": 592,
+      "wordId": 1002,
+      "arabic": "مَحَلَّاتٌ",
+      "english": "Places",
+      "russian": "Место (мн.ч)",
+      "voiceKey": "words_1_1002"
+    },
+    {
+      "id": 593,
+      "wordId": 1003,
+      "arabic": "حَمْوٌ",
+      "english": "Father-in-law, mother-in-law",
+      "russian": "Тесть, свекровь",
+      "voiceKey": "words_1_1003"
+    },
+    {
+      "id": 594,
+      "wordId": 1004,
+      "arabic": "أَحْمَاءُ",
+      "english": "Father-in-law, mother-in-law(pl)",
+      "russian": "Тесть, свекровь(мн.ч)",
+      "voiceKey": "words_1_1004"
+    },
+    {
+      "id": 595,
+      "wordId": 1005,
+      "arabic": "فُو",
+      "english": "Mouth",
+      "russian": "Рот",
+      "voiceKey": "words_1_1005"
+    },
+    {
+      "id": 596,
+      "wordId": 1006,
+      "arabic": "أَفْعِى",
+      "english": "Snake, viper",
+      "russian": "Змея, гадюка",
+      "voiceKey": "words_1_1006"
+    },
+    {
+      "id": 597,
+      "wordId": 1007,
+      "arabic": "أَفَاعٍ",
+      "english": "Snakes, vipers",
+      "russian": "Змеи, гадюки",
+      "voiceKey": "words_1_1007"
+    },
+    {
+      "id": 598,
+      "wordId": 1008,
+      "arabic": "مُحَام",
+      "english": "Lawyer",
+      "russian": "Адвокат",
+      "voiceKey": "words_1_1008"
+    },
+    {
+      "id": 599,
+      "wordId": 1009,
+      "arabic": "مُحَامِيَةٌ",
+      "english": "Lawyers",
+      "russian": "Адвокаты",
+      "voiceKey": "words_1_1009"
+    },
+    {
+      "id": 600,
+      "wordId": 1010,
+      "arabic": "وَادٍ",
+      "english": "Valley",
+      "russian": "Долина",
+      "voiceKey": "words_1_1010"
+    },
+    {
+      "id": 601,
+      "wordId": 1011,
+      "arabic": "أَوْدِيَةٌ",
+      "english": "Valleys",
+      "russian": "Долины",
+      "voiceKey": "words_1_1011"
+    },
+    {
+      "id": 602,
+      "wordId": 1012,
+      "arabic": "جَانٍ",
+      "english": "Criminal",
+      "russian": "Преступник",
+      "voiceKey": "words_1_1012"
+    },
+    {
+      "id": 603,
+      "wordId": 1013,
+      "arabic": "جَانِيَةٌ",
+      "english": "Criminals",
+      "russian": "Преступники",
+      "voiceKey": "words_1_1013"
+    },
+    {
+      "id": 604,
+      "wordId": 1014,
+      "arabic": "جَرِيحٌ",
+      "english": "Wounded(sg)",
+      "russian": "Раненый",
+      "voiceKey": "words_1_1014"
+    },
+    {
+      "id": 605,
+      "wordId": 1015,
+      "arabic": "جَارْحَى",
+      "english": "Wounded(pl)",
+      "russian": "Раненые",
+      "voiceKey": "words_1_1015"
+    }
+  ],
+  "2": [
+    {
+      "id": 492,
+      "wordId": 2001,
+      "arabic": "طَلَعَ",
+      "english": "Rised, ascended",
+      "russian": "Поднимался, восходил",
+      "voiceKey": "words_2_2001"
+    },
+    {
+      "id": 493,
+      "wordId": 2002,
+      "arabic": "يَطْلُعُ",
+      "english": "Rises, ascends",
+      "russian": "Поднимается, восходит",
+      "voiceKey": "words_2_2002"
+    },
+    {
+      "id": 494,
+      "wordId": 2003,
+      "arabic": "مَكْتُوبٌ",
+      "english": "Written",
+      "russian": "Написанный",
+      "voiceKey": "words_2_2003"
+    },
+    {
+      "id": 495,
+      "wordId": 2004,
+      "arabic": "كَمَا تَشَاءُ",
+      "english": "As you wish (do you want)",
+      "russian": "Как ты желаешь (хочешь)",
+      "voiceKey": "words_2_2004"
+    },
+    {
+      "id": 496,
+      "wordId": 2005,
+      "arabic": "مُتَّفَقٌ",
+      "english": "Agreed",
+      "russian": "Согласованный",
+      "voiceKey": "words_2_2005"
+    },
+    {
+      "id": 497,
+      "wordId": 2006,
+      "arabic": "أَيْ",
+      "english": "That is",
+      "russian": "То есть",
+      "voiceKey": "words_2_2006"
+    },
+    {
+      "id": 498,
+      "wordId": 2007,
+      "arabic": "خَطَبَ",
+      "english": "Delivered a sermon",
+      "russian": "Произносил проповедь",
+      "voiceKey": "words_2_2007"
+    },
+    {
+      "id": 499,
+      "wordId": 2008,
+      "arabic": "يَخْطُبُ",
+      "english": "Gives a sermon",
+      "russian": "Произносит проповедь",
+      "voiceKey": "words_2_2008"
+    },
+    {
+      "id": 500,
+      "wordId": 2009,
+      "arabic": "صَيْدٌ",
+      "english": "Hunting",
+      "russian": "Охота",
+      "voiceKey": "words_2_2009"
+    },
+    {
+      "id": 501,
+      "wordId": 2010,
+      "arabic": "سُكَارَى",
+      "english": "Drunk(pl)",
+      "russian": "Пьяные(мн. ч.)",
+      "voiceKey": "words_2_2010"
+    },
+    {
+      "id": 502,
+      "wordId": 2011,
+      "arabic": "وَدَاعٌ",
+      "english": "Parting",
+      "russian": "Прощание",
+      "voiceKey": "words_2_2011"
+    },
+    {
+      "id": 503,
+      "wordId": 2012,
+      "arabic": "غَرَبَ",
+      "english": "[the sun] went down",
+      "russian": "Заходил (солнце)",
+      "voiceKey": "words_2_2012"
+    },
+    {
+      "id": 504,
+      "wordId": 2013,
+      "arabic": "يَغْرُبُ",
+      "english": "[the sun is] setting",
+      "russian": "Заходит (солнце)",
+      "voiceKey": "words_2_2013"
+    },
+    {
+      "id": 505,
+      "wordId": 2014,
+      "arabic": "مُذِيعٌ",
+      "english": "Director",
+      "russian": "Диктор",
+      "voiceKey": "words_2_2014"
+    },
+    {
+      "id": 506,
+      "wordId": 2015,
+      "arabic": "أَقَامَ",
+      "english": "Has committed, performed",
+      "russian": "Совершил, исполнил",
+      "voiceKey": "words_2_2015"
+    },
+    {
+      "id": 507,
+      "wordId": 2016,
+      "arabic": "يُقِيمُ",
+      "english": "Performs",
+      "russian": "Совершает, исполняет",
+      "voiceKey": "words_2_2016"
+    },
+    {
+      "id": 508,
+      "wordId": 2017,
+      "arabic": "وَارِدٌ",
+      "english": "Arriving, entering",
+      "russian": "Прибывающий, поступающий",
+      "voiceKey": "words_2_2017"
+    },
+    {
+      "id": 509,
+      "wordId": 2018,
+      "arabic": "نَطَقَ",
+      "english": "Spoke, expounded",
+      "russian": "Говорил, излагал",
+      "voiceKey": "words_2_2018"
+    },
+    {
+      "id": 510,
+      "wordId": 2019,
+      "arabic": "يَنْطِقُ",
+      "english": "Speak, expound",
+      "russian": "Говорить, излагает",
+      "voiceKey": "words_2_2019"
+    },
+    {
+      "id": 511,
+      "wordId": 2020,
+      "arabic": "فَرِحٌ",
+      "english": "Glad",
+      "russian": "Радостный",
+      "voiceKey": "words_2_2020"
+    },
+    {
+      "id": 512,
+      "wordId": 2021,
+      "arabic": "حِزْبٌ",
+      "english": "Party (political)",
+      "russian": "Партия (политическая)",
+      "voiceKey": "words_2_2021"
+    },
+    {
+      "id": 513,
+      "wordId": 2022,
+      "arabic": "جَارِيَةٌ",
+      "english": "Slave(f)",
+      "russian": "Невольница, рабыня",
+      "voiceKey": "words_2_2022"
+    },
+    {
+      "id": 514,
+      "wordId": 2023,
+      "arabic": "مَاشِيَةٌ",
+      "english": "Livestock(sg)",
+      "russian": "Скот(ед. ч.)",
+      "voiceKey": "words_2_2023"
+    },
+    {
+      "id": 515,
+      "wordId": 2024,
+      "arabic": "نَادٍ",
+      "english": "Club, meeting",
+      "russian": "Клуб, собрание",
+      "voiceKey": "words_2_2024"
+    },
+    {
+      "id": 516,
+      "wordId": 2025,
+      "arabic": "كَوْنٌ",
+      "english": "Genesis, existence",
+      "russian": "Бытие, существование",
+      "voiceKey": "words_2_2025"
+    },
+    {
+      "id": 517,
+      "wordId": 2026,
+      "arabic": "كما يأتي",
+      "english": "As follow below",
+      "russian": "Как следует ниже",
+      "voiceKey": "words_2_2026"
+    },
+    {
+      "id": 518,
+      "wordId": 2027,
+      "arabic": "شَبْعَانُ",
+      "english": "Satiy",
+      "russian": "Сытый",
+      "voiceKey": "words_2_2027"
+    },
+    {
+      "id": 519,
+      "wordId": 2028,
+      "arabic": "ذَكَرَ",
+      "english": "Mentioned",
+      "russian": "Упоминал",
+      "voiceKey": "words_2_2028"
+    },
+    {
+      "id": 520,
+      "wordId": 2029,
+      "arabic": "يَذْكُرُ",
+      "english": "Mentions",
+      "russian": "Упоминает",
+      "voiceKey": "words_2_2029"
+    },
+    {
+      "id": 521,
+      "wordId": 2030,
+      "arabic": "كَفَرَ",
+      "english": "Didn't believe",
+      "russian": "Не верил (быть неверующим)",
+      "voiceKey": "words_2_2030"
+    },
+    {
+      "id": 522,
+      "wordId": 2031,
+      "arabic": "يَكْفُرُ",
+      "english": "Does not believe",
+      "russian": "Не верит (быть неверующим)",
+      "voiceKey": "words_2_2031"
+    },
+    {
+      "id": 523,
+      "wordId": 2032,
+      "arabic": "كُفَّارٌ",
+      "english": "Unbelievers",
+      "russian": "Неверующие",
+      "voiceKey": "words_2_2032"
+    },
+    {
+      "id": 524,
+      "wordId": 2033,
+      "arabic": "لَعْنَةٌ",
+      "english": "Curse",
+      "russian": "Проклятие",
+      "voiceKey": "words_2_2033"
+    },
+    {
+      "id": 525,
+      "wordId": 2034,
+      "arabic": "مَلاَئِكَةٌ",
+      "english": "Angels",
+      "russian": "Ангелы",
+      "voiceKey": "words_2_2034"
+    },
+    {
+      "id": 526,
+      "wordId": 2035,
+      "arabic": "أَجْمَعُونَ",
+      "english": "All",
+      "russian": "Всех",
+      "voiceKey": "words_2_2035"
+    },
+    {
+      "id": 527,
+      "wordId": 2036,
+      "arabic": "قَوْلٌ",
+      "english": "Words, speech, statement",
+      "russian": "Слова, речь, высказывание",
+      "voiceKey": "words_2_2036"
+    },
+    {
+      "id": 528,
+      "wordId": 2037,
+      "arabic": "حَرَامٌ",
+      "english": "Forbidden",
+      "russian": "Запретный",
+      "voiceKey": "words_2_2037"
+    },
+    {
+      "id": 529,
+      "wordId": 2038,
+      "arabic": "مُحْرِمٌ",
+      "english": "Pilgrim wearing ihram",
+      "russian": "Паломник надевший ихрам",
+      "voiceKey": "words_2_2038"
+    },
+    {
+      "id": 530,
+      "wordId": 2039,
+      "arabic": "مَيَّزَ",
+      "english": "Distinguished",
+      "russian": "Отличил",
+      "voiceKey": "words_2_2039"
+    },
+    {
+      "id": 531,
+      "wordId": 2040,
+      "arabic": "يُمَيِّزُ",
+      "english": "Distinguishes",
+      "russian": "Отличает",
+      "voiceKey": "words_2_2040"
+    },
+    {
+      "id": 532,
+      "wordId": 2041,
+      "arabic": "نَوْعٌ",
+      "english": "View",
+      "russian": "Вид",
+      "voiceKey": "words_2_2041"
+    },
+    {
+      "id": 533,
+      "wordId": 2042,
+      "arabic": "وَرَدَ",
+      "english": "Arrive, come, have, meet (in the text فى )",
+      "russian": "Прибывать, приходить, иметься, встречаться (в тексте فى )",
+      "voiceKey": "words_2_2042"
+    },
+    {
+      "id": 534,
+      "wordId": 2043,
+      "arabic": "إِشْفَاقٌ",
+      "english": "Pity, compassion",
+      "russian": "Жалость, сострадание",
+      "voiceKey": "words_2_2043"
+    },
+    {
+      "id": 535,
+      "wordId": 2044,
+      "arabic": "اِتَّضَحَ",
+      "english": "Found out",
+      "russian": "Выяснял",
+      "voiceKey": "words_2_2044"
+    },
+    {
+      "id": 536,
+      "wordId": 2045,
+      "arabic": "يَتَّضِحُ",
+      "english": "Find out",
+      "russian": "Выясняться",
+      "voiceKey": "words_2_2045"
+    },
+    {
+      "id": 537,
+      "wordId": 2046,
+      "arabic": "مَلاَعِقُ",
+      "english": "Spoons",
+      "russian": "Ложки",
+      "voiceKey": "words_2_2046"
+    },
+    {
+      "id": 538,
+      "wordId": 2047,
+      "arabic": "نَشْرَةُ الأخْبَارِ",
+      "english": "Last news (broadcast by radio)",
+      "russian": "Последние известия (передаваемые по радио)",
+      "voiceKey": "words_2_2047"
+    },
+    {
+      "id": 539,
+      "wordId": 2048,
+      "arabic": "اِسْتَجِبْ",
+      "english": "Answer",
+      "russian": "Ответь",
+      "voiceKey": "words_2_2048"
+    },
+    {
+      "id": 540,
+      "wordId": 2049,
+      "arabic": "شُرُوطٌ",
+      "english": "Terms",
+      "russian": "Условия",
+      "voiceKey": "words_2_2049"
+    },
+    {
+      "id": 541,
+      "wordId": 2050,
+      "arabic": "نَهْيٌ",
+      "english": "Prohibition",
+      "russian": "Запрещение",
+      "voiceKey": "words_2_2050"
+    },
+    {
+      "id": 542,
+      "wordId": 2051,
+      "arabic": "قَلَبَ",
+      "english": "Changed",
+      "russian": "Изменял, превращал",
+      "voiceKey": "words_2_2051"
+    },
+    {
+      "id": 543,
+      "wordId": 2052,
+      "arabic": "يَقْلِبُ",
+      "english": "Changes",
+      "russian": "Изменяет, превращает",
+      "voiceKey": "words_2_2052"
+    },
+    {
+      "id": 544,
+      "wordId": 2053,
+      "arabic": "تَنْزِيلٌ",
+      "english": "Revelation sent down",
+      "russian": "Ниспосланное откровение",
+      "voiceKey": "words_2_2053"
+    },
+    {
+      "id": 545,
+      "wordId": 2054,
+      "arabic": "حَقٌّ",
+      "english": "True",
+      "russian": "Истина.",
+      "voiceKey": "words_2_2054"
+    },
+    {
+      "id": 546,
+      "wordId": 2055,
+      "arabic": "صِيغَةٌ",
+      "english": "Formula",
+      "russian": "Формула",
+      "voiceKey": "words_2_2055"
+    },
+    {
+      "id": 547,
+      "wordId": 2056,
+      "arabic": "مَزِيدٌ",
+      "english": "Increase, addition",
+      "russian": "Увеличение, прибавление",
+      "voiceKey": "words_2_2056"
+    },
+    {
+      "id": 548,
+      "wordId": 2057,
+      "arabic": "ضِدٌّ",
+      "english": "Opposite",
+      "russian": "Противоположность",
+      "voiceKey": "words_2_2057"
+    },
+    {
+      "id": 549,
+      "wordId": 2058,
+      "arabic": "مُتْعَبٌ",
+      "english": "Tired",
+      "russian": "Утомлённый",
+      "voiceKey": "words_2_2058"
+    },
+    {
+      "id": 550,
+      "wordId": 2059,
+      "arabic": "صَائِمٌ",
+      "english": "Fasting",
+      "russian": "Постящийся",
+      "voiceKey": "words_2_2059"
+    },
+    {
+      "id": 551,
+      "wordId": 2060,
+      "arabic": "سَبَقَ",
+      "english": "Preceded",
+      "russian": "Предшествовал",
+      "voiceKey": "words_2_2060"
+    },
+    {
+      "id": 552,
+      "wordId": 2061,
+      "arabic": "يَسْبِقُ",
+      "english": "Preced",
+      "russian": "Предшествуют",
+      "voiceKey": "words_2_2061"
+    },
+    {
+      "id": 553,
+      "wordId": 2062,
+      "arabic": "سَكْرَانُ",
+      "english": "Drunk",
+      "russian": "Пьяный",
+      "voiceKey": "words_2_2062"
+    },
+    {
+      "id": 554,
+      "wordId": 2063,
+      "arabic": "مَوَاشٍ",
+      "english": "Livestock(pl)",
+      "russian": "Скот(мн.ч)",
+      "voiceKey": "words_2_2063"
+    },
+    {
+      "id": 555,
+      "wordId": 2064,
+      "arabic": "دَاعِيَةٌ",
+      "english": "Cause, occasion(sg)",
+      "russian": "Причина, повод(ед.ч.)",
+      "voiceKey": "words_2_2064"
+    },
+    {
+      "id": 556,
+      "wordId": 2065,
+      "arabic": "دَوَاعٍ",
+      "english": "Cause, occasion(pl)",
+      "russian": "Причина, повод(мн. ч.)",
+      "voiceKey": "words_2_2065"
+    },
+    {
+      "id": 557,
+      "wordId": 2066,
+      "arabic": "نَوَادٍ",
+      "english": "Club, meeting(pl)",
+      "russian": "Клуб, собрание(мн. ч.)",
+      "voiceKey": "words_2_2066"
+    },
+    {
+      "id": 558,
+      "wordId": 2067,
+      "arabic": "لَيَالٍ",
+      "english": "Nights",
+      "russian": "Ночи",
+      "voiceKey": "words_2_2067"
+    },
+    {
+      "id": 559,
+      "wordId": 2068,
+      "arabic": "أَقَامَ",
+      "english": "He committed",
+      "russian": "Он совершил",
+      "voiceKey": "words_2_2068"
+    },
+    {
+      "id": 560,
+      "wordId": 2069,
+      "arabic": "يُقِيمُ",
+      "english": "He commits",
+      "russian": "Он совершает",
+      "voiceKey": "words_2_2069"
+    },
+    {
+      "id": 561,
+      "wordId": 2070,
+      "arabic": "أِقِمْ",
+      "english": "Make (imperative mood)",
+      "russian": "Соверши (пов. наклон)",
+      "voiceKey": "words_2_2070"
+    }
+  ],
+  "3": [
+    {
+      "id": 320,
+      "wordId": 3001,
+      "arabic": "تَأَخَّرَ",
+      "english": "Be late",
+      "russian": "Опаздывать",
+      "voiceKey": "words_3_3001"
+    },
+    {
+      "id": 321,
+      "wordId": 3002,
+      "arabic": "عَوَّضَ",
+      "english": "Reimburse, compensate",
+      "russian": "Возмещать, компенсировать",
+      "voiceKey": "words_3_3002"
+    },
+    {
+      "id": 322,
+      "wordId": 3003,
+      "arabic": "وَلَدَ",
+      "english": "Give birth",
+      "russian": "Рожать",
+      "voiceKey": "words_3_3003"
+    },
+    {
+      "id": 323,
+      "wordId": 3004,
+      "arabic": "إِذًا",
+      "english": "So, therefore, in such a case",
+      "russian": "Итак, следовательно, в таком случае",
+      "voiceKey": "words_3_3004"
+    },
+    {
+      "id": 324,
+      "wordId": 3005,
+      "arabic": "قَاعِدَةٌ",
+      "english": "Rule",
+      "russian": "Правило",
+      "voiceKey": "words_3_3005"
+    },
+    {
+      "id": 325,
+      "wordId": 3006,
+      "arabic": "مُهِمٌّ",
+      "english": "Important, significant",
+      "russian": "Важный, значительный",
+      "voiceKey": "words_3_3006"
+    },
+    {
+      "id": 326,
+      "wordId": 3007,
+      "arabic": "مَعلُومٌ",
+      "english": "Famous",
+      "russian": "Известный",
+      "voiceKey": "words_3_3007"
+    },
+    {
+      "id": 327,
+      "wordId": 3008,
+      "arabic": "مَجْهُولٌ",
+      "english": "Unknown",
+      "russian": "Неизвестный",
+      "voiceKey": "words_3_3008"
+    },
+    {
+      "id": 328,
+      "wordId": 3009,
+      "arabic": "سَرَقَ",
+      "english": "He stole",
+      "russian": "Он воровал",
+      "voiceKey": "words_3_3009"
+    },
+    {
+      "id": 329,
+      "wordId": 3010,
+      "arabic": "يَسْرِقُ",
+      "english": "He steals",
+      "russian": "Он ворует",
+      "voiceKey": "words_3_3010"
+    },
+    {
+      "id": 330,
+      "wordId": 3011,
+      "arabic": "مُعْظَمٌ",
+      "english": "Large, main part (of something)",
+      "russian": "Большая, главная часть (чего-либо)",
+      "voiceKey": "words_3_3011"
+    },
+    {
+      "id": 331,
+      "wordId": 3012,
+      "arabic": "وُلِدَ",
+      "english": "Born",
+      "russian": "Родился",
+      "voiceKey": "words_3_3012"
+    },
+    {
+      "id": 332,
+      "wordId": 3013,
+      "arabic": "حَلَّ",
+      "english": "Takes up space (past simple)",
+      "russian": "Занимал место",
+      "voiceKey": "words_3_3013"
+    },
+    {
+      "id": 333,
+      "wordId": 3014,
+      "arabic": "يَحُلُّ",
+      "english": "Takes up space (pres. simple)",
+      "russian": "Занимает место",
+      "voiceKey": "words_3_3014"
+    },
+    {
+      "id": 334,
+      "wordId": 3015,
+      "arabic": "جُنْدِيٌّ",
+      "english": "Soldier",
+      "russian": "Солдат",
+      "voiceKey": "words_3_3015"
+    },
+    {
+      "id": 335,
+      "wordId": 3016,
+      "arabic": "جَاسُوسٌ",
+      "english": "Spy",
+      "russian": "Шпион",
+      "voiceKey": "words_3_3016"
+    },
+    {
+      "id": 336,
+      "wordId": 3017,
+      "arabic": "وُضُوحٌ",
+      "english": "Clarity",
+      "russian": "Ясность",
+      "voiceKey": "words_3_3017"
+    },
+    {
+      "id": 337,
+      "wordId": 3018,
+      "arabic": "حَرْبٌ",
+      "english": "War",
+      "russian": "Война",
+      "voiceKey": "words_3_3018"
+    },
+    {
+      "id": 338,
+      "wordId": 3019,
+      "arabic": "عَوْنٌ",
+      "english": "Help",
+      "russian": "Помощь",
+      "voiceKey": "words_3_3019"
+    },
+    {
+      "id": 339,
+      "wordId": 3020,
+      "arabic": "لَدَغَ",
+      "english": "Bite (past simple)",
+      "russian": "Кусал, жалил",
+      "voiceKey": "words_3_3020"
+    },
+    {
+      "id": 340,
+      "wordId": 3021,
+      "arabic": "يَلْدَغُ",
+      "english": "Bite (pres. simple)",
+      "russian": "Кусает, жалит",
+      "voiceKey": "words_3_3021"
+    },
+    {
+      "id": 341,
+      "wordId": 3022,
+      "arabic": "جُحْرٌ",
+      "english": "Nora",
+      "russian": "Нора",
+      "voiceKey": "words_3_3022"
+    },
+    {
+      "id": 342,
+      "wordId": 3023,
+      "arabic": "سَارِقٌ",
+      "english": "Thief",
+      "russian": "Вор",
+      "voiceKey": "words_3_3023"
+    },
+    {
+      "id": 343,
+      "wordId": 3024,
+      "arabic": "قَطَعَ",
+      "english": "Cut (past simple)",
+      "russian": "Резал, отрезал",
+      "voiceKey": "words_3_3024"
+    },
+    {
+      "id": 344,
+      "wordId": 3025,
+      "arabic": "يَقْطَعُ",
+      "english": "Cut (pres. simple)",
+      "russian": "Режет, отрезает",
+      "voiceKey": "words_3_3025"
+    },
+    {
+      "id": 345,
+      "wordId": 3026,
+      "arabic": "قُبِضَ",
+      "english": "Pass away",
+      "russian": "Скончаться",
+      "voiceKey": "words_3_3026"
+    },
+    {
+      "id": 346,
+      "wordId": 3027,
+      "arabic": "آتَى",
+      "english": "Giving",
+      "russian": "Давать",
+      "voiceKey": "words_3_3027"
+    },
+    {
+      "id": 347,
+      "wordId": 3028,
+      "arabic": "بَوَّابٌ",
+      "english": "Gatekeeper, the doorman, street cleaner",
+      "russian": "Привратник, швейцар; дворник",
+      "voiceKey": "words_3_3028"
+    },
+    {
+      "id": 348,
+      "wordId": 3029,
+      "arabic": "ذَبَحَ",
+      "english": "Stab [the animal]",
+      "russian": "Закалывать",
+      "voiceKey": "words_3_3029"
+    },
+    {
+      "id": 349,
+      "wordId": 3030,
+      "arabic": "صَلَبَ",
+      "english": "He crucified",
+      "russian": "Он распял",
+      "voiceKey": "words_3_3030"
+    },
+    {
+      "id": 350,
+      "wordId": 3031,
+      "arabic": "يَصْلِبُ",
+      "english": "He crucifies",
+      "russian": "Он распинает",
+      "voiceKey": "words_3_3031"
+    },
+    {
+      "id": 351,
+      "wordId": 3032,
+      "arabic": "وَثَنٌ",
+      "english": "Idol",
+      "russian": "Идол",
+      "voiceKey": "words_3_3032"
+    },
+    {
+      "id": 352,
+      "wordId": 3033,
+      "arabic": "أَوْثَانٌ",
+      "english": "Idols",
+      "russian": "Идолы",
+      "voiceKey": "words_3_3033"
+    },
+    {
+      "id": 353,
+      "wordId": 3034,
+      "arabic": "صَوْتٌ",
+      "english": "Voice, sound",
+      "russian": "Голос, звук",
+      "voiceKey": "words_3_3034"
+    },
+    {
+      "id": 354,
+      "wordId": 3035,
+      "arabic": "مُتَأَخِّرٌ",
+      "english": "Late [to class] (pres. cont.)",
+      "russian": "Опаздывающий",
+      "voiceKey": "words_3_3035"
+    },
+    {
+      "id": 355,
+      "wordId": 3036,
+      "arabic": "حُكُومَةٌ",
+      "english": "State, governing body",
+      "russian": "Государство, правление",
+      "voiceKey": "words_3_3036"
+    },
+    {
+      "id": 356,
+      "wordId": 3037,
+      "arabic": "صَبَّ",
+      "english": "Poured",
+      "russian": "Лил",
+      "voiceKey": "words_3_3037"
+    },
+    {
+      "id": 357,
+      "wordId": 3038,
+      "arabic": "يَصُبُّ",
+      "english": "Pour",
+      "russian": "Льёт",
+      "voiceKey": "words_3_3038"
+    },
+    {
+      "id": 358,
+      "wordId": 3039,
+      "arabic": "مُجْرِمٌ",
+      "english": "Criminal",
+      "russian": "Преступник",
+      "voiceKey": "words_3_3039"
+    },
+    {
+      "id": 359,
+      "wordId": 3040,
+      "arabic": "مُسَدَّسٌ",
+      "english": "Pistol, revolver",
+      "russian": "Пистолет, револьвер",
+      "voiceKey": "words_3_3040"
+    },
+    {
+      "id": 360,
+      "wordId": 3041,
+      "arabic": "سَرَّ",
+      "english": "Rejoiced",
+      "russian": "Радовал",
+      "voiceKey": "words_3_3041"
+    },
+    {
+      "id": 361,
+      "wordId": 3042,
+      "arabic": "يَسُرُّ",
+      "english": "Pleases",
+      "russian": "Радует",
+      "voiceKey": "words_3_3042"
+    },
+    {
+      "id": 362,
+      "wordId": 3043,
+      "arabic": "اِسْتَخْرَجَ",
+      "english": "Extract",
+      "russian": "Извлекать",
+      "voiceKey": "words_3_3043"
+    },
+    {
+      "id": 363,
+      "wordId": 3044,
+      "arabic": "وَجَّهَ",
+      "english": "Address",
+      "russian": "Адресовать",
+      "voiceKey": "words_3_3044"
+    },
+    {
+      "id": 364,
+      "wordId": 3045,
+      "arabic": "بَادِئٌ",
+      "english": "Beginning",
+      "russian": "Начинающий",
+      "voiceKey": "words_3_3045"
+    },
+    {
+      "id": 365,
+      "wordId": 3046,
+      "arabic": "أدْنَى",
+      "english": "Slightest, lowest",
+      "russian": "Малейший, нижайший",
+      "voiceKey": "words_3_3046"
+    },
+    {
+      "id": 366,
+      "wordId": 3047,
+      "arabic": "تَارِيخٌ",
+      "english": "Number, date",
+      "russian": "Число, дата",
+      "voiceKey": "words_3_3047"
+    },
+    {
+      "id": 367,
+      "wordId": 3048,
+      "arabic": "ذَنْبٌ",
+      "english": "Sin",
+      "russian": "Грех",
+      "voiceKey": "words_3_3048"
+    },
+    {
+      "id": 368,
+      "wordId": 3049,
+      "arabic": "نَصَبَ",
+      "english": "Installed",
+      "russian": "Устанавливал, воздвигал",
+      "voiceKey": "words_3_3049"
+    },
+    {
+      "id": 369,
+      "wordId": 3050,
+      "arabic": "يَنْصِبُ",
+      "english": "Installs",
+      "russian": "Устанавливает, воздвигает",
+      "voiceKey": "words_3_3050"
+    },
+    {
+      "id": 370,
+      "wordId": 3051,
+      "arabic": "سِوَارٌ",
+      "english": "Bracelet",
+      "russian": "Браслет",
+      "voiceKey": "words_3_3051"
+    },
+    {
+      "id": 371,
+      "wordId": 3052,
+      "arabic": "شَاحِنَةٌ",
+      "english": "Freight car",
+      "russian": "Грузовой автомобиль",
+      "voiceKey": "words_3_3052"
+    },
+    {
+      "id": 372,
+      "wordId": 3053,
+      "arabic": "إِلْحَاقٌ",
+      "english": "Joining",
+      "russian": "Присоединение",
+      "voiceKey": "words_3_3053"
+    },
+    {
+      "id": 373,
+      "wordId": 3054,
+      "arabic": "مَوْءُودَةٌ",
+      "english": "Buried alive (about a newborn girl - among the ancient Arabs )",
+      "russian": "Заживо погребённая (о новорождённой девочке - у древних арабов )",
+      "voiceKey": "words_3_3054"
+    },
+    {
+      "id": 374,
+      "wordId": 3055,
+      "arabic": "إِبِلٌ",
+      "english": "Camels",
+      "russian": "Верблюды",
+      "voiceKey": "words_3_3055"
+    },
+    {
+      "id": 375,
+      "wordId": 3056,
+      "arabic": "عِدَّةٌ",
+      "english": "Quantity",
+      "russian": "Количество",
+      "voiceKey": "words_3_3056"
+    },
+    {
+      "id": 376,
+      "wordId": 3057,
+      "arabic": "رَدِيءٌ",
+      "english": "Bad, nasty",
+      "russian": "Плохой, скверный, дурной",
+      "voiceKey": "words_3_3057"
+    },
+    {
+      "id": 377,
+      "wordId": 3058,
+      "arabic": "سَطَحَ",
+      "english": "Spread",
+      "russian": "Расстилать",
+      "voiceKey": "words_3_3058"
+    },
+    {
+      "id": 378,
+      "wordId": 3059,
+      "arabic": "تَأَخُّرٌ",
+      "english": "Being late",
+      "russian": "Опоздание",
+      "voiceKey": "words_3_3059"
+    },
+    {
+      "id": 379,
+      "wordId": 3060,
+      "arabic": "سَاقَ",
+      "english": "Managed",
+      "russian": "Управлял",
+      "voiceKey": "words_3_3060"
+    },
+    {
+      "id": 380,
+      "wordId": 3061,
+      "arabic": "يَسُوقُ",
+      "english": "Governs",
+      "russian": "Управляет",
+      "voiceKey": "words_3_3061"
+    },
+    {
+      "id": 381,
+      "wordId": 3062,
+      "arabic": "إِذْنٌ",
+      "english": "Permission",
+      "russian": "Позволение, разрешение",
+      "voiceKey": "words_3_3062"
+    },
+    {
+      "id": 382,
+      "wordId": 3063,
+      "arabic": "سَبَقَ",
+      "english": "Preceded",
+      "russian": "Предшествовал",
+      "voiceKey": "words_3_3063"
+    },
+    {
+      "id": 383,
+      "wordId": 3064,
+      "arabic": "يَسْبِقُ",
+      "english": "Preced",
+      "russian": "Предшествует",
+      "voiceKey": "words_3_3064"
+    },
+    {
+      "id": 384,
+      "wordId": 3065,
+      "arabic": "فَرَائِضُ",
+      "english": "Duty, obligation(pl) [law, religion]",
+      "russian": "Обязанность, долг, предписание(мн.ч.) [закона, религии]",
+      "voiceKey": "words_3_3065"
+    }
+  ],
+  "4": [
+    {
+      "id": 42,
+      "wordId": 4001,
+      "arabic": "نَتِيجَةٌ",
+      "english": "Result",
+      "russian": "Результат",
+      "voiceKey": "words_4_4001"
+    },
+    {
+      "id": 43,
+      "wordId": 4002,
+      "arabic": "جِهَةٌ",
+      "english": "Side, direction",
+      "russian": "Сторона, направление",
+      "voiceKey": "words_4_4002"
+    },
+    {
+      "id": 44,
+      "wordId": 4003,
+      "arabic": "قُفْلٌ",
+      "english": "Padlock",
+      "russian": "Висячий замок",
+      "voiceKey": "words_4_4003"
+    },
+    {
+      "id": 45,
+      "wordId": 4004,
+      "arabic": "جَزَاءٌ",
+      "english": "Reward",
+      "russian": "Воздаяние",
+      "voiceKey": "words_4_4004"
+    },
+    {
+      "id": 46,
+      "wordId": 4005,
+      "arabic": "كَسَبَ",
+      "english": "Acquired",
+      "russian": "Приобретал",
+      "voiceKey": "words_4_4005"
+    },
+    {
+      "id": 47,
+      "wordId": 4006,
+      "arabic": "يَكْسِبُ",
+      "english": "Acquires",
+      "russian": "Приобретает",
+      "voiceKey": "words_4_4006"
+    },
+    {
+      "id": 48,
+      "wordId": 4007,
+      "arabic": "قَارِئٌ",
+      "english": "Quran reciter",
+      "russian": "Чтец Корана",
+      "voiceKey": "words_4_4007"
+    },
+    {
+      "id": 49,
+      "wordId": 4008,
+      "arabic": "غَافِلٌ",
+      "english": "Inattentive, careless",
+      "russian": "Невнимательный, небрежный, беспечный",
+      "voiceKey": "words_4_4008"
+    },
+    {
+      "id": 50,
+      "wordId": 4009,
+      "arabic": "كَافِلٌ",
+      "english": "Trustee, guardian",
+      "russian": "Попечитель, опекун",
+      "voiceKey": "words_4_4009"
+    },
+    {
+      "id": 51,
+      "wordId": 4010,
+      "arabic": "يَتِيمٌ",
+      "english": "Orphan",
+      "russian": "Сирота",
+      "voiceKey": "words_4_4010"
+    },
+    {
+      "id": 52,
+      "wordId": 4011,
+      "arabic": "أَشَارَ",
+      "english": "Indicate",
+      "russian": "Указывать",
+      "voiceKey": "words_4_4011"
+    },
+    {
+      "id": 53,
+      "wordId": 4012,
+      "arabic": "سَبَّابَةٌ",
+      "english": "Forefinger",
+      "russian": "Указательный палец",
+      "voiceKey": "words_4_4012"
+    },
+    {
+      "id": 54,
+      "wordId": 4013,
+      "arabic": "الوُسْطَى",
+      "english": "Middle finger",
+      "russian": "Средний палец",
+      "voiceKey": "words_4_4013"
+    },
+    {
+      "id": 55,
+      "wordId": 4014,
+      "arabic": "طَاعَةٌ",
+      "english": "Obedience",
+      "russian": "Послушание",
+      "voiceKey": "words_4_4014"
+    },
+    {
+      "id": 56,
+      "wordId": 4015,
+      "arabic": "مَجُسِيٌّ",
+      "english": "Fire worshiper",
+      "russian": "Огнепоклонник",
+      "voiceKey": "words_4_4015"
+    },
+    {
+      "id": 57,
+      "wordId": 4016,
+      "arabic": "فَرَّجَ",
+      "english": "Ease, show",
+      "russian": "Облегчать, показывать",
+      "voiceKey": "words_4_4016"
+    },
+    {
+      "id": 58,
+      "wordId": 4017,
+      "arabic": "يَقِينٌ",
+      "english": "Reliable knowledge, deep conviction",
+      "russian": "Достоверное знание, глубокое убеждение",
+      "voiceKey": "words_4_4017"
+    },
+    {
+      "id": 59,
+      "wordId": 4018,
+      "arabic": "جَمْرٌ",
+      "english": "Burning coals",
+      "russian": "Горящие угли",
+      "voiceKey": "words_4_4018"
+    },
+    {
+      "id": 60,
+      "wordId": 4019,
+      "arabic": "دَفَنَ",
+      "english": "Buried",
+      "russian": "Закапывал, зарывал",
+      "voiceKey": "words_4_4019"
+    },
+    {
+      "id": 61,
+      "wordId": 4020,
+      "arabic": "يَدْفِنُ",
+      "english": "Buries",
+      "russian": "Закапывает, зарывает",
+      "voiceKey": "words_4_4020"
+    },
+    {
+      "id": 62,
+      "wordId": 4021,
+      "arabic": "فَصَلَ",
+      "english": "Delil",
+      "russian": "Делил",
+      "voiceKey": "words_4_4021"
+    },
+    {
+      "id": 63,
+      "wordId": 4022,
+      "arabic": "يَفْصِلُ",
+      "english": "Divides",
+      "russian": "Делит",
+      "voiceKey": "words_4_4022"
+    },
+    {
+      "id": 64,
+      "wordId": 4023,
+      "arabic": "نَقَلَ",
+      "english": "Carried",
+      "russian": "Переносил",
+      "voiceKey": "words_4_4023"
+    },
+    {
+      "id": 65,
+      "wordId": 4024,
+      "arabic": "يَنْقُلُ",
+      "english": "Carrу",
+      "russian": "Переносит",
+      "voiceKey": "words_4_4024"
+    },
+    {
+      "id": 66,
+      "wordId": 4025,
+      "arabic": "مَعْصِيَةٌ",
+      "english": "Disobedience",
+      "russian": "Ослушание",
+      "voiceKey": "words_4_4025"
+    },
+    {
+      "id": 67,
+      "wordId": 4026,
+      "arabic": "عَابِرٌ",
+      "english": "Intersecting",
+      "russian": "Пересекающий, переходящий",
+      "voiceKey": "words_4_4026"
+    },
+    {
+      "id": 68,
+      "wordId": 4027,
+      "arabic": "سَلَقَ",
+      "english": "Boiled",
+      "russian": "Кипятил, варил",
+      "voiceKey": "words_4_4027"
+    },
+    {
+      "id": 69,
+      "wordId": 4028,
+      "arabic": "يَسْلُقُ",
+      "english": "Brews",
+      "russian": "Кипятит, варит",
+      "voiceKey": "words_4_4028"
+    },
+    {
+      "id": 70,
+      "wordId": 4029,
+      "arabic": "فَلَقَ",
+      "english": "Split (past simple)",
+      "russian": "Раскалывал",
+      "voiceKey": "words_4_4029"
+    },
+    {
+      "id": 71,
+      "wordId": 4030,
+      "arabic": "يَفْلِقُ",
+      "english": "Split (pres. simple)",
+      "russian": "Раскалывает",
+      "voiceKey": "words_4_4030"
+    },
+    {
+      "id": 72,
+      "wordId": 4031,
+      "arabic": "حَبٌّ",
+      "english": "Grains, seeds",
+      "russian": "Зерна, семена",
+      "voiceKey": "words_4_4031"
+    },
+    {
+      "id": 73,
+      "wordId": 4032,
+      "arabic": "نَوَاةٌ",
+      "english": "Bone (fetus)",
+      "russian": "Косточка (плода)",
+      "voiceKey": "words_4_4032"
+    },
+    {
+      "id": 74,
+      "wordId": 4033,
+      "arabic": "إِبْهَامٌ",
+      "english": "Thumb",
+      "russian": "Большой палец",
+      "voiceKey": "words_4_4033"
+    },
+    {
+      "id": 75,
+      "wordId": 4034,
+      "arabic": "بِنْصِرٌ",
+      "english": "Ring finger",
+      "russian": "Безымянный палец",
+      "voiceKey": "words_4_4034"
+    },
+    {
+      "id": 76,
+      "wordId": 4035,
+      "arabic": "خِنْصِرٌ",
+      "english": "Little finger",
+      "russian": "Мизинец",
+      "voiceKey": "words_4_4035"
+    },
+    {
+      "id": 77,
+      "wordId": 4036,
+      "arabic": "أُنْمُلَةٌ",
+      "english": "Fingertip",
+      "russian": "Кончик пальца",
+      "voiceKey": "words_4_4036"
+    },
+    {
+      "id": 78,
+      "wordId": 4037,
+      "arabic": "رَاحَةُ اليَدِ",
+      "english": "Palm",
+      "russian": "Ладонь",
+      "voiceKey": "words_4_4037"
+    },
+    {
+      "id": 79,
+      "wordId": 4038,
+      "arabic": "فَرَّ",
+      "english": "Fled",
+      "russian": "Бежал, убегал",
+      "voiceKey": "words_4_4038"
+    },
+    {
+      "id": 80,
+      "wordId": 4039,
+      "arabic": "يَفِرُّ",
+      "english": "Running",
+      "russian": "Бежит, убегает",
+      "voiceKey": "words_4_4039"
+    },
+    {
+      "id": 81,
+      "wordId": 4040,
+      "arabic": "سَرِقَةٌ",
+      "english": "Theft",
+      "russian": "Воровство",
+      "voiceKey": "words_4_4040"
+    },
+    {
+      "id": 82,
+      "wordId": 4041,
+      "arabic": "مُشْتَقٌّ",
+      "english": "Derivative",
+      "russian": "Производный",
+      "voiceKey": "words_4_4041"
+    },
+    {
+      "id": 83,
+      "wordId": 4042,
+      "arabic": "جَاهِلٌ",
+      "english": "Ignorant",
+      "russian": "Невежественный",
+      "voiceKey": "words_4_4042"
+    },
+    {
+      "id": 84,
+      "wordId": 4043,
+      "arabic": "جَهِلَ",
+      "english": "He was ignorant",
+      "russian": "Он был невежественным",
+      "voiceKey": "words_4_4043"
+    },
+    {
+      "id": 85,
+      "wordId": 4044,
+      "arabic": "يَجْهَلُ",
+      "english": "He is ignorant",
+      "russian": "Он невежествен",
+      "voiceKey": "words_4_4044"
+    },
+    {
+      "id": 86,
+      "wordId": 4045,
+      "arabic": "خَدَمَ",
+      "english": "Served",
+      "russian": "Служил",
+      "voiceKey": "words_4_4045"
+    },
+    {
+      "id": 87,
+      "wordId": 4046,
+      "arabic": "يَخْدِمُ",
+      "english": "Serves",
+      "russian": "Служит",
+      "voiceKey": "words_4_4046"
+    },
+    {
+      "id": 88,
+      "wordId": 4047,
+      "arabic": "كَرِهَ",
+      "english": "Didn't want",
+      "russian": "Не желал",
+      "voiceKey": "words_4_4047"
+    },
+    {
+      "id": 89,
+      "wordId": 4048,
+      "arabic": "يَكْرَهُ",
+      "english": "Doesn't want",
+      "russian": "Не желает",
+      "voiceKey": "words_4_4048"
+    },
+    {
+      "id": 90,
+      "wordId": 4049,
+      "arabic": "عَقَلَ",
+      "english": "Understood",
+      "russian": "Разумел, понимал",
+      "voiceKey": "words_4_4049"
+    },
+    {
+      "id": 91,
+      "wordId": 4050,
+      "arabic": "يَعْقِلُ",
+      "english": "Understands",
+      "russian": "Разумеет, понимает",
+      "voiceKey": "words_4_4050"
+    },
+    {
+      "id": 92,
+      "wordId": 4051,
+      "arabic": "بَارِئٌ",
+      "english": "Creator",
+      "russian": "Творец, создатель",
+      "voiceKey": "words_4_4051"
+    },
+    {
+      "id": 93,
+      "wordId": 4052,
+      "arabic": "بَرَأَ",
+      "english": "Created",
+      "russian": "Творил, создавал",
+      "voiceKey": "words_4_4052"
+    },
+    {
+      "id": 94,
+      "wordId": 4053,
+      "arabic": "يَبْرَأُ",
+      "english": "Creates",
+      "russian": "Творит, создаёт",
+      "voiceKey": "words_4_4053"
+    },
+    {
+      "id": 95,
+      "wordId": 4054,
+      "arabic": "نَهَرَ",
+      "english": "Yelled (at someone)",
+      "russian": "Кричал (на кого-л.)",
+      "voiceKey": "words_4_4054"
+    },
+    {
+      "id": 96,
+      "wordId": 4055,
+      "arabic": "يَنْهَرُ",
+      "english": "Yelling (at someone)",
+      "russian": "Кричит (на кого-л.)",
+      "voiceKey": "words_4_4055"
+    },
+    {
+      "id": 97,
+      "wordId": 4056,
+      "arabic": "عَابِدٌ",
+      "english": "Worship",
+      "russian": "Поклоняющийся",
+      "voiceKey": "words_4_4056"
+    },
+    {
+      "id": 98,
+      "wordId": 4057,
+      "arabic": "ظَنٌّ",
+      "english": "Guess, opinion",
+      "russian": "Предположение, мнение",
+      "voiceKey": "words_4_4057"
+    },
+    {
+      "id": 99,
+      "wordId": 4058,
+      "arabic": "مَنْكِبٌ",
+      "english": "Shoulder",
+      "russian": "Плечо",
+      "voiceKey": "words_4_4058"
+    },
+    {
+      "id": 100,
+      "wordId": 4059,
+      "arabic": "اِقْتَرَنَ",
+      "english": "Connect",
+      "russian": "Соединяться",
+      "voiceKey": "words_4_4059"
+    }
+  ],
+  "5": [
+    {
+      "id": 435,
+      "wordId": 5001,
+      "arabic": "زَائِرٌ",
+      "english": "Visitor, guest",
+      "russian": "Посетитель, гость",
+      "voiceKey": "words_5_5001"
+    },
+    {
+      "id": 436,
+      "wordId": 5002,
+      "arabic": "طَرْقٌ",
+      "english": "Knocking",
+      "russian": "Стучание",
+      "voiceKey": "words_5_5002"
+    },
+    {
+      "id": 437,
+      "wordId": 5003,
+      "arabic": "مُحَاضِرٌ",
+      "english": "Lecturer, speaker",
+      "russian": "Лектор, докладчик",
+      "voiceKey": "words_5_5003"
+    },
+    {
+      "id": 438,
+      "wordId": 5004,
+      "arabic": "اِغْتَنَمَ",
+      "english": "To use (something)",
+      "russian": "Пользоваться (чем-либо), использовать",
+      "voiceKey": "words_5_5004"
+    },
+    {
+      "id": 439,
+      "wordId": 5005,
+      "arabic": "اِغْتَنَمَ الفُرْصَةَ",
+      "english": "Take advantage of the opportunity",
+      "russian": "Воспользоваться удобным случаем",
+      "voiceKey": "words_5_5005"
+    },
+    {
+      "id": 440,
+      "wordId": 5006,
+      "arabic": "فُرْصَةٌ",
+      "english": "Opportunity, convenient moment",
+      "russian": "Удобный случай, удобный момент",
+      "voiceKey": "words_5_5006"
+    },
+    {
+      "id": 441,
+      "wordId": 5007,
+      "arabic": "نَاطِقٌ",
+      "english": "Speaking",
+      "russian": "Говорящий",
+      "voiceKey": "words_5_5007"
+    },
+    {
+      "id": 442,
+      "wordId": 5008,
+      "arabic": "اِطَّلَعَ",
+      "english": "Watch, meet",
+      "russian": "Смотреть, знакомиться",
+      "voiceKey": "words_5_5008"
+    },
+    {
+      "id": 443,
+      "wordId": 5009,
+      "arabic": "مَنْهَجٌ",
+      "english": "Program, plan",
+      "russian": "Программа, план",
+      "voiceKey": "words_5_5009"
+    },
+    {
+      "id": 444,
+      "wordId": 5010,
+      "arabic": "مَنَاهِجُ",
+      "english": "Programs, plans",
+      "russian": "Программы, планы",
+      "voiceKey": "words_5_5010"
+    },
+    {
+      "id": 445,
+      "wordId": 5011,
+      "arabic": "مناهجُ التعليم",
+      "english": "Teaching methods",
+      "russian": "Методы обучения",
+      "voiceKey": "words_5_5011"
+    },
+    {
+      "id": 446,
+      "wordId": 5012,
+      "arabic": "تَرَاوَحَ",
+      "english": "Hesitate",
+      "russian": "Колебаться",
+      "voiceKey": "words_5_5012"
+    },
+    {
+      "id": 447,
+      "wordId": 5013,
+      "arabic": "مُدَّةٌ",
+      "english": "Period, span of time, term",
+      "russian": "Период, промежуток времени, срок",
+      "voiceKey": "words_5_5013"
+    },
+    {
+      "id": 448,
+      "wordId": 5014,
+      "arabic": "نُسْخَةٌ",
+      "english": "Copy",
+      "russian": "Копия",
+      "voiceKey": "words_5_5014"
+    },
+    {
+      "id": 449,
+      "wordId": 5015,
+      "arabic": "شِرَاءٌ",
+      "english": "Purchase",
+      "russian": "Покупка",
+      "voiceKey": "words_5_5015"
+    },
+    {
+      "id": 450,
+      "wordId": 5016,
+      "arabic": "حُصُولٌ",
+      "english": "Achievement, getting",
+      "russian": "Достижение, получение",
+      "voiceKey": "words_5_5016"
+    },
+    {
+      "id": 451,
+      "wordId": 5017,
+      "arabic": "مَجَّانًا",
+      "english": "Free, gratis",
+      "russian": "Даром, бесплатно, безвозмездно",
+      "voiceKey": "words_5_5017"
+    },
+    {
+      "id": 452,
+      "wordId": 5018,
+      "arabic": "سَقَى",
+      "english": "Drank [water] (past simple)",
+      "russian": "Поил",
+      "voiceKey": "words_5_5018"
+    },
+    {
+      "id": 453,
+      "wordId": 5019,
+      "arabic": "يَسْقِي",
+      "english": "Drink [water] (pres. simple)",
+      "russian": "Поит",
+      "voiceKey": "words_5_5019"
+    },
+    {
+      "id": 454,
+      "wordId": 5020,
+      "arabic": "مَدْعُوٌّ",
+      "english": "Guest",
+      "russian": "Гость",
+      "voiceKey": "words_5_5020"
+    },
+    {
+      "id": 455,
+      "wordId": 5021,
+      "arabic": "مُؤْتَمَرٌ",
+      "english": "Conference",
+      "russian": "Конференция",
+      "voiceKey": "words_5_5021"
+    },
+    {
+      "id": 456,
+      "wordId": 5022,
+      "arabic": "اِنْتَهَزَ",
+      "english": "Use",
+      "russian": "Пользоваться",
+      "voiceKey": "words_5_5022"
+    },
+    {
+      "id": 457,
+      "wordId": 5023,
+      "arabic": "اِسْتَأْذَنَ",
+      "english": "Ask permission to enter ( على ); ask permission to leave ( من )",
+      "russian": "Просить разрешения войти ( على ); просить разрешения уйти ( من )",
+      "voiceKey": "words_5_5023"
+    },
+    {
+      "id": 458,
+      "wordId": 5024,
+      "arabic": "حُضُورٌ",
+      "english": "Presence",
+      "russian": "Присутствие",
+      "voiceKey": "words_5_5024"
+    },
+    {
+      "id": 459,
+      "wordId": 5025,
+      "arabic": "صَحِبَ",
+      "english": "Accompanied",
+      "russian": "Сопровождал, сопутствовал",
+      "voiceKey": "words_5_5025"
+    },
+    {
+      "id": 460,
+      "wordId": 5026,
+      "arabic": "يَصْحَبُ",
+      "english": "Accompanies",
+      "russian": "Сопровождает, сопутствует",
+      "voiceKey": "words_5_5026"
+    },
+    {
+      "id": 461,
+      "wordId": 5027,
+      "arabic": "تَرْحَالٌ",
+      "english": "Departure",
+      "russian": "Отъезд, отправление",
+      "voiceKey": "words_5_5027"
+    },
+    {
+      "id": 462,
+      "wordId": 5028,
+      "arabic": "حَلٌّ",
+      "english": "Stop, settlement",
+      "russian": "Остановка, поселение",
+      "voiceKey": "words_5_5028"
+    },
+    {
+      "id": 463,
+      "wordId": 5029,
+      "arabic": "مَزَادٌ",
+      "english": "Auction",
+      "russian": "Аукцион",
+      "voiceKey": "words_5_5029"
+    },
+    {
+      "id": 464,
+      "wordId": 5030,
+      "arabic": "كَالَ",
+      "english": "Was measuring",
+      "russian": "Мерил, отмерял",
+      "voiceKey": "words_5_5030"
+    },
+    {
+      "id": 465,
+      "wordId": 5031,
+      "arabic": "يَكِيلُ",
+      "english": "Is measuring",
+      "russian": "Мерит, отмеряет",
+      "voiceKey": "words_5_5031"
+    },
+    {
+      "id": 466,
+      "wordId": 5032,
+      "arabic": "دَالٌّ",
+      "english": "Pointing",
+      "russian": "Указывающий",
+      "voiceKey": "words_5_5032"
+    },
+    {
+      "id": 467,
+      "wordId": 5033,
+      "arabic": "مَصُونٌ",
+      "english": "Protected",
+      "russian": "Оберегаемый, хранимый",
+      "voiceKey": "words_5_5033"
+    },
+    {
+      "id": 468,
+      "wordId": 5034,
+      "arabic": "سِرٌّ",
+      "english": "Mystery, secret",
+      "russian": "Тайна,секрет",
+      "voiceKey": "words_5_5034"
+    },
+    {
+      "id": 469,
+      "wordId": 5035,
+      "arabic": "سِلْعَةٌ",
+      "english": "Product",
+      "russian": "Товар",
+      "voiceKey": "words_5_5035"
+    },
+    {
+      "id": 470,
+      "wordId": 5036,
+      "arabic": "مَبِيعٌ",
+      "english": "Sold",
+      "russian": "Проданный",
+      "voiceKey": "words_5_5036"
+    },
+    {
+      "id": 471,
+      "wordId": 5037,
+      "arabic": "قَعَدَ",
+      "english": "Sat",
+      "russian": "Садился, сидел",
+      "voiceKey": "words_5_5037"
+    },
+    {
+      "id": 472,
+      "wordId": 5038,
+      "arabic": "يَقْعُدُ",
+      "english": "Sits",
+      "russian": "Садится, сидит",
+      "voiceKey": "words_5_5038"
+    },
+    {
+      "id": 473,
+      "wordId": 5039,
+      "arabic": "تَائِبٌ",
+      "english": "Penitent",
+      "russian": "Кающийся",
+      "voiceKey": "words_5_5039"
+    }
+  ],
+  "6": [
+    {
+      "id": 169,
+      "wordId": 6001,
+      "arabic": "تَحِيَّةٌ",
+      "english": "Greeting",
+      "russian": "Приветствие",
+      "voiceKey": "words_6_6001"
+    },
+    {
+      "id": 170,
+      "wordId": 6002,
+      "arabic": "عَدَّ",
+      "english": "Read",
+      "russian": "Считал",
+      "voiceKey": "words_6_6002"
+    },
+    {
+      "id": 171,
+      "wordId": 6003,
+      "arabic": "يَعُدُّ",
+      "english": "Reads",
+      "russian": "Считает",
+      "voiceKey": "words_6_6003"
+    },
+    {
+      "id": 172,
+      "wordId": 6004,
+      "arabic": "نَادَى",
+      "english": "Called",
+      "russian": "Звал",
+      "voiceKey": "words_6_6004"
+    },
+    {
+      "id": 173,
+      "wordId": 6005,
+      "arabic": "يُنَادِي",
+      "english": "Calls",
+      "russian": "Зовёт",
+      "voiceKey": "words_6_6005"
+    },
+    {
+      "id": 174,
+      "wordId": 6006,
+      "arabic": "مُسْتَعِدٌّ",
+      "english": "Ready (to what ل)",
+      "russian": "Готовый (к чему ل)",
+      "voiceKey": "words_6_6006"
+    },
+    {
+      "id": 175,
+      "wordId": 6007,
+      "arabic": "سَفَرٌ",
+      "english": "Journey, trip",
+      "russian": "Путешествие, поездка",
+      "voiceKey": "words_6_6007"
+    },
+    {
+      "id": 176,
+      "wordId": 6008,
+      "arabic": "اِلْتَقَى",
+      "english": "Meet",
+      "russian": "Встречать",
+      "voiceKey": "words_6_6008"
+    },
+    {
+      "id": 177,
+      "wordId": 6009,
+      "arabic": "مَوْقِفٌ",
+      "english": "Stop, parking (for transport)",
+      "russian": "Остановка, стоянка (для транспорта)",
+      "voiceKey": "words_6_6009"
+    },
+    {
+      "id": 178,
+      "wordId": 6010,
+      "arabic": "مَوْعِدٌ",
+      "english": "Deadline, time",
+      "russian": "Срок, время",
+      "voiceKey": "words_6_6010"
+    },
+    {
+      "id": 179,
+      "wordId": 6011,
+      "arabic": "لَحِقَ",
+      "english": "Caught up",
+      "russian": "Догонял",
+      "voiceKey": "words_6_6011"
+    },
+    {
+      "id": 180,
+      "wordId": 6012,
+      "arabic": "يَلْحَقُ",
+      "english": "Catches up",
+      "russian": "Догоняет",
+      "voiceKey": "words_6_6012"
+    },
+    {
+      "id": 181,
+      "wordId": 6013,
+      "arabic": "زِحَامٌ",
+      "english": "Cork, crush",
+      "russian": "Пробка, давка, толкотня",
+      "voiceKey": "words_6_6013"
+    },
+    {
+      "id": 182,
+      "wordId": 6014,
+      "arabic": "مُيَسِّرٌ",
+      "english": "Facilitating",
+      "russian": "Облегчающий",
+      "voiceKey": "words_6_6014"
+    },
+    {
+      "id": 183,
+      "wordId": 6015,
+      "arabic": "يَسَّرَ",
+      "english": "Facilitate",
+      "russian": "Облегчать",
+      "voiceKey": "words_6_6015"
+    },
+    {
+      "id": 184,
+      "wordId": 6016,
+      "arabic": "سَعَى",
+      "english": "Quickly rushed, ran",
+      "russian": "Быстро устремился, бежал",
+      "voiceKey": "words_6_6016"
+    },
+    {
+      "id": 185,
+      "wordId": 6017,
+      "arabic": "يَسْعَى",
+      "english": "Quickly rush's, runs",
+      "russian": "Быстро устремляется, бежит",
+      "voiceKey": "words_6_6017"
+    },
+    {
+      "id": 186,
+      "wordId": 6018,
+      "arabic": "لَهَا",
+      "english": "Played, had fun",
+      "russian": "Играл, забавлялся",
+      "voiceKey": "words_6_6018"
+    },
+    {
+      "id": 187,
+      "wordId": 6019,
+      "arabic": "يلهو",
+      "english": "Plays, have fun",
+      "russian": "Играется, забавляется",
+      "voiceKey": "words_6_6019"
+    },
+    {
+      "id": 188,
+      "wordId": 6020,
+      "arabic": "مَلْهًى",
+      "english": "Theatre",
+      "russian": "Театр",
+      "voiceKey": "words_6_6020"
+    },
+    {
+      "id": 189,
+      "wordId": 6021,
+      "arabic": "رَمَى",
+      "english": "Threw",
+      "russian": "Бросал",
+      "voiceKey": "words_6_6021"
+    },
+    {
+      "id": 190,
+      "wordId": 6022,
+      "arabic": "يَرْمِي",
+      "english": "Throws",
+      "russian": "Бросает",
+      "voiceKey": "words_6_6022"
+    },
+    {
+      "id": 191,
+      "wordId": 6023,
+      "arabic": "أَوَى",
+      "english": "Was looked for shelter",
+      "russian": "Искал убежище",
+      "voiceKey": "words_6_6023"
+    },
+    {
+      "id": 192,
+      "wordId": 6024,
+      "arabic": "يَأْوِي",
+      "english": "Looks for shelter",
+      "russian": "Ищет убежище",
+      "voiceKey": "words_6_6024"
+    },
+    {
+      "id": 193,
+      "wordId": 6025,
+      "arabic": "نَفَى",
+      "english": "Denied",
+      "russian": "Отрицал",
+      "voiceKey": "words_6_6025"
+    },
+    {
+      "id": 194,
+      "wordId": 6026,
+      "arabic": "يَنْفِي",
+      "english": "Denies",
+      "russian": "Отрицает",
+      "voiceKey": "words_6_6026"
+    },
+    {
+      "id": 195,
+      "wordId": 6027,
+      "arabic": "طَعِمَ",
+      "english": "Ate",
+      "russian": "Кушал",
+      "voiceKey": "words_6_6027"
+    },
+    {
+      "id": 196,
+      "wordId": 6028,
+      "arabic": "يَطْعَمُ",
+      "english": "Eats",
+      "russian": "Кушает",
+      "voiceKey": "words_6_6028"
+    },
+    {
+      "id": 197,
+      "wordId": 6029,
+      "arabic": "طَبَخَ",
+      "english": "Cooked",
+      "russian": "Готовил",
+      "voiceKey": "words_6_6029"
+    },
+    {
+      "id": 198,
+      "wordId": 6030,
+      "arabic": "يَطْبُخُ",
+      "english": "Cooks",
+      "russian": "Готовит",
+      "voiceKey": "words_6_6030"
+    },
+    {
+      "id": 199,
+      "wordId": 6031,
+      "arabic": "هَجَعَ",
+      "english": "Slept, calmed down",
+      "russian": "Спал, успокоился",
+      "voiceKey": "words_6_6031"
+    },
+    {
+      "id": 200,
+      "wordId": 6032,
+      "arabic": "يَهْجَعُ",
+      "english": "Sleeps, calms down",
+      "russian": "Спит, успокаивается",
+      "voiceKey": "words_6_6032"
+    },
+    {
+      "id": 201,
+      "wordId": 6033,
+      "arabic": "مَرَّ",
+      "english": "Walked, passed by",
+      "russian": "Шёл, прошёл мимо",
+      "voiceKey": "words_6_6033"
+    },
+    {
+      "id": 202,
+      "wordId": 6034,
+      "arabic": "يَمُرُّ",
+      "english": "Walks, pass by",
+      "russian": "Идёт, проходит мимо",
+      "voiceKey": "words_6_6034"
+    },
+    {
+      "id": 203,
+      "wordId": 6035,
+      "arabic": "مَمَرٌّ",
+      "english": "Hallway",
+      "russian": "Коридор",
+      "voiceKey": "words_6_6035"
+    },
+    {
+      "id": 204,
+      "wordId": 6036,
+      "arabic": "مَوْرِدٌ",
+      "english": "Source, resources",
+      "russian": "Источник, ресурсы",
+      "voiceKey": "words_6_6036"
+    },
+    {
+      "id": 205,
+      "wordId": 6037,
+      "arabic": "صَرَفَ",
+      "english": "Расходовал",
+      "russian": "Расходовал",
+      "voiceKey": "words_6_6037"
+    },
+    {
+      "id": 206,
+      "wordId": 6038,
+      "arabic": "يَصْرِفُ",
+      "english": "Expends",
+      "russian": "Расходует",
+      "voiceKey": "words_6_6038"
+    },
+    {
+      "id": 207,
+      "wordId": 6039,
+      "arabic": "عَرَضَ",
+      "english": "Exhibited",
+      "russian": "Выставлял",
+      "voiceKey": "words_6_6039"
+    },
+    {
+      "id": 208,
+      "wordId": 6040,
+      "arabic": "يَعْرِضُ",
+      "english": "Exhibits",
+      "russian": "Выставляет",
+      "voiceKey": "words_6_6040"
+    },
+    {
+      "id": 209,
+      "wordId": 6041,
+      "arabic": "مَعْرِضٌ",
+      "english": "Exhibition",
+      "russian": "Выставка",
+      "voiceKey": "words_6_6041"
+    },
+    {
+      "id": 210,
+      "wordId": 6042,
+      "arabic": "بِحَيثُ",
+      "english": "So, what",
+      "russian": "Так, что…",
+      "voiceKey": "words_6_6042"
+    },
+    {
+      "id": 211,
+      "wordId": 6043,
+      "arabic": "أَحَقُّ",
+      "english": "Most worthy",
+      "russian": "Самый достойный",
+      "voiceKey": "words_6_6043"
+    },
+    {
+      "id": 212,
+      "wordId": 6044,
+      "arabic": "لَجَأَ",
+      "english": "Looked for shelter",
+      "russian": "Искал убежище, обращался",
+      "voiceKey": "words_6_6044"
+    },
+    {
+      "id": 213,
+      "wordId": 6045,
+      "arabic": "يَلْجَأُ",
+      "english": "Looks for shelter",
+      "russian": "Ищет убежище, обращается",
+      "voiceKey": "words_6_6045"
+    },
+    {
+      "id": 214,
+      "wordId": 6046,
+      "arabic": "مَلْجَأٌ",
+      "english": "Shelter",
+      "russian": "Приют",
+      "voiceKey": "words_6_6046"
+    }
+  ],
+  "7": [
+    {
+      "id": 101,
+      "wordId": 7001,
+      "arabic": "مِقْلاَةٌ",
+      "english": "Pan",
+      "russian": "Сковорода",
+      "voiceKey": "words_7_7001"
+    },
+    {
+      "id": 102,
+      "wordId": 7002,
+      "arabic": "قَلَى",
+      "english": "Fried on oil",
+      "russian": "Жарил на масле",
+      "voiceKey": "words_7_7002"
+    },
+    {
+      "id": 103,
+      "wordId": 7003,
+      "arabic": "يَقْلِي",
+      "english": "Fry on oil",
+      "russian": "Жарить на масле",
+      "voiceKey": "words_7_7003"
+    },
+    {
+      "id": 104,
+      "wordId": 7004,
+      "arabic": "قَصَّ",
+      "english": "Cutted with scissors",
+      "russian": "Резал ножницами",
+      "voiceKey": "words_7_7004"
+    },
+    {
+      "id": 105,
+      "wordId": 7005,
+      "arabic": "يَقُصُّ",
+      "english": "Cuts with scissors",
+      "russian": "Режет ножницами",
+      "voiceKey": "words_7_7005"
+    },
+    {
+      "id": 106,
+      "wordId": 7006,
+      "arabic": "طَلَبٌ",
+      "english": "Demand, request",
+      "russian": "Требование, просьба",
+      "voiceKey": "words_7_7006"
+    },
+    {
+      "id": 107,
+      "wordId": 7007,
+      "arabic": "طِرَازٌ",
+      "english": "Style, fashion",
+      "russian": "Фасон, мода",
+      "voiceKey": "words_7_7007"
+    },
+    {
+      "id": 108,
+      "wordId": 7008,
+      "arabic": "أَطْرِزَةٌ",
+      "english": "Styles, fashions",
+      "russian": "Фасоны, моды",
+      "voiceKey": "words_7_7008"
+    },
+    {
+      "id": 109,
+      "wordId": 7009,
+      "arabic": "حَدِيثٌ",
+      "english": "Story",
+      "russian": "Рассказ",
+      "voiceKey": "words_7_7009"
+    },
+    {
+      "id": 110,
+      "wordId": 7010,
+      "arabic": "طَبْعًا",
+      "english": "Naturally, of course",
+      "russian": "Естественно, разумеется",
+      "voiceKey": "words_7_7010"
+    },
+    {
+      "id": 111,
+      "wordId": 7011,
+      "arabic": "طَفَّفَ",
+      "english": "Decrease (weight) (not used)",
+      "russian": "Уменьшать (вес) (не используется)",
+      "voiceKey": "words_7_7011"
+    },
+    {
+      "id": 112,
+      "wordId": 7012,
+      "arabic": "وَيْلٌ",
+      "english": "Trouble, grief",
+      "russian": "Беда, горе",
+      "voiceKey": "words_7_7012"
+    },
+    {
+      "id": 113,
+      "wordId": 7013,
+      "arabic": "مِغْرَفَة",
+      "english": "Ladle",
+      "russian": "Половник, поварёшка",
+      "voiceKey": "words_7_7013"
+    },
+    {
+      "id": 114,
+      "wordId": 7014,
+      "arabic": "غَرَفَ",
+      "english": "Scooped",
+      "russian": "Черпал",
+      "voiceKey": "words_7_7014"
+    },
+    {
+      "id": 115,
+      "wordId": 7015,
+      "arabic": "يَغْرِفُ",
+      "english": "Scoops",
+      "russian": "Черпает",
+      "voiceKey": "words_7_7015"
+    },
+    {
+      "id": 116,
+      "wordId": 7016,
+      "arabic": "مِصْعَدٌ",
+      "english": "Elevator",
+      "russian": "Лифт",
+      "voiceKey": "words_7_7016"
+    },
+    {
+      "id": 117,
+      "wordId": 7017,
+      "arabic": "بُرٌّ",
+      "english": "Collective word wheat (not used)",
+      "russian": "Собирательное слово пшеница (не используется)",
+      "voiceKey": "words_7_7017"
+    },
+    {
+      "id": 118,
+      "wordId": 7018,
+      "arabic": "قَمْحٌ",
+      "english": "Collective word wheat",
+      "russian": "Собирательное слово пшеница",
+      "voiceKey": "words_7_7018"
+    },
+    {
+      "id": 119,
+      "wordId": 7019,
+      "arabic": "نَشَرَ",
+      "english": "Sawed",
+      "russian": "Пилил",
+      "voiceKey": "words_7_7019"
+    },
+    {
+      "id": 120,
+      "wordId": 7020,
+      "arabic": "يَنْشُرُ",
+      "english": "Saws",
+      "russian": "Пилит",
+      "voiceKey": "words_7_7020"
+    },
+    {
+      "id": 121,
+      "wordId": 7021,
+      "arabic": "حَرَثَ",
+      "english": "Plow (ground)",
+      "russian": "Пахать",
+      "voiceKey": "words_7_7021"
+    },
+    {
+      "id": 122,
+      "wordId": 7022,
+      "arabic": "يَحْرُثُ",
+      "english": "Plow (ground, pres. cont.)",
+      "russian": "Пашет",
+      "voiceKey": "words_7_7022"
+    },
+    {
+      "id": 123,
+      "wordId": 7023,
+      "arabic": "زَلَجَ",
+      "english": "Locked (door)",
+      "russian": "Запер (дверь)",
+      "voiceKey": "words_7_7023"
+    },
+    {
+      "id": 124,
+      "wordId": 7024,
+      "arabic": "يَزْلُجُ",
+      "english": "Locks (door)",
+      "russian": "Запирает (дверь)",
+      "voiceKey": "words_7_7024"
+    },
+    {
+      "id": 125,
+      "wordId": 7025,
+      "arabic": "قَاسَ",
+      "english": "Measured",
+      "russian": "Мерил, измерял, примерял,",
+      "voiceKey": "words_7_7025"
+    },
+    {
+      "id": 126,
+      "wordId": 7026,
+      "arabic": "يَقِيسُ",
+      "english": "Measures",
+      "russian": "Мерит, измеряет, примеряет",
+      "voiceKey": "words_7_7026"
+    },
+    {
+      "id": 127,
+      "wordId": 7027,
+      "arabic": "مِحْرَاثٌ",
+      "english": "Plow",
+      "russian": "Плуг",
+      "voiceKey": "words_7_7027"
+    },
+    {
+      "id": 128,
+      "wordId": 7028,
+      "arabic": "مِنْشَارٌ",
+      "english": "Saw",
+      "russian": "Пила",
+      "voiceKey": "words_7_7028"
+    },
+    {
+      "id": 129,
+      "wordId": 7029,
+      "arabic": "مِزْلاَجٌ",
+      "english": "Gate valve",
+      "russian": "Щеколда, задвижка, засов",
+      "voiceKey": "words_7_7029"
+    },
+    {
+      "id": 130,
+      "wordId": 7030,
+      "arabic": "بَرَدَ",
+      "english": "Sawed (with a file)",
+      "russian": "Подпиливал (напильником)",
+      "voiceKey": "words_7_7030"
+    },
+    {
+      "id": 131,
+      "wordId": 7031,
+      "arabic": "يَبْرُدُ",
+      "english": "Sawing (with a file)",
+      "russian": "Подпиливает (напильником)",
+      "voiceKey": "words_7_7031"
+    },
+    {
+      "id": 132,
+      "wordId": 7032,
+      "arabic": "حَلَبَ",
+      "english": "Milked (a cow)",
+      "russian": "Доил",
+      "voiceKey": "words_7_7032"
+    },
+    {
+      "id": 133,
+      "wordId": 7033,
+      "arabic": "يَحْلُبُ",
+      "english": "Milks (a cow)",
+      "russian": "Доит",
+      "voiceKey": "words_7_7033"
+    },
+    {
+      "id": 134,
+      "wordId": 7034,
+      "arabic": "قَبَضَ",
+      "english": "Held, owned",
+      "russian": "Держал, владел",
+      "voiceKey": "words_7_7034"
+    },
+    {
+      "id": 135,
+      "wordId": 7035,
+      "arabic": "يَقْبِضُ",
+      "english": "Holds, owns",
+      "russian": "Держит, владеет",
+      "voiceKey": "words_7_7035"
+    },
+    {
+      "id": 136,
+      "wordId": 7036,
+      "arabic": "قَادَ",
+      "english": "Managed",
+      "russian": "Вёл, управлял",
+      "voiceKey": "words_7_7036"
+    },
+    {
+      "id": 137,
+      "wordId": 7037,
+      "arabic": "يَقُودُ",
+      "english": "Manage",
+      "russian": "Водит, управляет",
+      "voiceKey": "words_7_7037"
+    },
+    {
+      "id": 138,
+      "wordId": 7038,
+      "arabic": "حَكَّ",
+      "english": "Tested",
+      "russian": "Ставил пробу",
+      "voiceKey": "words_7_7038"
+    },
+    {
+      "id": 139,
+      "wordId": 7039,
+      "arabic": "يَحُكُّ",
+      "english": "Test",
+      "russian": "Ставить пробу",
+      "voiceKey": "words_7_7039"
+    },
+    {
+      "id": 140,
+      "wordId": 7040,
+      "arabic": "مِبْرَدٌ",
+      "english": "File (tool)",
+      "russian": "Напильник",
+      "voiceKey": "words_7_7040"
+    },
+    {
+      "id": 141,
+      "wordId": 7041,
+      "arabic": "مِقْبَضٌ",
+      "english": "A pen",
+      "russian": "Рукоятка, ручка",
+      "voiceKey": "words_7_7041"
+    },
+    {
+      "id": 142,
+      "wordId": 7042,
+      "arabic": "مِقْوَدٌ",
+      "english": "Leash, rope,steering wheel",
+      "russian": "Повод, поводок; веревка, привязь; руль",
+      "voiceKey": "words_7_7042"
+    },
+    {
+      "id": 143,
+      "wordId": 7043,
+      "arabic": "مِقَصٌّ",
+      "english": "Scissors",
+      "russian": "Ножницы",
+      "voiceKey": "words_7_7043"
+    },
+    {
+      "id": 144,
+      "wordId": 7044,
+      "arabic": "طَرَقَ",
+      "english": "Knocked (on door)",
+      "russian": "Стучал",
+      "voiceKey": "words_7_7044"
+    },
+    {
+      "id": 145,
+      "wordId": 7045,
+      "arabic": "يَطْرُقُ",
+      "english": "Knocks (on door)",
+      "russian": "Стучит",
+      "voiceKey": "words_7_7045"
+    },
+    {
+      "id": 146,
+      "wordId": 7046,
+      "arabic": "مِطْرَقَةٌ",
+      "english": "A hammer",
+      "russian": "Молоток",
+      "voiceKey": "words_7_7046"
+    },
+    {
+      "id": 147,
+      "wordId": 7047,
+      "arabic": "سَطَرَ",
+      "english": "Conducted the line",
+      "russian": "Проводил линию",
+      "voiceKey": "words_7_7047"
+    },
+    {
+      "id": 148,
+      "wordId": 7048,
+      "arabic": "يَسْطُرُ",
+      "english": "Conducts the line",
+      "russian": "Проводит линию",
+      "voiceKey": "words_7_7048"
+    },
+    {
+      "id": 149,
+      "wordId": 7049,
+      "arabic": "مِعْصَرَةٌ",
+      "english": "Press",
+      "russian": "Пресс",
+      "voiceKey": "words_7_7049"
+    },
+    {
+      "id": 150,
+      "wordId": 7050,
+      "arabic": "عَصَرَ",
+      "english": "Pressed",
+      "russian": "Давил",
+      "voiceKey": "words_7_7050"
+    },
+    {
+      "id": 151,
+      "wordId": 7051,
+      "arabic": "يَعْصِرُ",
+      "english": "Press",
+      "russian": "Давит",
+      "voiceKey": "words_7_7051"
+    },
+    {
+      "id": 152,
+      "wordId": 7052,
+      "arabic": "مَحَا",
+      "english": "Deleted",
+      "russian": "Удалял, стирал",
+      "voiceKey": "words_7_7052"
+    },
+    {
+      "id": 153,
+      "wordId": 7053,
+      "arabic": "يَمْحُو",
+      "english": "Delets",
+      "russian": "Удаляет, стирает",
+      "voiceKey": "words_7_7053"
+    },
+    {
+      "id": 154,
+      "wordId": 7054,
+      "arabic": "بَرَى",
+      "english": "Sharpened",
+      "russian": "Заострил",
+      "voiceKey": "words_7_7054"
+    },
+    {
+      "id": 155,
+      "wordId": 7055,
+      "arabic": "يَبْرِي",
+      "english": "Sharpens",
+      "russian": "Заостряет",
+      "voiceKey": "words_7_7055"
+    },
+    {
+      "id": 156,
+      "wordId": 7056,
+      "arabic": "مِصْفَاةٌ",
+      "english": "Filter",
+      "russian": "Фильтр",
+      "voiceKey": "words_7_7056"
+    },
+    {
+      "id": 157,
+      "wordId": 7057,
+      "arabic": "صَفَا",
+      "english": "Was clean, transparent",
+      "russian": "Был чистый, прозрачный, ясный",
+      "voiceKey": "words_7_7057"
+    },
+    {
+      "id": 158,
+      "wordId": 7058,
+      "arabic": "يَصْفُو",
+      "english": "Clean, clear",
+      "russian": "Чистится, очищается",
+      "voiceKey": "words_7_7058"
+    },
+    {
+      "id": 159,
+      "wordId": 7059,
+      "arabic": "رَقِيَ",
+      "english": "Went up (past simple)",
+      "russian": "Поднимался",
+      "voiceKey": "words_7_7059"
+    },
+    {
+      "id": 160,
+      "wordId": 7060,
+      "arabic": "يَرْقَى",
+      "english": "Went up (pres. simple)",
+      "russian": "Поднимается",
+      "voiceKey": "words_7_7060"
+    },
+    {
+      "id": 161,
+      "wordId": 7061,
+      "arabic": "مِرْقَاةٌ",
+      "english": "Step, staircase, elevator",
+      "russian": "Ступень, лестница; лифт",
+      "voiceKey": "words_7_7061"
+    },
+    {
+      "id": 162,
+      "wordId": 7062,
+      "arabic": "مِحْجَنٌ",
+      "english": "Hook (stick with curved handle)",
+      "russian": "Крюк (палка с изогнутой ручкой)",
+      "voiceKey": "words_7_7062"
+    },
+    {
+      "id": 163,
+      "wordId": 7063,
+      "arabic": "حَجَنَ",
+      "english": "Bent",
+      "russian": "Сгибал, гнул",
+      "voiceKey": "words_7_7063"
+    },
+    {
+      "id": 164,
+      "wordId": 7064,
+      "arabic": "يَحْجِنُ",
+      "english": "Bends",
+      "russian": "Сгибает, гнёт",
+      "voiceKey": "words_7_7064"
+    },
+    {
+      "id": 165,
+      "wordId": 7065,
+      "arabic": "مِخْلَبٌ",
+      "english": "Paw (with claws), claw",
+      "russian": "Лапа (с когтями); коготь",
+      "voiceKey": "words_7_7065"
+    },
+    {
+      "id": 166,
+      "wordId": 7066,
+      "arabic": "خَلَبَ",
+      "english": "Grabbed by claws",
+      "russian": "Схватил когтями",
+      "voiceKey": "words_7_7066"
+    },
+    {
+      "id": 167,
+      "wordId": 7067,
+      "arabic": "يَخْلِبُ",
+      "english": "Grabs with claws",
+      "russian": "Схватывает когтями",
+      "voiceKey": "words_7_7067"
+    },
+    {
+      "id": 168,
+      "wordId": 7068,
+      "arabic": "مِبْرَاةٌ",
+      "english": "Penknife",
+      "russian": "Перочинный нож",
+      "voiceKey": "words_7_7068"
+    }
+  ],
+  "8": [
+    {
+      "id": 302,
+      "wordId": 8001,
+      "arabic": "حِبْرٌ",
+      "english": "Ink",
+      "russian": "Чернила",
+      "voiceKey": "words_8_8001"
+    },
+    {
+      "id": 303,
+      "wordId": 8002,
+      "arabic": "كِيسٌ",
+      "english": "Bag, package",
+      "russian": "Мешок, сумка, пакет",
+      "voiceKey": "words_8_8002"
+    },
+    {
+      "id": 304,
+      "wordId": 8003,
+      "arabic": "مُشْتَرٍ",
+      "english": "Buyer",
+      "russian": "Покупатель",
+      "voiceKey": "words_8_8003"
+    },
+    {
+      "id": 305,
+      "wordId": 8004,
+      "arabic": "سَلَّمَ",
+      "english": "Delivered",
+      "russian": "Передавал, вручал",
+      "voiceKey": "words_8_8004"
+    },
+    {
+      "id": 306,
+      "wordId": 8005,
+      "arabic": "يُسَلِّمُ",
+      "english": "Delivers",
+      "russian": "Передаёт, вручает",
+      "voiceKey": "words_8_8005"
+    },
+    {
+      "id": 307,
+      "wordId": 8006,
+      "arabic": "قِيمَةٌ",
+      "english": "Cost",
+      "russian": "Стоимость",
+      "voiceKey": "words_8_8006"
+    },
+    {
+      "id": 308,
+      "wordId": 8007,
+      "arabic": "حَوَى",
+      "english": "Contained in himself",
+      "russian": "Содержал в себе",
+      "voiceKey": "words_8_8007"
+    },
+    {
+      "id": 309,
+      "wordId": 8008,
+      "arabic": "يَحْوِي",
+      "english": "Contains in himself",
+      "russian": "Содержит в себе",
+      "voiceKey": "words_8_8008"
+    },
+    {
+      "id": 310,
+      "wordId": 8009,
+      "arabic": "نَفِدَ",
+      "english": "Dried up",
+      "russian": "Иссякал",
+      "voiceKey": "words_8_8009"
+    },
+    {
+      "id": 311,
+      "wordId": 8010,
+      "arabic": "يَنْفَدُ",
+      "english": "Dries up",
+      "russian": "Иссякает",
+      "voiceKey": "words_8_8010"
+    },
+    {
+      "id": 312,
+      "wordId": 8011,
+      "arabic": "بَاقٍ",
+      "english": "Lagged behind",
+      "russian": "Остающийся",
+      "voiceKey": "words_8_8011"
+    },
+    {
+      "id": 313,
+      "wordId": 8012,
+      "arabic": "اِكْتَسَبَ",
+      "english": "Get, acquire",
+      "russian": "Добывать, приобретать",
+      "voiceKey": "words_8_8012"
+    },
+    {
+      "id": 314,
+      "wordId": 8013,
+      "arabic": "أَعَدَّ",
+      "english": "Cook",
+      "russian": "Готовить, приготовлять",
+      "voiceKey": "words_8_8013"
+    },
+    {
+      "id": 315,
+      "wordId": 8014,
+      "arabic": "صَدَقَةٌ",
+      "english": "Almsgiving",
+      "russian": "Милостыня",
+      "voiceKey": "words_8_8014"
+    },
+    {
+      "id": 316,
+      "wordId": 8015,
+      "arabic": "اِنْقَلَبَ",
+      "english": "To be inverted, tip over",
+      "russian": "Быть перевернутым, опрокидываться",
+      "voiceKey": "words_8_8015"
+    },
+    {
+      "id": 317,
+      "wordId": 8016,
+      "arabic": "أَعْمَى",
+      "english": "Blind",
+      "russian": "Слепой",
+      "voiceKey": "words_8_8016"
+    },
+    {
+      "id": 318,
+      "wordId": 8017,
+      "arabic": "مَقْصُودٌ",
+      "english": "Desired",
+      "russian": "Желанный",
+      "voiceKey": "words_8_8017"
+    },
+    {
+      "id": 319,
+      "wordId": 8018,
+      "arabic": "قلمُ رَصَاصٍ",
+      "english": "Pencil",
+      "russian": "Карандаш",
+      "voiceKey": "words_8_8018"
+    }
+  ],
+  "9": [
+    {
+      "id": 401,
+      "wordId": 9001,
+      "arabic": "مُصَابٌ",
+      "english": "Sick",
+      "russian": "Больной",
+      "voiceKey": "words_9_9001"
+    },
+    {
+      "id": 402,
+      "wordId": 9002,
+      "arabic": "اِجْتِمَاعٌ",
+      "english": "Meeting",
+      "russian": "Собрание",
+      "voiceKey": "words_9_9002"
+    },
+    {
+      "id": 403,
+      "wordId": 9003,
+      "arabic": "اِنْصِرَافٌ",
+      "english": "Care, departure",
+      "russian": "Уход, отход",
+      "voiceKey": "words_9_9003"
+    },
+    {
+      "id": 404,
+      "wordId": 9004,
+      "arabic": "مَقَالٌ",
+      "english": "Article",
+      "russian": "Статья",
+      "voiceKey": "words_9_9004"
+    },
+    {
+      "id": 405,
+      "wordId": 9005,
+      "arabic": "سَحَبَ",
+      "english": "Withdrew (candidacy)",
+      "russian": "Снимал (кандидатуру)",
+      "voiceKey": "words_9_9005"
+    },
+    {
+      "id": 406,
+      "wordId": 9006,
+      "arabic": "يَسْحَبُ",
+      "english": "Withdraws (candidate)",
+      "russian": "Снимает (кандидатуру)",
+      "voiceKey": "words_9_9006"
+    },
+    {
+      "id": 407,
+      "wordId": 9007,
+      "arabic": "مَبْلَغٌ",
+      "english": "Amount, size",
+      "russian": "Сумма, размер",
+      "voiceKey": "words_9_9007"
+    },
+    {
+      "id": 408,
+      "wordId": 9008,
+      "arabic": "مَبَالِغُ",
+      "english": "Amounts, sizes",
+      "russian": "Суммы, размеры",
+      "voiceKey": "words_9_9008"
+    },
+    {
+      "id": 409,
+      "wordId": 9009,
+      "arabic": "كَفَى",
+      "english": "Was enough",
+      "russian": "Был достаточным",
+      "voiceKey": "words_9_9009"
+    },
+    {
+      "id": 410,
+      "wordId": 9010,
+      "arabic": "يَكْفِي",
+      "english": "Enough",
+      "russian": "Достаточный",
+      "voiceKey": "words_9_9010"
+    },
+    {
+      "id": 411,
+      "wordId": 9011,
+      "arabic": "جَلِيلٌ",
+      "english": "Respected",
+      "russian": "Уважаемый",
+      "voiceKey": "words_9_9011"
+    },
+    {
+      "id": 412,
+      "wordId": 9012,
+      "arabic": "ضَاعَ",
+      "english": "Lost (past simple)",
+      "russian": "Пропадал, терялся",
+      "voiceKey": "words_9_9012"
+    },
+    {
+      "id": 413,
+      "wordId": 9013,
+      "arabic": "يَضِيعُ",
+      "english": "Lost (pres. simple)",
+      "russian": "Пропадает, теряется",
+      "voiceKey": "words_9_9013"
+    },
+    {
+      "id": 414,
+      "wordId": 9014,
+      "arabic": "النِّمْسَا",
+      "english": "Austria",
+      "russian": "Австрия",
+      "voiceKey": "words_9_9014"
+    },
+    {
+      "id": 415,
+      "wordId": 9015,
+      "arabic": "عُمْلَةٌ",
+      "english": "Money, currency",
+      "russian": "Деньги, валюта",
+      "voiceKey": "words_9_9015"
+    },
+    {
+      "id": 416,
+      "wordId": 9016,
+      "arabic": "بُرْهَانٌ",
+      "english": "Proof, argument",
+      "russian": "Доказательство, довод",
+      "voiceKey": "words_9_9016"
+    },
+    {
+      "id": 417,
+      "wordId": 9017,
+      "arabic": "نَعْلٌ",
+      "english": "Sole (shoe), sandal, shoes",
+      "russian": "Подошва (обуви), сандалия, обувь",
+      "voiceKey": "words_9_9017"
+    },
+    {
+      "id": 418,
+      "wordId": 9018,
+      "arabic": "فُسْحَةٌ",
+      "english": "A change",
+      "russian": "Перемена",
+      "voiceKey": "words_9_9018"
+    },
+    {
+      "id": 419,
+      "wordId": 9019,
+      "arabic": "أَجِيرٌ",
+      "english": "Servant, worker",
+      "russian": "Слуга, работник",
+      "voiceKey": "words_9_9019"
+    },
+    {
+      "id": 420,
+      "wordId": 9020,
+      "arabic": "أُجَرَاءُ",
+      "english": "Servants, workers",
+      "russian": "Слуги, работники",
+      "voiceKey": "words_9_9020"
+    },
+    {
+      "id": 421,
+      "wordId": 9021,
+      "arabic": "أَخَوَانِ",
+      "english": "Two brothers",
+      "russian": "Два брата",
+      "voiceKey": "words_9_9021"
+    },
+    {
+      "id": 422,
+      "wordId": 9022,
+      "arabic": "أَخَوَايَ",
+      "english": "My two brothers",
+      "russian": "Два моих брата",
+      "voiceKey": "words_9_9022"
+    },
+    {
+      "id": 423,
+      "wordId": 9023,
+      "arabic": "أُخْتَانِ",
+      "english": "Two sisters",
+      "russian": "Две сестры",
+      "voiceKey": "words_9_9023"
+    },
+    {
+      "id": 424,
+      "wordId": 9024,
+      "arabic": "أُخْتَايَ",
+      "english": "My two sisters",
+      "russian": "Две моих сестры",
+      "voiceKey": "words_9_9024"
+    },
+    {
+      "id": 425,
+      "wordId": 9025,
+      "arabic": "أبَوَانِ",
+      "english": "Two parents",
+      "russian": "Два родителя",
+      "voiceKey": "words_9_9025"
+    },
+    {
+      "id": 426,
+      "wordId": 9026,
+      "arabic": "أبَوَايَ",
+      "english": "My two parents",
+      "russian": "Два моих родителей",
+      "voiceKey": "words_9_9026"
+    },
+    {
+      "id": 427,
+      "wordId": 9027,
+      "arabic": "صَدِيقَانِ",
+      "english": "Two friends",
+      "russian": "Два друга",
+      "voiceKey": "words_9_9027"
+    },
+    {
+      "id": 428,
+      "wordId": 9028,
+      "arabic": "صَدِيقَايَ",
+      "english": "My two friends",
+      "russian": "Два моих друга",
+      "voiceKey": "words_9_9028"
+    },
+    {
+      "id": 429,
+      "wordId": 9029,
+      "arabic": "زَمِيلاَنِ",
+      "english": "Two colleagues",
+      "russian": "Два коллеги",
+      "voiceKey": "words_9_9029"
+    },
+    {
+      "id": 430,
+      "wordId": 9030,
+      "arabic": "زَمِيلاَيَ",
+      "english": "Two of my colleagues",
+      "russian": "Два моих коллега",
+      "voiceKey": "words_9_9030"
+    },
+    {
+      "id": 431,
+      "wordId": 9031,
+      "arabic": "يَدَانِ",
+      "english": "Two hands",
+      "russian": "Две руки",
+      "voiceKey": "words_9_9031"
+    },
+    {
+      "id": 432,
+      "wordId": 9032,
+      "arabic": "يَدَايَ",
+      "english": "My two hands",
+      "russian": "Две мои руки",
+      "voiceKey": "words_9_9032"
+    },
+    {
+      "id": 433,
+      "wordId": 9033,
+      "arabic": "عَينَانِ",
+      "english": "Two eyes",
+      "russian": "Два глаза",
+      "voiceKey": "words_9_9033"
+    },
+    {
+      "id": 434,
+      "wordId": 9034,
+      "arabic": "عَينَايَ",
+      "english": "My two eyes",
+      "russian": "Два моих глаза",
+      "voiceKey": "words_9_9034"
+    }
+  ],
+  "10": [
+    {
+      "id": 562,
+      "wordId": 10001,
+      "arabic": "سَئِمَ",
+      "english": "To experience boredom",
+      "russian": "Испытывать скуку",
+      "voiceKey": "words_10_10001"
+    },
+    {
+      "id": 563,
+      "wordId": 10002,
+      "arabic": "اِنْتِظَارٌ",
+      "english": "Expectation",
+      "russian": "Ожидание",
+      "voiceKey": "words_10_10002"
+    },
+    {
+      "id": 564,
+      "wordId": 10003,
+      "arabic": "طَفِقَ",
+      "english": "Started(1)",
+      "russian": "Начинал(1)",
+      "voiceKey": "words_10_10003"
+    },
+    {
+      "id": 565,
+      "wordId": 10004,
+      "arabic": "يَطْفَقُ",
+      "english": "Starts(1)",
+      "russian": "Начинает(1)",
+      "voiceKey": "words_10_10004"
+    },
+    {
+      "id": 566,
+      "wordId": 10005,
+      "arabic": "تَحَرَّكَ",
+      "english": "Moved, came in motion",
+      "russian": "Двигался, приходил в движении",
+      "voiceKey": "words_10_10005"
+    },
+    {
+      "id": 567,
+      "wordId": 10006,
+      "arabic": "يَتَحَرَّكُ",
+      "english": "Moves, gets in motion",
+      "russian": "Двигается, приходит в движение",
+      "voiceKey": "words_10_10006"
+    },
+    {
+      "id": 568,
+      "wordId": 10007,
+      "arabic": "عَبِثَ",
+      "english": "Played (than ب)",
+      "russian": "Играл (чем ب )",
+      "voiceKey": "words_10_10007"
+    },
+    {
+      "id": 569,
+      "wordId": 10008,
+      "arabic": "يَعْبَثُ",
+      "english": "Plays (than ب)",
+      "russian": "Играет (чем ب )",
+      "voiceKey": "words_10_10008"
+    },
+    {
+      "id": 570,
+      "wordId": 10009,
+      "arabic": "فَجْأَةٌ",
+      "english": "Unexpectedness, suddenness",
+      "russian": "Неожиданность, внезапность",
+      "voiceKey": "words_10_10009"
+    },
+    {
+      "id": 571,
+      "wordId": 10010,
+      "arabic": "مَبْنًى",
+      "english": "The building",
+      "russian": "Здание",
+      "voiceKey": "words_10_10010"
+    },
+    {
+      "id": 572,
+      "wordId": 10011,
+      "arabic": "صَرِيحٌ",
+      "english": "Clear, explicit",
+      "russian": "Ясный, явный",
+      "voiceKey": "words_10_10011"
+    },
+    {
+      "id": 573,
+      "wordId": 10012,
+      "arabic": "تَامٌّ",
+      "english": "Complete, whole, complete, finished",
+      "russian": "Полный, целый, совершенный, законченный",
+      "voiceKey": "words_10_10012"
+    },
+    {
+      "id": 574,
+      "wordId": 10013,
+      "arabic": "اِحْتَاجَ",
+      "english": "To need",
+      "russian": "Нуждаться",
+      "voiceKey": "words_10_10013"
+    },
+    {
+      "id": 575,
+      "wordId": 10014,
+      "arabic": "بَقَاءٌ",
+      "english": "Stay, existence",
+      "russian": "Пребывание, существование",
+      "voiceKey": "words_10_10014"
+    },
+    {
+      "id": 576,
+      "wordId": 10015,
+      "arabic": "شَرَعَ",
+      "english": "Started(2)",
+      "russian": "Начинал(2)",
+      "voiceKey": "words_10_10015"
+    },
+    {
+      "id": 577,
+      "wordId": 10016,
+      "arabic": "يَشْرَعُ",
+      "english": "Starts(2)",
+      "russian": "Начинает(2)",
+      "voiceKey": "words_10_10016"
+    },
+    {
+      "id": 578,
+      "wordId": 10017,
+      "arabic": "عَفَا",
+      "english": "Forgave",
+      "russian": "Прощал",
+      "voiceKey": "words_10_10017"
+    },
+    {
+      "id": 579,
+      "wordId": 10018,
+      "arabic": "يَعْفُو",
+      "english": "Forgives",
+      "russian": "Прощает",
+      "voiceKey": "words_10_10018"
+    }
+  ],
+  "11": [
+    {
+      "id": 385,
+      "wordId": 11001,
+      "arabic": "مَغَصٌ",
+      "english": "Colic, sharp pain, abdominal pain",
+      "russian": "Колики, острая резь, боль в животе",
+      "voiceKey": "words_11_11001"
+    },
+    {
+      "id": 386,
+      "wordId": 11002,
+      "arabic": "بِالضَّبْطِ",
+      "english": "Exactly, with precision",
+      "russian": "Точно, с точностью",
+      "voiceKey": "words_11_11002"
+    },
+    {
+      "id": 387,
+      "wordId": 11003,
+      "arabic": "تَحَدَّثَ",
+      "english": "Tell (عن)",
+      "russian": "Рассказывать (عن)",
+      "voiceKey": "words_11_11003"
+    },
+    {
+      "id": 388,
+      "wordId": 11004,
+      "arabic": "تَمَّ",
+      "english": "Finished, completed",
+      "russian": "Закончил, завершился",
+      "voiceKey": "words_11_11004"
+    },
+    {
+      "id": 389,
+      "wordId": 11005,
+      "arabic": "يَتِمُّ",
+      "english": "Finishes, ends",
+      "russian": "Заканчивает, завершается",
+      "voiceKey": "words_11_11005"
+    },
+    {
+      "id": 390,
+      "wordId": 11006,
+      "arabic": "مُشْرِكٌ",
+      "english": "Polytheist",
+      "russian": "Многобожник",
+      "voiceKey": "words_11_11006"
+    },
+    {
+      "id": 391,
+      "wordId": 11007,
+      "arabic": "تَرْتِيبٌ",
+      "english": "Order, location",
+      "russian": "Порядок, расположение",
+      "voiceKey": "words_11_11007"
+    },
+    {
+      "id": 392,
+      "wordId": 11008,
+      "arabic": "مُطَابَقَةٌ",
+      "english": "Conformity",
+      "russian": "Соответствие",
+      "voiceKey": "words_11_11008"
+    },
+    {
+      "id": 393,
+      "wordId": 11009,
+      "arabic": "طَابَقَ",
+      "english": "To match, fit",
+      "russian": "Соответствовать, подходить",
+      "voiceKey": "words_11_11009"
+    },
+    {
+      "id": 394,
+      "wordId": 11010,
+      "arabic": "شَكٌّ",
+      "english": "Doubt",
+      "russian": "Сомнение",
+      "voiceKey": "words_11_11010"
+    },
+    {
+      "id": 395,
+      "wordId": 11011,
+      "arabic": "يُسْرٌ",
+      "english": "Ease",
+      "russian": "Лёгкость",
+      "voiceKey": "words_11_11011"
+    },
+    {
+      "id": 396,
+      "wordId": 11012,
+      "arabic": "جَبَّ",
+      "english": "Cut off (past simple)",
+      "russian": "Отрезал, вырезал",
+      "voiceKey": "words_11_11012"
+    },
+    {
+      "id": 397,
+      "wordId": 11013,
+      "arabic": "يَجُبُّ",
+      "english": "Cuts off (pres. simple)",
+      "russian": "Отрезает, вырезает",
+      "voiceKey": "words_11_11013"
+    },
+    {
+      "id": 398,
+      "wordId": 11014,
+      "arabic": "أَجْنَبِىٌّ",
+      "english": "Foreign",
+      "russian": "Иностранный",
+      "voiceKey": "words_11_11014"
+    },
+    {
+      "id": 399,
+      "wordId": 11015,
+      "arabic": "حَدِيثٌ",
+      "english": "Story",
+      "russian": "Рассказ",
+      "voiceKey": "words_11_11015"
+    },
+    {
+      "id": 400,
+      "wordId": 11016,
+      "arabic": "عَجِيبٌ",
+      "english": "Amazing, wonderful, wonderful",
+      "russian": "Удивительный, замечательный, чудесный",
+      "voiceKey": "words_11_11016"
+    }
+  ],
+  "12": [
+    {
+      "id": 269,
+      "wordId": 12001,
+      "arabic": "رَحَّبَ",
+      "english": "Welcomed",
+      "russian": "Приветствовал",
+      "voiceKey": "words_12_12001"
+    },
+    {
+      "id": 270,
+      "wordId": 12002,
+      "arabic": "يُرَحِّبُ",
+      "english": "Welcomes",
+      "russian": "Приветствует",
+      "voiceKey": "words_12_12002"
+    },
+    {
+      "id": 271,
+      "wordId": 12003,
+      "arabic": "أَدَاءٌ",
+      "english": "Performance",
+      "russian": "Выполнение, исполнение",
+      "voiceKey": "words_12_12003"
+    },
+    {
+      "id": 272,
+      "wordId": 12004,
+      "arabic": "خَالٍ",
+      "english": "Empty",
+      "russian": "Пустой",
+      "voiceKey": "words_12_12004"
+    },
+    {
+      "id": 273,
+      "wordId": 12005,
+      "arabic": "قَيْدٌ",
+      "english": "Registration",
+      "russian": "Регистрация",
+      "voiceKey": "words_12_12005"
+    },
+    {
+      "id": 274,
+      "wordId": 12006,
+      "arabic": "طَوَى",
+      "english": "Bent",
+      "russian": "Складывал, сгибал",
+      "voiceKey": "words_12_12006"
+    },
+    {
+      "id": 275,
+      "wordId": 12007,
+      "arabic": "يَطْوِي",
+      "english": "Bends",
+      "russian": "Складывает, сгибает",
+      "voiceKey": "words_12_12007"
+    },
+    {
+      "id": 276,
+      "wordId": 12008,
+      "arabic": "ضَرَّ",
+      "english": "Harmed (cause damage)",
+      "russian": "Вредил (приносить ущерб, убыток)",
+      "voiceKey": "words_12_12008"
+    },
+    {
+      "id": 277,
+      "wordId": 12009,
+      "arabic": "يَضُرُّ",
+      "english": "Harm (causing damage)",
+      "russian": "Вредит (приносить ущерб, убыток)",
+      "voiceKey": "words_12_12009"
+    },
+    {
+      "id": 278,
+      "wordId": 12010,
+      "arabic": "لامانع",
+      "english": "No objections",
+      "russian": "Возражений нет",
+      "voiceKey": "words_12_12010"
+    },
+    {
+      "id": 279,
+      "wordId": 12011,
+      "arabic": "مَكَثَ",
+      "english": "Was",
+      "russian": "Был, находился",
+      "voiceKey": "words_12_12011"
+    },
+    {
+      "id": 280,
+      "wordId": 12012,
+      "arabic": "يَمكُثُ",
+      "english": "Located (in)",
+      "russian": "Находится",
+      "voiceKey": "words_12_12012"
+    },
+    {
+      "id": 281,
+      "wordId": 12013,
+      "arabic": "كوالالمبور",
+      "english": "Kuala Lumpur (capital of Malaysia)",
+      "russian": "Куала-Лумпур (столица Малайзии)",
+      "voiceKey": "words_12_12013"
+    },
+    {
+      "id": 282,
+      "wordId": 12014,
+      "arabic": "لَبِثَ",
+      "english": "Stayed",
+      "russian": "Оставался",
+      "voiceKey": "words_12_12014"
+    },
+    {
+      "id": 283,
+      "wordId": 12015,
+      "arabic": "يَلْبَثُ",
+      "english": "Stays",
+      "russian": "Остаётся",
+      "voiceKey": "words_12_12015"
+    },
+    {
+      "id": 284,
+      "wordId": 12016,
+      "arabic": "ثَمَّ",
+      "english": "There",
+      "russian": "Там",
+      "voiceKey": "words_12_12016"
+    },
+    {
+      "id": 285,
+      "wordId": 12017,
+      "arabic": "ثَمَّةَ",
+      "english": "There(pl)",
+      "russian": "Там(мн.ч)",
+      "voiceKey": "words_12_12017"
+    },
+    {
+      "id": 286,
+      "wordId": 12018,
+      "arabic": "طُوِيَ قَيْدُهُ",
+      "english": "Was expelled",
+      "russian": "Был исключён",
+      "voiceKey": "words_12_12018"
+    },
+    {
+      "id": 287,
+      "wordId": 12019,
+      "arabic": "ذَاقَ",
+      "english": "Tried",
+      "russian": "Пробовал",
+      "voiceKey": "words_12_12019"
+    },
+    {
+      "id": 288,
+      "wordId": 12020,
+      "arabic": "يَذُوقُ",
+      "english": "Tries",
+      "russian": "Пробует",
+      "voiceKey": "words_12_12020"
+    },
+    {
+      "id": 289,
+      "wordId": 12021,
+      "arabic": "نَابَ",
+      "english": "Replaced, represented",
+      "russian": "Замещал, представлял",
+      "voiceKey": "words_12_12021"
+    },
+    {
+      "id": 290,
+      "wordId": 12022,
+      "arabic": "يَنُوبُ",
+      "english": "Replaces, represents",
+      "russian": "Замещает, представляет",
+      "voiceKey": "words_12_12022"
+    },
+    {
+      "id": 291,
+      "wordId": 12023,
+      "arabic": "لَحْظَةٌ",
+      "english": "Moment",
+      "russian": "Момент",
+      "voiceKey": "words_12_12023"
+    },
+    {
+      "id": 292,
+      "wordId": 12024,
+      "arabic": "إِمتِنَاعٌ",
+      "english": "Abstinence; impossibility",
+      "russian": "Воздержание; невозможность",
+      "voiceKey": "words_12_12024"
+    },
+    {
+      "id": 293,
+      "wordId": 12025,
+      "arabic": "تَقْيِيدٌ",
+      "english": "Binding",
+      "russian": "Связывание",
+      "voiceKey": "words_12_12025"
+    },
+    {
+      "id": 294,
+      "wordId": 12026,
+      "arabic": "مُثْبَتٌ",
+      "english": "Confirmed",
+      "russian": "Подтвержденный",
+      "voiceKey": "words_12_12026"
+    },
+    {
+      "id": 295,
+      "wordId": 12027,
+      "arabic": "مَرِضَ",
+      "english": "I was sick",
+      "russian": "Болел",
+      "voiceKey": "words_12_12027"
+    },
+    {
+      "id": 296,
+      "wordId": 12028,
+      "arabic": "يَمْرَضُ",
+      "english": "Sick",
+      "russian": "Болеет",
+      "voiceKey": "words_12_12028"
+    },
+    {
+      "id": 297,
+      "wordId": 12029,
+      "arabic": "فَاسِدٌ",
+      "english": "Spoiled",
+      "russian": "Испортившийся",
+      "voiceKey": "words_12_12029"
+    },
+    {
+      "id": 298,
+      "wordId": 12030,
+      "arabic": "مَنْظَرٌ",
+      "english": "Spectacle",
+      "russian": "Зрелище",
+      "voiceKey": "words_12_12030"
+    },
+    {
+      "id": 299,
+      "wordId": 12031,
+      "arabic": "سَاعَدَ",
+      "english": "To help",
+      "russian": "Помогать",
+      "voiceKey": "words_12_12031"
+    },
+    {
+      "id": 300,
+      "wordId": 12032,
+      "arabic": "فَاتَ",
+      "english": "Gone, slipped away",
+      "russian": "Уходил, ускользал",
+      "voiceKey": "words_12_12032"
+    },
+    {
+      "id": 301,
+      "wordId": 12033,
+      "arabic": "يَفُوتُ",
+      "english": "Goes away, slips away",
+      "russian": "Уходит, ускользает",
+      "voiceKey": "words_12_12033"
+    }
+  ],
+  "13": [
+    {
+      "id": 580,
+      "wordId": 13001,
+      "arabic": "تَطْعِيمٌ",
+      "english": "Vaccination",
+      "russian": "Прививка",
+      "voiceKey": "words_13_13001"
+    },
+    {
+      "id": 581,
+      "wordId": 13002,
+      "arabic": "وَفْدٌ",
+      "english": "Delegation",
+      "russian": "Делегация",
+      "voiceKey": "words_13_13002"
+    },
+    {
+      "id": 582,
+      "wordId": 13003,
+      "arabic": "فَرَاغٌ",
+      "english": "Ending",
+      "russian": "Окончание",
+      "voiceKey": "words_13_13003"
+    },
+    {
+      "id": 583,
+      "wordId": 13004,
+      "arabic": "قُدَامَى",
+      "english": "Old(pl)",
+      "russian": "Старые(мн.ч.)",
+      "voiceKey": "words_13_13004"
+    },
+    {
+      "id": 584,
+      "wordId": 13005,
+      "arabic": "شِمَالٌ",
+      "english": "Left hand",
+      "russian": "Левая рука",
+      "voiceKey": "words_13_13005"
+    },
+    {
+      "id": 585,
+      "wordId": 13006,
+      "arabic": "سَبَّ",
+      "english": "Rugal",
+      "russian": "Ругал",
+      "voiceKey": "words_13_13006"
+    },
+    {
+      "id": 586,
+      "wordId": 13007,
+      "arabic": "يَسُبُّ",
+      "english": "Scolds",
+      "russian": "Ругает",
+      "voiceKey": "words_13_13007"
+    },
+    {
+      "id": 587,
+      "wordId": 13008,
+      "arabic": "قَاعَةٌ",
+      "english": "Hall",
+      "russian": "Зал",
+      "voiceKey": "words_13_13008"
+    },
+    {
+      "id": 588,
+      "wordId": 13009,
+      "arabic": "سَخِرَ",
+      "english": "Mocked",
+      "russian": "Насмехался",
+      "voiceKey": "words_13_13009"
+    },
+    {
+      "id": 589,
+      "wordId": 13010,
+      "arabic": "يَسْخَرُ",
+      "english": "Mocks",
+      "russian": "Насмехается",
+      "voiceKey": "words_13_13010"
+    },
+    {
+      "id": 590,
+      "wordId": 13011,
+      "arabic": "إِعْلاَنٌ",
+      "english": "Ad",
+      "russian": "Объявление",
+      "voiceKey": "words_13_13011"
+    }
+  ],
+  "14": [
+    {
+      "id": 1,
+      "wordId": 14001,
+      "arabic": "مَنْسُوبٌ",
+      "english": "Attributable",
+      "russian": "Приписываемый, относимый",
+      "voiceKey": "words_14_14001"
+    },
+    {
+      "id": 2,
+      "wordId": 14002,
+      "arabic": "نَسَبَ",
+      "english": "Ascribed",
+      "russian": "Приписывал",
+      "voiceKey": "words_14_14002"
+    },
+    {
+      "id": 3,
+      "wordId": 14003,
+      "arabic": "يَنْسِبُ",
+      "english": "Ascribes",
+      "russian": "Приписывает",
+      "voiceKey": "words_14_14003"
+    },
+    {
+      "id": 4,
+      "wordId": 14004,
+      "arabic": "كَعَادَتِهِ",
+      "english": "As Usually",
+      "russian": "Как Обычно",
+      "voiceKey": "words_14_14004"
+    },
+    {
+      "id": 5,
+      "wordId": 14005,
+      "arabic": "عُطَاسٌ",
+      "english": "Sneeze",
+      "russian": "Чиханье",
+      "voiceKey": "words_14_14005"
+    },
+    {
+      "id": 6,
+      "wordId": 14006,
+      "arabic": "عَطَسَ",
+      "english": "Sneezed",
+      "russian": "Чихал",
+      "voiceKey": "words_14_14006"
+    },
+    {
+      "id": 7,
+      "wordId": 14007,
+      "arabic": "يَعْطُسُ",
+      "english": "Sneezes",
+      "russian": "Чихает",
+      "voiceKey": "words_14_14007"
+    },
+    {
+      "id": 8,
+      "wordId": 14008,
+      "arabic": "مُقِيمٌ",
+      "english": "At home",
+      "russian": "Находящийся дома",
+      "voiceKey": "words_14_14008"
+    },
+    {
+      "id": 9,
+      "wordId": 14009,
+      "arabic": "مِرَارًا",
+      "english": "Several times, many times",
+      "russian": "Несколько раз, многократно",
+      "voiceKey": "words_14_14009"
+    },
+    {
+      "id": 10,
+      "wordId": 14010,
+      "arabic": "نِسْبَةٌ",
+      "english": "Attitude",
+      "russian": "Отношение",
+      "voiceKey": "words_14_14010"
+    },
+    {
+      "id": 11,
+      "wordId": 14011,
+      "arabic": "بِالنِّسْبَةِ",
+      "english": "Towards ...",
+      "russian": "По отношению к ...",
+      "voiceKey": "words_14_14011"
+    },
+    {
+      "id": 12,
+      "wordId": 14012,
+      "arabic": "تَضَمَّنَ",
+      "english": "Contain",
+      "russian": "Содержать",
+      "voiceKey": "words_14_14012"
+    },
+    {
+      "id": 13,
+      "wordId": 14013,
+      "arabic": "غَالِبًا",
+      "english": "Most often",
+      "russian": "Чаще всего",
+      "voiceKey": "words_14_14013"
+    },
+    {
+      "id": 14,
+      "wordId": 14014,
+      "arabic": "تَحَوَّلَ",
+      "english": "Change, transform",
+      "russian": "Изменяться, превращаться",
+      "voiceKey": "words_14_14014"
+    },
+    {
+      "id": 15,
+      "wordId": 14015,
+      "arabic": "شَاعِرٌ",
+      "english": "Poet",
+      "russian": "Поэт",
+      "voiceKey": "words_14_14015"
+    },
+    {
+      "id": 16,
+      "wordId": 14016,
+      "arabic": "رَاغِبٌ",
+      "english": "Wishing",
+      "russian": "Желающий",
+      "voiceKey": "words_14_14016"
+    },
+    {
+      "id": 17,
+      "wordId": 14017,
+      "arabic": "قَنِعَ",
+      "english": "Satisfied",
+      "russian": "Удовлетворился",
+      "voiceKey": "words_14_14017"
+    },
+    {
+      "id": 18,
+      "wordId": 14018,
+      "arabic": "يَقْنَعُ",
+      "english": "Satisfies",
+      "russian": "Удовлетворяется",
+      "voiceKey": "words_14_14018"
+    },
+    {
+      "id": 19,
+      "wordId": 14019,
+      "arabic": "اِقْتِرَانٌ",
+      "english": "Compound",
+      "russian": "Соединение",
+      "voiceKey": "words_14_14019"
+    },
+    {
+      "id": 20,
+      "wordId": 14020,
+      "arabic": "إِنَاءٌ",
+      "english": "Vessel, dish",
+      "russian": "Сосуд, блюдо",
+      "voiceKey": "words_14_14020"
+    },
+    {
+      "id": 21,
+      "wordId": 14021,
+      "arabic": "طَاعُونٌ",
+      "english": "Plague",
+      "russian": "Чума",
+      "voiceKey": "words_14_14021"
+    },
+    {
+      "id": 22,
+      "wordId": 14022,
+      "arabic": "نَعَسَ",
+      "english": "Dozing (past simple)",
+      "russian": "Дремал",
+      "voiceKey": "words_14_14022"
+    },
+    {
+      "id": 23,
+      "wordId": 14023,
+      "arabic": "يَنْعَسُ",
+      "english": "Dozing (pres. simple)",
+      "russian": "Дремает",
+      "voiceKey": "words_14_14023"
+    },
+    {
+      "id": 24,
+      "wordId": 14024,
+      "arabic": "جَاوَزَ",
+      "english": "Cross the limit",
+      "russian": "Переступать предел; переходить (от чего либо к чему)",
+      "voiceKey": "words_14_14024"
+    },
+    {
+      "id": 25,
+      "wordId": 14025,
+      "arabic": "مَدْحٌ",
+      "english": "Praise, praise",
+      "russian": "Хвала, похвала",
+      "voiceKey": "words_14_14025"
+    }
+  ],
+  "15": [
+    {
+      "id": 474,
+      "wordId": 15001,
+      "arabic": "فَصَلَ",
+      "english": "Excluded",
+      "russian": "Исключил",
+      "voiceKey": "words_15_15001"
+    },
+    {
+      "id": 475,
+      "wordId": 15002,
+      "arabic": "يَفْصِلُ",
+      "english": "Excludes",
+      "russian": "Исключает",
+      "voiceKey": "words_15_15002"
+    },
+    {
+      "id": 476,
+      "wordId": 15003,
+      "arabic": "لاَئِحَةٌ",
+      "english": "Charter, order",
+      "russian": "Устав, распорядок",
+      "voiceKey": "words_15_15003"
+    },
+    {
+      "id": 477,
+      "wordId": 15004,
+      "arabic": "نَصَّ",
+      "english": "Informed",
+      "russian": "Гласил",
+      "voiceKey": "words_15_15004"
+    },
+    {
+      "id": 478,
+      "wordId": 15005,
+      "arabic": "يَنُصُّ",
+      "english": "Informs",
+      "russian": "Гласит",
+      "voiceKey": "words_15_15005"
+    },
+    {
+      "id": 479,
+      "wordId": 15006,
+      "arabic": "عُذْرٌ",
+      "english": "The serious reason",
+      "russian": "Уважительная причина",
+      "voiceKey": "words_15_15006"
+    },
+    {
+      "id": 480,
+      "wordId": 15007,
+      "arabic": "مَهْمَا",
+      "english": "Whatever",
+      "russian": "Что бы ни, как бы ни",
+      "voiceKey": "words_15_15007"
+    },
+    {
+      "id": 481,
+      "wordId": 15008,
+      "arabic": "أَشْغَلَ",
+      "english": "Distract",
+      "russian": "Отвлекать",
+      "voiceKey": "words_15_15008"
+    },
+    {
+      "id": 482,
+      "wordId": 15009,
+      "arabic": "مُسَابَقَةٌ",
+      "english": "Contest",
+      "russian": "Конкурс",
+      "voiceKey": "words_15_15009"
+    },
+    {
+      "id": 483,
+      "wordId": 15010,
+      "arabic": "سَجَّلَ",
+      "english": "Write down",
+      "russian": "Записывать",
+      "voiceKey": "words_15_15010"
+    },
+    {
+      "id": 484,
+      "wordId": 15011,
+      "arabic": "إِضَافِىٌّ",
+      "english": "Additional",
+      "russian": "Дополнительный",
+      "voiceKey": "words_15_15011"
+    },
+    {
+      "id": 485,
+      "wordId": 15012,
+      "arabic": "أَهَمُّ",
+      "english": "The most important",
+      "russian": "Самый важный",
+      "voiceKey": "words_15_15012"
+    },
+    {
+      "id": 486,
+      "wordId": 15013,
+      "arabic": "لَحِقَ",
+      "english": "Attached",
+      "russian": "Присоединил",
+      "voiceKey": "words_15_15013"
+    },
+    {
+      "id": 487,
+      "wordId": 15014,
+      "arabic": "يَلْحَقُ",
+      "english": "Attaches",
+      "russian": "Присоединяет",
+      "voiceKey": "words_15_15014"
+    },
+    {
+      "id": 488,
+      "wordId": 15015,
+      "arabic": "مَلُومٌ",
+      "english": "Reviled",
+      "russian": "Порицаемый",
+      "voiceKey": "words_15_15015"
+    },
+    {
+      "id": 489,
+      "wordId": 15016,
+      "arabic": "اِسْتَفَادَ",
+      "english": "Benefited (beneficial)",
+      "russian": "Извлекал (пользу)",
+      "voiceKey": "words_15_15016"
+    },
+    {
+      "id": 490,
+      "wordId": 15017,
+      "arabic": "يَسْتَفِيدُ",
+      "english": "Benefit (benefit)",
+      "russian": "Извлекает (пользу)",
+      "voiceKey": "words_15_15017"
+    },
+    {
+      "id": 491,
+      "wordId": 15018,
+      "arabic": "اِشْتَرَكَ",
+      "english": "Participate",
+      "russian": "Принимать участие",
+      "voiceKey": "words_15_15018"
+    }
+  ],
+  "17": [
+    {
+      "id": 26,
+      "wordId": 17001,
+      "arabic": "رَتَّبَ",
+      "english": "Arrange, appoint",
+      "russian": "Приводить в порядок, Назначать",
+      "voiceKey": "words_17_17001"
+    },
+    {
+      "id": 27,
+      "wordId": 17002,
+      "arabic": "سَلَّحَ",
+      "english": "Arm",
+      "russian": "Вооружать",
+      "voiceKey": "words_17_17002"
+    },
+    {
+      "id": 28,
+      "wordId": 17003,
+      "arabic": "عَلَّقَ",
+      "english": "Hang",
+      "russian": "Вешать",
+      "voiceKey": "words_17_17003"
+    },
+    {
+      "id": 29,
+      "wordId": 17004,
+      "arabic": "جَلَّدَ",
+      "english": "Freeze",
+      "russian": "Замораживать",
+      "voiceKey": "words_17_17004"
+    },
+    {
+      "id": 30,
+      "wordId": 17005,
+      "arabic": "لَوَّنَ",
+      "english": "To paint, to paint",
+      "russian": "Красить, окрашивать",
+      "voiceKey": "words_17_17005"
+    },
+    {
+      "id": 31,
+      "wordId": 17006,
+      "arabic": "حَمَّدَ",
+      "english": "To give praise",
+      "russian": "Воздавать хвалу",
+      "voiceKey": "words_17_17006"
+    },
+    {
+      "id": 32,
+      "wordId": 17007,
+      "arabic": "بَيَانٌ",
+      "english": "Clarification",
+      "russian": "Разъяснение",
+      "voiceKey": "words_17_17007"
+    },
+    {
+      "id": 33,
+      "wordId": 17008,
+      "arabic": "خَتَمَ",
+      "english": "Print",
+      "russian": "Печать",
+      "voiceKey": "words_17_17008"
+    },
+    {
+      "id": 34,
+      "wordId": 17009,
+      "arabic": "خَتْمٌ",
+      "english": "Print(pl)",
+      "russian": "Печати",
+      "voiceKey": "words_17_17009"
+    },
+    {
+      "id": 35,
+      "wordId": 17010,
+      "arabic": "أَجَّلَ",
+      "english": "Postpone, transfer",
+      "russian": "Откладывать, переносить",
+      "voiceKey": "words_17_17010"
+    },
+    {
+      "id": 36,
+      "wordId": 17011,
+      "arabic": "خَطِيرٌ",
+      "english": "Serious, significant",
+      "russian": "Серьезный, значительный",
+      "voiceKey": "words_17_17011"
+    },
+    {
+      "id": 37,
+      "wordId": 17012,
+      "arabic": "سَرَطَانٌ",
+      "english": "Cancer",
+      "russian": "Рак",
+      "voiceKey": "words_17_17012"
+    },
+    {
+      "id": 38,
+      "wordId": 17013,
+      "arabic": "سَرَطَانَاتٌ",
+      "english": "Cancers",
+      "russian": "Раки",
+      "voiceKey": "words_17_17013"
+    },
+    {
+      "id": 39,
+      "wordId": 17014,
+      "arabic": "قَوَّي",
+      "english": "Strengthen, reinforce",
+      "russian": "Усиливать, подкреплять",
+      "voiceKey": "words_17_17014"
+    },
+    {
+      "id": 40,
+      "wordId": 17015,
+      "arabic": "آبَ",
+      "english": "Come back",
+      "russian": "Возвращаться",
+      "voiceKey": "words_17_17015"
+    },
+    {
+      "id": 41,
+      "wordId": 17016,
+      "arabic": "اِيَابٌ",
+      "english": "Come back(pl)",
+      "russian": "Возвращались",
+      "voiceKey": "words_17_17016"
+    }
+  ],
+  "18": [
+    {
+      "id": 215,
+      "wordId": 18001,
+      "arabic": "أَصْبَحَ",
+      "english": "Greet the morning, become",
+      "russian": "Встречать утро, становиться",
+      "voiceKey": "words_18_18001"
+    },
+    {
+      "id": 216,
+      "wordId": 18002,
+      "arabic": "أَطْفَأَ",
+      "english": "Extinguish",
+      "russian": "Гасить, выключать",
+      "voiceKey": "words_18_18002"
+    },
+    {
+      "id": 217,
+      "wordId": 18003,
+      "arabic": "حَاجَةٌ",
+      "english": "Need",
+      "russian": "Нужда",
+      "voiceKey": "words_18_18003"
+    },
+    {
+      "id": 218,
+      "wordId": 18004,
+      "arabic": "حَاجَاتٌ",
+      "english": "Need(pl)",
+      "russian": "Нужда(мн.ч)",
+      "voiceKey": "words_18_18004"
+    },
+    {
+      "id": 219,
+      "wordId": 18005,
+      "arabic": "مُشْرِفٌ",
+      "english": "Manager",
+      "russian": "Управляющий",
+      "voiceKey": "words_18_18005"
+    },
+    {
+      "id": 220,
+      "wordId": 18006,
+      "arabic": "ثقَافِيٌّ",
+      "english": "Cultural",
+      "russian": "Культурный",
+      "voiceKey": "words_18_18006"
+    },
+    {
+      "id": 221,
+      "wordId": 18007,
+      "arabic": "نَشَاطٌ",
+      "english": "Activity",
+      "russian": "Деятельность",
+      "voiceKey": "words_18_18007"
+    },
+    {
+      "id": 222,
+      "wordId": 18008,
+      "arabic": "نَشَاطَاتٌ",
+      "english": "Activity(pl)",
+      "russian": "Деятельность(мн.ч)",
+      "voiceKey": "words_18_18008"
+    },
+    {
+      "id": 223,
+      "wordId": 18009,
+      "arabic": "رَدَّ",
+      "english": "Answer, refute",
+      "russian": "Отвечать, опровергать",
+      "voiceKey": "words_18_18009"
+    },
+    {
+      "id": 224,
+      "wordId": 18010,
+      "arabic": "رَدٌّ",
+      "english": "Answer, refute(pl)",
+      "russian": "Отвечать, опровергать(мн.ч)",
+      "voiceKey": "words_18_18010"
+    },
+    {
+      "id": 225,
+      "wordId": 18011,
+      "arabic": "أَغْلَقَ",
+      "english": "Close",
+      "russian": "Закрывать",
+      "voiceKey": "words_18_18011"
+    },
+    {
+      "id": 226,
+      "wordId": 18012,
+      "arabic": "أَسْلَمَ",
+      "english": "Embrace Islam, submit",
+      "russian": "Принимать Ислам, покоряться",
+      "voiceKey": "words_18_18012"
+    },
+    {
+      "id": 227,
+      "wordId": 18013,
+      "arabic": "خَطَابٌ",
+      "english": "Appeal",
+      "russian": "Обращение",
+      "voiceKey": "words_18_18013"
+    },
+    {
+      "id": 228,
+      "wordId": 18014,
+      "arabic": "أُثْنَي",
+      "english": "To praise",
+      "russian": "Хвалить",
+      "voiceKey": "words_18_18014"
+    },
+    {
+      "id": 229,
+      "wordId": 18015,
+      "arabic": "أَعْطَى",
+      "english": "Giving",
+      "russian": "Давать",
+      "voiceKey": "words_18_18015"
+    },
+    {
+      "id": 230,
+      "wordId": 18016,
+      "arabic": "أَعْجَبَ",
+      "english": "Like",
+      "russian": "Нравиться",
+      "voiceKey": "words_18_18016"
+    },
+    {
+      "id": 231,
+      "wordId": 18017,
+      "arabic": "فَرِيدٌ",
+      "english": "The only one, incomparable",
+      "russian": "Единственный, бесподобный",
+      "voiceKey": "words_18_18017"
+    },
+    {
+      "id": 232,
+      "wordId": 18018,
+      "arabic": "أَتَمَّ",
+      "english": "Bring to a conclusion",
+      "russian": "Доводить до конца",
+      "voiceKey": "words_18_18018"
+    },
+    {
+      "id": 233,
+      "wordId": 18019,
+      "arabic": "أَرْسَلَ",
+      "english": "Send",
+      "russian": "Посылать, отправлять",
+      "voiceKey": "words_18_18019"
+    },
+    {
+      "id": 234,
+      "wordId": 18020,
+      "arabic": "فَكَّرَ",
+      "english": "Think",
+      "russian": "Думать",
+      "voiceKey": "words_18_18020"
+    },
+    {
+      "id": 235,
+      "wordId": 18021,
+      "arabic": "أَجَابَ",
+      "english": "Reply",
+      "russian": "Отвечать",
+      "voiceKey": "words_18_18021"
+    },
+    {
+      "id": 236,
+      "wordId": 18022,
+      "arabic": "وَجَّهَ",
+      "english": "To address",
+      "russian": "Адресовать",
+      "voiceKey": "words_18_18022"
+    },
+    {
+      "id": 237,
+      "wordId": 18023,
+      "arabic": "مُسْتَحِيلٌ",
+      "english": "Impossible",
+      "russian": "Невозможный",
+      "voiceKey": "words_18_18023"
+    },
+    {
+      "id": 238,
+      "wordId": 18024,
+      "arabic": "أَظْهَرَ",
+      "english": "Extol",
+      "russian": "Превозносить",
+      "voiceKey": "words_18_18024"
+    },
+    {
+      "id": 239,
+      "wordId": 18025,
+      "arabic": "أَوْشَكَ",
+      "english": "Come closer",
+      "russian": "Приближаться",
+      "voiceKey": "words_18_18025"
+    },
+    {
+      "id": 240,
+      "wordId": 18026,
+      "arabic": "أَخْبَرَ",
+      "english": "Notify",
+      "russian": "Уведомлять",
+      "voiceKey": "words_18_18026"
+    },
+    {
+      "id": 241,
+      "wordId": 18027,
+      "arabic": "أَوْجَبَ",
+      "english": "Oblige",
+      "russian": "Обязывать",
+      "voiceKey": "words_18_18027"
+    },
+    {
+      "id": 242,
+      "wordId": 18028,
+      "arabic": "أَحْرَمَ",
+      "english": "Put on ihram",
+      "russian": "Надевать ихрам",
+      "voiceKey": "words_18_18028"
+    },
+    {
+      "id": 243,
+      "wordId": 18029,
+      "arabic": "أَدَارَ",
+      "english": "Lead",
+      "russian": "Руководить",
+      "voiceKey": "words_18_18029"
+    },
+    {
+      "id": 244,
+      "wordId": 18030,
+      "arabic": "أَكْرَهَ",
+      "english": "Force",
+      "russian": "Принуждать",
+      "voiceKey": "words_18_18030"
+    },
+    {
+      "id": 245,
+      "wordId": 18031,
+      "arabic": "أَعْرَبَ",
+      "english": "To express",
+      "russian": "Выражать",
+      "voiceKey": "words_18_18031"
+    },
+    {
+      "id": 246,
+      "wordId": 18032,
+      "arabic": "أَصَابَ",
+      "english": "Hit, comprehend",
+      "russian": "Поражать, постигать",
+      "voiceKey": "words_18_18032"
+    },
+    {
+      "id": 247,
+      "wordId": 18033,
+      "arabic": "جَانِبٌ",
+      "english": "Side, flank, side",
+      "russian": "Сторона, фланг, бок",
+      "voiceKey": "words_18_18033"
+    },
+    {
+      "id": 248,
+      "wordId": 18034,
+      "arabic": "جَوَانِبُ",
+      "english": "Sides, flanks, sides",
+      "russian": "Стороны, фланги, бока",
+      "voiceKey": "words_18_18034"
+    },
+    {
+      "id": 249,
+      "wordId": 18035,
+      "arabic": "أَلْقَي",
+      "english": "Throw",
+      "russian": "Бросать, метать",
+      "voiceKey": "words_18_18035"
+    },
+    {
+      "id": 250,
+      "wordId": 18036,
+      "arabic": "فِنَاءٌ",
+      "english": "Yard",
+      "russian": "Двор",
+      "voiceKey": "words_18_18036"
+    },
+    {
+      "id": 251,
+      "wordId": 18037,
+      "arabic": "أَفْنِئَةٌ",
+      "english": "Yards",
+      "russian": "Дворы",
+      "voiceKey": "words_18_18037"
+    },
+    {
+      "id": 252,
+      "wordId": 18038,
+      "arabic": "إِمْسَاكٌ",
+      "english": "Constipation",
+      "russian": "Запор",
+      "voiceKey": "words_18_18038"
+    },
+    {
+      "id": 253,
+      "wordId": 18039,
+      "arabic": "رِدَاءٌ",
+      "english": "Cloak",
+      "russian": "Плащ",
+      "voiceKey": "words_18_18039"
+    },
+    {
+      "id": 254,
+      "wordId": 18040,
+      "arabic": "أَرْدِيَةٌ",
+      "english": "Cloaks",
+      "russian": "Плащи",
+      "voiceKey": "words_18_18040"
+    },
+    {
+      "id": 255,
+      "wordId": 18041,
+      "arabic": "آتَى",
+      "english": "To give",
+      "russian": "Давать",
+      "voiceKey": "words_18_18041"
+    },
+    {
+      "id": 256,
+      "wordId": 18042,
+      "arabic": "عَمَرَ",
+      "english": "To stay (long)",
+      "russian": "Пребывать (долго)",
+      "voiceKey": "words_18_18042"
+    },
+    {
+      "id": 257,
+      "wordId": 18043,
+      "arabic": "شَكْلٌ",
+      "english": "Form, view",
+      "russian": "Форма, вид",
+      "voiceKey": "words_18_18043"
+    },
+    {
+      "id": 258,
+      "wordId": 18044,
+      "arabic": "أَشْكَالٌ",
+      "english": "Forms, types",
+      "russian": "Формы, виды",
+      "voiceKey": "words_18_18044"
+    },
+    {
+      "id": 259,
+      "wordId": 18045,
+      "arabic": "أَمَةٌ",
+      "english": "Slave",
+      "russian": "Рабыня",
+      "voiceKey": "words_18_18045"
+    },
+    {
+      "id": 260,
+      "wordId": 18046,
+      "arabic": "آمٌ",
+      "english": "Slaves",
+      "russian": "Рабыни",
+      "voiceKey": "words_18_18046"
+    },
+    {
+      "id": 261,
+      "wordId": 18047,
+      "arabic": "غَدْوَةٌ",
+      "english": "Hike in the morning",
+      "russian": "Поход утром",
+      "voiceKey": "words_18_18047"
+    },
+    {
+      "id": 262,
+      "wordId": 18048,
+      "arabic": "غَدَوَةٌ",
+      "english": "Hike in the morning(pl)",
+      "russian": "Походы утром",
+      "voiceKey": "words_18_18048"
+    },
+    {
+      "id": 263,
+      "wordId": 18049,
+      "arabic": "رَوْحَةٌ",
+      "english": "Evening hike",
+      "russian": "Поход вечером",
+      "voiceKey": "words_18_18049"
+    },
+    {
+      "id": 264,
+      "wordId": 18050,
+      "arabic": "رَوْحَاتٌ",
+      "english": "Evening hikes",
+      "russian": "Походы вечером",
+      "voiceKey": "words_18_18050"
+    },
+    {
+      "id": 265,
+      "wordId": 18051,
+      "arabic": "فُؤَادٌ",
+      "english": "Heart",
+      "russian": "Сердце",
+      "voiceKey": "words_18_18051"
+    },
+    {
+      "id": 266,
+      "wordId": 18052,
+      "arabic": "أَفْئِدَةٌ",
+      "english": "Hearts",
+      "russian": "Сердца(мн.ч)",
+      "voiceKey": "words_18_18052"
+    },
+    {
+      "id": 267,
+      "wordId": 18053,
+      "arabic": "فَارِغٌ",
+      "english": "Empty",
+      "russian": "Пустой",
+      "voiceKey": "words_18_18053"
+    },
+    {
+      "id": 268,
+      "wordId": 18054,
+      "arabic": "فُرَّاغٌ",
+      "english": "Empty(pl)",
+      "russian": "Пустые",
+      "voiceKey": "words_18_18054"
+    }
+  ]
+}

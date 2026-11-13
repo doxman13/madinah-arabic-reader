@@ -14,6 +14,17 @@ interface Env {
   DB?: D1Database;
 }
 
+const CORS_HEADERS = {
+  'Content-Type': 'application/json',
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+  'Access-Control-Allow-Headers': 'Content-Type',
+};
+
+export async function onRequestOptions() {
+  return new Response(null, { headers: CORS_HEADERS });
+}
+
 export async function onRequestGet(context: { request: Request; env: Env }) {
   const { request, env } = context;
   const url = new URL(request.url);
@@ -22,7 +33,7 @@ export async function onRequestGet(context: { request: Request; env: Env }) {
   if (!userKey) {
     return new Response(JSON.stringify({ error: 'Missing userKey query parameter' }), {
       status: 400,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   }
 
@@ -31,7 +42,7 @@ export async function onRequestGet(context: { request: Request; env: Env }) {
       error: 'D1 Database not bound yet. Please bind a D1 database named "DB" in Cloudflare Pages Settings -> Functions.' 
     }), {
       status: 503,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   }
 
@@ -52,7 +63,7 @@ export async function onRequestGet(context: { request: Request; env: Env }) {
     if (!row) {
       return new Response(JSON.stringify({ found: false, progress: null }), {
         status: 200,
-        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+        headers: CORS_HEADERS,
       });
     }
 
@@ -62,12 +73,12 @@ export async function onRequestGet(context: { request: Request; env: Env }) {
       updatedAt: row.updated_at 
     }), {
       status: 200,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   } catch (err: any) {
     return new Response(JSON.stringify({ error: err.message || 'Database query error' }), {
       status: 500,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   }
 }
@@ -80,7 +91,7 @@ export async function onRequestPost(context: { request: Request; env: Env }) {
       error: 'D1 Database not bound yet. Please bind a D1 database named "DB" in Cloudflare Pages Settings -> Functions.' 
     }), {
       status: 503,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   }
 
@@ -91,7 +102,7 @@ export async function onRequestPost(context: { request: Request; env: Env }) {
     if (!userKey || !body.data) {
       return new Response(JSON.stringify({ error: 'Missing userKey or data in request body' }), {
         status: 400,
-        headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+        headers: CORS_HEADERS,
       });
     }
 
@@ -120,12 +131,12 @@ export async function onRequestPost(context: { request: Request; env: Env }) {
       updatedAt: new Date().toISOString() 
     }), {
       status: 200,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   } catch (err: any) {
     return new Response(JSON.stringify({ error: err.message || 'Failed to save progress' }), {
       status: 500,
-      headers: { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' },
+      headers: CORS_HEADERS,
     });
   }
 }

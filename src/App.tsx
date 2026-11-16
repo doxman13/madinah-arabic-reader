@@ -119,7 +119,7 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex flex-col font-sans transition-colors">
+    <div className="min-h-screen bg-slate-50 dark:bg-slate-950 flex flex-col font-sans transition-colors overflow-x-clip">
       {/* Sidebar Drawer */}
       <LessonSidebar
         books={ALL_BOOKS}
@@ -133,7 +133,7 @@ export function App() {
       />
 
       {/* Main Content Area */}
-      <div className="flex-1 flex flex-col lg:pl-80 transition-all">
+      <div className="flex-1 flex flex-col lg:pl-72 xl:pl-80 min-w-0 w-full transition-all">
         {/* Navigation & Controls Header */}
         <Header
           currentBookId={currentBookId}
@@ -166,7 +166,7 @@ export function App() {
         />
 
         {/* Tab View */}
-        <main className="flex-1">
+        <main className="flex-1 min-w-0 w-full">
           {activeTab === 'dialogue' && (
             <DialogueView
               dialogues={currentDialogues}
@@ -230,27 +230,30 @@ export function App() {
         </main>
 
         {/* Floating Lesson Footer Navigator */}
-        <footer className="fixed bottom-0 left-0 right-0 lg:left-80 z-20 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 p-3">
-          <div className="max-w-4xl mx-auto flex items-center justify-between gap-3 text-xs">
+        <footer className="fixed bottom-0 left-0 right-0 lg:left-72 xl:left-80 z-20 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md border-t border-slate-200 dark:border-slate-800 px-3 pt-2.5 pb-[max(0.625rem,env(safe-area-inset-bottom))] mobile-landscape-unstick">
+          <div className="max-w-4xl mx-auto flex items-center justify-between gap-2 sm:gap-3 text-xs">
             <button
               onClick={goToPrevLesson}
               disabled={currentLessonNum <= 1}
-              className="px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-40 disabled:pointer-events-none flex items-center gap-1 font-medium transition-colors text-slate-700 dark:text-slate-300"
+              className="px-3 py-2 sm:py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-40 disabled:pointer-events-none flex items-center gap-1 font-medium transition-colors text-slate-700 dark:text-slate-300 shrink-0"
             >
               <ChevronLeft className="w-4 h-4" />
-              <span>Previous Lesson</span>
+              <span className="hidden sm:inline">Previous Lesson</span>
+              <span className="sm:hidden">Prev</span>
             </button>
 
-            <span className="font-semibold text-slate-600 dark:text-slate-400">
-              Book {currentBookId} • Lesson {currentLessonNum} of {lessons.length}
+            <span className="font-semibold text-slate-600 dark:text-slate-400 text-center truncate min-w-0">
+              <span className="sm:hidden">B{currentBookId} • Lesson {currentLessonNum}/{lessons.length}</span>
+              <span className="hidden sm:inline">Book {currentBookId} • Lesson {currentLessonNum} of {lessons.length}</span>
             </span>
 
             <button
               onClick={goToNextLesson}
               disabled={currentLessonNum >= lessons.length}
-              className="px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-40 disabled:pointer-events-none flex items-center gap-1 font-medium transition-colors text-slate-700 dark:text-slate-300"
+              className="px-3 py-2 sm:py-1.5 rounded-xl border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 disabled:opacity-40 disabled:pointer-events-none flex items-center gap-1 font-medium transition-colors text-slate-700 dark:text-slate-300 shrink-0"
             >
-              <span>Next Lesson</span>
+              <span className="hidden sm:inline">Next Lesson</span>
+              <span className="sm:hidden">Next</span>
               <ChevronRight className="w-4 h-4" />
             </button>
           </div>

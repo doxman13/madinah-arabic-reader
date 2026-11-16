@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { DialogueItem, VoiceGender } from '../types';
-import { Play, Pause, Volume2, RotateCcw, Check, Sparkles, Eye, EyeOff } from 'lucide-react';
+import { Play, Pause, Volume2, Sparkles, Eye } from 'lucide-react';
 import { removeTashkeel } from '../utils/arabic';
 
 interface DialogueViewProps {
@@ -87,9 +87,9 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
   }
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-6 space-y-4 pb-28">
+    <div className="max-w-4xl mx-auto px-3 sm:px-4 py-4 sm:py-6 space-y-3.5 sm:space-y-4 pb-24 sm:pb-28">
       {/* Continuous Play Banner */}
-      <div className="bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-transparent border border-emerald-500/20 rounded-2xl p-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
+      <div className="bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-transparent border border-emerald-500/20 rounded-2xl p-3.5 sm:p-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3">
         <div>
           <h2 className="text-sm font-bold text-slate-900 dark:text-white flex items-center gap-1.5">
             <Sparkles className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
@@ -99,7 +99,7 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
             {dialogues.length} conversational sentences with native audio. Tap any line or listen all.
           </p>
         </div>
-        <div className="flex items-center gap-2 flex-wrap">
+        <div className="flex items-center justify-between sm:justify-end gap-2 flex-wrap w-full sm:w-auto">
           {/* Tashkeel Pill */}
           <div className="flex items-center rounded-xl p-0.5 bg-white/80 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-xs shadow-2xs">
             <button
@@ -126,7 +126,7 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
 
           <button
             onClick={handleToggleContinuous}
-            className={`px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-xs ${
+            className={`px-3.5 sm:px-4 py-2 rounded-xl text-xs font-semibold flex items-center gap-2 transition-all shadow-xs ${
               continuousPlay
                 ? 'bg-amber-600 hover:bg-amber-700 text-white animate-pulse'
                 : 'bg-emerald-600 hover:bg-emerald-700 text-white'
@@ -149,16 +149,17 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
             <div
               key={item.id}
               ref={isItemActive || isCurrentInSequence ? activeCardRef : null}
-              className={`group rounded-2xl p-4 transition-all duration-200 border ${
+              className={`group rounded-2xl p-3.5 sm:p-4 transition-all duration-200 border ${
                 isItemActive || isCurrentInSequence
                   ? 'bg-emerald-50/90 dark:bg-emerald-950/40 border-emerald-500/60 shadow-md ring-2 ring-emerald-500/20'
                   : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 shadow-xs'
               }`}
             >
-              <div className="flex items-start justify-between gap-4">
+              <div className="flex items-start justify-between gap-3 sm:gap-4">
                 {/* Play Button */}
                 <button
                   onClick={() => onPlayAudio(item.voiceKey)}
+                  aria-label={`Listen to dialogue line ${idx + 1}`}
                   className={`w-10 h-10 rounded-xl flex items-center justify-center shrink-0 transition-all ${
                     isItemActive
                       ? 'bg-emerald-600 text-white shadow-md scale-105'
@@ -174,9 +175,9 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
                 </button>
 
                 {/* Arabic Text (Right to Left) */}
-                <div className="flex-1 text-right" dir="rtl">
+                <div className="flex-1 min-w-0 text-right" dir="rtl">
                   <div
-                    className="font-arabic font-normal text-slate-900 dark:text-slate-100 tracking-wide select-text leading-relaxed"
+                    className="font-arabic font-normal text-slate-900 dark:text-slate-100 tracking-wide select-text leading-relaxed break-words"
                     style={{ fontSize: `${arabicSize}px` }}
                   >
                     {showTashkeel ? item.arabic : removeTashkeel(item.arabic)}
@@ -185,22 +186,22 @@ export const DialogueView: React.FC<DialogueViewProps> = ({
               </div>
 
               {/* Translation line */}
-              <div className="mt-2 pt-2 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between text-xs">
-                <div className="text-slate-600 dark:text-slate-400 font-medium">
+              <div className="mt-2 pt-2 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between gap-2 text-xs">
+                <div className="text-slate-600 dark:text-slate-400 font-medium min-w-0">
                   {isRevealed ? (
-                    <span className="animate-fade-in">{item.english}</span>
+                    <span className="animate-fade-in break-words">{item.english}</span>
                   ) : (
                     <button
                       onClick={() => toggleReveal(item.id)}
-                      className="text-amber-600 dark:text-amber-400 hover:underline flex items-center gap-1 cursor-pointer"
+                      className="text-amber-600 dark:text-amber-400 hover:underline flex items-center gap-1 cursor-pointer py-1"
                     >
-                      <Eye className="w-3.5 h-3.5" />
-                      Tap to reveal English translation
+                      <Eye className="w-3.5 h-3.5 shrink-0" />
+                      <span>Tap to reveal English translation</span>
                     </button>
                   )}
                 </div>
                 
-                <span className="text-[10px] text-slate-400 dark:text-slate-600 font-mono">
+                <span className="text-[10px] text-slate-400 dark:text-slate-600 font-mono shrink-0">
                   #{idx + 1}
                 </span>
               </div>

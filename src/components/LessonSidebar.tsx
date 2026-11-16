@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { LessonMeta, BookMeta } from '../types';
-import { Search, X, CheckCircle, BookOpen, Layers, Sparkles, FileText } from 'lucide-react';
+import { Search, X } from 'lucide-react';
 
 interface LessonSidebarProps {
   books: BookMeta[];
@@ -44,27 +44,28 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
 
       {/* Sidebar container */}
       <aside
-        className={`fixed top-0 bottom-0 left-0 z-40 w-80 bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col transition-transform duration-300 ease-in-out lg:translate-x-0 ${
+        className={`fixed top-0 bottom-0 left-0 z-40 w-[min(20rem,86vw)] lg:w-72 xl:w-80 bg-white dark:bg-slate-900 border-r border-slate-200 dark:border-slate-800 flex flex-col transition-transform duration-300 ease-in-out lg:translate-x-0 ${
           isOpen ? 'translate-x-0' : '-translate-x-full'
         }`}
       >
         {/* Header */}
         <div className="p-4 border-b border-slate-200 dark:border-slate-800 space-y-3">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2.5">
-              <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center font-bold text-sm shadow-xs">
+          <div className="flex items-center justify-between gap-2">
+            <div className="flex items-center gap-2.5 min-w-0">
+              <div className="w-8 h-8 rounded-lg bg-emerald-600 text-white flex items-center justify-center font-bold text-sm shadow-xs shrink-0">
                 M{currentBookId}
               </div>
-              <div>
-                <div className="text-sm font-bold text-slate-900 dark:text-white">Madinah Arabic</div>
-                <div className="text-xs text-slate-500 dark:text-slate-400">
+              <div className="min-w-0">
+                <div className="text-sm font-bold text-slate-900 dark:text-white truncate">Madinah Arabic</div>
+                <div className="text-xs text-slate-500 dark:text-slate-400 truncate">
                   {currentBook?.title} ({lessons.length} Lessons)
                 </div>
               </div>
             </div>
             <button
               onClick={onClose}
-              className="p-1.5 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 lg:hidden"
+              aria-label="Close lessons menu"
+              className="p-2 -mr-1 rounded-lg text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 lg:hidden shrink-0"
             >
               <X className="w-5 h-5" />
             </button>
@@ -104,7 +105,7 @@ export const LessonSidebar: React.FC<LessonSidebarProps> = ({
         </div>
 
         {/* Lessons List */}
-        <div className="flex-1 overflow-y-auto p-2 space-y-1 scrollbar-thin">
+        <div className="flex-1 overflow-y-auto p-2 pb-[max(1rem,env(safe-area-inset-bottom))] space-y-1 scrollbar-thin">
           {filteredLessons.map((l) => {
             const isSelected = l.lessonNumber === currentLessonNum;
             return (

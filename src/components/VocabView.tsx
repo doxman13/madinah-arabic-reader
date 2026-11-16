@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { VocabItem, VoiceGender } from '../types';
-import { Volume2, Play, Search, Star, Eye, EyeOff } from 'lucide-react';
+import { Volume2, Play, Search, Star, Eye } from 'lucide-react';
 import { removeTashkeel } from '../utils/arabic';
 
 interface VocabViewProps {
@@ -72,20 +72,20 @@ export const VocabView: React.FC<VocabViewProps> = ({
   }
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-6 space-y-4 pb-28">
+    <div className="max-w-4xl mx-auto px-3 sm:px-4 py-4 sm:py-6 space-y-4 pb-24 sm:pb-28">
       {/* Search & Stats Bar */}
       <div className="flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-3 bg-white dark:bg-slate-900 p-3 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-xs">
-        <div className="relative flex-1">
+        <div className="relative flex-1 min-w-0">
           <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" />
           <input
             type="text"
             placeholder="Search Arabic word or English meaning..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full pl-9 pr-3 py-1.5 text-xs rounded-xl bg-slate-100 dark:bg-slate-800 border-none outline-none text-slate-900 dark:text-white"
+            className="w-full pl-9 pr-3 py-2 sm:py-1.5 text-xs rounded-xl bg-slate-100 dark:bg-slate-800 border-none outline-none text-slate-900 dark:text-white"
           />
         </div>
-        <div className="text-xs text-slate-500 dark:text-slate-400 px-2 flex items-center justify-between sm:justify-end gap-3">
+        <div className="text-xs text-slate-500 dark:text-slate-400 px-2 flex items-center justify-between sm:justify-end gap-3 shrink-0">
           <span>{filteredVocab.length} words</span>
           {starredIds.size > 0 && (
             <span className="text-amber-500 flex items-center gap-1">
@@ -106,16 +106,17 @@ export const VocabView: React.FC<VocabViewProps> = ({
           return (
             <div
               key={item.id}
-              className={`rounded-2xl p-4 transition-all duration-200 border flex flex-col justify-between ${
+              className={`rounded-2xl p-3.5 sm:p-4 transition-all duration-200 border flex flex-col justify-between min-w-0 ${
                 isItemActive
                   ? 'bg-emerald-50/90 dark:bg-emerald-950/40 border-emerald-500 shadow-sm'
                   : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 shadow-xs'
               }`}
             >
-              <div className="flex items-start justify-between gap-2 mb-2">
+              <div className="flex items-start justify-between gap-2 mb-2 min-w-0">
                 <button
                   onClick={() => toggleStar(item.id)}
-                  className={`p-1 rounded-lg transition-colors ${
+                  aria-label={isStarred ? 'Unstar word' : 'Star word for review'}
+                  className={`p-1.5 -m-0.5 rounded-lg transition-colors shrink-0 ${
                     isStarred 
                       ? 'text-amber-500 fill-amber-500' 
                       : 'text-slate-300 dark:text-slate-700 hover:text-slate-400'
@@ -127,7 +128,7 @@ export const VocabView: React.FC<VocabViewProps> = ({
 
                 {/* Arabic Word */}
                 <div 
-                  className="font-arabic font-bold text-slate-900 dark:text-white text-right flex-1 select-text"
+                  className="font-arabic font-bold text-slate-900 dark:text-white text-right flex-1 min-w-0 break-words select-text"
                   dir="rtl"
                   style={{ fontSize: `${arabicSize * 0.9}px` }}
                 >
@@ -136,10 +137,10 @@ export const VocabView: React.FC<VocabViewProps> = ({
               </div>
 
               {/* Bottom line: Play audio & English Meaning */}
-              <div className="pt-2 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between gap-2">
+              <div className="pt-2 border-t border-slate-100 dark:border-slate-800/60 flex items-center justify-between gap-2 min-w-0">
                 <button
                   onClick={() => onPlayAudio(item.voiceKey)}
-                  className={`px-3 py-1.5 rounded-xl text-xs font-medium flex items-center gap-1.5 transition-all ${
+                  className={`px-3 py-1.5 rounded-xl text-xs font-medium flex items-center gap-1.5 transition-all shrink-0 ${
                     isItemActive
                       ? 'bg-emerald-600 text-white shadow-xs'
                       : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-emerald-100 dark:hover:bg-emerald-950 hover:text-emerald-700'
@@ -153,13 +154,13 @@ export const VocabView: React.FC<VocabViewProps> = ({
                   <span>Listen</span>
                 </button>
 
-                <div className="text-xs text-right font-medium">
+                <div className="text-xs text-right font-medium min-w-0 break-words">
                   {isRevealed ? (
                     <span className="text-slate-700 dark:text-slate-300">{item.english}</span>
                   ) : (
                     <button
                       onClick={() => toggleReveal(item.id)}
-                      className="text-amber-600 dark:text-amber-400 hover:underline flex items-center gap-1 cursor-pointer"
+                      className="text-amber-600 dark:text-amber-400 hover:underline flex items-center gap-1 cursor-pointer py-1"
                     >
                       <Eye className="w-3 h-3" />
                       Show
